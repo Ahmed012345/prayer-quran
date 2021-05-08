@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cookie"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:background="@color/default_bg_color"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/_16mdp"
+    android:paddingLeft="@dimen/_16mdp"
+    android:paddingRight="@dimen/_16mdp"
+    android:paddingTop="@dimen/_40mdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+                android:id="@+id/iv_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_16mdp"
+                android:layout_marginEnd="@dimen/_16mdp"
+                android:visibility="gone"
+                android:contentDescription="@null"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_18font_mdp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+                android:id="@+id/tv_message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8mdp"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_14font_mdp"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:layout_marginTop="@dimen/_6mdp"
+        android:id="@+id/btn_action"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:text="action"
+        android:textColor="@color/default_action_color"
+        android:textSize="@dimen/_14font_mdp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+</LinearLayout>

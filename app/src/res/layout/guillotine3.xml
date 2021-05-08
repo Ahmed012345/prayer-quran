@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fbfbfb"
+        android:layoutDirection="rtl"
+        android:orientation="vertical"
+        tools:context=".app.main.activitymain.Main3Activity">
+
+    <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar2"
+            style="@style/Toolbar"
+            app:contentInsetStart="@dimen/_1mdp">
+
+        <ImageView
+                android:id="@+id/guillotine_hamburger3"
+                style="@style/ImageView.Hamburger"
+                app:srcCompat="@drawable/ic_menu"
+                tools:ignore="ContentDescription" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+            android:id="@+id/profile_group3"
+            style="@style/LinearLayout.GuillotineItem"
+            android:layout_marginTop="@dimen/_12mdp"
+            tools:ignore="UseCompoundDrawables"
+            android:weightSum="1"
+            android:baselineAligned="false">
+
+        <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".45">
+
+            <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                    android:id="@+id/three"
+                    android:padding="@dimen/_4mdp"
+                    android:layout_width="@dimen/_50mdp"
+                    android:layout_height="@dimen/_50mdp"
+                    android:layout_alignParentEnd="true"
+                    app:fb_borderColor="@color/gray_light"
+                    app:fb_borderWidth="@dimen/_2mdp"
+                    app:fb_defaultColor="@color/bolo"
+                    app:fb_focusColor="@color/black"
+                    app:fb_iconPaddingLeft="0dp"
+                    app:fb_iconPaddingRight="0dp"
+                    app:fb_iconResource="@drawable/prayer"
+                    app:fb_radius="@dimen/_64mdp" />
+        </RelativeLayout>
+        <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_gravity="center_vertical"
+                android:layout_height="@dimen/_50mdp"
+                android:layout_weight=".55">
+
+            <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                    android:id="@+id/three3"
+                    android:padding="@dimen/_8mdp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_24mdp"
+                    app:fb_borderColor="@color/gray_light"
+                    app:fb_borderWidth="@dimen/_2mdp"
+                    app:fb_defaultColor="@color/bolo"
+                    app:fb_focusColor="@color/black"
+                    app:fb_radius="@dimen/_12mdp"
+                    app:fb_text="@string/activity"
+                    app:fb_textColor="#ffffffff"
+                    app:fb_textGravity="center_vertical"
+                    app:fb_textSize="@dimen/_22font_mdp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_12mdp" />
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scroll_view">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/content"
+                android:orientation="vertical">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingBottom="@dimen/_7mdp"
+                    android:paddingLeft="@dimen/_8mdp"
+                    android:paddingRight="@dimen/_8mdp"
+                    android:paddingTop="@dimen/_7mdp"
+                    tools:ignore="UselessParent">
+
+                <LinearLayout
+                        android:id="@+id/hadeth"
+                        android:layout_marginTop="@dimen/_10mdp"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/gray_light"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/bolo"
+                                app:fb_focusColor="@color/black"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h34"
+                                app:fb_textColor="#ffffffff"
+                                app:fb_textGravity="center_vertical"
+                                app:fb_textSize="@dimen/_20font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                        android:id="@+id/hadeth1"
+                        android:layout_below="@+id/hadeth"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal1"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/bolo"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/white"
+                                app:fb_focusColor="#b72653"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h3434"
+                                app:fb_textColor="@color/bolo"
+                                app:fb_textGravity="center"
+                                app:fb_textSize="@dimen/_22font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout
+                        android:id="@+id/hadeth2"
+                        android:layout_below="@+id/hadeth1"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal2"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/bolo"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/white"
+                                app:fb_focusColor="#808080"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h3434i"
+                                app:fb_textColor="@color/bolo"
+                                app:fb_textGravity="center"
+                                app:fb_textSize="@dimen/_22font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout
+                        android:id="@+id/hadeth3"
+                        android:layout_below="@+id/hadeth2"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal3"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/bolo"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/white"
+                                app:fb_focusColor="#4f86f7"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h3434ii"
+                                app:fb_textColor="@color/bolo"
+                                app:fb_textGravity="center"
+                                app:fb_textSize="@dimen/_22font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout
+                        android:id="@+id/hadeth4"
+                        android:layout_below="@+id/hadeth3"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal4"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/bolo"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/white"
+                                app:fb_focusColor="#98777b"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h3434iii"
+                                app:fb_textColor="@color/bolo"
+                                app:fb_textGravity="center"
+                                app:fb_textSize="@dimen/_22font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout
+                        android:id="@+id/hadeth5"
+                        android:layout_below="@+id/hadeth4"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal5"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/bolo"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/white"
+                                app:fb_focusColor="#d2691e"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h3434iiii"
+                                app:fb_textColor="@color/bolo"
+                                app:fb_textGravity="center"
+                                app:fb_textSize="@dimen/_22font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout
+                        android:id="@+id/hadeth6"
+                        android:layout_below="@+id/hadeth5"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal6"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/bolo"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/white"
+                                app:fb_focusColor="#0072bb"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h3434iiiii"
+                                app:fb_textColor="@color/bolo"
+                                app:fb_textGravity="center"
+                                app:fb_textSize="@dimen/_22font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                        android:id="@+id/hadeth7"
+                        android:layout_below="@+id/hadeth6"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal7"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentStart="true"
+                                app:fb_borderColor="@color/gray_light"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/bolo"
+                                app:fb_focusColor="@color/black"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/rwa"
+                                app:fb_textColor="#ffffffff"
+                                app:fb_textGravity="center_vertical"
+                                app:fb_textSize="@dimen/_20font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                        android:id="@+id/hadeth8"
+                        android:layout_below="@+id/hadeth7"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal8"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/gray_light"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/bolo"
+                                app:fb_focusColor="@color/black"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h343434"
+                                app:fb_textColor="#ffffffff"
+                                app:fb_textGravity="center_vertical"
+                                app:fb_textSize="@dimen/_20font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                        android:id="@+id/hadeth9"
+                        android:layout_below="@+id/hadeth8"
+                        android:layout_marginTop="@dimen/_4mdp"
+                        android:layout_marginStart="@dimen/_4mdp"
+                        android:layout_marginEnd="@dimen/_4mdp"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="DisableBaselineAlignment">
+                    <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                        <com.zaker.android.sapeh.app.main.bubble.BubbleLayout
+                                android:id="@+id/kal9"
+                                android:padding="@dimen/_8mdp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                app:fb_borderColor="@color/gray_light"
+                                app:fb_borderWidth="@dimen/_2mdp"
+                                app:fb_defaultColor="@color/bolo"
+                                app:fb_focusColor="@color/black"
+                                app:fb_radius="@dimen/_12mdp"
+                                app:fb_text="@string/h34343434"
+                                app:fb_textColor="#ffffffff"
+                                app:fb_textGravity="center_vertical"
+                                app:fb_textSize="@dimen/_20font_mdp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

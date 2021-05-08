@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:id="@+id/root"
+        android:layoutDirection="rtl"
+        android:orientation="vertical"
+        android:keepScreenOn="true"
+        tools:context=".app.main.activitymain.Main2Activity">
+
+    <View
+            android:layout_marginTop="@dimen/_24mdp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_34mdp"
+            android:background="#4F8E41"
+    />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                app:contentInsetStart="@dimen/_1mdp"
+                style="@style/Toolbar">
+
+            <ImageView
+                    android:id="@+id/content_hamburger2"
+                    style="@style/ImageView.Hamburger"
+                    app:srcCompat="@drawable/ic_menu_90"
+                    tools:ignore="ContentDescription" />
+
+            <com.mursaat.extendedtextview.AnimatedGradientTextView
+                    android:id="@+id/menu1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#1a6f96"
+                    android:text="@string/profile"
+                    android:textSize="@dimen/names2"
+                    app:angle="45"
+                    app:maxFPS="30"
+                    app:colors="@array/funny_colors2"
+                    app:simultaneousColors="5"
+                    app:speed="1500" />
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <ListView
+                  android:id="@+id/mainListView"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:background="@drawable/background_gradient2"
+                  android:clipChildren="false"
+                  android:clipToPadding="false"
+                  android:divider="@android:color/transparent"
+                  android:dividerHeight="@dimen/_10mdp"
+                  android:paddingBottom="@dimen/activity_vertical_margin"
+                  android:paddingLeft="@dimen/activity_horizontal_margin"
+                  android:paddingRight="@dimen/activity_horizontal_margin"
+                  android:paddingTop="@dimen/activity_vertical_margin"
+                  android:scrollbars="none"/>
+
+    </LinearLayout>
+    <RelativeLayout
+            android:layout_gravity="bottom"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_50mdp">
+
+        <com.zaker.android.sapeh.app.main.recordview.RecordView
+                android:id="@+id/record_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_toEndOf="@id/record_button"
+                app:slide_to_cancel_arrow="@drawable/recv_ic_arrow"
+                app:slide_to_cancel_margin_right="@dimen/_30mdp"/>
+
+        <com.zaker.android.sapeh.app.main.recordview.RecordButton
+                android:id="@+id/record_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:background="@drawable/recv_bg_mic"
+                android:scaleType="centerInside"
+                app:mic_icon="@drawable/recv_ic_mic_white" />
+    </RelativeLayout>
+</FrameLayout>

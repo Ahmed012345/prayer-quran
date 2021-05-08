@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/simple_headbig"
+        android:background="@drawable/gradient_blue"
+        android:layoutDirection="rtl"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_15mdp">
+
+    <RelativeLayout
+            android:id="@+id/name_soura"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+            android:id="@+id/firstLine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:text="@string/btn_yes"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/elemenup"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:id="@+id/bsm_allah"
+            android:layout_below="@id/name_soura"
+            android:layout_marginTop="@dimen/_10mdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+            android:id="@+id/line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/b_1"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/bsmla"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:id="@+id/aya"
+            android:layout_below="@id/bsm_allah"
+            android:layout_marginTop="@dimen/_10mdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+            android:id="@+id/secondLine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textAlignment="center"
+            android:text="@string/aaraf"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/ayat"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:layout_below="@id/aya"
+            android:layout_marginBottom="@dimen/_10mdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+                android:id="@+id/firstLineDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:text="@string/quran"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/elemendown"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

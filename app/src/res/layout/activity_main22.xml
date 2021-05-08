@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:id="@+id/root22"
+              android:layoutDirection="rtl"
+              android:orientation="vertical"
+              android:keepScreenOn="true"
+              tools:context=".app.main.activitymain.Main22Activity">
+
+    <View
+            android:layout_marginTop="@dimen/_24mdp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_34mdp"
+            android:background="@color/black"
+    />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                app:contentInsetStart="@dimen/_1mdp"
+                style="@style/Toolbar">
+
+            <ImageView
+                    android:id="@+id/content_hamburger2"
+                    style="@style/ImageView.Hamburger"
+                    app:srcCompat="@drawable/ic_menu_90"
+                    tools:ignore="ContentDescription" />
+
+            <com.mursaat.extendedtextview.AnimatedGradientTextView
+                    android:id="@+id/menu22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:textColor="#EE4035"
+                    android:text="@string/feed"
+                    android:textSize="@dimen/_22font_mdp"
+                    app:angle="45"
+                    app:maxFPS="30"
+                    app:colors="@array/funny_colors22"
+                    app:simultaneousColors="5"
+                    app:speed="1500" />
+        </androidx.appcompat.widget.Toolbar>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            <com.zaker.android.sapeh.app.main.phoenix.PullToRefreshView
+                    android:id="@+id/pull_to_refresh"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                <ListView
+                        android:id="@+id/list_view"
+                        android:divider="@null"
+                        android:dividerHeight="@dimen/_1mdp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+            </com.zaker.android.sapeh.app.main.phoenix.PullToRefreshView>
+
+
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>

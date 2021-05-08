@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/one"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layoutDirection="ltr"
+        android:background="@color/white"
+        tools:context=".app.main.activitymain.Main4Activity">
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/about1"
+        android:textSize="@dimen/_10font_mdp"
+        android:textColor="@color/greyDark" />
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="@color/greyDarkDark"
+        android:textSize="@dimen/_28font_mdp" />
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/about3"
+        android:textSize="@dimen/_11font_mdp"
+        android:textColor="@color/greyDark" />
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_extra_short"
+        android:layout_marginTop="@dimen/margin_extra_short"
+        android:gravity="center"
+        android:text="@string/about4"
+        android:textSize="@dimen/_11font_mdp"
+        android:textColor="@color/greyDark" />
+
+    <include layout="@layout/divider" />
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_standard"
+        android:gravity="center"
+        android:text="@string/about5"
+        android:textSize="@dimen/_16font_mdp"
+        android:textAllCaps="false"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/black_grey"
+        android:textStyle="bold" />
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_extra_short"
+        android:text="@string/about6"
+        android:textSize="@dimen/_10font_mdp"
+        android:textAlignment="viewStart"
+        android:textColor="@color/greyDark" />
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lic8_expanded"
+            app:bg_drawable_regular="@drawable/lic8_regular"
+            app:content_text="@string/lic88"
+            app:content_text_color="@color/white"
+            app:title_text="@string/lic8"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lic2_expanded"
+            app:bg_drawable_regular="@drawable/lic2_regular"
+            app:content_text="@string/lic22"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/lic2"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lic3_expanded"
+            app:bg_drawable_regular="@drawable/lic3_regular"
+            app:content_text="@string/lic33"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/lic3"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lic4_expanded"
+            app:bg_drawable_regular="@drawable/lic4_regular"
+            app:content_text="@string/lic44"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/lic4"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/all_expanded"
+            app:bg_drawable_regular="@drawable/all_regular"
+            app:content_text="@string/allll"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/all"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/fantacy_expanded"
+            app:bg_drawable_regular="@drawable/fantacy_regular"
+            app:content_text="@string/fantacyy"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/fantacy"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lic6_expanded"
+            app:bg_drawable_regular="@drawable/lic6_regular"
+            app:content_text="@string/lic66"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/lic6"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lic7_expanded"
+            app:bg_drawable_regular="@drawable/lic7_regular"
+            app:content_text="@string/lic77"
+            app:content_text_color="@color/white"
+            app:title_text="@string/lic7"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lic10_expanded"
+            app:bg_drawable_regular="@drawable/lic10_regular"
+            app:content_text="@string/lic1010"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/lic10"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc1_expanded"
+            app:bg_drawable_regular="@drawable/licc1_regular"
+            app:content_text="@string/licc11"
+            app:content_text_color="@color/white"
+            app:title_text="@string/licc1"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc4_expanded"
+            app:bg_drawable_regular="@drawable/licc4_regular"
+            app:content_text="@string/licc44"
+            app:content_text_color="@color/white"
+            app:title_text="@string/licc4"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc5_expanded"
+            app:bg_drawable_regular="@drawable/licc5_regular"
+            app:content_text="@string/licc55"
+            app:content_text_color="@color/white"
+            app:title_text="@string/licc5"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc6_expanded"
+            app:bg_drawable_regular="@drawable/licc6_regular"
+            app:content_text="@string/licc66"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/licc6"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc7_expanded"
+            app:bg_drawable_regular="@drawable/licc7_regular"
+            app:content_text="@string/licc77"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/licc7"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc8_expanded"
+            app:bg_drawable_regular="@drawable/licc8_regular"
+            app:content_text="@string/licc88"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/licc8"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc9_expanded"
+            app:bg_drawable_regular="@drawable/licc9_regular"
+            app:content_text="@string/licc99"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/licc9"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc10_expanded"
+            app:bg_drawable_regular="@drawable/licc10_regular"
+            app:content_text="@string/licc1010"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/licc10"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lib2_expanded"
+            app:bg_drawable_regular="@drawable/lib2_regular"
+            app:content_text="@string/lib22"
+            app:content_text_color="@color/white"
+            app:title_text="@string/lib2"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/f_expanded"
+            app:bg_drawable_regular="@drawable/f_regular"
+            app:content_text="@string/ff"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/f"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/folating_expanded"
+            app:bg_drawable_regular="@drawable/folating_regular"
+            app:content_text="@string/folating1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/folating"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/foldingcell_expanded"
+            app:bg_drawable_regular="@drawable/foldingcell_regular"
+            app:content_text="@string/foldingcell1"
+            app:content_text_color="@color/white"
+            app:title_text="@string/foldingcell"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/materialtoast_expanded"
+            app:bg_drawable_regular="@drawable/materialtoast_regular"
+            app:content_text="@string/MaterialToast1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/MaterialToast"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/timber_expanded"
+            app:bg_drawable_regular="@drawable/timber_regular"
+            app:content_text="@string/timber1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/timber"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/wifiutils_expanded"
+            app:bg_drawable_regular="@drawable/wifiutils_regular"
+            app:content_text="@string/WifiUtils1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/WifiUtils"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/shimmerlayout_expanded"
+            app:bg_drawable_regular="@drawable/shimmerlayout_regular"
+            app:content_text="@string/ShimmerLayout1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/ShimmerLayout"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/materialtextfield_expanded"
+            app:bg_drawable_regular="@drawable/materialtextfield_regular"
+            app:content_text="@string/MaterialTextField1"
+            app:content_text_color="@color/white"
+            app:title_text="@string/MaterialTextField"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/cookiebar_expanded"
+            app:bg_drawable_regular="@drawable/cookiebar_regular"
+            app:content_text="@string/CookieBar1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/CookieBar"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/audiorecorder_expanded"
+            app:bg_drawable_regular="@drawable/audiorecorder_regular"
+            app:content_text="@string/AudioRecorder1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/AudioRecorder"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/lib3_expanded"
+            app:bg_drawable_regular="@drawable/lib3_regular"
+            app:content_text="@string/lib33"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/lib3"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/drop_expanded"
+            app:bg_drawable_regular="@drawable/drop_regular"
+            app:content_text="@string/dropdown1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/dropdown"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/sweet_expanded"
+            app:bg_drawable_regular="@drawable/sweet_regular"
+            app:content_text="@string/sweetalert1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/sweetalert"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/fan_expanded"
+            app:bg_drawable_regular="@drawable/fan_regular"
+            app:content_text="@string/fanlayout1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/fanlayout"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc9_expanded"
+            app:bg_drawable_regular="@drawable/licc9_regular"
+            app:content_text="@string/foldingcell1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/expanding"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc9_expanded"
+            app:bg_drawable_regular="@drawable/licc9_regular"
+            app:content_text="@string/Materialish_Progress1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/Materialish_Progress"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc8_expanded"
+            app:bg_drawable_regular="@drawable/licc8_regular"
+            app:content_text="@string/ClickShrinkEffect1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/ClickShrinkEffect"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/licc7_expanded"
+            app:bg_drawable_regular="@drawable/licc7_regular"
+            app:content_text="@string/ColorTextView1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/ColorTextView"
+            app:title_text_color="@color/white"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:bg_drawable_expanded="@drawable/lic7_expanded"
+        app:bg_drawable_regular="@drawable/lic7_regular"
+        app:content_text="@string/LocaleChanger1"
+        app:content_text_color="@color/white"
+        app:title_text="@string/LocaleChanger"
+        android:textSize="@dimen/_10font_mdp"
+        app:title_text_color="@color/white"
+        android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:bg_drawable_expanded="@drawable/lic10_expanded"
+        app:bg_drawable_regular="@drawable/lic10_regular"
+        app:content_text="@string/RubberPicker1"
+        app:content_text_color="@color/white"
+        android:textSize="@dimen/_10font_mdp"
+        app:title_text="@string/RubberPicker"
+        app:title_text_color="@color/white"
+        android:layout_marginTop="@dimen/margin_10"/>
+
+    <com.zaker.android.sapeh.app.main.dropdowntextview.DropdownTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bg_drawable_expanded="@drawable/nineoldandroids_expanded"
+            app:bg_drawable_regular="@drawable/nineoldandroids_regular"
+            app:content_text="@string/NineOldAndroids1"
+            app:content_text_color="@color/white"
+            android:textSize="@dimen/_10font_mdp"
+            app:title_text="@string/NineOldAndroids"
+            app:title_text_color="@color/white"
+            android:layout_marginBottom="@dimen/_10mdp"
+            android:layout_marginTop="@dimen/margin_10"/>
+
+    <include layout="@layout/divider" />
+
+    <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_standard"
+        android:gravity="center"
+        android:textSize="@dimen/_16font_mdp"
+        android:text="@string/tha"
+        android:textAllCaps="false"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/black_grey"
+        android:textStyle="bold" />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="@dimen/_8mdp">
+
+        <RelativeLayout
+                android:id="@+id/threephoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal"
+                tools:ignore="UselessParent">
+
+            <ImageView
+                    android:id="@+id/dimm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    app:srcCompat="@drawable/dimm"
+                    tools:ignore="ContentDescription" />
+
+            <ImageView
+                    android:id="@+id/ic_freepik"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toEndOf="@+id/dimm"
+                    android:layout_marginStart="@dimen/_12mdp"
+                    app:srcCompat="@drawable/ic_flaticon"
+                    tools:ignore="ContentDescription"/>
+
+            <ImageView
+                    android:id="@+id/ic_flaticon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@+id/ic_freepik"
+                    android:layout_marginStart="@dimen/_12mdp"
+                    android:layout_centerVertical="true"
+                    app:srcCompat="@drawable/ic_freepik"
+                    tools:ignore="ContentDescription" />
+
+            <ImageView
+                    android:id="@+id/udacity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@+id/ic_flaticon"
+                    android:layout_marginStart="@dimen/_12mdp"
+                    android:layout_centerVertical="true"
+                    app:srcCompat="@drawable/udacity"
+                    tools:ignore="ContentDescription" />
+
+            <ImageView
+                    android:id="@+id/pngtree"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@+id/udacity"
+                    android:layout_marginStart="@dimen/_12mdp"
+                    app:srcCompat="@drawable/zapsplat"
+                    tools:ignore="ContentDescription" />
+
+            <ImageView
+                    android:id="@+id/zapsplat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@+id/pngtree"
+                    android:layout_marginStart="@dimen/_12mdp"
+                    android:layout_centerVertical="true"
+                    app:srcCompat="@drawable/pngtree"
+                    tools:ignore="ContentDescription" />
+
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
+

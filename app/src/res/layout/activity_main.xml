@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#ffffff"
+        android:keepScreenOn="true"
+        android:layoutDirection="rtl"
+        android:id="@+id/root"
+        tools:context=".app.main.activitymain.MainActivity">
+
+    <View
+            android:layout_marginTop="@dimen/_24mdp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_34mdp"
+            android:background="@color/view"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                app:contentInsetStart="@dimen/_1mdp"
+                style="@style/Toolbar">
+
+            <ImageButton
+                    android:id="@+id/btn_rec"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/shfaf"
+                    android:padding="@dimen/_8mdp"
+                    android:layout_gravity="end"
+                    android:src="@drawable/rec"
+                    tools:ignore="ContentDescription"/>
+
+            <ImageView
+                    android:id="@+id/content_hamburger"
+                    style="@style/ImageView.Hamburger"
+                    app:srcCompat="@drawable/ic_menu_90"
+                    tools:ignore="ContentDescription" />
+
+            <com.mursaat.extendedtextview.AnimatedGradientTextView
+                    android:id="@+id/menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#000000"
+                    android:text="@string/app_name"
+                    android:textSize="@dimen/menu"
+                    app:angle="45"
+                    app:maxFPS="30"
+                    app:colors="@array/funny_colors"
+                    app:simultaneousColors="5"
+                    app:speed="1500" />
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+            <RelativeLayout
+                    android:id="@+id/ll"
+                    android:orientation="vertical"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerInParent="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_above="@+id/ff">
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/animation_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"/>
+            </RelativeLayout>
+
+            <FrameLayout
+                    android:id="@+id/ff"
+                    android:orientation="vertical"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_marginBottom="@dimen/_35mdp"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_57mdp">
+
+                <com.hanks.htextview.scale.ScaleTextView
+                        android:id="@+id/text2"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_57mdp"
+                        android:clickable="true"
+                        android:layout_gravity="bottom"
+                        android:gravity="center"
+                        android:onClick="onClick"
+                        android:padding="@dimen/_7mdp"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textSize="@dimen/_30font_mdp"
+                        android:focusable="true" />
+            </FrameLayout>
+
+            <com.cleveroad.sy.cyclemenuwidget.CycleMenuWidget
+                    android:id="@+id/itemCycleMenuWidget"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    app:cm_autoMaxRadius="@dimen/_220mdp"
+                    app:cm_autoMinRadius="@dimen/_10mdp"
+                    app:cm_corner="left_top"
+                    app:cm_fixedRadius="@dimen/_200mdp"
+                    app:cm_radius_scale_type="fixed"
+                    app:cm_scroll_type="endless"
+                    app:cm_item_background_tint="#ffffff"
+                    app:cm_corner_image_src="@drawable/add"
+                    app:cm_ripple_color="@color/main_green_color"/>
+
+            <com.cleveroad.sy.cyclemenuwidget.CycleMenuWidget
+                android:id="@+id/itemCycleMenuWidget2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                app:cm_autoMaxRadius="@dimen/_110mdp"
+                app:cm_autoMinRadius="@dimen/_10mdp"
+                app:cm_corner="right_top"
+                app:cm_fixedRadius="@dimen/_110mdp"
+                app:cm_radius_scale_type="fixed"
+                app:cm_scroll_type="endless"
+                app:cm_item_background_tint="#ffffff"
+                app:cm_corner_image_src="@drawable/satellite"
+                app:cm_ripple_color="@color/main_blue_color"/>
+
+            <com.nightonke.boommenu.BoomMenuButton
+                    android:id="@+id/bmb"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:bmb_normalColor="@color/bmbnormal"
+                    app:bmb_highlightedColor="@color/bmbhalight"
+                    app:bmb_rippleEffect="true"
+                    app:bmb_draggable="true"
+                    app:bmb_buttonEnum="textOutsideCircle"
+                    app:bmb_piecePlaceEnum="piecePlace_share"
+                    app:bmb_buttonPlaceEnum="buttonPlace_custom"
+                    app:bmb_showMoveEaseEnum="outBounce"
+                    app:bmb_showScaleEaseEnum="outBounce"
+                    app:bmb_showRotateEaseEnum="outBounce"
+                    app:bmb_hideMoveEaseEnum="outBounce"
+                    app:bmb_hideScaleEaseEnum="outBounce"
+                    app:bmb_hideRotateEaseEnum="outBounce"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/_30mdp"
+                    android:layout_marginEnd="@dimen/_15mdp"
+                    android:layout_marginStart="@dimen/_15mdp"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>

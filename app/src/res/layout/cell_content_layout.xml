@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:visibility="gone"
+              tools:context=".app.main.activitymain.Main2Activity">
+
+    <!-- content header line -->
+    <RelativeLayout
+            android:id="@+id/lon_in"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/e1"
+            android:paddingBottom="@dimen/_7mdp"
+            android:paddingLeft="@dimen/_12mdp"
+            android:paddingRight="@dimen/_12mdp"
+            android:paddingTop="@dimen/_7mdp">
+
+        <ImageView
+                android:id="@+id/close1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/ic_arrow_back"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                tools:ignore="ContentDescription"/>
+
+        <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+                android:id="@+id/text1in"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/esm0"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_20font_mdp" />
+
+    </RelativeLayout>
+
+    <!-- content header image -->
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <ImageView
+                android:id="@+id/image_in"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ee1"
+                tools:ignore="ContentDescription"
+                android:adjustViewBounds="true"/>
+
+        <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+                android:id="@+id/numbers_in"
+                style="@style/ContentImageBadgeText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/image_in"
+                android:layout_alignEnd="@id/image_in"
+                android:paddingBottom="@dimen/_10mdp"
+                android:paddingEnd="@dimen/_20mdp"
+                android:text="@string/z1" />
+
+    </RelativeLayout>
+
+    <!-- content body layout -->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bgContent"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/_13mdp"
+        android:paddingTop="@dimen/_9mdp"
+        android:paddingRight="@dimen/_13mdp"
+        android:paddingBottom="@dimen/_6mdp">
+
+        <!-- avatar and name part -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+                android:id="@+id/text1content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginBottom="@dimen/_2mdp"
+                android:text="@string/esm00"
+                android:textAlignment="center"
+                android:textColor="@color/mainTextColor"
+                android:textSize="@dimen/_18font_mdp" />
+
+
+        </RelativeLayout>
+
+        <!-- divider line -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1mdp"
+            android:layout_marginTop="@dimen/_7mdp"
+            android:layout_marginBottom="@dimen/_6mdp"
+            android:src="@color/contentDividerLine"
+            tools:ignore="ContentDescription" />
+
+        <!-- addresses part -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:ignore="UselessParent">
+
+
+                <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+                    android:id="@+id/text2content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/esm0000"
+                    android:textAlignment="center"
+                    android:textColor="@color/mainTextColor"
+                    android:textSize="@dimen/_18font_mdp" />
+
+
+            </RelativeLayout>
+        </LinearLayout>
+
+        <!-- divider line -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1mdp"
+            android:layout_marginTop="@dimen/_7mdp"
+            android:layout_marginBottom="@dimen/_6mdp"
+            android:src="@color/contentDividerLine"
+            tools:ignore="ContentDescription" />
+
+        <!-- dates part -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                tools:ignore="UselessParent">
+
+
+                <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+                    android:id="@+id/text3content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/esm00000"
+                    android:textAlignment="center"
+                    android:textColor="@color/mainTextColor"
+                    android:textSize="@dimen/_18font_mdp" />
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <!-- divider line -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1mdp"
+            android:layout_marginTop="@dimen/_7mdp"
+            android:layout_marginBottom="@dimen/_6mdp"
+            android:src="@color/contentDividerLine"
+            tools:ignore="ContentDescription" />
+
+        <com.zaker.android.sapeh.app.main.activitymain.LightTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/esm000"
+            android:textAlignment="center"
+            android:textColor="@color/contentBadgeTitle"
+            android:textSize="@dimen/_12font_mdp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

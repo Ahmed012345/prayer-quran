@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				  xmlns:tools="http://schemas.android.com/tools"
+				  android:orientation="vertical"
+				  android:layout_width="match_parent"
+				  android:layout_height="match_parent"
+				  android:layoutDirection="ltr"
+				  android:id="@+id/info">
+
+	<LinearLayout
+			android:id="@+id/toolbar"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal">
+
+		<ImageButton
+				android:id="@+id/btn_back"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:contentDescription="@null"
+				android:layout_gravity="start"
+				android:background="?android:selectableItemBackground"
+				android:padding="@dimen/spacing_normal"
+				android:src="@drawable/ic_back"/>
+
+		<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+				style="@style/Text.SectionLabel"
+				android:id="@+id/txt_title"
+				android:layout_width="0dp"
+				android:layout_height="@dimen/toolbar_height"
+				android:layout_weight="1"
+				android:layout_gravity="center_vertical"
+				android:gravity="center_vertical"
+				android:paddingStart="@dimen/spacing_normal"
+				android:paddingLeft="@dimen/spacing_normal"
+				android:paddingEnd="@dimen/spacing_normal"
+				android:paddingRight="@dimen/spacing_normal"
+				android:textColor="@color/text_primary_light"
+				android:text="@string/info"
+				/>
+
+	</LinearLayout>
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/rec_name"
+			android:fontFamily="sans-serif-light"
+			android:textColor="@color/dark_white"
+			android:textSize="@dimen/text_medium"
+			android:layout_marginTop="@dimen/spacing_normal"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			/>
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:id="@+id/txt_name"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="start"
+			android:textColor="@color/text_primary_light"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			android:textSize="@dimen/text_large"
+			tools:text="Record-12"/>
+
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/rec_format"
+			android:fontFamily="sans-serif-light"
+			android:textColor="@color/dark_white"
+			android:textSize="@dimen/text_medium"
+			android:layout_marginTop="@dimen/spacing_normal"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			/>
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:id="@+id/txt_format"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="start"
+			android:textColor="@color/text_primary_light"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			android:textSize="@dimen/text_large"
+			tools:text="Wav"/>
+
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/rec_duration"
+			android:fontFamily="sans-serif-light"
+			android:textColor="@color/dark_white"
+			android:textSize="@dimen/text_medium"
+			android:layout_marginTop="@dimen/spacing_normal"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			/>
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:id="@+id/txt_duration"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="start"
+			android:textColor="@color/text_primary_light"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			android:textSize="@dimen/text_large"
+			tools:text="12:23"/>
+
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/rec_size"
+			android:fontFamily="sans-serif-light"
+			android:textColor="@color/dark_white"
+			android:textSize="@dimen/text_medium"
+			android:layout_marginTop="@dimen/spacing_normal"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			/>
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:id="@+id/txt_size"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="start"
+			android:textColor="@color/text_primary_light"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			android:textSize="@dimen/text_large"
+			tools:text="12.23Mb"/>
+
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/rec_location"
+			android:fontFamily="sans-serif-light"
+			android:textColor="@color/dark_white"
+			android:textSize="@dimen/text_medium"
+			android:layout_marginTop="@dimen/spacing_small"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			/>
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+			android:id="@+id/txt_location"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="start"
+			android:textColor="@color/text_primary_light"
+			android:layout_marginStart="@dimen/spacing_normal"
+			android:layout_marginEnd="@dimen/spacing_normal"
+			android:textSize="@dimen/text_large"
+			tools:text="/emulater/0/sotrage/downloads/Record-12.wav"/>
+
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/rec_created"
+		android:textColor="@color/white"
+		android:textStyle="normal"
+		android:fontFamily="sans-serif-light"
+		android:textSize="@dimen/text_medium"
+		android:layout_marginTop="@dimen/spacing_normal"
+		android:layout_marginStart="@dimen/spacing_normal"
+		android:layout_marginEnd="@dimen/spacing_normal" />
+
+	<com.zaker.android.sapeh.app.main.activitymain.LightTextView
+		android:id="@+id/txt_created"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="start"
+		android:textColor="@color/text_primary_light"
+		android:layout_marginStart="@dimen/spacing_normal"
+		android:layout_marginEnd="@dimen/spacing_normal"
+		android:textSize="@dimen/text_large"
+		tools:text="22.11.2018, 11:30"/>
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

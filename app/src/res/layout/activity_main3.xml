@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/root3"
+        android:layoutDirection="rtl"
+        android:background="@android:color/white"
+        android:soundEffectsEnabled="true"
+        android:keepScreenOn="true"
+        tools:context=".app.main.activitymain.Main3Activity">
+
+    <View
+            android:layout_marginTop="@dimen/_24mdp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_34mdp"
+            android:background="#c74266"
+    />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                app:contentInsetStart="@dimen/_1mdp"
+                style="@style/Toolbar">
+
+            <ImageView
+                    android:id="@+id/content_hamburger3"
+                    style="@style/ImageView.Hamburger"
+                    app:srcCompat="@drawable/ic_menu_90"
+                    tools:ignore="ContentDescription" />
+
+            <com.mursaat.extendedtextview.AnimatedGradientTextView
+                    android:id="@+id/menu3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/bolo"
+                    android:text="@string/activity"
+                    android:textSize="@dimen/_28font_mdp"
+                    app:angle="45"
+                    app:maxFPS="30"
+                    app:colors="@array/funny_colors3"
+                    app:simultaneousColors="5"
+                    app:speed="1500" />
+        </androidx.appcompat.widget.Toolbar>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+
+            <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_140mdp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    app:srcCompat="@drawable/hao"
+                    tools:ignore="ContentDescription" />
+
+
+            <com.zaker.android.sapeh.app.main.MaterialTextField
+                    android:layout_below="@+id/imageView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_120mdp"
+                    android:layout_marginEnd="@dimen/_10mdp"
+                    android:layout_marginStart="@dimen/_10mdp"
+                    android:layout_centerInParent="true"
+                    app:mtf_labelColor="@color/bolo"
+                    app:mtf_image="@drawable/edit"
+                    app:mtf_animationDuration="800"
+                    app:mtf_hasFocus="false">
+
+                <EditText
+                        android:id="@+id/editText"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:hint="@string/zekr"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:textSize="@dimen/_15font_mdp"
+                        tools:ignore="Autofill,TextFields"/>
+
+            </com.zaker.android.sapeh.app.main.MaterialTextField>
+
+            <com.zaker.android.sapeh.app.main.steppertouch.StepperTouch
+                    android:id="@+id/bottomStepperTouch"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/_10mdp"
+                    android:layout_marginTop="@dimen/_2mdp"
+                    android:layout_width="@dimen/_200mdp"
+                    android:layout_height="@dimen/_50mdp"
+                    android:layout_centerInParent="true"
+                    android:clipChildren="true"
+                    android:orientation="horizontal"
+                    app:stepperActionsColor="@color/bolo"
+                    app:stepperActionsDisabledColor="@color/bolo"
+                    app:stepperBackgroundColor="@color/bolo"
+                    app:stepperTextColor="@color/black" />
+
+
+            <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="@dimen/_170mdp"
+                    android:layout_height="@dimen/_170mdp"
+                    android:layout_above="@+id/bottomStepperTouch"
+                    android:layout_centerInParent="true"
+                    app:srcCompat="@drawable/gam"
+                    tools:ignore="ContentDescription" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</FrameLayout>
