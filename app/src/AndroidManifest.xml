@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.zaker.android.sapeh">
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- for Android 6 and above -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- for Android 6 and above -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-feature
+        android:name="android.hardware.screen.portrait"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera2"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="true" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:name=".ARApplication"
+        android:allowBackup="true"
+        android:configChanges="locale|orientation"
+        android:requestLegacyExternalStorage="true"
+        android:hardwareAccelerated="@bool/useHardwareAcceleration"
+        android:icon="@mipmap/ic_kaba1"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_kaba1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.Base">
+
+        <activity
+            android:name=".app.main.activitymain.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.SEND" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".app.main.MainRecActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.records.RecordsActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.settings.SettingsActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.info.ActivityInformation"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.trash.TrashActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+
+        <service android:name=".app.RecordingService" />
+        <service android:name=".app.PlaybackService" />
+        <service android:name=".app.DownloadService" />
+
+        <receiver android:name=".app.RecordingService$StopRecordingReceiver" />
+        <receiver android:name=".app.PlaybackService$StopPlaybackReceiver" />
+        <receiver android:name=".app.DownloadService$StopDownloadReceiver" />
+
+        <provider
+            android:name=".AppFileProvider"
+            android:authorities="${applicationId}.app_file_provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <receiver android:name=".app.main.AlarmReceiver" />
+
+        <activity
+            android:name=".app.main.activitymain.Main2Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/A2"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitymain.Main3Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/fan"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitymain.Main22Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/A22"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitymain.expandingcards.Main5Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/A3"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity1List"
+            android:label="@string/dua_adm"
+            android:screenOrientation="portrait"
+            android:theme="@style/L1"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity2List"
+            android:label="@string/duoa_yosof"
+            android:screenOrientation="portrait"
+            android:theme="@style/L2"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity3List"
+            android:label="@string/doua_ayop"
+            android:screenOrientation="portrait"
+            android:theme="@style/L3"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity4List"
+            android:label="@string/dua_noh"
+            android:screenOrientation="portrait"
+            android:theme="@style/L4"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity5List"
+            android:label="@string/doua_shoaup"
+            android:screenOrientation="portrait"
+            android:theme="@style/L5"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity6List"
+            android:label="@string/duaaebrahem"
+            android:screenOrientation="portrait"
+            android:theme="@style/L6"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity7List"
+            android:label="@string/doua_ebrahemwesmail"
+            android:screenOrientation="portrait"
+            android:theme="@style/L7"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity8List"
+            android:label="@string/doua_mosa"
+            android:screenOrientation="portrait"
+            android:theme="@style/L8"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity9List"
+            android:label="@string/douaa_souliman"
+            android:screenOrientation="portrait"
+            android:theme="@style/L9"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity10List"
+            android:label="@string/douaa_uonos"
+            android:screenOrientation="portrait"
+            android:theme="@style/L10"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity11List"
+            android:label="@string/douaa_eisa"
+            android:screenOrientation="portrait"
+            android:theme="@style/L11"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity12List"
+            android:label="@string/douaa_lot"
+            android:screenOrientation="portrait"
+            android:theme="@style/L12"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity13List"
+            android:label="@string/douaa_zakria"
+            android:screenOrientation="portrait"
+            android:theme="@style/L13"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity14List"
+            android:label="@string/doua_emratemran"
+            android:screenOrientation="portrait"
+            android:theme="@style/L14"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity15List"
+            android:label="@string/doua_almoumen"
+            android:screenOrientation="portrait"
+            android:theme="@style/L15"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity16List"
+            android:label="@string/douaa_altabin"
+            android:screenOrientation="portrait"
+            android:theme="@style/L16"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity17List"
+            android:label="@string/douaa_mlaeka"
+            android:screenOrientation="portrait"
+            android:theme="@style/L17"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity18List"
+            android:label="@string/doua_banyesrail"
+            android:screenOrientation="portrait"
+            android:theme="@style/L18"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity19List"
+            android:label="@string/doua_m2monen"
+            android:screenOrientation="portrait"
+            android:theme="@style/L19"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity20List"
+            android:label="@string/doua_shart"
+            android:screenOrientation="portrait"
+            android:theme="@style/L20"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity21List"
+            android:label="@string/douaa_ansaresa"
+            android:screenOrientation="portrait"
+            android:theme="@style/L21"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity22List"
+            android:label="@string/doua_atbaa"
+            android:screenOrientation="portrait"
+            android:theme="@style/L22"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity23List"
+            android:label="@string/douaa_alftya"
+            android:screenOrientation="portrait"
+            android:theme="@style/L23"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity24List"
+            android:configChanges="locale"
+            android:label="@string/douaa_asia"
+            android:screenOrientation="portrait"
+            android:theme="@style/L24"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity25List"
+            android:label="@string/douaa_ashap"
+            android:screenOrientation="portrait"
+            android:theme="@style/L25"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity26List"
+            android:label="@string/douaa_mostdafin"
+            android:screenOrientation="portrait"
+            android:theme="@style/L26"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity27List"
+            android:label="@string/doua_m2monenn"
+            android:screenOrientation="portrait"
+            android:theme="@style/L27"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity28List"
+            android:label="@string/alfateha"
+            android:screenOrientation="portrait"
+            android:theme="@style/L28"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity29List"
+            android:label="@string/aya_alkorsi"
+            android:screenOrientation="portrait"
+            android:theme="@style/L29"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity30List"
+            android:label="@string/eklass"
+            android:screenOrientation="portrait"
+            android:theme="@style/L30"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity31List"
+            android:label="@string/flk"
+            android:screenOrientation="portrait"
+            android:theme="@style/L31"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity32List"
+            android:label="@string/nas"
+            android:screenOrientation="portrait"
+            android:theme="@style/L32"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity33List"
+            android:label="@string/duoa_nabina"
+            android:screenOrientation="portrait"
+            android:theme="@style/L33"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitylist.Activity34List"
+            android:label="@string/surah21"
+            android:screenOrientation="portrait"
+            android:theme="@style/L34"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.activitymain.Main4Activity"
+            android:label="@string/settings"
+            android:screenOrientation="portrait"
+            android:theme="@style/A4"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".app.main.finestwebview.FinestWebViewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="sensor"
+            android:theme="@style/FinestWebViewTheme.Light" />
+        <activity
+            android:name=".app.main.activitymain.YouMakaTube"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true" />
+        <activity android:name=".app.main.activitymain.YouSounaTube"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="d8e9d75679636fe899ceb76e3551299615fac1f6" />
+
+        <provider
+            android:name=".app.main.easysharedpreferences.EasySharedPreferenceProvider"
+            android:authorities="${applicationId}.com.horaspolice"
+            android:exported="false" />
+    </application>
+
+
+
+</manifest>
