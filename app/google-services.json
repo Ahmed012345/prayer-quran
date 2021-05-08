@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297012102506",
+    "firebase_url": "https://sapeh-90a25.firebaseio.com",
+    "project_id": "sapeh-90a25",
+    "storage_bucket": "sapeh-90a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297012102506:android:400dab6816de3270631113",
+        "android_client_info": {
+          "package_name": "com.zaker.android.sapeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297012102506-7hnb578fvciiqub6dtcgen7tihok9fc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaker.android.sapeh",
+            "certificate_hash": "332b50de84495373606920fe006fe49c959700a0"
+          }
+        },
+        {
+          "client_id": "297012102506-d1gucp0vtkmic2aqfbie3ton6eegtqn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF-lpYy8D16937CThz_vpFy8SDDnQ1MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297012102506-d1gucp0vtkmic2aqfbie3ton6eegtqn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
