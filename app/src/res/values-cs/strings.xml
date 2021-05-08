@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lang">cs</string>
+    <string name="about_contact_us">Napište nám</string>
+    <string name="about_instagram">Sledujte nás na Instagramu</string>
+    <string name="about_facebook">Lajkněte nás na Facebooku</string>
+    <string name="about_play_store">Ohodnoťte nás v Obchodě Play</string>
+    <string name="about_youtube">Sledujte nás na Youtube</string>
+    <string name="about_twitter">Sledujte nás na Twitteru</string>
+    <string name="about_github">Forkni nás na GitHubu</string>
+    <string name="about_website">Navštivte naše webové stránky</string>
+
+    <string name="app_name">Prosba Koránu</string>
+    <string name="menu1">Menu</string>
+    <string name="zekr">Pamatuj na Boha</string>
+    <string name="hamd">Chvála buď Alláhovi</string>
+    <string name="allah_a">Bůh je největší</string>
+    <string name="dawat_alanbyaa">Někteří proroci a spravedliví, jak je uvedeno v Koránu</string>
+    <string name="aaraf">Odpověděli: \"Pane náš, věru jsme sami sobě ukřivdili; jestliže se nad námi neslituješ a neodpustíš nám, budeme věru z těch, jež ztráta postihla.\"</string>
+    <string name="dua_adm">Adam a jeho žena se modlí</string>
+    <string name="dua_noh">Noahova modlitba</string>
+    <string name="surt_hud">A zvolal Noe k Pánu svému a řekl: \"Pane, syn můj zajisté patřil k rodině mé a slib Tvůj je věru pravdivý a Tys ze soudců nejspravedlnější.\"</string>
+    <string name="surt_houd47">Noe odpověděl: \"Pane můj, utíkám se k Tobě, abych se již více netázal na to, o čem vědění nemám. A jestliže mi neodpustíš a neslituješ se nade mnou, budu věru patřit mezi ty, kdož ztrátu utrpěli.\"</string>
+    <string name="surt_moon">I zvolal Noe: \"Pane můj, pomoz mi za to, že za lháře mne pokládají!\"</string>
+    <string name="surt_noh">A pravil Noe: \"Pane můj, neponechávej na zemi žádného obyvatele z nevěřících,</string>
+    <string name="surtmoom">do archy uved\' ze všech druhů po páru a také svou rodinu, kromě toho z ní, o němž již dříve slovo bylo vyřčeno. A nepřimlouvej se u Mne za ty, kdož nespravedliví byli, neboť ti budou utopeni! A až se usadíš ty, a kdož s tebou jsou, v arše, tehdy prones:, Chvála Bohu, jenž zachránil nás před lidem nespravedlivým!?</string>
+    <string name="surtmoom2">A rci dále:, Pane můj, dej mi sestoupit na místě požehnaném, vždyť Tys nejlepší z těch, kdož sestoupit dávají!? \"</string>
+    <string name="surtshoraa117">Řekl: \"Pane, lidé moji mě za lháře prohlásili,</string>
+    <string name="surtshoraa118">rozhodni tedy mezi mnou a jimi rozhodnutím zřetelným a zachraň mne i ty, kdož se mnou uvěřili!\"</string>
+    <string name="surt_nouh1">A pravil Noe: \"Pane můj, neponechávej na zemi žádného obyvatele z nevěřících,</string>
+    <string name="surt_nouh2">vždyť ponecháš-li je, oni dají zbloudit služebníkům Tvým a nezrodí nic, než zase zarputilé nevěřící a hříšníky.</string>
+    <string name="surt_nouh3">Pane můj, odpusť mi a rodičům mým i těm, kdož jako věřící do mého domu vstoupili, a také věřícím mužům a ženám! A nerozmnožuj nespravedlivým nic, leda záhubu jejich!\"</string>
+    <string name="duaaebrahem">Ibrahim modlitba</string>
+    <string name="bkra_126">A hle, pravil Abraham: \"Pane můj, učiň zemi tuto bezpečnou a obdaruj obyvatele její plody - ty z nich, kdož v Boha a v den soudný uvěřili!\" I odvětil Pán: \"Těm pak, kdož neuvěřili, těm krátké užívání poskytnu a potom je do trestu pekelného uvrhnu. Jak hnusný to bude cíl konečný!\"</string>
+    <string name="surt_sfat">\"Pane, dejž mi syna, jenž patřit bude mezi bezúhonné!\"</string>
+    <string name="surt_ebrahem">A hle, pravil Abraham: \"Pane můj, učiň město toto bezpečným a oddal od nás, ode mne i synů mých, model uctívání,</string>
+    <string name="surt_ebrahem1">neboť, Pane můj, ony zbloudit daly již mnohým z lidí. Ten, kdo následovat mne bude, ten bude z mých jedním, však kdo se proti mně postaví… vždyť Tys věru slitovný i odpouštějící,</string>
+    <string name="surt_ebrahem2">Pane můj, usadil jsem část potomstva svého v údolí bez polí obilných poblíže chrámu Tvého posvátného, Pane náš, aby zde modlitbu konali. Učiň, aby srdce lidí se k nim přiblížila, a uštědři jim plody co obživu - snad budou vděční!</string>
+    <string name="surt_ebrahem3">Pane náš, Ty dobře víš, co skrýváme i co najevo dáváme, a nic neskryje se před Bohem ani na nebi, ani na zemi.</string>
+    <string name="surt_ebrahem4">Chvála Bohu, jenž daroval mi přes stáří mé Ismaela a Izáka - a Pán můj věru dobře slyší vzývání.</string>
+    <string name="surt_ebrahem5">Pane můj, učiň, abych dodržoval modlitbu já i potomstvo mé a vyslyš, Pane náš, mé volání!</string>
+    <string name="surt_ebrahem6">Pane náš, odpusť mně i rodičům mým i věřícím v den, kdy nastane zúčtování!\"</string>
+    <string name="surt_ashoara">Pane, daruj mi moudrost a připoj mě k bezúhonným</string>
+    <string name="surt_ashoara1">a učiň mě pro pokolení budoucí jazykem pravdomluvným</string>
+    <string name="surt_ashoara2">a dej, ať jsem jedním z dědiců zahrady slastí,</string>
+    <string name="surt_ashoara3">"a odpusť otci mému, že patřil mezi bloudící, "</string>
+    <string name="surt_ashoara4">a nezahanbi mě v den, kdy vzkříšeni budou,</string>
+    <string name="surt_ashoara5">v den, kdy nikomu ani majetek, ani synové neprospějí -</string>
+    <string name="surt_ashoara6">kromě těch, kdož se srdcem upřímným k Bohu přijdou,</string>
+    <string name="surt_momtahena">Vždyť máte nyní příklad překrásný v Abrahamovi a v těch, kdož byli s ním, když pravili lidu svému: \"My nemáme odpovědnost za vás a za to, co místo Boha ctíte; my se vás zříkáme a propuklo mezi námi a vámi nepřátelství a nenávist až navěky, dokud neuvěříte v Boha jediného!\" Výjimkou jsou slova Abrahamova otci jeho: \"Budu zajisté prosit za tebe o odpuštění, ačkoliv nevládnu pro tebe žádnou mocí u Boha. Pane náš, na Tebe spoléháme a k Tobě se kajícně obracíme a u Tebe je cíl konečný.</string>
+    <string name="surt_momtahena1">Pane náš, neuveď nás v pokušení před těmi, kdož jsou nevěřící, ale odpusť nám, Pane náš, vždyť Tys mocný, moudrý!\"</string>
+    <string name="surt_momtahena2">Věru máte v nich příklad překrásný pro každého, kdo doufá dosáhnout Boha a dne soudného. Ten však, kdo obrátí se zády… tedy Bůh je soběstačný, chvályhodný!</string>
+    <string name="doua_ebrahemwesmail">Modlitba Ibrahima a Ismaila</string>
+    <string name="sure_alpakra">Když pak Abraham a Ismael kladli základy chrámu, zvolali: \"Pane náš, přijmi jej od nás, vždyť Tys věru slyšící, vševědoucí!</string>
+    <string name="sure_alpakra1">Pane náš, učiň, ať jsme do vůle Tvé odevzdáni, a učiň z potomků našich obec Tobě oddanou; ukaž nám obřady naše a vyslyš pokání naše, vždyť Tys věru odpouštějící, slitovný!</string>
+    <string name="sure_alpakra2">Pane náš, vyšli mezi obyvatele města tohoto posla ze středu jejich, aby jim sděloval znamení Tvá, naučil je Písmu a vědění a očistil je, vždyť Tys věru mocný i moudrý!\"</string>
+    <string name="douaa_lot">Modlitba Lot</string>
+    <string name="surt_ankabout">I řekl: \"Pane můj, pomoz mi proti lidem pohoršení šířícím!\"</string>
+    <string name="sourt_choara">Pane, zachraň mne i mou rodinu před následky toho, co činí!\"</string>
+    <string name="duoa_yosof">Modlitba Youssef</string>
+    <string name="surt_uosef">I zvolal Josef: \"Pane můj, vězení je mi milejší než to, k čemu mne vyzývají. Jestliže ode mne neodvrátíš úklady jejich, zatoužím po nich a z nerozumných budu jedním.\"</string>
+    <string name="surt_yosfaya101">Pane můj, Tys mne obdařil částí moci královské a naučils mne výkladu záhad; tvůrce nebes a země, Tys mým ochráncem na tomto i onom světě, povolej mne k Sobě oddaného do vůle Tvé a připoj mne k bezúhonným!\"</string>
+    <string name="doua_ayop">Modlitba Ayoub</string>
+    <string name="surtanbyaaayat3848">A zmiň se o Jóbovi, jenž volal k Pánu svému: \"Postihlo mne neštěstí, však tys nejslitovnější ze slitovníků!\"</string>
+    <string name="surtanbyaaya48">A vyslyšeli jsme jej a odvrátili od něho neštěstí, jež nesl, a vrátili jsme mu jeho rodinu a přidali ještě jednou tolik s nimi jako milosrdenství své a jako připomenutí těm, kdož Nás uctívají.</string>
+    <string name="surt_sad">Vzpomeň též služebníka Našeho Jóba, když volal k Pánu svému: \"Satan se mne dotkl strádáním a mukami.\"</string>
+    <string name="doua_shoaup">Modlitba Shuaib</string>
+    <string name="suer_aaraf">Provinili bychom se proti Bohu lží, kdybychom se vrátili k vašemu náboženství poté, co nás Bůh od něho spasil. A nelze se nám k Němu navrátit, leda bude-li Bůh, Pán náš, chtít. A Pán náš objímá věci všechny ve vědění Svém a my na Boha spoléháme. Pane náš, rozhodni mezi námi a lidem naším podle pravdy, vždyť Tys nejlepším z rozhodčích!\"</string>
+    <string name="douaa_souliman">Modlitba Suleiman</string>
+    <string name="suer_sad35">a volal: \"Pane můj, odpusť mi a daruj mi království takové, jakého nikdo po mně nedosáhne, vždyť Tys věru štědrý dárce!\"</string>
+    <string name="surt_alnaml">I usmál se Šalomoun řeči jejich a řekl: \"Pane můj, vnukni mi, abych Ti poděkoval za dobrodiní Tvé, jímž zahrnuls mne i rodiče mé! Dej, ať pro Tvé zalíbení konám zbožné skutky, a uveď mne ze Svého milosrdenství mezi bezúhonné služebníky Své!\"</string>
+    <string name="douaa_uonos">Modlitba Younes</string>
+    <string name="surt_anbiaa">A zmiň se o Muži s rybou; když odešel rozzloben a domníval se, že proti němu nic nezmůžeme. A volal nás v temnotách říkaje: \"Není božstva kromě Tebe, sláva budiž Tobě! Věru jsem patřil k nespravedlivým!\"</string>
+    <string name="surt_anbiaa1">I vyslyšeli jsme jej a zachránili jsme jej z útrap jeho. A takto My poskytujeme záchranu věřícím.</string>
+    <string name="douaa_eisa">Modlitba Isa</string>
+    <string name="surt_almaeda">I zvolal Ježíš, syn Mariin: \"Veliký Bože, Pane náš! Sešli nám stůl prostřený z nebes, jenž svátkem bude pro nás, jak pro prvního, tak i pro posledního z nás, i znamením od Tebe! A dej nám příděl štědrý, vždyť Tys nejlepší z uštědřovatelů!\"</string>
+    <string name="douaa_zakria">Modlitba Zakaria</string>
+    <string name="sourt_mariam">řka: \"Pane můj, mé kosti již u mne zeslábly a hlava má se šedinami pokryla, a nikdy jsem nebyl při vzývání Tebe, Pane můj, neúspěšný;</string>
+    <string name="sourt_mariam1">však obávám se příbuzných, kteří po mně přijdou. Má žena sice neplodná je, leč z moci své mi následníka daruj,</string>
+    <string name="sourt_mariam2">jenž dědicem mým i dědicem rodu Jakubova bude, a učiň, by tobě se zalíbil, Pane můj!\"</string>
+    <string name="sourt_mariam3">\"Zachariáši, zvěstujeme ti zprávu radostnou o narození chlapce, jehož Jahjá bude jméno a jemuž jsme dříve nedali jmenovce žádného!\"</string>
+    <string name="sorat_alemran">Tehdy tam Zachariáš poprosil Pána svého: \"Pane můj, dej mi z milosti Své potomstvo výtečné, vždyť Ty jsi ten, jenž rád prosby vyslyšuje!\"</string>
+    <string name="sorat_lanbiaa">A zmiň se o Zachariášovi, když volal k Pánu svému: \"Pane můj, neponechávej mne samotného, Ty, jenž z dědiců jsi nejlepší!\"</string>
+    <string name="sotat_lanbiaa1">Vyslyšeli jsme jej a darovali jsme mu Jana a učinili jsme manželku jeho plodnou. A všichni ti se předstihovali v dobročinném konání a modlili se k Nám z touhy a úcty a byli vůči Nám pokorní.</string>
+    <string name="doua_emratemran">Modlitba Imran matka Marie</string>
+    <string name="sourt_aliemran">A hle, pravila manželka ´Imránova: \"Pane můj, zaslibuji Ti, co je v lůně mém, aby se zasvětilo Tobě. Přijmi to ode mne, vždyť Tys slyšící, vševědoucí!\"</string>
+    <string name="sourt_aliemran1">A když to přivedla na svět, zvolala: \"Pane můj, přivedla jsem na svět dceru\" - a Bůh dobře věděl, co přivedla na svět, vždyť pohlaví mužské není jako ženské - \"a nazvala jsem ji Marií. A svěřuji ji i potomstvo její do ochrany Tvé před satanem prokletým.\"</string>
+    <string name="sourt_aliemran2">A přijal ji Bůh přijetím laskavým a dal jí vzrůst vzrůstem krásným; a svěřil ji Zachariášovi. A kdykoliv za ní vešel Zachariáš do svatyně, nalezl u ni potravu. I zeptal se: \"Marie, odkud to máš?\" Odpověděla: \"To přichází od Boha a Bůh věru uštědřuje obživu, komu chce, aniž počítá.\"</string>
+    <string name="doua_almoumen">Modlitba Věřícího</string>
+    <string name="sort_a2af">Uložili jsme člověku laskavost vůči rodičům jeho; matka jeho jej ve strastech nosila a ve strastech jej porodila a jeho nošení a kojení trvalo třicet městců. A když dosáhl dospělosti své a dosáhl věku čtyřiceti let, zvolal: \"Pane můj, vnukni mi, abych byl vděčný za dobrodiní Tvé, jímž jsi zahrnul mne i rodiče mé! Nechť konám skutky zbožné, v nichž nalezneš zalíbení, a učiň pro mne dobrým potomstvo mé. Kajícně se k Tobě obracím a jsem jedním z těch, kdož do vůle Tvé jsou odevzdáni.\"</string>
+    <string name="douaa_altabin">Modlitba Stoupenci dobrého</string>
+    <string name="afdal_alduoaa">Nejlepší doaa</string>
+    <string name="douaa_mlaeka">Modlitba andělů</string>
+    <string name="doua_banyesrail">Modlitba Izraele s Mojžíšem</string>
+    <string name="doua_m2monen">Modlitba věřících od synů Izraele</string>
+    <string name="doua_shart">Modlitba kouzelníci Pharaoh</string>
+    <string name="douaa_ansaresa">Modlitba apoštolů Ansar Isa</string>
+    <string name="doua_atbaa">Modlitba stoupenci proroků</string>
+    <string name="douaa_alftya">Modlitba pro mládež</string>
+    <string name="douaa_asia">Modlitba žena Pharaoh Aceh</string>
+    <string name="sort_a2af1">Od takových přijmeme jejich nejlepší skutky, jež vykonali, a jejich špatné skutky opomineme; ti patří mezi ráje obyvatele, a toto je slib pravdivý, jenž byl jim přislíben.</string>
+    <string name="surt_alhashr">A ti, kdož přišli po nich, hovoří: \"Pane náš, odpusť nám i bratřím našim, kteří nás předešli ve víře; a nevkládej do srdcí našich zlobu proti těm, kdož před námi uvěřili, Pane náš, vždyť Tys věru shovívavý, slitovný!\"</string>
+    <string name="surt_alfateh">"Chvála Bohu, Pánu lidstva veškerého, "</string>
+    <string name="surt_alfateh1">"Milosrdnému, Slitovnému, "</string>
+    <string name="surt_alfateh2">"vládci dne soudného! "</string>
+    <string name="surt_alfateh3">"Tebe uctíváme a Tebe o pomoc žádáme, "</string>
+    <string name="surt_alfateh4">"veď nás stezkou přímou, "</string>
+    <string name="surt_alfateh5">"stezkou těch, jež zahrnuls milostí Svou, ne těch, na něž jsi rozhněván, ani těch, kdo v bludu jsou. "</string>
+    <string name="surt_bkara">Když se tě zeptají služebníci Moji na Mne, věz, že jsem blízko a že odpovím na prosbu prosícího, když mne poprosí. Nechť však na výzvu Mou odpoví a nechť ve Mne věří - snad půjdou cestou správnou!</string>
+    <string name="suer_gafer">Ti andělé, kteří trůn nesou, a ti, kteří okolo stojí, chválou Pána svého slaví, v Něj věří a za odpuštění pro ty, kdož uvěřili, prosí: \"Pane náš, Ty objímáš v milosrdenství i vědění Svém věc každou. Odpusť těm, kdož pokání činili a Tvou cestu následovali, a ušetři je trestu plamene pekelného</string>
+    <string name="suer_gafer1">"a uveď je, Pane náš, do zahrad Edenu, které jsi jim přislíbil, a také ty z otců, manželek a potomstva jejich, kteří ctnostní byli; vždyť Tys věru mocný i moudrý. "</string>
+    <string name="suer_gafer2">"A zbav je zlého! A koho zbavíš v ten den zlého, tomu jsi milost Svou uštědřil a to úspěch je nesmírný.\" "</string>
+    <string name="surt_uonos">Odpověděli: \"Spoléháme se na Boha; Pane náš, nevydávej nás zkouškám národa tyranského,</string>
+    <string name="surt_uonos1">"ale zachraň nás z milosrdenství Svého před národem nevěřícím!\" "</string>
+    <string name="surt_albakra">A když vytáhli proti Goliášovi a vojskům jeho, zvolali: \"Pane náš, dodej nám vytrvalosti a zpevni paty naše a pomoz nám k vítězství nad lidem nevěřícím!\"</string>
+    <string name="surt_alaaraf">vždyť ty se nám mstíš jen za to, že uvěřili jsme ve znamení Pána svého, když nám byla předvedena. Pane náš, propůjči nám trpělivost a dej nám zemřít jako těm, kdož do vůle Tvé jsou odevzdáni!\"</string>
+    <string name="surt_alyemran">Pane náš, uvěřili jsme v to, cos nám seslal, a následujeme posla; zapiš nás tedy mezi ty, kdož pravdu dosvědčují!\"</string>
+    <string name="surt_alyemrany">A bylo jejich řečí pouze to, že řekli: \"Pane náš, odpusť nám hříchy naše i přehánění naše v naší věci! Upevni paty naše a poskytni nám pomoc vítěznou proti lidu nevěřícímu!\"</string>
+    <string name="surt_alkhf">"… A hle, mladíci se do jeskyně uchýlili a pravili: \"Pane náš, daruj nám od Sebe milosrdenství a připrav nám pro věc naši správné vedení!\" "</string>
+    <string name="surt_athrem">A Bůh uvádí těm, kdož uvěřili, příklad ženy Faraónovy, když zvolala: \"Pane můj, postav pro mne u Sebe v ráji příbytek a zachraň mne před Faraónem a jeho skutky a zachraň mne před lidem nespravedlivým!\"</string>
+    <string name="douaa_ashap">Modlitba Vlastníci Al-A\'raf</string>
+    <string name="surt_alaaaaraf">A když se obrátí zraky jejich k obyvatelům ohně, zvolají: \"Pane náš, neumisťuj nás společně s lidmi nespravedlivými!\"</string>
+    <string name="douaa_mostdafin">Modlitba Ti, kdo jsou slabí</string>
+    <string name="surt_nsaaa">A co je vám, že nebojujete na stezce Boží a za utištěné z mužů, žen a dětí, kteří říkají: \"Pane náš, vyveď nás z tohoto města, jehož obyvatelé jsou nespravedliví! Dej nám ochránce Tebou vybraného a pošli nám pomocníka Tebou ustanoveného!\"</string>
+    <string name="doua_mosa">Modlitba Mojžíšova</string>
+    <string name="surt_allaraf">A když přišel Mojžíš na schůzku Námi stanovenou a když s ním promluvil Pán jeho, zvolal:;, Pane můj, ukaž se mi, abych Tě mohl spatřit!\" I odpověděl: \"Nikdy Mne nespatříš, ale pohleď k této hoře: jestliže zůstane nehybná na místě svém, tedy Mne uvidíš!\" A když pak se Pán jeho zjevil nahoře, obrátil ji v prach a Mojžíš klesl jak bleskem zasažen. A když se vzpamatoval, zvolal: \"Sláva Tobě, kajícně jsem se k Tobě obrátil a nyní jsem první z věřících!\"</string>
+    <string name="sourt_alaarafi">I řekl Mojžíš: \"Pane můj, odpusť mně i bratru mému a uveď nás do milosrdenství Svého - vždyť Tys nejslitovnější ze slitovníků!\"</string>
+    <string name="suort_aaraf">A vybral Mojžíš mezi lidem svým sedmdesát mužů pro schůzku Námi stanovenou. A když je postihlo zemětřesení, zvolal: \"Pane můj, kdybys byl chtěl, byl bys je zahubil již dříve a mne s nimi. Hodláš nás zahubit kvůli tomu, co učinili hlupáci mezi námi? Vždyť je to jen Tvé pokušení, jímž dáváš zbloudit, komu chceš, a jímž také vedeš toho, koho chceš! Tys ochráncem naším, odpusť nám a slituj se nad námi, vždyť Tys nejlepší z odpouštějících!</string>
+    <string name="suort_aaraf1">A zapiš pro nás na tomto i na onom světě jen dobré, vždyť my jsme židovské víry kvůli Tobě!\" I odpověděl Pán: \"Trest Můj postihne toho, koho Já chci, ale milosrdenství Mé objímá všechny věci; Já zapíši dobré těm, kdož bohabojní jsou a dávají almužnu, a těm, kdož uvěřili ve znamení Naše,</string>
+    <string name="suort_aaraf2">a těm, kdož následují posla, proroka neučeného, jehož naleznou oznámeného jim v Tóře a Evangeliu a který jim přikazuje vhodné a zakazuje zavrženíhodné, který jim dovoluje pokrmy výtečné a zakazuje jim škodlivé a snímá z nich tíživé povinnosti a pouta, jež je tíží. A věru ti, kdož v něj uvěří a podpoří jej a budou následovat světlo, jež bylo s ním sesláno, ti budou blažení!\"</string>
+    <string name="surt_kass">A pokračoval: \"Pane můj, sám sobě jsem ukřivdil, odpusť mi!\" A odpustil mu, vždyť On věru je odpouštějící, slitovný.</string>
+    <string name="surt_kass1">A řekl dále: \"Pane můj, pro dobrodiní, jímž jsi mne zahrnul, nebudu již nikdy hříšníků pomocníkem!\"</string>
+    <string name="surt_alkass">I napojil Mojžíš pro ně stádo jejich, potom se uchýlil do stínu a pravil: \"Pane můj, jsem potřebný toho dobrodiní, které mi sešleš.\"</string>
+    <string name="surt_tahaa">"I řekl Mojžíš: \"Pane, mou hruď mi rozevři "</string>
+    <string name="surt_tahaa1">"a mé dílo mi usnadni "</string>
+    <string name="surt_tahaa2">"a uzel na mém jazyku uvolni, "</string>
+    <string name="surt_tahaa3">"aby porozuměli mé řeči! "</string>
+    <string name="surt_tahaa4">"A dej mi z rodiny mé pomocníka, "</string>
+    <string name="surt_tahaa5">"Áróna, mého bratra, "</string>
+    <string name="surt_tahaa6">"a podpoř jím mou sílu "</string>
+    <string name="surt_tahaa7">"a učiň jej společníkem v mém úkolu, "</string>
+    <string name="surt_tahaa8">"abychom mohli Tebe často slavit "</string>
+    <string name="surt_tahaa9">"a hojně Tě vzpomínat, "</string>
+    <string name="surt_tahaa10">"vždyť věru nad námi jsi jasnozřivý!\" "</string>
+    <string name="surt_tahaa11">"I pravil Bůh: \"Vyslyšena je prosba tvá, Mojžíši! "</string>
+    <string name="sourt_uonos">Pravil Mojžíš: \"Pane náš, Tys dal Faraónovi a velmožům jeho lesk a bohatství v životě pozemském, aby, Pane náš, sváděli z cesty Tvé. Pane náš, znič bohatství jejich a zatvrď srdce jejich a nechť neuvěří, pokud nespatří trest bolestný!\"</string>
+    <string name="sourt_uonos1">I odpověděl Bůh: \"Vyslyšena je prosba vaše; kráčejte oba stezkou přímou a nenásledujte cestu těch, kdož nic nevědí!\"</string>
+    <string name="doua_m2monenn">Modlitba obecně věřící</string>
+    <string name="surt_bkra200">A když skončíte poutní obřady své, vzpomeňte Boha, tak jako vzpomínáte na otce své, a ještě usilovně ji! A jsou mezi lidmi někteří, kdož říkají: \"Pane náš, obdaruj nás na tomto světě,\" ale ti věru nebudou mít podíl žádný v životě budoucím.</string>
+    <string name="surt_bkra200i">A jsou mezi nimi někteří, kdož říkají: \"Pane náš, daruj nám dobré na tomto světě i dobré v životě budoucím a ušetří nás muk trestu ohnivého!\"</string>
+    <string name="surt_bkra200ii">Těm dostane se podílu z toho, co si vysloužili, neboť Bůh věru jest rychlý v účtování.</string>
+    <string name="surt_bk285">Uvěřil posel v to, co od Pána jeho mu bylo sesláno, a uvěřili všichni věřící v Boha, anděly Jeho i Písma Jeho i posly Jeho - a My neděláme rozdíl mezi posly Jeho - a řekli: \"Slyšeli jsme a uposlechli jsme; o odpuštění Tvé prosíme, Pane náš, a u Tebe je konečný cíl náš!\"</string>
+    <string name="surt_bk285i">Bůh ukládá duši jen to, co je pro ni možné; dostane se jí odměny za to, co si pro sebe i proti sobě vysloužila. \"Pane náš, neměj nám za zlé, jestliže jsme zapomněli či chybili! Pane náš, nenakládej na nás břímě tíživé, podobné tomu, jež jsi naložil na ty, kdož byli před námi! Pane náš, nenakládej nám břemena, která nemůžeme unést, a vymaž nám chyby naše, smiluj se nad námi a odpusť nám! Tys ochráncem naším, pomoz nám k vítězství nad lidem nevěřícím!\"</string>
+    <string name="surt_alyqmran">kteří hovoří:, Pane náš, uvěřili jsme; odpusť nám naše viny a ochraň nás před trestem ohně pekelného,</string>
+    <string name="surt_alyqmrani">trpělivé, pravdomluvné, pokorně oddané, almužny rozdávající a za úsvitu o odpuštění prosící.\"</string>
+    <string name="surt_alywmran">kteří vzývají Boha stojíce, sedíce i ležíce a kteří přemýšlejí o stvoření nebes a země a říkají: \"Pane náš, Tys věru nestvořil toto vše pro nic za nic - sláva Tobě! Ušetři nás trestu ohně pekelného!</string>
+    <string name="surt_alywmrani">Pane náš, Ty věru každého, koho do ohně uvrhneš, hanbou pokryješ; a nespravedliví nebudou mít pomocníků.</string>
+    <string name="surt_alywmranii">Pane náš, vskutku jsme uslyšeli hlas volajícího, zvoucího nás k víře: Věřte v Pána svého! a uvěřili jsme. Pane náš, odpusť nám hříchy naše a očisti nás od špatností našich a povolej nás k Sobě spolu s čistými!</string>
+    <string name="surt_alywmraniii">"Pane náš, a dej nám to, cos nám přislíbil ústy poslů svých, a nezarmuť nás v den zmrtvýchvstání, vždyť Ty neopomíjíš splnit sliby Své!\" "</string>
+    <string name="surt_forkan">Služebníci Milosrdného jsou ti, kdož pokorně chodí po zemi, a když jsou osloveni lidmi pošetilými, odpovídají: \"Mír s vámi!\" -</string>
+    <string name="surt_forkani">"ti, kdož za noci bdí kvůli Pánu svému padajíce na zem i stojíce "</string>
+    <string name="surt_forkanii">"a kdož hovoří: \"Pane náš, odvrať od nás trest pekla, vždyť jeho trest je trýznivý!\" "</string>
+    <string name="surt_forkaniii">"- a ono je útočištěm i místem pobytu věru špatným - "</string>
+    <string name="surt_fourcan">"a ti, kdož říkají: \"Pane náš, dej nám v manželkách našich i potomcích našich oka ochlazení a učiň nás vzorem bohabojným,\" "</string>
+    <string name="surt_threm">Vy, kteří věříte! Obraťte se k Bohu s upřímným pokáním! Snad Pán váš vám vymaže špatné skutky vaše a uvede vás do zahrad, pod nimiž řeky tekou, v den, kdy nezahanbí Bůh ani proroka, ani ty, kdož s ním věřili. A světlo jejich poběží před nimi a po pravici jejich a budou volat: \"Pane náš, učiň dokonalým světlo naše a odpusť nám, vždyť Tys všech věcí mocen!\"</string>
+    <string name="surt_m2moenon">"Vždyť věru jedna část služebníků Mých hovořila:, Pane náš, uvěřili jsme, odpusť nám a slituj se nad námi, neboť Tys nejlepší ze slitovníků!? "</string>
+    <string name="duoa_nabina">Modlitba Náš prorok Mohamed</string>
+    <string name="surt_liemran">Rci: \"Bože veliký, vládce království! Ty dáváš vládu, komu chceš, a odebíráš ji, komu chceš; Ty povyšuješ, koho chceš, a ponižuješ, koho chceš, v ruce Tvé je dobro a Tys věci každé mocen.</string>
+    <string name="surt_liemran1">Ty dáváš přejit noci v den a dáváš přejít dni v noc, Ty dáváš vzejít živému z mrtvého a mrtvému ze živého a uštědřuješ, komu chceš, bez počítání.\"</string>
+    <string name="sourat_alyemran">A když jim lidé řekli: \"Lidé se proti vám shromáždili, bojte se jich!\", tu zvětšila se ještě víra jejich a zvolali: \"Nám postačí Bůh, a jak výtečný On je ochránce!\"</string>
+    <string name="sourat_alyemran1">A tak se vrátili díky přízni a laskavosti Boží a nestalo se jim nic zlého. A usilovali o to, co se líbí Bohu, a Bůh pánem je laskavosti nesmírné.</string>
+    <string name="surt_m2menoun">Rci: \"Pane můj, jestliže mi ukážeš to, co slíbeno bylo jim,</string>
+    <string name="surt_m2menoun1">"pak, Pane můj, nedej, abych byl mezi lidem nespravedlivým!\" "</string>
+    <string name="sort_nonon">"Rci: \"Pane můj, utíkám se k Tobě před satanů našeptáváním "</string>
+    <string name="sort_nonon1">"a utíkám se k Tobě, Pane můj, před jejich přiblížením!\" "</string>
+    <string name="surt_mo2mnen">"A rci: \"Pane můj, odpusť a slituj se, vždyť Tys nejlepší ze slitovníků!\" "</string>
+    <string name="surt_alesraa">A rci: \"Pane, dej mi vstoupit vstoupením spravedlivým a dej mi vyjít vyjitím spravedlivým. A dej mi od Sebe zplnomocnění jako pomoc!\"</string>
+    <string name="surt_alesraa1">"A rci: \"Přišla pravda a zmizel klam, a věru klam je něčím, co zmizí.\" "</string>
+    <string name="surt_alesraa2">"A sesíláme v Koránu to, co lékem je i milosrdenstvím pro věřící, však nespravedlivým to jen ztrátu zvětšuje. "</string>
+    <string name="surt_esraa">"Rci: \"Vzývejte Boha či vzývejte Milosrdného, a ať již Jej nazýváte jakýmkoliv jménem, Jemu náleží jména nejkrásnější. A při modlitbě své nemluv ani příliš nahlas, ani příliš potichu, nýbrž hledej mezi obojím cestu střední!\" "</string>
+    <string name="surt_esraa1">"Rci: \"Chvála Bohu, jenž nevzal si pro sebe dítě žádné, jenž nemá společníka ve vládě a nepotřebuje před ponížením ochránce!\" A oslavuj velikost Jeho! "</string>
+    <string name="surt_altoubh">"A nyní přišel k vám již posel z vašich řad vzešlý a tíží jej, že špatného se dopouštíte, neboť mu záleží na vašem dobru. A vůči věřícím je shovívavý, slitovný. "</string>
+    <string name="surt_altoubh1">"A jestliže se oni odvrátí, rci: \"Bůh mi zcela stačí a není božstva kromě Něho a na Něj se spoléhám; On Pánem je trůnu nesmírného!\" "</string>
+    <string name="surt_taha">"Nechť povýšen je Bůh, vládce a pravda! Nepospíchej s Koránem, dříve než bude ti ukončeno celé jeho vnuknutí, a rci: \"Pane můj, rozmnož mi vědění!\" "</string>
+    <string name="album_title">Je to díky milosti Pána mého</string>
+    <string name="artist_name">Pamatuj si Bůh po celou dobu</string>
+    <string name="song_title">Sdílet</string>
+    <string name="e_prog1">Pamatuj na Boha</string>
+    <string name="aya_alkorsi">verš židli</string>
+    <string name="aya_alkorcey">Bůh - není božstva kromě Něho, živého, trvalého! Nepadá naň ani dřímota, ani spánek, Jemu náleží vše, co na nebesích je i na zemi! Kdo může se u Něho přimluvit jinak, než s dovolením Jeho? On zná, co je před rukama jejich i co je za zády jejich, zatímco oni neobejmou z vědění Jeho nic leda to, co On chce. Trůn Jeho obepíná nebesa i zemi a střežení jich mu potíží nečiní - On vznešený je a mohutný!</string>
+    <string name="b_1">"Ve jménu Boha milosrdného, slitovného. "</string>
+    <string name="kol_hewo_allah">"Rci: \"On Bůh je jedinečný, "</string>
+    <string name="kol_hewo_allah1">"Bůh sám o sobě věčný. "</string>
+    <string name="kol_hewo_allah2">"Neplodil a nebyl zplozen "</string>
+    <string name="kol_hewo_allah3">"a není nikoho, kdo je mu roven.\" "</string>
+    <string name="alflak">"Rci: \"Utíkám se v ochranu Pána záře jitřní "</string>
+    <string name="alflak1">"před zlem Jeho stvoření, "</string>
+    <string name="alflak2">"před zlem temnoty, když se šíří, "</string>
+    <string name="alflak3">"před zlem žen, jež do uzlů prskají, "</string>
+    <string name="alflak4">"před zlem závistníka, když závidí!\" "</string>
+    <string name="alnas">"Rci: \"Utíkám se v ochranu Pána lidí, "</string>
+    <string name="alnas1">"vládce lidí, "</string>
+    <string name="alnas2">"Boha lidí, "</string>
+    <string name="alnas3">"před zlem našeptavače pokradmého, "</string>
+    <string name="alnas4">"jenž našeptává do hrudi lidí, "</string>
+    <string name="alnas5">"ať již je z džinů či z lidí!\" "</string>
+    <string name="profile">Názvy Alláha</string>
+    <string name="feed">Ze Svatého Koránu</string>
+    <string name="activity">růženec</string>
+    <string name="settings">O programu</string>
+    <string name="menu">Chvála</string>
+    <string name="close">Ukončete</string>
+    <string name="autooooo">Může Alláh potěšen s nimi</string>
+    <string name="autoooo">Pokud dosáhne svého vrcholu</string>
+    <string name="autooo">Může Alláh potěšen</string>
+    <string name="autoo">Mír je na nich</string>
+    <string name="auto">(pokoj a požehnání Alláha)</string>
+    <string name="eklass">Al-Ikhlas(Sincerity)</string>
+    <string name="flk">Al-Falaq(The Daybreak)</string>
+    <string name="nas">An-Nas(Mankind)</string>
+    <string name="salam">Mír je na nich</string>
+    <string name="salamm">S Talootem</string>
+    <string name="salammm">Když věřili</string>
+    <string name="atba">V džihádu</string>
+    <string name="atbaa">Majitelé jeskyní</string>
+    <string name="atbaaa">Kdyby spatřili oheň</string>
+    <string name="ard">V zemi</string>
+    <string name="ardd">A jejich volání k Bohu</string>
+    <string name="alfateha">Al-Fatihah(The Opening)</string>
+    <string name="quran">Ze Svatého Koránu</string>
+    <string name="mainActivityh">Kéž v něm Alláh nalezne zalíbení</string>
+    <string name="mainActivityhh">Od Abu Hurayrah</string>
+    <string name="mainActivityhhh">Řekl Posel Alláhův mír s ním</string>
+    <string name="mainActivitya">Řekl</string>
+    <string name="mainActivityaa">Bůh má devadesát devět jmen Zachovávat je Vstoupil do ráje</string>
+    <string name="mainActivitys">Vstoupil do ráje</string>
+    <string name="mainActivityd">V románu</string>
+    <string name="m1">Kniha proroků</string>
+    <string name="mm1">Dveře stvoření Adama a jeho potomci</string>
+    <string name="hadethAdm">Bůh stvořil Adama a jeho výška byla šedesát loket.</string>
+    <string name="hadethAdm1">"Pak řekl: „Jdi a dát těmto andělům pozdrav.“,Tak poslouchejte, co říkají,Bude to Pozdravte své potomky"</string>
+    <string name="hadethAdm2">Řekl Mír s vámi!</string>
+    <string name="hadethAdm3">Řekli: Mísejte na vás a milosrdenství Boží, zvyšujte to: milosrdenství Boží.</string>
+    <string name="hadethAdm4">Každý, kdo vstoupí do ráje na délce Adama,Tvorba je však stále krátká</string>
+    <string name="rwa">Sahih Bukhari</string>
+    <string name="h2">Říkalo se,Proroka, mír s ním,Kdo je nejvíce štědrý?</string>
+    <string name="h22">Řekl Zbožných z nich</string>
+    <string name="h222">Řekli: \"Ó Prorok Boží, to není to, o co se ptáme.\"</string>
+    <string name="h2222">Řekl: Lidé ctili Josepha Božího proroka, syna Proroka Božího, syna Proroka Božího, syna Chalíla Boha.</string>
+    <string name="h22222">Řekli: To není to, o co se ptáme.</string>
+    <string name="h222222">Řekl:Arabové Zeptáš se mě</string>
+    <string name="h2222222">Řekli: Ano.</string>
+    <string name="hf">Kapitola (Byli jste svědky toho, když smrt přišla k Jakubovi a když se otázal synů svých: \"Co budete uctívat po smrti mé?\" Odvětili: \"Budeme uctívat Boha tvého a Boha předků tvých, Abrahama, Ismaela a Izáka, jako Boha jediného a do vůle Jeho budeme odevzdáni.\") [Baqarah: 133] verš</string>
+    <string name="h22222222">Řekl: Vaše volba v islámu, pokud se učí.</string>
+    <string name="h3">Od proroka (pokoj a požehnání Alláha).</string>
+    <string name="hh3">Dveře Božích slov: (A zmiň se o Jóbovi, jenž volal k Pánu svému: \"Postihlo mne neštěstí, však tys nejslitovnější ze slitovníků!\") [Proroci: 83]</string>
+    <string name="h33">Řekl: Zatímco Ayub umývá nahý, ze zlata pochází muž z kobylky a on mě udělal ve svém oděvu.</string>
+    <string name="h333">A nazval ho Pán jeho Oh Ayoub Zpívám tě Za to</string>
+    <string name="h3333">Řekl, ó Pane, ale já jsem pro vaše požehnání nepostradatelný.</string>
+    <string name="h4">O Ibn Omarovi</string>
+    <string name="h44">Může Alláh potěšen s nimi</string>
+    <string name="h444">Řekl Posel Alláhův mír s ním Mluvil s lidmi a řekl, že Antichrist</string>
+    <string name="h4444">Řekl: Musím vás varovat,Není žádný prorok, ale jeho lidé ho varovali</string>
+    <string name="h44444">Noe varoval svého lidu,Ale já vám říkám slovo, které prorok neřekl svým lidem</string>
+    <string name="h444444">Víte, že je slepý a že Bůh není slepý.</string>
+    <string name="hh4">Dveře Božích slov: (Věru jsme poslali Noema k lidu jeho s rozkazem: \"Varuj lid svůj, dříve než postihne jej trest bolestný!\" ) [Noah: 1]</string>
+    <string name="h5">(Výklad významu): \"A k dlužníkovi jejich bratra Shuaiba\" k lidu Madin, protože Madin Balad, a jako on (zeptejte vesnici) Potřebuji mé potěšení a dostihám. Řekl: Al-Dhahri, aby vzal s sebou zvíře nebo nádobu, aby si ji zapamatovala, místo a místo, a jedno, budou žít. {} Sestava: zarmoutit Hassan řekl: {} vám pro vás ho Halim posmívali, Mujahid řekl: (pro yucca) háji, {} na vrchlíku: trápit jim odstínů mraků</string>
+    <string name="hh5">Dveře slov Božského Všemohoucího [A vyslali jsme k Madjanovcům bratra jejich Šu´ajba] [Al-A\'raf: 85]</string>
+    <string name="h6">Od Ibn Abbás</string>
+    <string name="h66">Řekl: \"Ty bosí se shromažďuješ nahý</string>
+    <string name="h6i">Potom si četl: (a jako jsme začali již prvním stvořením, tak opakovat to budeme podle slibu Námi daného. A My tak učiníme!)</string>
+    <string name="h6ii">A první, na které se vztahuje den vzkříšení Ibrahim</string>
+    <string name="h6iii">A že někteří z mých společníků je vezmou na sever a řeknou: Moji přátelé, moji společníci</string>
+    <string name="h6iiii">"Říká: Jsou stále na sobě, protože Varguethm "</string>
+    <string name="h6iiiii">"Říkám, jak řekl dobrý otrok: (Neříkal jsem jim, leda to, cos mi nařídil, to jest: Uctívejte Boha, Pána mého i Pána vašeho! A byl jsem svědkem o nich, dokud jsem žil mezi nimi. A když jsi mne povolal k Sobě, byls to Ty, kdo byl nad nimi dozorcem - a Tys svědkem věcí všech.) "</string>
+    <string name="h666">Dveře Božích slov: (A učinil Bůh Abrahama Svým přítelem.) [An-Nisa: 125]</string>
+    <string name="h7">Z Salmy ibn al-Akwaa</string>
+    <string name="h77">Prorok, mír s ním někteří z muslimů, kteří jsou vyškoleni</string>
+    <string name="h77i">Posel Alláha (pokoj a požehnání Alláha na něj) řekl: \"Zničte syny Izmaela, neboť tvůj otec byl Ramia a já jsem se svými syny.\"</string>
+    <string name="h77ii">Řekl: držel jeden z obou týmů v rukou</string>
+    <string name="h77iii">Posel Alláha (pokoj a požehnání Alláha na něj) řekl:Proč ne Arrow Shooting</string>
+    <string name="h77iiii">Řekli: \"Posel Alláha, házíme a stojíte s nimi</string>
+    <string name="h77iiiii">Řekl: \"Vstaň, já jsem s vámi všichni.\"</string>
+    <string name="h777">Dveře Božích slov: (A připomeň v Knize také Ismaela, jenž věrně sliby dodržoval a poslem i prorokem byl) [Mary: 54]</string>
+    <string name="h8">Mojžíš byl živý člověk, muž, který neviděl na své kůži nic</string>
+    <string name="h8i">A ublížil jemu  od synů Izraelských, a řekli: Co skrývá toto utajování, kromě vady pokoře v jeho kůži, buď malomocenství, nebo palička, nebo pohroma.</string>
+    <string name="h8ii">A Bůh chtěl vyčistit ho z toho, co řekl Mojžíšovi,Pouze jeden den,Složil svůj oděv na kámen a pak se koupal, a když skončil,Ale kámen odešel</string>
+    <string name="h8iii">Mojžíš vzal svou tyč a požádal o kámen a začal říkat: \"Dvě kamenné oděvy, dva kamenné oděvy, až skončí v plnosti synů Izraelských. Viděli ho nahý jako to nejlepší, co Bůh stvořil.</string>
+    <string name="h8iiii">A vzal kámen, vzal si šaty a oblékl ho a hodil kámen svou hůlkou s kamenem, což mu způsobilo, že ho zasáhl tři nebo čtyři nebo pět</string>
+    <string name="h8iiiii">Toto praví: Vy, kteří věříte! Nebuďte podobni těm, kdož uráželi Mojžíše! Bůh jej pak zprostil odpovědnosti za to, co hovořili; a byl u Boha ve vážnosti.</string>
+    <string name="h88">Talk of Moses mír s ním dveře</string>
+    <string name="h9">Já a lidé, jako muž, který zapálil, udělali motýly a padli do ohně</string>
+    <string name="h9i">A on řekl: Byly tam dvě ženy s nimi syny, a vlk přišel a šel k synovi jednoho z nich</string>
+    <string name="h9ii">Řekla: \"Váš syn odešel.\"</string>
+    <string name="h9iii">Druhý řekl: \"Ale tvůj syn zmizel.\"</string>
+    <string name="h9iiii">A šli jsme k Davidovi, aby vládl mezi nimi,pravidlo Pro velké,I vyšli k Šalomounovi, syn Davidův, a oznámili jemu</string>
+    <string name="h9iiiii">Řekl: \"Přineste mě nožem a já si je mezi sebou rozříznu</string>
+    <string name="h9iiiiii">Mladší řekl: \"Nedělejte to, je to její syn, a tak jí ji dejte</string>
+    <string name="h9iiiiiii">Abu Hurayrah řekl: Bohu, kdybych slyšel ten nůž teprve v ten den a co bychom řekli kromě Medey.</string>
+    <string name="h99">Dveře Božích slov: {A darovali jsme Davidovi Šalomouna, jenž byl Naším výtečným služebníkem. A byl věru kajícníkem}</string>
+    <string name="h10">Zatímco Žid zobrazuje své zboží, dávám jí něco, co nenávidí</string>
+    <string name="h10i">Řekl: Ne, Bůh vybral Mojžíše na lidi,Muž z Ansar ho slyšel,Takže on udeřil do tváře,A on řekl: "Říkáte: A kdo si vyvolil Mojžíše na lidi,Prorok mír s ním mezi námi?</string>
+    <string name="h10ii">Šel k Prorokovi a řekl: Abu al-Qasim, že mám vyhlášku a smlouvu, tak co kdybych klepal do tváře</string>
+    <string name="h10iii">Řekl: Nechtěl jsem si rozmazat jeho obličej, tak se o tom zmínil, takže Prorok (mír a požehnání Alláha na něj) byl rozzlobený, dokud ho neviděl v obličeji</string>
+    <string name="h10iiii">"Potom řekl: \"Neodlišujte mezi Božími proroky,A bude zatroubeno na pozoun ,Zemřel v nebi i na zemi,Kromě Boží vůle"</string>
+    <string name="h10iiiii">A bude zatroubeno na pozoun,Budu první žít,Pokud Moses vztahující se k trůnu,Nebo žiji, než budu žít</string>
+    <string name="h10iiiiii">A říkám: nikdo není lepší než Younis bin Matta.</string>
+    <string name="h1010">Dveře Božích slov: (A rovněž Jonáš jedním z vyslanců Božích byl,) [As-Saaffat: 139]</string>
+    <string name="h11">A Bůh,Syn Mariiny sestupuje spravedlivé pravidlo,Rozbije kříž,Prase zabije,Nastaví zakaah,Peníze jsou přeplněné, aby nikdo nepřijímal to,Takže Buď jeden Sajda Lepší než svět a co je v něm</string>
+    <string name="h11i">Pak Abu Huraira řekl: \"A přečtěte si, zda se vám líbí: (A věru není nikdo mezi vlastníky Písma, kdo by v Něj neuvěřil předtím, než zemře - a v den zmrtvýchvstání bude pak proti nim svědkem.)</string>
+    <string name="h1111">Sestup Ježíše, syna Marie, pokoj na něm</string>
+    <string name="h12">Bůh odpustí Lotovi, pokud chce utéct do vzdálenějšího rohu</string>
+    <string name="h1212">Dveře {A poslali jsme Lota, a hle, pravil lidu svému: \"Budete se stále neřestem, jež sami dobře vidíte, oddávat?Což budete i nadále z vášně chodit k mužům raději než k ženám? Ba vy věru jste lid zpozdilý!\"A bylo odpovědí jeho lidu jedině to, že řekli: \"Vyžeňme rod Lotův z města našeho, vždyť jsou to lidé, kteří čistí chtějí zůstat!\"A zachránili jsme jej i jeho rodinu kromě ženy jeho, neboť jsme již určili, aby byla mezi těmi, kdož se opozdili.A déšť zhoubný jsme na ně spustili; a jak hnusný to byl déšť pro ty, kdož marně varováni byli!} [An-Naml : 55]</string>
+    <string name="h13">Z Malik bin Saas\'a</string>
+    <string name="h1313">Skutečnost, že Posel Alláha (PBUH) jim o jedné noci vyprávěla, se zvedla, dokud se neobjevilo druhé otevřené nebe</string>
+    <string name="h1313i">Říkalo se: Kdo je to? Řekl: Jibril</string>
+    <string name="h1313ii">Bylo řečeno: Kdo je s vámi? Řekl: Muhammad</string>
+    <string name="h1313iii">Bylo řečeno: Byl poslán k němu? Řekl: Ano</string>
+    <string name="h1313iiii">"A když skončila Viděl jsem Yahya a Isa "</string>
+    <string name="h1313iiiii">Řekl: \"Toto je Yahya a Issa,Mír je na nich</string>
+    <string name="h1313iiiiii">Pak řekli: Vítejte u dobrého bratra a dobrého proroka</string>
+    <string name="h131313">"Dveře všemohoucího Boha \"Připomenutí o milosrdenství Pána tvého nad Zachariášem, služebníkem jeho Hle, Zachariáš zavolal k Pánu svému voláním tajným\". "</string>
+    <string name="h14">Slyšel jsem, že Posel Alláha (pokoj a požehnání Alláha na něj) říkají: Nikdo z Adamových synů se nenarodil, ale ďábel se ho dotýká, když se narodí.,Vykřikuje, kdo se dotkl Satana, kromě Marie a jejího syna</string>
+    <string name="h14i">Pak Abu Huraira říká: {A svěřuji ji i potomstvo její do ochrany Tvé před satanem prokletým.}</string>
+    <string name="h1414">Dveře Božích slov{A připomeň v Knize také Marii, když vzdálila se od své rodiny do místa východního}[Marie: 16]</string>
+    <string name="h15">Kniha Tawheed</string>
+    <string name="h1515">Od Ibn Mas\'uda</string>
+    <string name="h151515">Prorok (pokoj a požehnání Alláha na něj) se zeptal, který podnik je lepší?Řekl: Modlete se, když uslyšíte hovor,A služba rodičů,Pak džihád pro Alláha</string>
+    <string name="h15151515">Prorok (mír a požehnání Alláha na něho) nazval modlitbu za dílo a on řekl: \"Pro ty, kteří nečíslili otevření knihy, neexistuje modlitba.\"</string>
+    <string name="h16">O Asir bin Jabir</string>
+    <string name="h1616">Byl to věk, kdyby se jich ze strany Jemenu dotazoval, řekl: \"Máte Oyes ibn Amer?\" Slyšel jsem, že posel Alláha (pokoj a požehnání Alláha na něj) říká: Oyes ibn Amer přišel k vám s nabídkou lidí z Jemenu od Murada a pak před sto lety. Řekl: Muž z Levantu volal dva dny: \"Ovek Maways\", slyšel jsem, že Posel Alláha (pokoj a požehnání Alláha na něj) říká: \"Uays ibn \'Amer al-Qarni je jedním z nejlepších následovníků. S dobrou povahou</string>
+    <string name="h161616">Znalost společníků Na Abu Naim Asbahani</string>
+    <string name="h16161616">Jména</string>
+    <string name="h1616161616">Aweys ibn Amer al-Qarni a bylo řečeno: Aws ibn Anas bin Amer si uvědomil, že prorok mír je na něm ho neviděl</string>
+    <string name="h17">Pokud Bůh miluje otroka Jibril klub:Bůh miluje tento otrok Vohabh,Jibril ho miluje,Jibril volá k nebeským lidem:Bůh miluje tento Milovali ho,Nebesí ho milují,Lidé na zemi ho milují</string>
+    <string name="h1717">Kniha literatury</string>
+    <string name="h171717">Dveře pravdy od Boha Všemohoucího</string>
+    <string name="h17171717">Láska</string>
+    <string name="h18">Když přišel Posel Alláha Boží mír s ním Město a Židé půst den Ashura,Zeptal se je</string>
+    <string name="h18i">Řekl: To je den, kdy Mojžíš se objevil na faraóna</string>
+    <string name="h18ii">Prorok řekl, mír s ním: Jsme první z nich Mojžíš Vsomoh</string>
+    <string name="h1818">Dveře {A vnukli jsme Mojžíšovi: \"Vydej se za noci na cestu se služebníky Mými a proraz jim cestu suchou v moři a stíháni se neboj a strach neměj!\"A stíhal je Faraón s vojsky svými a pokrylo je moře tím, čím je pokrylo.A takto Faraón lid svůj v bloudění zavedl a po cestě správné jej nevedl.} [Taha: 78] «mořské moře»</string>
+    <string name="h181818">Kniha interpretace Koránu</string>
+    <string name="h19">O Bara</string>
+    <string name="h1919">Byli jsme mírovými partnery Mohameda a hovořili jsme o tom, že majitelé Badr, majitelé Talutů, kteří překročili řeku, nepřekročili řeku pouze s několika stovkami tisíc věřících.</string>
+    <string name="h191919">Kniha Maghazi</string>
+    <string name="h19191919">Dveře několika majitelů Badr</string>
+    <string name="h20">Od Abu Musa al-Ash\'ari</string>
+    <string name="h2020">Bůh v noci rozšiřuje svou ruku, aby se pokání z ohavnosti dne a dne, aby se pokání od ohavnosti noci, až slunce svítí od západu.</string>
+    <string name="h202020">Vyprávěný muslimem v Sáhehu z Bandaru</string>
+    <string name="h20202020">Od Abu Dawooda</string>
+    <string name="h2020202020">" kouzlem faraóna a jejich příběhem v knize všemohoucího Boha při přijímání pokání kouzelníka"</string>
+    <string name="h202020202020">Velký sunan Bayhaqi</string>
+    <string name="h20202020202020">Kniha věštění</string>
+    <string name="h2020202020202020">Říká se kouzelníkovi</string>
+    <string name="h21">Všemocný řekl {Však těm, kdož nevěří ve znamení Boží a neoprávněně zabíjejí proroky a zabíjejí ty z lidí, kteří přikazují spravedlnost, těm oznam zvěst radostnou o trestu bolestném.}</string>
+    <string name="h21i">Řekl: \"Isa, syn Marie, poslal dvanáct mužů z apoštolů, aby učil lid, a zakázal manželství synovce,Byl král svou neteř rád,Chtěl to a strávil každý den potřebovat</string>
+    <string name="h21ii">Matka jí řekla: \"Pokud se vás zeptá na vaši potřebu, řekněte mu: zabít Yahya bin Zakaria.</string>
+    <string name="h21iii">Král jí řekl: \"Vaše žádost?\"</string>
+    <string name="h21iiii">Řekla: Potřebuji zabít Yahya bin Zakaria</string>
+    <string name="h21iiiii">Řekl: Požádejte o něco jiného</string>
+    <string name="h21iiiiii">Řekla: Neptám se na nic jiného než tohle</string>
+    <string name="h21iiiiiii">A když přišel, přikázal ho zabít,Padl kapku jeho krve,Pořád byl pošetilý, dokud neposlal Bůh svou obřízku, a on sám řekl, že tato krev je stále strašidelná a že byl zabit za jeden den z bití jednoho domu a sedmnácti tisíc.</string>
+    <string name="h21iiiiiiii">Tato hadíth se týká případu Shikhina, který není znám svým podivnými svědky a Metnem</string>
+    <string name="h2121">Mustadrak Správně</string>
+    <string name="h212121">Kniha výkladu</string>
+    <string name="h21212121">Je to Surat Al-Imran</string>
+    <string name="h2_2">Bůh zaručuje těm, kteří se snaží cestou, aby ho nezbavili svého domova s výjimkou džihádu na cestě a aby ratifikovali své slovo, aby vstoupili do ráje nebo aby mu vrátili domácí odměnu nebo kořist.</string>
+    <string name="h2_22_2">Dveře Božích slov: {Rci: \"Kdyby bylo moře inkoustem ke psaní slov Pána mého, bylo by moře vyčerpáno dříve, než by se spotřebovala slova Pána mého, i kdybychom inkoustem učinili ještě jedno podobné jemu.\"} [Al-Kahf: 109]</string>
+    <string name="h23">O Bara bin Azabovi</string>
+    <string name="h2323">Muž četl jeskyně, a ke svému koni vázána Bhtunain, Vtgshth cloud</string>
+    <string name="h2323i">Řekl mu, když přišel Prorok (pokoj a požehnání Alláha). Řekl: \"Tento klid je odhalen Koránem.\"</string>
+    <string name="h232323">Kniha ctností Koránu</string>
+    <string name="h23232323">Výhodné dveře Surah Alkahf</string>
+    <string name="h24">Od Abu Musa al-Ash\'ari</string>
+    <string name="h2424">Mnozí muži jsou úplní,Byla dokončena pouze Maryam bint Omran,A manželka faraóna Asii,Aisha dala přednost ženám jako nejlepší jídlo na všech ostatních pokrmech</string>
+    <string name="h242424">Kniha potravin</string>
+    <string name="h24242424">Door Thred</string>
+    <string name="h25">Od Abu Sa\'eeda al-Khudriho</string>
+    <string name="h2525">Prorok (pokoj a požehnání Alláha na něj) řekl:O Vlastníci Al-A\'raf</string>
+    <string name="h2525i">Řekl: Jsou to muži zabiti v cestě Alláha a jsou neposlušní svým rodičům,Certifikát jim zabraňuje vjíždět do ohně a zabraňuje jim hřešit, aby vstoupili do ráje</string>
+    <string name="h2525ii">Jsou na zdi mezi nebem a ohněm, dokud jejich tělo nezůstane sucho a mastno, dokud se Bůh nerozpoznává výklad stvoření</string>
+    <string name="h2525iii">Pokud je Bůh dokončen z pohledu jeho stvoření, není to zbytek ostatních slov Alláha, a tak je učinil v ráji s jejich milostí</string>
+    <string name="h252525">Centrální slovník Tabarani</string>
+    <string name="h25252525">Bab Al Ain</string>
+    <string name="h2525252525">Ze svého jména: Obeid Alláh</string>
+    <string name="h26">Že Prorok, mír s ním Volal v modlitbě:Bože, zachránil Ayyash bin Abi Rabia,Salma bin Hisham,A Walid Bin Al Waleed,Bože zachránit slabé věřící,Panebože pomstil o škodlivých,Přinesl roky jako Jozefovy chudé roky</string>
+    <string name="h2626">Kniha nátlaku</string>
+    <string name="h262626">Co přišel do dveří Almtoolin</string>
+    <string name="h27">Abu Khair</string>
+    <string name="h2727">Slyšel Abdullah ibn Amr</string>
+    <string name="h272727">To Abu Bakr Upřímně</string>
+    <string name="h27272727">Řekl Chcete-li Prorok mír s ním</string>
+    <string name="h2727272727">Posle Boží, naučil mě modlitbu Volám ve svých modlitbách</string>
+    <string name="h2727272727i">Řekl: Rci: Ó Alláhu, jsem ublížil sám často neprávem,Pouze vy můžete odpustit hříchy,Odpusť mi odpuštění. Jsi odpouštějící, milosrdný</string>
+    <string name="h272727272727">Dveře Božích slov: { a Bůh slyšící je i jasnozřivý.} [An-Nisa: 134]</string>
+    <string name="h28">Od Abu Sa\'eed ibn al-Mu\'ali</string>
+    <string name="h2828">Modlil jsem se v mešitě,Posel Alláha (pokoj a požehnání Alláha na něho) mě zavolal a neposlechl ho</string>
+    <string name="h2828i">Řekl jsem: Ó posel Alláha, byl jsem v modlitbě</string>
+    <string name="h2828ii">Řekl: Copak Bůh: {Odpovídejte na výzvu Boha a posla Jeho, když ten vás volá k tomu, co život vám dává.}.</string>
+    <string name="h2828iii">Pak mi řekl: \"Abych vás naučil, je Surah tou nejlepší stěnou v Koránu.\",Než opustíte mešitu,Pak vzal mou ruku a když chtěl vyjet</string>
+    <string name="h2828iiii">Řekl jsem mu: Neřekl jsem, že ti řeknu, že Surat je nejlepší Surat v Koránu</string>
+    <string name="h2828iiiii">Řekl: \"Chvalte Bohu, Pane světů.\"ona,Velký Korán</string>
+    <string name="h282828">Dveře, co přišlo v hlavní části knihy</string>
+    <string name="h29">Od Abu Masoud</string>
+    <string name="h2929">Prorok (pokoj a požehnání Alláha na něj) řekl:Kdo čte dva verše od posledního Surat Al Baqarah v noci, že jste se zachránili před jakýmkoli zlem</string>
+    <string name="h292929">Řekl mi Posel Alláhův mír s ním Uložit zakat ramadánu,Někdo mě prošel,A začal jíst z jídla a já jsem ho vzal</string>
+    <string name="h292929i">Řekl jsem: Řeknu to Pro Božího posla je na něho pokoj</string>
+    <string name="h292929ii">Řekl: Když přijdete ke své posteli, přečtěte si verš Židle,Budete vždycky s Bohem a žádný démon vás nepřijde, dokud se nestanete</string>
+    <string name="h292929iii">Prorok (pokoj a požehnání Alláha na něj) řekl:řekl poctivost A Je to stejné Lhář,To je démon</string>
+    <string name="h29292929">Dvere ctnosti Surat Al Baqarah</string>
+    <string name="h30">Bůh řekl: Syn Adama mi lhal Neměl právo,On mě urazil a neměl to právo</string>
+    <string name="h30i">Pokud jde o jeho lži, říká:Nebudu jej znovu vytvářet, jak jsem to začal</string>
+    <string name="h30ii">Ale proklel mě, abych řekl: Bůh vzal syna,A Bůh sám o sobě věčný.Kdo nebyl ani narozen, ani narozen,(Neplodil a nebyl zplozen,a není nikoho, kdo je mu roven.)</string>
+    <string name="h3030">Dveře říkají: {Bůh sám o sobě věčný.} [Al-Ikhlas: 2]</string>
+    <string name="h31">O Aisha</string>
+    <string name="h3131">To, že Prorok (pokoj na něm) přijde spát každou noc, aby shromáždil své ruce</string>
+    <string name="h3131i">Pak mu dýchal v rukou a četl:Rci: On Bůh je jedinečný,Rci: Utíkám se v ochranu Pána záře jitřní,Rci: Utíkám se v ochranu Pána lidí</string>
+    <string name="h3131ii">Pak je utřete s tím, co mohou ze svého těla, začněte s nimi na hlavě a na obličeji a co dostane od svého těla, dělají to třikrát</string>
+    <string name="h313131">Dvere ctnosti</string>
+    <string name="h32">Řekl: Neexistuje žádné dítě, jen na jeho srdci šeptá,Zmínka o Bohu Bůh ho zachrání{před zlem našeptavače pokradmého}</string>
+    <string name="h32i">Tento hadíth je pravda o stavu dvou šejků</string>
+    <string name="h32ii">Poslední kniha výkladu a chvály je pro Boha světů a Bůh požehná nášmu pánovi Mohamedovi a jeho rodině a jeho společníkům</string>
+    <string name="h3232">Výklad Surat Al Nas</string>
+    <string name="h3_3">Dvě slova milovala Rahmanovi,lehká váha Na jazyku,těžkopádný V rovnováze:Hallelujah a chválit, Hallelujah velký</string>
+    <string name="h33_33">Dveře slova všemohoucího Boha: {A postavíme v den zmrtvýchvstání váhu spravedlivou a nebude duše žádná o nic ošizena; a i kdyby to mělo jen váhu zrna hořčičného, My je přineseme. A my stačíme si jako účetní. } [Prophets: 47], a že práce synů Adama a řekl zváží</string>
+    <string name="h34">O Aliovi</string>
+    <string name="h3434">Že Fatima mír je na nich přišel k proroku mír být na něj a požádal o otroka nenašel ho, tak jsem řekl Aisha, když jsem přišel jsem mu řekl</string>
+    <string name="h3434i">Řekla: \"Přišli jsme a vzali jsme si postel a já jsem šla</string>
+    <string name="h3434ii">Řekl: Vaše místo bylo mezi námi, až jsem našel chladné nohy na hrudi</string>
+    <string name="h3434iii">Řekl: Budu říkat, co je pro vás nejlepší ze serveru?</string>
+    <string name="h3434iiii">Když přijdete do postele nebo vezmete postel, Bůh je větší než třicet tři, sláva Bohu třicet tři,Chvála Bohu třicet tři, a to je pro vás lepší než služebník.</string>
+    <string name="h3434iiiii">Byl vyprávěn od Khalida z Ibn Sirin, že řekl: Tasbeeh je třicet čtyři</string>
+    <string name="h343434">Knižní doporučení</string>
+    <string name="h34343434">Dveře zvětšení a chvály ve snu</string>
+    <string name="copy_right">Ahmed Saad %1$d</string>
+    <string name="finalback">Opětovným stisknutím se vrátíte do hlavní nabídky</string>
+    <string name="back">Dalším stisknutím opustíte</string>
+    <string name="eshab">Zatáhněte nahoru nebo dolů</string>
+    <string name="bhs">Hledat</string>
+    <string name="list1">Doaa Adama a jeho ženy (pokoj a požehnání Alláha)</string>
+    <string name="list2">Doaa Yusuf (pokoj a požehnání Alláha)</string>
+    <string name="list3">Doaa Ayoub (pokoj a požehnání Alláha)</string>
+    <string name="list4">Doaa Noe (pokoj a požehnání Alláha)</string>
+    <string name="list5">Doaa Shuaib (pokoj a požehnání Alláha)</string>
+    <string name="list6">Doaa Ibrahim (pokoj a požehnání Alláha)</string>
+    <string name="list8">Doaa Mojžíš (pokoj a požehnání Alláha)</string>
+    <string name="list9">Doaa Šalomoun (pokoj a požehnání Alláha)</string>
+    <string name="list10">Doaa Younis (pokoj a požehnání Alláha)</string>
+    <string name="list11">Doaa Issa (pokoj a požehnání Alláha)</string>
+    <string name="list12">Doaa Lot (pokoj a požehnání Alláha)</string>
+    <string name="list13">Doaa Zakaria (pokoj a požehnání Alláha)</string>
+    <string name="list14">Doaa Matka Panny Marie Mír je na nich</string>
+    <string name="list17">Doaa andělé Mír je na nich</string>
+    <string name="list18">Doaa Postavil Izrael s Mojžíšem (pokoj a požehnání Alláha)</string>
+    <string name="list20">Doaa Faraonovi  kouzelníci Věřící</string>
+    <string name="list21">Doaa Apoštolové Ansar Isa (pokoj a požehnání Alláha)</string>
+    <string name="list23">Doaa Majitelé jeskyní</string>
+    <string name="list24">Duaa Asie,Alláh s ní spokojen</string>
+    <string name="list26">Doaa Zranitelní lidé na zemi</string>
+    <string name="list28">Nejlepší Doaa Al-Fatihah</string>
+    <string name="list33">Doaa našeho proroka Mohameda (pokoj a požehnání Alláha)</string>
+
+    <string name="beasm_ellah">Ve jménu Boha</string>
+
+    <string name="esm0" >Bůh</string>
+    <string name="esm1" >úplně Milosrdný</string>
+    <string name="esm2" >Milosrdný</string>
+    <string name="esm3" >Suverén</string>
+    <string name="esm4" >Svatý</string>
+    <string name="esm5" >Mír</string>
+    <string name="esm6" >Věřící</string>
+    <string name="esm7" >Ochránce</string>
+    <string name="esm8" >drahý</string>
+    <string name="esm9" >Mocný</string>
+    <string name="esm10" >Nejvyšší</string>
+    <string name="esm11" >Tvůrce</string>
+    <string name="esm12" >Výrobce</string>
+    <string name="esm13" >The Fashioner</string>
+    <string name="esm14" >Vždycky-Odpouštějící</string>
+    <string name="esm15" >Vždycky-Tlumení</string>
+    <string name="esm16">Vždycky-Obdarování</string>
+    <string name="esm17">Vždycky-Udržování</string>
+    <string name="esm18">Vždycky-Otevírací</string>
+    <string name="esm19">Všechno-Vědět</string>
+    <string name="esm20">The Restrainer</string>
+    <string name="esm21">The Expander</string>
+    <string name="esm22">The Abaser</string>
+    <string name="esm23">The Exalter</string>
+    <string name="esm24">Vyvýšení</string>
+    <string name="esm25">Dárce Z Hanba</string>
+    <string name="esm26">Všechno-Sluch</string>
+    <string name="esm27">Všechno-Vidění</string>
+    <string name="esm28">Soudce</string>
+    <string name="esm29">Spravedlivý</string>
+    <string name="esm30">Jemný</string>
+    <string name="esm31">Vědomě</string>
+    <string name="esm32">Shovívavý</string>
+    <string name="esm33">Velký</string>
+    <string name="esm34">Všechno-Odpouštějící</string>
+    <string name="esm35">Vděčný</string>
+    <string name="esm36">Nejvyšší</string>
+    <string name="esm37">Velký</string>
+    <string name="esm38">Nejlepší-Strážce</string>
+    <string name="esm39">Nejlepší-Poskytovatele</string>
+    <string name="esm40">Nejlepší-Reckoner</string>
+    <string name="esm41">Nejvíc-Majestátní</string>
+    <string name="esm42">Nejvíc-Dobročinný</string>
+    <string name="esm43">Bdělý</string>
+    <string name="esm44">Odpověď</string>
+    <string name="esm45">Všechno-Zahrnující</string>
+    <string name="esm46">Moudří</string>
+    <string name="esm47">Milující</string>
+    <string name="esm48">Nejvíc-Slavný</string>
+    <string name="esm49">Raiser Z Mrtví</string>
+    <string name="esm50">Nejlepší-Svědek</string>
+    <string name="esm51">Skutečný</string>
+    <string name="esm52">Správce</string>
+    <string name="esm53">Silný</string>
+    <string name="esm54">Firma</string>
+    <string name="esm55">Chrání Přítel</string>
+    <string name="esm56">Chvályhodný</string>
+    <string name="esm57">Pult</string>
+    <string name="esm58">Iniciátor</string>
+    <string name="esm59">Restaurátor</string>
+    <string name="esm60">život-Dárce</string>
+    <string name="esm61">život-Taker</string>
+    <string name="esm62">žití</string>
+    <string name="esm63">já-Existující</string>
+    <string name="esm64">Autor</string>
+    <string name="esm65">Nádherný</string>
+    <string name="esm66">Jediný</string>
+    <string name="esm68">Já-Dostatečný</string>
+    <string name="esm69">Všechno-Schopný</string>
+    <string name="esm70">Všechno-Determinant</string>
+    <string name="esm71">The Advancer</string>
+    <string name="esm72">Zpožďovač</string>
+    <string name="esm73">První</string>
+    <string name="esm74">Poslední</string>
+    <string name="esm75">Všechno-Vítězný</string>
+    <string name="esm76">Všechno-Zahrnující</string>
+    <string name="esm77">The Patron</string>
+    <string name="esm78">Já-Vyvýšený</string>
+    <string name="esm79">Dobročinný</string>
+    <string name="esm80">Osvobození</string>
+    <string name="esm81">Pomstitel</string>
+    <string name="esm82">The Pardoner</string>
+    <string name="esm83">Všechno-Lítost</string>
+    <string name="esm84">Vlastník Z Suverenita</string>
+    <string name="esm85">Pán Z majestát A Odměna</string>
+    <string name="esm86">Spravedlivý</string>
+    <string name="esm87">Sběrač</string>
+    <string name="esm88">Bohatý</string>
+    <string name="esm89">Obohacení</string>
+    <string name="esm90">Obránce</string>
+    <string name="esm91">The Harmer</string>
+    <string name="esm92">Dobrodince</string>
+    <string name="esm93">Světlo</string>
+    <string name="esm94">Průvodce</string>
+    <string name="esm95">Původce</string>
+    <string name="esm96">Věčný</string>
+    <string name="esm97">Dědice</string>
+    <string name="esm98">Nejlepší-Průvodce</string>
+    <string name="esm99">Nejvíc-Trpěliví</string>
+
+    <string name="il">" - jak jinak, než vzpomínkou na Boha se mohou srdce uklidnit? -"</string>
+    <string name="ill">Chvála Bohu, Pánu lidstva veškerého.</string>
+    <string name="list7">Doaa Ibrahim a Ismail Mír je na nich</string>
+    <string name="esm1_1">ar-Raḥmān [Ar-Rahmaan] The ِBeneficient/ All-Compassionate/ Most Gracious/</string>
+    <string name="esm111">Quran: Beginning of every Surah (chapter) except one, and numerous other places.</string>
+    <string name="esm11_11">The first verse (\'ayat) of Surah ar-Rahman (Surah 55) consists only of this Name.</string>
+    <string name="esm00">Is the greatest name which is unique by God Almighty and distinguished by himself and made it the first names.</string>
+    <string name="esm000">{Bohu náleží jména nejkrásnější}.Al-A\'raf(The Heights)180</string>
+    <string name="esm0000">The name (God) is the universal name of the most beautiful names, meaning in the tongue of the Arabs,God is in the heavens and in the earth, ie, the idol in the heavens and in the earth.</string>
+    <string name="esm00000">Name of God: He is the omnipotent God of all qualities of perfection, majesty and beauty worshiped by creatures</string>
+    <string name="esm2_2">ar-Raḥīm [Ar-Raheem] The Most Merciful/ Ever-Merciful/ Merciful/ Most Clement</string>
+    <string name="esm222">Quran: Beginning of every Surah(chapter)except one, and numerous other places.</string>
+    <string name="esm22_22">(there are a total of 114 Surahs in the Quran.)</string>
+    <string name="esm3_3">al-Mālik [al-Maalik] The King/ Lord/ Sovereign/ Dominion/ Master [also means \"the God/ Lord, the One and Only\", \"Possessor of Supreme Power or Authority\"]</string>
+    <string name="esm333">{On je Bůh - a není božstva kromě Něho - vládce, přesvatý, mír, věrný, ochránce bezpečný, mocný, samovládný, velmožný; oč slavnější je Bůh než vše to, co k Němu přidružují}.Al-Hashr(The Gathering)23</string>
+    <string name="esm33_33">{Nechť je povznesen Bůh, vládce skutečný! Není božstva kromě Něho, Pána trůnu vznešeného!} .Al-Mu\'minoon(The Believers)116</string>
+    <string name="esm4_4">al-Quddus [al-Quddous, al-Quddoos] The Holy/ All-Holy/ All-Pure/ Sacred/ All-Sacred</string>
+    <string name="esm44_44">{Oslavuje Boha vše, co na nebesích je i na zemi: vládce přesvatého, mocného i moudrého!} .Al-Jumu\'ah ( Friday )1</string>
+    <string name="esm444">"{On je Bůh - a není božstva kromě Něho - vládce, přesvatý, mír, věrný, ochránce bezpečný, mocný, samovládný, velmožný; oč slavnější je Bůh než vše to, co k Němu přidružují}.Al-Hashr(The Gathering)23"</string>
+    <string name="esm5_5">As-Salām [As-Salaam]</string>
+    <string name="esm555">The Giver of Peace/ Peace/ All-Calm/ Ever-Tranquil</string>
+    <string name="esm55_55">\"{On je Bůh - a není božstva kromě Něho - vládce, přesvatý, mír, věrný, ochránce bezpečný, mocný, samovládný, velmožný; oč slavnější je Bůh než vše to, co k Němu přidružují}.Al-Hashr(The Gathering)23\"</string>
+    <string name="esm6_6">al-Muʿumin/ al-Muʿmin</string>
+    <string name="esm666">The Granter of Security/ the Giver/ Faith/ Supreme Believer(of Belief)/ Giver of Belief/ All-Assurer</string>
+    <string name="esm66_66">\"{On je Bůh - a není božstva kromě Něho - vládce, přesvatý, mír, věrný, ochránce bezpečný, mocný, samovládný, velmožný; oč slavnější je Bůh než vše to, co k Němu přidružují}.Al-Hashr(The Gathering)23 \"</string>
+    <string name="esm7_7">al-Muhaymin</string>
+    <string name="esm777">The Controller/ Absolute Authority Over All/ Guardian Over All/ Absolute Master/ Eternal Dominating</string>
+    <string name="esm77_77">\"{On je Bůh - a není božstva kromě Něho - vládce, přesvatý, mír, věrný, ochránce bezpečný, mocný, samovládný, velmožný; oč slavnější je Bůh než vše to, co k Němu přidružují}.Al-Hashr(The Gathering)23 \"</string>
+    <string name="esm8_8">al-\ʿAzīz [al-Azeez] The Exalted in Might and Power/ Exalted/ Powerful/ Almighty/ Mighty</string>
+    <string name="esm888">{a je to On, jenž utváří vás v lůnech podle přání svého. A není božstva kromě Něho, mocného, moudrého}.Al-Imran(The Famiy of Imran)6,{naopak Bůh jej k sobě pozdvihl, neboť Bůh je mocný, moudrý}.An-Nisa ( The Women )158,{Jestliže vy mu nebudete pomáhat, Bůh pomohl mu již dříve, když vyhnali jej nevěřící a když byl jedním ze dvou; a když byli oba skryti v jeskyni, pravil svému příteli: "Nermuť se, vždyť Bůh je s námi!" A seslal mu Bůh Svou sakínu a podpořil jej vojsky pro vás neviditelnými a ponížil slova těch, kdož nevěřili, zatímco slovo Boží je nejvyšší - Bůh zajisté je mocný, moudrý}.At-Taubah(The Repentance)40</string>
+    <string name="esm88_88">{A Bohu patří vojska nebeská i pozemská a Bůh mocný je i moudrý}.Al-Fath(The Victory )7,{On je Bůh - a není božstva kromě Něho - vládce, přesvatý, mír, věrný, ochránce bezpečný, mocný, samovládný, velmožný; oč slavnější je Bůh než vše to, co k Němu přidružují}.Al-Hashr(The Gathering)23</string>
+    <string name="esm9_9">al-Jabbār/ al-Jabbār/ al-Jabbar [al-Jabbaar]</string>
+    <string name="esm999">The Omnipotent/ Supreme Power/ Possessor of Having All Power/ Strong</string>
+    <string name="esm99_99">"{ On je Bůh - a není božstva kromě Něho - vládce, přesvatý, mír, věrný, ochránce bezpečný, mocný, samovládný, velmožný; oč slavnější je Bůh než vše to, co k Němu přidružují.} "</string>
+    <string name="esm1010">al-Mutakabbir</string>
+    <string name="esm101010">The Possessor of Greatness/ Supreme/ Justly Proud</string>
+    <string name="esm10101010">"{ On je Bůh - a není božstva kromě Něho - vládce, přesvatý, mír, věrný, ochránce bezpečný, mocný, samovládný, velmožný; oč slavnější je Bůh než vše to, co k Němu přidružují.} "</string>
+    <string name="esm1111">al-Khāliq/ al-Khāliq/ al-Khaliq [al-Khaaliq] The Creator/ Creator of the Universe/ Maker/ True Originator/ Absolute Author</string>
+    <string name="esm111111">"{Takový je Bůh, Pán váš! A není božstva jiného kromě Něho, stvořitele věcí všech! Uctívejte tedy Jeho, vždyť On věru ochráncem je všeho!}.Al-An'am(The Cattle)102,{Rci: "Kdo Pánem je nebes a země?" Odpověz: "Bůh!" Rci: "Chcete si vzít vedle Něho ochránce, kteří nemohou prospět ani uškodit ni sobě samým?" Rci: "Cožpak jsou si rovni slepý a vidoucí či rovná se temnota světlu?" Což budou přidružovat k Bohu společníky, kteří snad stvořili něco podobného Jeho stvoření, takže se obě tvoření zdají podobná? Rci: "Bůh všech věcí je stvořitelem a On je jediný, vše podmaňující."}.Ar-Ra\'d(The Thunder)16,{Což není ten, jenž stvořil nebesa a zemi, schopen stvořit jim podobné? Však ano, vždyť On stvořitel je, vševědoucí}.Ya-seen 81 "</string>
+    <string name="esm11111111">{Bůh stvořitelem je věcí všech a On ručitelem je též všeho}.Az-Zumar(The Groups)39,{Takový je Bůh, váš Pán, stvořitel věci každé; není božstva kromě Něho! Jak se jen můžete odvracet od Něho?}.Ghafir(The Forgiver God)62,{On je Bůh, stvořitel, tvůrce i utvářející. Jemu přísluší jména překrásná a Jeho slaví vše, co na nebesích je i na zemi - On mocný je i moudrý!}.Al-Hashr(The Gathering)24</string>
+    <string name="esm1212">al-Bāriʿ/ al-Bariʿ [al-Baari’/ al-Baarie]</string>
+    <string name="esm121212">The Initiator/ Evolver/ Eternal Spirit Worshipped By All, Have Absolute Power Over All Matters, Nature and Events</string>
+    <string name="esm12121212">{On je Bůh, stvořitel, tvůrce i utvářející. Jemu přísluší jména překrásná a Jeho slaví vše, co na nebesích je i na zemi - On mocný je i moudrý!}.Al-Hashr(The Gathering)24</string>
+    <string name="esm13131313">{On je Bůh, stvořitel, tvůrce i utvářející. Jemu přísluší jména překrásná a Jeho slaví vše, co na nebesích je i na zemi - On mocný je i moudrý!}.Al-Hashr(The Gathering)24</string>
+    <string name="esm1313">"al-Muṣawwir /al-Musawwir [al-Mussawwir/ al-Muswawwir] "</string>
+    <string name="esm131313">The Fashioner/ Shaper/ Designer/ Artist</string>
+    <string name="esm1414">al-Ghaffār /al-Ghaffar [al-Ghaffaar] The Repeatedly Forgiving/ Absolute Forgiver/ Pardoner/ Condoner [He Who is Ready to Pardon and Forgive]</string>
+    <string name="esm141414">{Já věru jsem odpouštějící tomu, kdo pokání činí, věří, zbožné skutky koná a potom po správné cestě se ubírá}.Taha 82,{Pána nebes a země a všeho, co mezi nimi je, mocného a odpouštějícího!}.Sad(The Letter Sad)66,{On stvořil nebesa a zemi jako skutečnost vážnou a On zavinuje noc dnem a den nocí; a podmanil si slunce a měsíc, takže obě tělesa ke lhůtě stanovené ubíhají. Což tedy není mocný, odpouštějící?}.Az-Zumar(The Groups)5</string>
+    <string name="esm14141414">{Vyzýváte mne, abych nevěřil v Boha a k Němu přidružoval to, o čem nemám žádné vědomosti, zatímco já vás vyzývám k mocnému, odpouštějícímu}.Ghafir(The Forgiver God)42,{a pravil jsem jim:, Proste Pána svého za odpuštění, vždyť On věru je odpouštějící!}.Nooh 10</string>
+    <string name="esm1515">al-Qahhār /al-Qahhar [al-Qahhaar] The Subduer/ Overcomer/ Conqueror/ Absolute Vanquisher [Possessor of Who Subdues Evil and Oppression]</string>
+    <string name="esm151515">{Přátelé moji vězeňští, jsou snad rozdělení páni lepší než Bůh jediný, vše podmaňující?}.Yusuf(Joseph)39,{Rci: "Kdo Pánem je nebes a země?" Odpověz: "Bůh!" Rci: "Chcete si vzít vedle Něho ochránce, kteří nemohou prospět ani uškodit ni sobě samým?" Rci: "Cožpak jsou si rovni slepý a vidoucí či rovná se temnota světlu?" Což budou přidružovat k Bohu společníky, kteří snad stvořili něco podobného Jeho stvoření, takže se obě tvoření zdají podobná? Rci: "Bůh všech věcí je stvořitelem a On je jediný, vše podmaňující."}.Ar-Ra\'d(The Thunder)16,{v den, kdy země nahrazena bude zemí jinou a nebe jiným nebem a kdy lidé stanou před Bohem jediným, podmanitelem.}.Ibrahim(Abraham)48</string>
+    <string name="esm15151515">{Rci: Já jenom varovatel jsem a není božstva žádného kromě Boha jediného, podmaňujícího}.Sad(The Letter Sad)65,{Kdyby si byl Bůh přál mít děti, byl by si věru vybral podle libosti z těch, které stvořil. Sláva Jemu - On Bůh je jediný, vše podmaňující.}.Az-Zumar(The Groups)4,{dnem, kdy mrtví se vynoří a kdy o nich nebude skryto před Bohem nic. "Komu dnes náleží moc královská?" "Bohu jedinému, podmaniteli!}.Ghafir(The Forgiver God)16</string>
+    <string name="esm1616">al-Wahhāb /al-Wahhab [al-Wahhaab]</string>
+    <string name="esm161616">The ِِAbsolute Bestower/ Giver/ Grantor/ Great Donor</string>
+    <string name="esm16161616">{Což oni vlastní pokladnice milosrdenství Pána tvého mocného a dárce?}.Sad(The Letter Sad)9,{a volal: \"Pane můj, odpusť mi a daruj mi království takové, jakého nikdo po mně nedosáhne, vždyť Tys věru štědrý dárce!\"}.Sad(The Letter Sad)35</string>
+    <string name="esm1717">ar-Razzāq /Ar-Razzaq [Ar-Razzaaq]</string>
+    <string name="esm171717">The Provider/ Sustainer/ Bestower of Sustenance/ All-Provider</string>
+    <string name="esm17171717">{vždyť Bůh sám je živitel, vládce síly a nezviklatelný!}.Adh-Dhariyat(The Wind that Scatter)58</string>
+    <string name="esm1818">al-Fattāḥ /al-Fattah [al-Fattaah]</string>
+    <string name="esm181818">The Opener/ Opener of the Gates of Profits/ Reliever/ The Victory Giver</string>
+    <string name="esm18181818">{Rci: \"Pán náš všechny nás shromáždí a potom rozhodne mezi námi podle pravdy - a On rozhodčí je i vševědoucí!\"}.Saba(Sheba)26</string>
+    <string name="esm1919">al-Aliym/ al-Alīm/ al-Alim [al-Aleem] The Knowing/ All-Knower/ Omniscient/ All-Knowledgeable/ Possessor of Knowing Much of Ever Thing/ All-Knowing</string>
+    <string name="esm191919">{As-Safá a al-Marwa věru patří k posvátným místům Božím; a kdo plní povinnost pouti k Chrámu nebo koná malou pouť, ten nedopustí se hříchu, když vykoná obcházení okolo obou těch míst. A kdokoliv dobrovolně koná dobré,… vždyť Bůh je za díky uznalý a vševědoucí.}.Al-Baqarah(The Cow)158,{Nikdy nedosáhnete pravé zbožnosti, dokud nebudete rozdávat z toho, co milujete - a cokoliv z věcí rozdáte, Bůh o tom dobře ví.}.Al-Imran(The Famiy of Imran)92,{A obáváte-li se rozvratu mezi oběma, povolejte rozhodčího z jeho rodiny a rozhodčího z její rodiny. A přejí-li si oba manželé usmíření, Bůh mezi nimi zařídí shodu, neboť Bůh je vševědoucí a dobře zpraven.}.An-Nisa(The Women)35</string>
+    <string name="esm19191919">{Což jsi neviděl, že Boha slaví všichni, kdož na nebesích jsou i na zemi, a rovněž ptáci, v řadách letící? A vše zná modlitbu i volání slávy Jeho. A Bůh dobře ví o všem, co dělají.}.An-Noor(The Light)41{A Muhammad není otcem žádného muže z vás, ale je poslem Božím a pečetí proroků. A Bůh je vševědoucí o věci každé.}.Al-Ahzab(The Combined Forces)40</string>
+    <string name="esm2020">al-Qābiḍ/ al-Qabid/ al-Qabidh [al-Qaabid/ al-Qaabidh]</string>
+    <string name="esm202020">The Restrainer/ / Withholder/ Straightener/ Absolute Seizer</string>
+    <string name="esm20202020">"{Kdokoliv dá Bohu půjčku výhodnou, tomu bude vrácena mnohonásobně; Bůh zavírá a otevírá dlaň svou a k Němu budete navráceni.}.Al-Baqarah(The Cow)245 "</string>
+    <string name="esm2121">al-Bāsiṭ/ al-Basit/ al-Basitt [al-Baasit/ al-Baasitt]</string>
+    <string name="esm212121">The Extender / Expander/ Generous Provider</string>
+    <string name="esm21212121">"{Kdokoliv dá Bohu půjčku výhodnou, tomu bude vrácena mnohonásobně; Bůh zavírá a otevírá dlaň svou a k Němu budete navráceni.}.Al-Baqarah(The Cow)245 "</string>
+    <string name="esm2222">al-Khāfiḍ/ al-Khafid/ al-Khafidh [al-Khaafid/ al-Khaafidh]</string>
+    <string name="esm222222">The Abaser/ Humiliator/ Downgrader [Possessor of Giving Comfort, Free from Pain Anxiety or Troubles]</string>
+    <string name="esm22222222">{poníží, povýší.}.Al-Waqi\'ah(The Event)3</string>
+    <string name="esm2323">ar-Rāfiʿ/ Ar-Rafiʿ/ Ar-Rafee [Ar-Raafiʿ/ Ar-Raafee]</string>
+    <string name="esm232323">The Exalter/ Upgrader [of Ranks]</string>
+    <string name="esm23232323">{Vy, kteří věříte! Když je vám řečeno \"Uvolněte místo ve shromáždění!\", tedy je uvolněte! A Bůh pro vás také uvolní místo (v ráji). A když je vám řečeno \"Vzdalte se!\", tedy se vzdalte. A Bůh pak povýší ty z vás, kdož uvěřili, a ty, jimž dostalo se vědění, na stupně různé. A Bůh dobře je zpraven o všem, co děláte.}.Al-Mujadilah(She That Disputeth)11,{A toto jsou důkazy Naše, jež dali jsme Abrahamovi proti lidu jeho. My pak povyšujeme na stupních, koho chceme, a Pán tvůj je věru moudrý, vševědoucí.}.Al-An\'am(The Cattle)83</string>
+    <string name="esm2424">al-Muʿizz [al-Muʿeizz]</string>
+    <string name="esm242424">The Giver of Honor/ Bestower of Honor/ Empowerer</string>
+    <string name="esm24242424">"{Rci: \"Bože veliký, vládce království! Ty dáváš vládu, komu chceš, a odebíráš ji, komu chceš; Ty povyšuješ, koho chceš, a ponižuješ, koho chceš, v ruce Tvé je dobro a Tys věci každé mocen.}.Al-Imran(The Famiy of Imran)26 "</string>
+    <string name="esm25252525">"{Rci: \"Bože veliký, vládce království! Ty dáváš vládu, komu chceš, a odebíráš ji, komu chceš; Ty povyšuješ, koho chceš, a ponižuješ, koho chceš, v ruce Tvé je dobro a Tys věci každé mocen.}.Al-Imran(The Famiy of Imran)26 "</string>
+    <string name="esm2525">al-Muḏill/al-Mudhill/ al-Muzill [al-Mudzhill]</string>
+    <string name="esm252525">The Giver of Dishonor/ the Giver of Disgrace</string>
+    <string name="esm2626">as-Samiyʿ/as-Samīʿ/As-Samiʿ/ As-Samie [As-Sameeʿ] The Hearing/ All-Hearing/ Hearer of Invocation</string>
+    <string name="esm262626">{Když pak Abraham a Ismael kladli základy chrámu, zvolali: \"Pane náš, přijmi jej od nás, vždyť Tys věru slyšící, vševědoucí!}.Al-Baqarah(The Cow)127,{Nebudiž žádného donucování v náboženství! A již bylo jasně rozlišeno správné vedení od bloudění! Ten, kdo nevěří v Tághúta a věří v Boha, ten uchopil se rukojeti spolehlivé, jež nikdy se neutrhne. A Bůh je slyšící, vševědoucí.}.Al-Baqarah(The Cow)256</string>
+    <string name="esm26262626">{Nejste to vy, kdo je zabili, ale Bůh je zabil; a nevrhals ty, když jsi vrhal, nýbrž byl to Bůh, kdo vrhal, aby vyzkoušel věřící zkouškou dobrou, od Něho přicházející, vždyť Bůh slyšící je, vševědoucí!}.Al-Anfal(The Spoils of War)17,{Vy, kteří věříte! Nesnažte se předejít Boha a posla jeho! Buďte bohabojní, vždyť Bůh věru je slyšící, vševědoucí!}.Al-Hujurat(The Dwellings)1</string>
+    <string name="esm2727">al-Baṣīr/ al-Basir/ al-Bassir/ al-Baswir [al-Baseer/ al-Basseer/ al-Basweer] The All-Seeing/ All-Seer/ Ever-Clairvoyant/ Clear-Sighted/ Clear-Seeing</string>
+    <string name="esm272727">{Bůh vám přikazuje, abyste vraceli svěřené majetky jejich vlastníkům, a když soudíte mezi lidmi, abyste soudili spravedlivě. Vždyť Bůh - a jak krásné je to, k čemu vás napomíná - vždyť Bůh slyšící je i jasnozřivý.}.An-Nisa(The Women)58,{Sláva tomu, jenž za noci přenesl služebníka Svého z Posvátné mešity do mešity nejvzdálenější, jejíž okolí jsme požehnali, abychom mu ukázali některá Svá znamení. A On věru slyšící je a jasnozřivý.}.Al-Isra(The Night Journey)1</string>
+    <string name="esm27272727">{Stvořitel nebes a země, jenž učinil vám manželky vaše z vás samých a stvořil zvířata v párech, a tím vás rozmnožuje. A není nic, co by podobné Mu bylo a On slyšící je i jasnozřivý.}.Ash-Shura(Consultation)11,{Kdyby Bůh dal služebníkům Svým obživu v hojnosti, věru by se stali nestoudnými na zemi, avšak On sesílá s mírou to, co chce. On věru je o služebnících Svých dobře zpraven a dobře je vidí.}.Ash-Shura(Consultation)2</string>
+    <string name="esm2828">al-Ḥakam</string>
+    <string name="esm282828">The Judge/ Arbitrator/ Arbiter/ All-Decree/ Possessor of Authority of Decisions and Judgment</string>
+    <string name="esm28282828">{a Bůh rozsoudí mezi vámi v den zmrtvýchvstání to, o čem jste se tak hádali.}.Al-Hajj(The Pilgrimage)69</string>
+    <string name="esm2929">al-ʿAdl/ al-Edl</string>
+    <string name="esm292929">The Just</string>
+    <string name="esm29292929">Authorized and Straightforward Judge of Dealing Justly</string>
+    <string name="esm3030">al-Laṭiyf/ al-Latif / al-Lattif/ al-Latwif [al-Lateef/ al-Latteef/ al-Latweef] The Gentle/ Benignant/ Subtly Kind/ All-Subtle</string>
+    <string name="esm303030">{Což jsi neviděl, jak Bůh seslal z nebes vodu, takže se země zazelenala? Vždyť Bůh je věru rychlý a dobře zpravený.}.Al-Hajj(The Pilgrimage)63,{Synáčku, i kdyby to byla váha zrnka hořčičného a i kdyby to bylo ve skále či na nebi anebo na zemi, Bůh to přinese! Vždyť Bůh věru bystrý je i dobře zpravený.}.Luqman 16</string>
+    <string name="esm30303030">{A zapamatujte si to, co bylo přednášeno v domech vašich ze znamení Božích a z moudrosti! A Bůh věru je bystrý, dobře zpravený.}.Al-Ahzab(The Combined Forces)34</string>
+    <string name="esm3131">al-Khabiyr/ al-Khabīr/ al-Khabir [al-Khabeer] The All-Aware/ Well-Acquainted/ Ever-Adept</string>
+    <string name="esm313131">{On vládu neomezenou má nad služebníky Svými a On moudrý je i dobře zpravený.}.Al-An\'am(The Cattle)18,{Pán tvůj otevřenou rukou uštědřuje obživu anebo ji odměřuje, komu chce, neboť On dobře je zpraven o služebnících Svých a jasně je zří.}.Al-Isra(The Night Journey)30</string>
+    <string name="esm31313131">{Lidé, věru jsme vás stvořili z muže a ženy a učinili jsme z vás národy a kmeny, abyste se vzájemně poznali. Avšak nejvznešenější z vás před Bohem je ten, kdo je nejbohabojnější - a Bůh je vševědoucí a dobře zpravený.}.Al-Hujurat(The Dwellings)13,{Vy, kteří věříte, bojte se Boha! Nechť duše každá popatří na to, co si již dříve připravila pro zítřek. Bojte se Boha, vždyť Bůh je dobře zpraven o všem, co děláte.}.Al-Hashr(The Gathering)18</string>
+    <string name="esm3232">al-Ḥaliym/ al-Ḥalīm/ al-Halim [al-Haleem] The Forbearing/ Indulgent/ Oft Forbearing/ All-Enduring (of Suffering Pain with Patience)</string>
+    <string name="esm323232">{A není pro vás hříchem, jestliže se budete ucházet o tyto ženy či budete-li mít podobný skrytý úmysl v duších svých. Bůh ví dobře, že si na ně budete myslit, avšak nesmlouvejte se s nimi v tajnosti, leda promluvíte-li slova zvyklostí uznaná. A nečiňte rozhodnutí o svazku manželském (s vdovou), pokud neuplyne lhůta předepsaná, a vězte, že Bůh dobře zná, co skryto je ve vašich duších! Střezte se Ho a vězte, že Bůh je odpouštějící, slitovný!}.Al-Baqarah(The Cow)235,{A pěje slávu Jeho sedm nebes a země i vše, co na nich je. A není věci, jež by chválu Jeho neslavila, avšak vy nevěřící slavení jejich nechápete. On věru mírný je i odpouštějící.}.Al-Isra(The Night Journey)44</string>
+    <string name="esm32323232">{A věru je uvede na místo, jež se jim bude líbit; a Bůh zajisté je vševědoucí, soucitný.}.Al-Hajj(The Pilgrimage)52,{Bůh věru pevně třímá nebesa a zemi, aby se nesesuly; kdyby se sesuly, pak by je po Něm nikdo jiný nemohl udržet, a On soucitný je a odpouštějící.}.Fatir(The Orignator)41</string>
+    <string name="esm3333">al-ʿAẓiym/ al-ʿAẓīm/ al-ʿAzim, al-ʿAzzim, al-ʿAzwim/ al-Ezim, al-Ezzim, al-Ezwim [al-ʿAzzeem, al-ʿAzweem/ al-Ezzeem, al-Ezweem] The Most Great/ Ever-Magnificent/ Most Supreme/ Exalted/ Absolute Dignified</string>
+    <string name="esm333333">{Bůh - není božstva kromě Něho, živého, trvalého! Nepadá naň ani dřímota, ani spánek, Jemu náleží vše, co na nebesích je i na zemi! Kdo může se u Něho přimluvit jinak, než s dovolením Jeho? On zná, co je před rukama jejich i co je za zády jejich, zatímco oni neobejmou z vědění Jeho nic leda to, co On chce. Trůn Jeho obepíná nebesa i zemi a střežení jich mu potíží nečiní - On vznešený je a mohutný!}.Al-Baqarah(The Cow)255</string>
+    <string name="esm33333333">{Jemu náleží vše, co je na nebesích a co je na zemi, a On vznešený je i nesmírný.}.Ash-Shura(Consultation)4,{Oslavuj tedy jméno Pána svého mocného!}.Al-Waqi\'ah(The Event)96</string>
+    <string name="esm3434">al-Ghafūr/ al-Ghafur [al-Ghafour, al-Ghafoor] The Ever-Forgiving/ Oft-Forgiving</string>
+    <string name="esm343434">{Bůh zakázal vám jedině zdechliny, krev, vepřové maso a to, co bylo zasvěceno někomu jinému než Bohu. Kdo však byl donucen jísti toto, aniž po tom toužil nebo přestupníkem byl, na tom nebude hříchu, vždyť Bůh je odpouštějící, slitovný.}.Al-Baqarah(The Cow)173,{Jezte z toho, co jste ukořistili, jen dovolené a výtečné a bojte se Boha, vždyť Bůh je odpouštějící, slitovný.}.Al-Anfal(The Spoils of War)69</string>
+    <string name="esm34343434">{Pán tvůj však bude k těm, kdož se vystěhovali poté, co útisk zakusili, a poté, co bojovali a neochvějní byli - k těm zajisté bude Pán tvůj po tom všem odpouštějící a slitovný}.An-Nahl(The Bees)110,{jako pohoštění od odpouštějícího, slitovného.}.Fussilat(Explained in Detail)32</string>
+    <string name="esm3535">ash-Shakūr/ ash-Shakur [Ash-Shakour, Ash-Shakoor] The Grateful/ Appreciative/ Multiplier of Rewards</string>
+    <string name="esm353535">{aby On jim mohl dát v plnosti odměnu jejich a přidat jim k tomu z dobrodiní Svého. A On odpouštějící je i uznalý za vděčnost.}.Fatir(The Orignator)30,{A budou říkat: Chvála Boha, jenž od nás zármutek vzdálil! Pán náš věru je odpouštějící a za vděčnost uznalý}.Fatir(The Orignator)34</string>
+    <string name="esm35353535">{A toto je to, co Bůh oznamuje jako zvěst radostnou služebníkům Svým, kteří uvěřili a zbožné skutky konali. Rci: \"Nežádám od vás odměnu žádnou leč lásku k bližním!\" Kdokoliv uskuteční něco dobrého, tomu rovněž rozmnožíme dobré, vždyť Bůh věru je odpouštějící a za vděčnost uznalý.}.Ash-Shura(Consultation)23,{Dáte-li Bohu výhodnou půjčku, On vám ji navrátí dvojnásobně a odpustí vám; vždyť Bůh je za vděčnost uznalý a laskavý}.At-Taghabun(Mutual Loss and Gain)17</string>
+    <string name="esm3636">al-Ali [al-Aliyy] The Sublime/ Ever-Exalted/ Supreme/ Most High/ Most Lofty</string>
+    <string name="esm363636">{Muži zaujímají postavení nad ženami proto, že Bůh dal přednost jedněm z vás před druhými, a proto, že muži dávají z majetků svých (ženám). A ctnostné ženy jsou pokorně oddány a střeží skryté kvůli tomu, co Bůh nařídil střežit. A ty, jejichž neposlušnosti se obáváte, varujte a vykažte jim místa na spaní a bijte je! Jestliže vás jsou však poslušny, nevyhledávejte proti nim důvody! A Bůh věru je vznešený, veliký.}.An-Nisa(The Women)34,{A je to proto, že Bůh je skutečnost, zatímco to, co vzýváte vedle Něho, je falešné - a Bůh věru je vznešený i veliký.}.Luqman 30,{Jemu náleží vše, co je na nebesích a co je na zemi, a On vznešený je i nesmírný.}.Ash-Shura(Consultation)4</string>
+    <string name="esm36363636">{A není dáno smrtelníku žádnému, aby s ním Bůh rozmlouval, leda prostřednictvím vnuknutí či zpoza clony anebo tak, že vyšle posla, jenž vnuká lidem z dovolení Jeho to, co On chce a On vznešený je a moudrý.}.Ash-Shura(Consultation)51,{A nebude platná u Něho přímluva žádná, leda pro toho, komu On to dovolí. A až nakonec strach vyprázdní srdce jejich, řeknou: "Co pravil Pán váš?" a bude jim řečeno: "Pravdu, a On vznešený je i veliký!"}.Saba(Sheba)23</string>
+    <string name="esm3737">al-Kabiyr/ al-Kabīr/ al-Kabir [al-Kabeer] The Great/ Ever-Great/ Grand/ Most Great/ Greatly Abundant of Extent, Capacity and Importance</string>
+    <string name="esm373737">{On zná nepoznatelné a všeobecně známé, On veliký je, sám sebou povznesený!}.Ar-Ra\'d(The Thunder)9,{A je to proto, že Bůh je pravda a že to, co je místo Něho vzýváno, je nicotné a Bůh věru je vznešený, veliký.}.Al-Hajj(The Pilgrimage)62</string>
+    <string name="esm37373737">{A nebude platná u Něho přímluva žádná, leda pro toho, komu On to dovolí. A až nakonec strach vyprázdní srdce jejich, řeknou: \"Co pravil Pán váš?\" a bude jim řečeno: \"Pravdu, a On vznešený je i veliký!\"}.Saba(Sheba)23</string>
+    <string name="esm3838">al-Ḥafiyẓ/ al-Hafiz [al-Hafeez] The Preserver/ Ever-Preserving/ All-Watching/ Protector/ Guardian/ Oft-Conservator</string>
+    <string name="esm383838">{Jestliže se odvrátíte zády, nevadí, já předal jsem vám již to, s čím poslán jsem byl k vám. Pán můj vás může jiným lidem nahradit, však vy Jemu nikterak nemůžete uškodit; Pán můj je věru strážcem všech věcí}.Hud 57,{Neměli však nad nimi žádné pravomoci a stalo se tak jedině proto, abychom rozeznali ty, kdo v život budoucí uvěřili, od těch, kdo o něm na pochybách byli. A Pán tvůj strážcem je všech věcí.}.Saba(Sheba)21</string>
+    <string name="esm38383838">{Ty, kdož si vzali ochránce jiné vedle Něho, ty Bůh dobře střeží - ty však nad nimi nejsi dozorcem žádným.}.Ash-Shura(Consultation)6</string>
+    <string name="esm3939">al-Muqiyt/ al-Muqit [al-Muqeet]</string>
+    <string name="esm393939">The Nourisher/ Feeder</string>
+    <string name="esm39393939">{Kdo se přimluví krásnou přímluvou, bude mít z ní podíl; kdo však se přimluví s úmyslem špatným, dostane také z toho podíl - a Bůh dává na vše dobrý pozor.}.An-Nisa(The Women)85</string>
+    <string name="esm4040">al-Ḥasiyb/ al-Ḥasīb/ al-Hasib [al-Haseeb] The Bringer of Judgment/ Ever-Reckoner [the One Who Takes Account of All Matters]</string>
+    <string name="esm404040">{A zkoušejte schopnosti sirotků, dokud nedospějí do věku sňatku; postřehnete-li pak u nich zralost úsudku, tedy jim předejte majetky jejich. A nepohlcujte z něho nadbytečně a chvatně, dokud oni nedospějí. Nechť ten, kdo je bohatý, se zdrží a nechť ten, kdo je chudý, jí z něho jen podle zvyklosti oprávněné. A když jim předáte majetky jejich, dejte si to potvrdit svědky - a Bůh postačí jako zúčtovatel.}. An-Nisa(The Women)6,{Když jste pozdraveni zdvořilým pozdravem, pozdravte ještě vlídněji nebo odpovězte stejným způsobem. A Bůh věru vše počítá.}.An-Nisa(The Women)86</string>
+    <string name="esm40404040">{pro ty, kdo hlásají poselství Boží a nebojí se nikoho kromě Boha! A Bůh stačí jako účtovatel.}.Al-Ahzab(The Combined Forces)39</string>
+    <string name="esm4141">al-Jaliyl/ al-Jalīl/ al-Jalil [al-Jaleel]</string>
+    <string name="esm414141">The Majestic/ Exalted/ Oft-Important/ Splendid</string>
+    <string name="esm41414141">{a zůstane jen tvář Pána tvého, majestátnosti a velkomyslnosti plného.}.Ar-Rahman(The Most Graciouse)27,{A když přišel Mojžíš na schůzku Námi stanovenou a když s ním promluvil Pán jeho, zvolal:;, Pane můj, ukaž se mi, abych Tě mohl spatřit!" I odpověděl: "Nikdy Mne nespatříš, ale pohleď k této hoře: jestliže zůstane nehybná na místě svém, tedy Mne uvidíš!" A když pak se Pán jeho zjevil nahoře, obrátil ji v prach a Mojžíš klesl jak bleskem zasažen. A když se vzpamatoval, zvolal: "Sláva Tobě, kajícně jsem se k Tobě obrátil a nyní jsem první z věřících!"}.Al-A\'raf(The Heights)143</string>
+    <string name="esm4242">al-Kariym/ al-Karīm/ al-Karim [al-Kareem]</string>
+    <string name="esm424242">The Noble/ Bountiful/ Generous/ Precious/ Honored/ Benefactor</string>
+    <string name="esm42424242">{Pak řekl ten, u něhož bylo vědění z Písma: \"Já, já ti jej přinesu, dříve než pohled tvůj se k tobě vrátí!\" A když uviděl Šalomoun trůn postavený před sebou, pravil: \"Toto pochází z laskavosti Pána mého, aby mne vyzkoušel, jsem-li vděčný či nevděčný. Ten, kdo je vděčný, je jím pro vlastní duši svou, však ten, kdo nevděčný je a Pán můj soběstačný je i štědrý!\"}.An-Naml(The Ants)40,{Člověče, co zmýlilo tě o laskavém Pánu tvém}.Al-Infitar(The Cleaving)6</string>
+    <string name="esm4343">ar-Raqiyb/ ar-Raqīb/ Ar-Raqib [Ar-Raqeeb]</string>
+    <string name="esm434343">The Watchful/ Observer/ Ever-Watchful/ Watcher</string>
+    <string name="esm43434343">{Lidé, bojte se Pána svého, jenž stvořil vás z bytosti jediné a stvořil z ní manželku její a rozmnožil je oba v množství velké mužů i žen. A bojte se Boha, v Jehož jménu se vzájemně prosíte, a dbejte na pravidla o pokrevních svazcích, neboť Bůh zajisté nad vámi je pozorovatelem.}.An-Nisa(The Women)1,{Neříkal jsem jim, leda to, cos mi nařídil, to jest: Uctívejte Boha, Pána mého i Pána vašeho! A byl jsem svědkem o nich, dokud jsem žil mezi nimi. A když jsi mne povolal k Sobě, byls to Ty, kdo byl nad nimi dozorcem - a Tys svědkem věcí všech.}.Al-Maidah(The Table spread with Food)117</string>
+    <string name="esm4444">al-Mujiyb/ al-Mujīb/ al-Mujib [al-Mujiyb]</string>
+    <string name="esm444444">The Responsive/ Answerer/ Supreme Answerer/ Accepter of Invocation</string>
+    <string name="esm44444444">{A k Thamúdovcům jsme vyslali bratra jejich Sáliha, jenž pravil jim: \"Lide můj, uctívejte Boha a nemějte božstvo jiné kromě Něho; On dal vám vzejít ze země a usídlil vás na ní. O odpuštění Jej proste a pokání čiňte, neb Pán můj blízký je a popřeje sluchu prosícím.\"}.Hud 61</string>
+    <string name="esm4545">al-Wāsi‘/ al-Wasi‘/ al-Wasie [al-Waasi‘/ al-Waasie] The Vast/ All-Embracing/ Omnipresent/ Boundless/ All-Encompassing</string>
+    <string name="esm454545">{Satan vám vyhrožuje chudobou a přikazuje vám hanebnosti, avšak Bůh vám slibuje odpuštění Své a laskavost - a Bůh věru je velkorysý, vševědoucí.}.Al-Baqarah(The Cow)268{Nevěřte nikomu kromě těch, kdož následují náboženství vaše!" Rci: "Jediné správné vedení je vedení Boži! Vy se obáváte, aby se nikomu nedostalo podobného tomu, čeho se dostalo vám, anebo aby se věřící nepřeli s vámi ohledně Pána vašeho." Rci: "Milost je věru v rukou Božích a On ji uštědřuje, komu chce - a Bůh je nesmírný, vševědoucí.}.Al-Imran(The Famiy of Imran)73</string>
+    <string name="esm45454545">{Vy, kteří věříte! Kdo z vás se odřekne náboženství svého… A Bůh přivede lidi, které bude milovat a kteří budou milovat Jeho a kteří budou pokorní vůči věřícím a přísní vůči nevěřícím, budou bojovat na cestě Boží a nebudou se bát výčitek nikoho. A toto je laskavost Boží a On ji uštědřuje, komu chce, a Bůh je velkorysý, vševědoucí.}.Al-Maidah( The Table spread with Food)54</string>
+    <string name="esm4646">al-Ḥakiym/ al-drīs/ al-Hakim [al-Hakeem] The Wise/ Ever-Wise/ Endowed with Sound Judgment</string>
+    <string name="esm464646">{Kdyby všechno stromoví, jež je na zemi, bylo pery, a kdyby moře, rozmnožené ještě o sedm moří, bylo inkoustem, nevyčerpala by se nikdy slova Boží - a Bůh mocný je i moudrý.}.Luqman 27,{Seslání Písma pochází od Boha mocného, moudrého.}.Al-Ahqaf(The Curved Sand-hills)2</string>
+    <string name="esm46464646">{Chválí Boha vše, co na nebesích je i na zemi - a On mocný je i moudrý.}.Al-Hadid(The Iron)1,{Bůh vám uložil, abyste se vyvázali z přísah svých; Bůh ochráncem je vaším a On vševědoucí je i moudrý.}.At-Tahrim(The Prohibition)2</string>
+    <string name="esm4747">al-Wadūd/ al-Wadud [al-Wadoud/ al-Wadood]</string>
+    <string name="esm474747">The Affectionate/ Ever-Affectionate/ Loving One/ Loving/ the One Who Tenders and Warm Hearts</string>
+    <string name="esm47474747">{Pána svého o odpuštění proste a pokání před Ním čiňte? vždyť Pán můj slitovný je i láskyplný!}.Hud 9,{On odpouštějící je, láskyplný}.Al-Burooj(The Big Stars)14</string>
+    <string name="esm4848">al-Majiyd/ al-Majīd/ al-Majid [al-Majeed]</string>
+    <string name="esm484848">The All-Glorious/ Majestic/ Ever-Illustrious [Oft-Brilliant in Dignity, Achievements or Actions]</string>
+    <string name="esm48484848">{Řekli: \"Jsi snad udivena rozhodnutím Božím? Nechť na vás spočine milosrdenství Boží i požehnání Jeho, lidé domu tohoto a On chvályhodný je i slávyplný!\"}.Hud 73</string>
+    <string name="esm4949">al-Bāʿith/ al-Baʿith / al-Baʿeith [al-Baaʿith/ al-Baaʿeith]</string>
+    <string name="esm494949">The Resurrector/ Awakener/ Arouser/ Dispatcher</string>
+    <string name="esm49494949">{a že Hodina přijde a není o ní pochyby žádné a že Bůh vzkřísí ty, kdož v hrobech jsou.}.Al-Hajj(The Pilgrimage)7</string>
+    <string name="esm5050">ash-Shahiyd/ ash-Shahīd/ ash-Shahid [Ash-Shaheed] The Witness/ Testifier/ Ever-Witnessing</string>
+    <string name="esm505050">{Avšak Bůh dosvědčí to, co ti seslal; a seslal to ve vědění Svém a andělé to též dosvědčí. Avšak Bůh stačí jako svědek.}.An-Nisa(The Women)166,{A věru ti, kdož uvěřili a ti, kdož vyznávají židovství, sabejci, křesťané a zoroastrovci a ti, kdo k Bohu přidružují, zjistí, že Bůh mezi nimi rozliší v den zmrtvýchvstání, neboť Bůh svědkem je všech věcí.}.Al-Hajj(The Pilgrimage)17</string>
+    <string name="esm50505050">{Ukážeme jim znamení Svá ve všech světa končinách i v nich samých, dokud se jim jasným nestane, že toto pravdou je. A což Pánu tvému nestačí, že svědkem je všech věcí?}.Fussilat(Explained in Detail)53,{A On je ten, jenž vyslal posla Svého se správným vedením a s náboženstvím pravdivým, aby mu dal zvítězit nad každým jiným náboženstvím. A Bůh je svědkem dostačujícím!}.Al-Fath(The Victory)28</string>
+    <string name="esm5151">al-Haqq/ The Truth/ Reality/ the Only One Certainly Sound and Genuine in Truth</string>
+    <string name="esm515151">{A potom budou k Bohu, Pánu svému skutečnému, navráceni. Zdaž Jemu nepřísluší soudit? On věru nejrychlejší je v účtování.}.Al-An\'am(The Cattle)62,{A to je proto, že Bůh je vskutku pravda, a proto, že On oživuje mrtvé a je všemocný nad věcí každou}.Al-Hajj(The Pilgrimage)6</string>
+    <string name="esm51515151">{Nechť je povznesen Bůh, vládce skutečný! Není božstva kromě Něho, Pána trůnu vznešeného!}.Al-Mu\'minoon(The Believers)116,{V ten den jim dá Bůh v plné míře podle jejich víry skutečné a poznají, že Bůh je skutečnost zjevná.}.An-Noor(The Light)25</string>
+    <string name="esm5252">al-Wakiyl/ al-Wakīl/ al-Wakil [al-Wakeel] The Trustee, The Dependable, The Advocate</string>
+    <string name="esm525252">{A když jim lidé řekli: \"Lidé se proti vám shromáždili, bojte se jich!\", tu zvětšila se ještě víra jejich a zvolali: \"Nám postačí Bůh, a jak výtečný On je ochránce!\"}.Al-Imran(The Famiy of Imran)173,{Vlastníci Písma! Nepřehánějte v náboženství svém a mluvte o Bohu jedině pravdu! Vskutku Mesiáš Ježíš, syn Mariin, je pouze poslem Božím a slovem Jeho, které vložil do Marie, a duchem z Něho vycházejícím. A věřte v Boha a posly Jeho a neříkejte: "Trojice!" Přestaňte, a bude to tak pro vás lepší. Bůh vskutku je jediným Bohem, On povznesen je nad to, aby měl dítě, vždyť náleží Mu vše, co na nebesích je i na zemi; a Bůh dostatečným je ochráncem.}.An-Nisa(The Women)171</string>
+    <string name="esm52525252">{I řekl Mojžíš: \"Dohodnuto je mezi mnou a tebou. A ať se rozhodnu pro kteroukoliv z těchto dvou lhůt, nechť na mne není činěn žádný nátlak. A Bůh je ručitelem toho, co říkáme.\"}.Al-Qasas(The Stories)28,{On Pánem je východu i západu a není božstva kromě Něho; učiň jej svým ochráncem}.Al-Muzzammil(The One wrapped in Garments)9</string>
+    <string name="esm5353">al-Qawiyy/ al-Qawi [al-Qawee] The Strong</string>
+    <string name="esm535353">{těm, kdož byli bezprávně vyhnáni ze svých domovů jedině proto, že říkali: \"Pánem naším je Bůh!\" A kdyby byl Bůh nezahnal jedny lidi druhými, věru by byly bývaly zničeny poustevny, kostely, modlitebny a místa klanění, v nichž hojně je vzpomínáno jména Božího. - A Bůh vskutku pomůže těm, kdož pomáhají Jemu - a Bůh věru je silný, mocný.}.Al-Hajj(The Pilgrimage)40,{Nevěřící neoceňují Boha pravdivou mírou a Bůh věru je silný a mocný.}.Al-Hajj(The Pilgrimage)74</string>
+    <string name="esm53535353">{Bůh ke služebníkům Svým je láskyplný, a uštědřuje, komu chce - On silný je i mocný.}.Ash-Shura(Consultation)19,{A vyslali jsme již posly s důkazy jasnými a seslali jsme s nimi Písmo a váhu, aby lidé jednali poctivě a seslali jsme také železo, v němž nebezpečí je strašné i užitek pro lidi - aby Bůh poznal ty, kdož pomáhají Jemu i poslům Jeho v tajnosti. A Bůh silný je i mocný.}.Al-Hadid(The Iron)25</string>
+    <string name="esm5454">al-Matiyn/ al-Matīn/ al-Matin [al-Mateen]</string>
+    <string name="esm545454">The Firm, The Steadfast</string>
+    <string name="esm54545454">{vždyť Bůh sám je živitel, vládce síly a nezviklatelný!}.Adh-Dhariyat(The Wind that Scatter)58</string>
+    <string name="esm5555">al-Waliyy/ al-Wali [al-Walee] The Friend, Helper</string>
+    <string name="esm555555">{Bůh však dobře zná vaše nepřátele! A Bůh je dostatečným ochráncem i dostatečným pomocníkem.}.An-Nisa(The Women)45,{Vždyť přítelem mým je věru Bůh, jenž Písmo seslal - a On bezúhonných je přítelem}.Al-A\'raf(The Heights)196</string>
+    <string name="esm55555555">{On je ten, kdo déšť hojný sesílá poté, co lidé již naději ztratili, a milosrdenství Své rozšiřuje. On ochránce je a chvályhodný.}.Ash-Shura(Consultation)28,{Vždyť tihle nikterak ti proti Bohu neprospějí; nespravedliví jsou si navzájem přáteli, však Bůh bohabojných je přítelem.}.Al-Jathiya(Crouching)19</string>
+    <string name="esm5656">al-Ḥamiyd/ al-Ḥamīd/ al-Hamid [al-Hameed] \tThe All Praiseworthy</string>
+    <string name="esm565656">{I řekl Mojžíš dále: \"Budete-li nevděční, vy, i kdož jsou na zemi všichni… pak věru On soběstačný je i chvályhodný.\"}.Ibrahim(Abraham)8,{Kdysi jsme darovali Luqmánovi moudrost řkouce: "Buď vděčný Bohu, neboť ten, kdo vděčný je Bohu, je vděčný pro dobro své vlastní. Kdo však je nevděčný… tedy Bůh soběstačný je i chvályhodný."}.Luqman 12</string>
+    <string name="esm56565656">{Bohu náleží vše, co na nebesích je i na zemi, a Bůh věru je soběstačný, chvályhodný.}.Luqman 26,{a nic falešného se doň ni zpředu ni zezadu nedostane, vždyť seslání od moudrého, chvályhodného to je!}.Fussilat(Explained in Detail)42</string>
+    <string name="esm5757">al-Muḥṣiy/ al-Muḥṣī/ al-Muhsi [al-Muhsee] The Accounter, The Numberer of All</string>
+    <string name="esm575757">{aby zjistil, zda poselství Pána svého hlásá. A On Svým věděním vše, co konají, objímá a On každou věc přesným počtem počítá.}.Al-Jinn(The Jinn)28</string>
+    <string name="esm57575757">{však spočítali jsme věc každou a pořídili záznam.}.An-Naba\'(The Great News)29</string>
+    <string name="esm5858">al-Mubdi’ [al-Mubdiy] [al-Mubdie] The Originator, The Producer, The Initiator</string>
+    <string name="esm585858">{Rci: \"Je mezi těmi, jež k Bohu přidružujete, někdo, kdo zahájil první stvoření a potom je opakuje?\" A dodej: \"Jedině Bůh zahajuje první stvoření a potom je opakuje! Jak jen můžete tak lhát?\"}.Yunus(Jonah)34,{Ten, jenž počátek dává stvoření a potom to opakuje a jenž vám z nebe i země obživu uštědřuje - je ten božstvem nějakým vedle Boha? Rci: Ukažte důkazy své, jste-li pravdomluvní!"}.An-Naml(The Ants)64</string>
+    <string name="esm58585858">{Což neviděli, jak Bůh tvoří prvním tvořením a pak to opakuje? A to je pro Boha velmi snadné.}.Al-Ankaboot(The Spider)19,{On je ten, jenž vzniknout všemu dává a návrat působí}.Al-Burooj(The Big Stars)13</string>
+    <string name="esm5959">al-Muʿiyd/ al-Muʿīd/ al-Muʿid [al-Muʿeid/ al-Muʿeyd] The Restorer, The Reinstater Who Brings Back All</string>
+    <string name="esm595959">{Rci: \"Je mezi těmi, jež k Bohu přidružujete, někdo, kdo zahájil první stvoření a potom je opakuje?\" A dodej: \"Jedině Bůh zahajuje první stvoření a potom je opakuje! Jak jen můžete tak lhát?\"}.Yunus(Jonah)34,{Ten, jenž počátek dává stvoření a potom to opakuje a jenž vám z nebe i země obživu uštědřuje - je ten božstvem nějakým vedle Boha? Rci: Ukažte důkazy své, jste-li pravdomluvní!"}.An-Naml(The Ants)64</string>
+    <string name="esm59595959">{Což neviděli, jak Bůh tvoří prvním tvořením a pak to opakuje? A to je pro Boha velmi snadné.}.Al-Ankaboot(The Spider)19,{On je ten, jenž vzniknout všemu dává a návrat působí}.Al-Burooj(The Big Stars)13</string>
+    <string name="esm6060">al-Muhyi [al-Muhyee] The Giver of Life</string>
+    <string name="esm606060">{Rci: \"Lidé, já věru jsem poslem Božím k vám všem vyslaným od toho, jemuž náleží království na nebesích i na zemi. Není božstva kromě Něho a On je ten, jenž život i smrt dává. Věřte tedy v Boha a posla Jeho, proroka neučeného, jenž věří v Boha a Jeho slova, a následujte jej - snad se octnete na cestě správné!\"}.Al-A\'raf(The Heights)158,{A jsme to My, kdo život i smrt dáváme, a My sami všeho jsme dědici}.Al-Hijr(The Rocky Tract)23</string>
+    <string name="esm60606060">{Pohlédni tedy na stopy milosrdenství Božího, pohlédni, jak zemi oživuje po smrti její. A On věru je ten, jenž mrtvé k životu přivádí, vždyť On věcí všech je mocen.}.Ar-Room(The Romans)50,{Jemu náleží království nebes i země a On život i smrt dává a On všech věcí je mocný.}.Al-Hadid(The Iron)2</string>
+    <string name="esm6161">al-Mumiyt/ al-Mumīt/ al-Mumit [al-Mumeet] The Bringer of Death</string>
+    <string name="esm616161">{Rci: \"Lidé, já věru jsem poslem Božím k vám všem vyslaným od toho, jemuž náleží království na nebesích i na zemi. Není božstva kromě Něho a On je ten, jenž život i smrt dává. Věřte tedy v Boha a posla Jeho, proroka neučeného, jenž věří v Boha a Jeho slova, a následujte jej - snad se octnete na cestě správné!\"}.Al-A\'raf(The Heights)158,{A jsme to My, kdo život i smrt dáváme, a My sami všeho jsme dědici}.Al-Hijr(The Rocky Tract)23</string>
+    <string name="esm61616161">{Jemu náleží království nebes i země a On život i smrt dává a On všech věcí je mocný.}.Al-Hadid(The Iron)2,{Vy, kteří věříte! Nebuďte jako ti, kdož neuvěřili a říkají o bratřích svých, když cestují po zemi nebo vydají se do boje: "Kdyby byli zůstali doma, nebyli by zemřeli a nebyli by zabiti!" Kéž by to Bůh učinil zármutkem v srdcích jejich! A Bůh dává život i smrt a Bůh jasně zří vše, co děláte.}.Al-Imran(The Famiy of Imran)156</string>
+    <string name="esm6262">al-Hayy/ The Living</string>
+    <string name="esm626262">{Bůh - není božstva kromě Něho, živého, trvalého! Nepadá naň ani dřímota, ani spánek, Jemu náleží vše, co na nebesích je i na zemi! Kdo může se u Něho přimluvit jinak, než s dovolením Jeho? On zná, co je před rukama jejich i co je za zády jejich, zatímco oni neobejmou z vědění Jeho nic leda to, co On chce. Trůn Jeho obepíná nebesa i zemi a střežení jich mu potíží nečiní - On vznešený je a mohutný!}.Al-Baqarah(The Cow)255,{Bůh - není božstva kromě Něho - je živý stále trvající.}.Al-Imran(The Famiy of Imran)2</string>
+    <string name="esm62626262">{A tváře se pokorně skloní před živým a samým o sobě trvajícím, zatímco ti, kdož břímě nespravedlnosti ponesou, budou zklamáni.}.Taha 111,{Spolehni se na Živého, jenž neumírá, a oslavuj chválu Jeho; On dostatečným je znalcem hříchů služebníků Svých.}.Al-Furqan(The Criterion)58,{On živý je a není božstva kromě Něho! Modlete se k Němu zasvěcujíce Mu upřímnou víru svou! Chvála Bohu, Pánu lidstva veškerého!}.Ghafir(The Forgiver God)65</string>
+    <string name="esm6363">al-Qayyūm/ al-Qayyum [al-Qayyoum/ al-Qayyoom] The Subsisting, The Independent</string>
+    <string name="esm636363">{Bůh - není božstva kromě Něho, živého, trvalého! Nepadá naň ani dřímota, ani spánek, Jemu náleží vše, co na nebesích je i na zemi! Kdo může se u Něho přimluvit jinak, než s dovolením Jeho? On zná, co je před rukama jejich i co je za zády jejich, zatímco oni neobejmou z vědění Jeho nic leda to, co On chce. Trůn Jeho obepíná nebesa i zemi a střežení jich mu potíží nečiní - On vznešený je a mohutný!}.Al-Baqarah(The Cow)255</string>
+    <string name="esm63636363">{Bůh - není božstva kromě Něho - je živý stále trvající.}.Al-Imran(The Famiy of Imran)2,{A tváře se pokorně skloní před živým a samým o sobě trvajícím, zatímco ti, kdož břímě nespravedlnosti ponesou, budou zklamáni.}.Taha 111</string>
+    <string name="esm6464">al-Wājid/ al-Wajid [al-Waajid]</string>
+    <string name="esm646464">The Perceiver, The Finder, The Unfailing</string>
+    <string name="esm64464646">{A vezmi do ruky metlu a udeř jí, a nehřeš!\" A shledali jsme jej trpělivým; služebníkem byl on výtečným, stále kajícným.}.Sad(The Letter Sad)44</string>
+    <string name="esm6565">al-Mājid/ al-Majid [al-Maajid] The Illustrious, The Magnificent</string>
+    <string name="esm656565">{Pán trůnu slavený}.Al-Burooj(The Big Stars)15</string>
+    <string name="esm65656565">{Řekli: \"Jsi snad udivena rozhodnutím Božím? Nechť na vás spočine milosrdenství Boží i požehnání Jeho, lidé domu tohoto a On chvályhodný je i slávyplný!\"}.Hud 73</string>
+    <string name="esm6666">al-Wāḥid/ al-Wahid [al-Waahid] The Unique, The Single</string>
+    <string name="esm666666">{Rci: \"Kdo Pánem je nebes a země?\" Odpověz: \"Bůh!\" Rci: \"Chcete si vzít vedle Něho ochránce, kteří nemohou prospět ani uškodit ni sobě samým?\" Rci: \"Cožpak jsou si rovni slepý a vidoucí či rovná se temnota světlu?\" Což budou přidružovat k Bohu společníky, kteří snad stvořili něco podobného Jeho stvoření, takže se obě tvoření zdají podobná? Rci: \"Bůh všech věcí je stvořitelem a On je jediný, vše podmaňující.\"}.Ar-Ra\'d(The Thunder)16,{v den, kdy země nahrazena bude zemí jinou a nebe jiným nebem a kdy lidé stanou před Bohem jediným, podmanitelem.}.Ibrahim(Abraham)48</string>
+    <string name="esm66666666">{Rci: Já jenom varovatel jsem a není božstva žádného kromě Boha jediného, podmaňujícího}.Sad(The Letter Sad)65,{Kdyby si byl Bůh přál mít děti, byl by si věru vybral podle libosti z těch, které stvořil. Sláva Jemu - On Bůh je jediný, vše podmaňující.}.Az-Zumar(The Groups)4</string>
+    <string name="esm6868">As-Samad [As-Ssamad/ As-Swamad]</string>
+    <string name="esm686868">The Eternal, The Absolute, The Self-Sufficient</string>
+    <string name="esm68686868">{Bůh sám o sobě věčný.}.Al-Ikhlas(Sincerity)2</string>
+    <string name="esm6969">al-Qādir/ al-Qadir [al-Qaadir] The All-Powerful, He Who is able to do Everything</string>
+    <string name="esm696969">{Rci: \"A jest v moci Jeho, aby na vás poslal trest, jenž postihne vás shora i zdola, či aby vás rozdělil na protivné strany a dal jedněm z vás okusit násilí druhých!\" Pohleď, jak činíme znamení Svá srozumitelnými - snad to pochopí.}.Al-An\'am(The Cattle)65,{Což nevidí, že Bůh, jenž stvořil nebesa a zemi, aniž se unavil jejich stvořením, je též schopen mrtvé oživit? Ba ano, vždyť On všemocný je nad věcmi všemi.}.Al-Ahqaf(The Curved Sand-hills)33</string>
+    <string name="esm69696969">{Což není v moci jeho, aby mrtvým opět život dal?}.Al-Qiyamah(The Resurrection)40</string>
+    <string name="esm7070">al-Muqtadir/ The Determiner, The Dominant</string>
+    <string name="esm707070">{A uveď jim podobenství o životě pozemském: podobá se vodě, již sesíláme z nebe a s níž se mísí rostlinstvo země a pak stane se suchou travinou, již větry rozvanou. A Bůh všemocný je nad věcí každou.}.Al-Kahf(The Cave)45,{však za lež prohlásili všechna Naše znamení a uchvátili jsme je tak, jak mocný a všemohoucí činí.}.Al-Qamar(The Moon)42</string>
+    <string name="esm70707070">{Rci: \"A jest v moci Jeho, aby na vás poslal trest, jenž postihne vás shora i zdola, či aby vás rozdělil na protivné strany a dal jedněm z vás okusit násilí druhých!\" Pohleď, jak činíme znamení Svá srozumitelnými - snad to pochopí.}.Al-An\'am(The Cattle)65</string>
+    <string name="esm7171">al-Muqaddim</string>
+    <string name="esm717171">The Expediter, He Who Brings Forward</string>
+    <string name="esm71717171">{Kdyby Bůh trestal lidi za nespravedlnost jejich, nezůstal by na zemi tvor živý, avšak On dává jim odklad do lhůty stanovené; a až vyprší lhůta jejich, nezadrží ji ni o hodinu ani ji neuspíší.}.An-Nahl(The Bees)61</string>
+    <string name="esm7272">al-Muʿakh·khir/ al-Muʾakhkhir [al-Moʾakhkhir]</string>
+    <string name="esm727272">The Delayer, He Who Puts Far Away</string>
+    <string name="esm72727272">{On odpustí vám vaše viny a dá vám odklad až do lhůty určené. Však až lhůta Boží přijde, odložena nebude kéž byste to znali!"}.Nooh 4</string>
+    <string name="esm7373">al-Awwal</string>
+    <string name="esm737373">The First, The Beginning-less</string>
+    <string name="esm73737373">"{On počátkem je i koncem, zjevný i skrytý; On o každé věci je vševědoucí.}.Al-Hadid(The Iron)3 "</string>
+    <string name="esm7474">al-Aakhir</string>
+    <string name="esm747474">The Last, The Endless</string>
+    <string name="esm74747474">"{On počátkem je i koncem, zjevný i skrytý; On o každé věci je vševědoucí.}.Al-Hadid(The Iron)3 "</string>
+    <string name="esm7575">aẓ-Ẓāhir/ Az-Zahir/ Az-ZZahir/ Az-Zwahir [Az-Zaahir/ Az-Zzaahir/ Az-Zwaahir]</string>
+    <string name="esm757575">The Manifest, The Evident, The Outer</string>
+    <string name="esm75757575">"{On počátkem je i koncem, zjevný i skrytý; On o každé věci je vševědoucí.}.Al-Hadid(The Iron)3 "</string>
+    <string name="esm7676">al-Bāṭin/ al-Batin/ al-Battin/ al-Batwin [al-Baatin/ al-Baattin/ al-Baatwin]</string>
+    <string name="esm767676">The Hidden, The Unmanifest, The Inner</string>
+    <string name="esm76767676">"{On počátkem je i koncem, zjevný i skrytý; On o každé věci je vševědoucí.}.Al-Hadid(The Iron)3 "</string>
+    <string name="esm7777">al-Wāliy/ al-Wālī/ al-Wali [al-Waali]</string>
+    <string name="esm777777">The Patron, The Protecting Friend, The Friendly Lord</string>
+    <string name="esm77777777">{tak jako tak má pozorovatele před sebou i za sebou, kteří jej střeží z rozkazu Božího. Bůh nezmění to, co je v lidu nějakém, pokud se tento sám nezmění; když Bohu se zlíbí postihnout něčím zlým lid některý, je nemožné to odvrátit a nebudou mít kromě Něho ochránce žádného.}.Ar-Ra\'d(The Thunder)11</string>
+    <string name="esm7878">al-Mutaʿāliy/ al-Mutaʿālī/ al-Mutaʿali [al-Muta\'aali]</string>
+    <string name="esm787878">The Supremely Exalted, The Most High</string>
+    <string name="esm78787878">{On zná nepoznatelné a všeobecně známé, On veliký je, sám sebou povznesený!}.Ar-Ra\'d(The Thunder)9</string>
+    <string name="esm7979">al-Barr</string>
+    <string name="esm797979">The Good, The Beneficent</string>
+    <string name="esm79797979">{zajisté vzývali jsme Ho již předtím, neb On věru dobroditelem je slitovným}.At-Tur(The Mount)28</string>
+    <string name="esm8080">at-Tawwāb/ At-Tawwab [At-Tawwaab] The Ever-Returning, Ever-Relenting</string>
+    <string name="esm808080">{Pane náš, učiň, ať jsme do vůle Tvé odevzdáni, a učiň z potomků našich obec Tobě oddanou; ukaž nám obřady naše a vyslyš pokání naše, vždyť Tys věru odpouštějící, slitovný!}.Al-Baqarah(The Cow)128,{A nevyslali jsme posla žádného, leč aby mu byla, z dovolení Božího, prokazována poslušnost. Však jestliže k tobě přijdou poté, když sami sobě ukřivdili, prosíce Boha o slitování a žádajíce, aby posel poprosil o slitování pro ně, pak věru naleznou, že Bůh odpouští kajícníkům a je slitovný.}.An-Nisa(The Women)64</string>
+    <string name="esm80808080">{Vy, kteří věříte! Střezte se přílišného podezřívání druhých, vždyť některá podezření jsou hříchem! Nevyzvídejte a nepomlouvejte se vzájemně! Což si někdo z vás přeje jíst maso bratra svého mrtvého - vždyť by vám to bylo odporné! Buďte bohabojní, neboť Bůh věru je blahovolný ke kajícníku a slitovný.}.Al-Hujurat(The Dwellings)12,{pak oslavuj chválou Pána svého a pros jej o odpuštění, vždyť On věru ke kajícníku je milostivý!}.An-Nasr(The Help)3</string>
+    <string name="esm8181">al-Muntaqim/ The Avenger</string>
+    <string name="esm818181">{Kdo je nespravedlivější než ten, jenž - když připomínána jsou mu znamení Pána jeho - od nich se odvrátí? My věru se provinilým pomstíme.}.As-Sajdah(The Prostration)22,{A buď tě vezmeme od nich a pomstu nad nimi vykonáme}.Az-Zukhruf(The Gold Adornment)41</string>
+    <string name="esm81818181">{však v den, kdy udeříme velkým útokem, pomsty Naší okusíte!}.Ad-Dukhan(The Smoke)16</string>
+    <string name="esm8282">al-ʿAfuww/ al-ʿAfūw/ al-ʿAfu [al-ʿAfou] The Pardoner, The Effacer, The Forgiver</string>
+    <string name="esm828282">{Vy, kteří věříte! Nepřibližujte se k modlitbě, jste-li opilí, dokud nebudete vědět, co říkáte; a nekonejte ji, jste-li znečištěni polucí - leda jste-li na cestě - dokud jste se neumyli! A jste-li nemocní nebo na cestách či někdo z vás přišel ze záchodu či měl styk se ženami, a nenaleznete-li vodu, omývejte se čistým pískem a otřete si jim obličeje i ruce své! A Bůh je věru promíjející a odpouštějící.}.An-Nisa(The Women)43,{Bůh možná vymaže viny jejich, neboť Bůh je odpouštějící, milostivý.}.An-Nisa(The Women)99,{Ať již ukazujete či skrýváte dobro anebo odpouštíte zlé Bůh zajisté je odpouštějící a všemohoucí.}.An-Nisa(The Women)149</string>
+    <string name="esm82828282">{Tak bude! Tomu, kdo potrestá stejným způsobem, jakým byl sám trestán, a potom je mu kvůli tomu ukřivděno, tomu věru Bůh pomůže, vždyť Bůh je promíjející, odpouštějící.}.Al-Hajj(The Pilgrimage)60{Ti z vás, kteří nazývají manželky své zádami svých matek, vědí, že ony nejsou jejich matkami; matkami jejich jsou jedině ty, které je porodily. A říkají tím věru slova zavrženíhodná a falešná. A Bůh zajisté je promíjející, odpouštějící!}.Al-Mujadilah(She That Disputeth)2</string>
+    <string name="esm8383">ar-Raʿwūf/ Ar-Ra’uf [Ar-Raʿouf/ Ar-Rawʿouf] The Kind, The Pitying</string>
+    <string name="esm838383">{A Bůh již věru odpustil prorokovi, vystěhovalcům i pomocníkům, kteří jej následovali v hodině nesnází, poté, co srdce jedné části z nich se málem odklonila; a potom přijal pokání jejich a byl vůči nim shovívavý, slitovný.}.At-Taubah(The Repentance)117,{On je ten, jenž seslal služebníku Svému znamení jasná, aby vás vyvedl z temnot ke světlu. A Bůh je vůči vám shovívavý, slitovný.}.Al-Hadid(The Iron)9</string>
+    <string name="esm83838383">{A ti, kdož přišli po nich, hovoří: \"Pane náš, odpusť nám i bratřím našim, kteří nás předešli ve víře; a nevkládej do srdcí našich zlobu proti těm, kdož před námi uvěřili, Pane náš, vždyť Tys věru shovívavý, slitovný!\"}.Al-Hashr ( The Gathering )10</string>
+    <string name="esm8484">Māliku ʼl-Mulk/ Malik ul-Mulk [Maalik ul-Mulk]</string>
+    <string name="esm848484">The Owner of all Sovereignty</string>
+    <string name="esm84848484">{Rci: \"Bože veliký, vládce království! Ty dáváš vládu, komu chceš, a odebíráš ji, komu chceš; Ty povyšuješ, koho chceš, a ponižuješ, koho chceš, v ruce Tvé je dobro a Tys věci každé mocen.}.Al-Imran(The Famiy of Imran)26</string>
+    <string name="esm8585">Ḏuʼl-Jalāli waʼl-ʼIkrām, Dhuʼl-Jalāli waʼl-ʼIkrām/ Zul-Jalali wal-Ikram/ Dzhul-Jalali wal-Ikram [Zul-Jalaali wal-Ikraam/ Dzhul-Jalaali wal-Ikraam] The Owner, Lord of Majesty and Honour</string>
+    <string name="esm858585">"{a zůstane jen tvář Pána tvého, majestátnosti a velkomyslnosti plného.}.Ar-Rahman(The Most Graciouse)27 "</string>
+    <string name="esm85858585">{Požehnáno budiž jméno Pána tvého, majestátnosti a velkomyslnosti plného!}.Ar-Rahman(The Most Graciouse)78</string>
+    <string name="esm8686">al-Muqsit [al-Muqsitt]</string>
+    <string name="esm868686">The Equitable, The Requiter</string>
+    <string name="esm86868686">{Bůh sám svědčí, že není božstva kromě Něho; a dosvědčují to i andělé a ti, jimž dáno bylo vědění. On stará se o spravedlnost - a není božstva kromě Něho, mocného, moudrého.}.Al-Imran(The Famiy of Imran)18</string>
+    <string name="esm8787">al-Jāmiʿ/ al-Jamiʿ/ al-Jamie [al-Jaamiʿ/ al-Jaamie]</string>
+    <string name="esm878787">The Gatherer, The Unifier</string>
+    <string name="esm87878787">{Pane náš, Ty věru shromáždíš lidi v den, o němž pochyby není; a Bůh zajisté slib svůj nezruší.}.Al-Imran(The Famiy of Imran)9</string>
+    <string name="esm8888">al-Ghāniyy/ al-Ghānī/ al-Ghani [al-Ghaani] The Rich, The Independent</string>
+    <string name="esm888888">{Jestliže jste vy nevděční, je Bůh věru soběstačný i bez vás a nelíbí se mu nevděk u služebníků Jeho. Jste-li vděční, pak ve vás nalezne zalíbení. A neponese žádná duše břímě duše jiné; posléze navrátíte se k Pánu svému a On vás poučí o tom, co jste dělali, vždyť On dobře zná, co hrudi vaše skrývají.}.Az-Zumar(The Groups)7,{Hle, takoví jste - jste vyzýváni, abyste rozdávali na cestě Boží, avšak mezi vámi jsou lakomci. Kdo však je lakomý, je jim ke škodě vlastní, neboť Bůh je soběstačný, zatímco vy jste potřební. A obrátíte-li se zády tedy On vás vystřídá lidem jiným, jenž vám nebude podoben.}.Muhammad 38</string>
+    <string name="esm88888888">{ani ty, kdož lakotí a lidem lakotu doporučují. A ten, kdo zády se obrátí… vždyť Bůh věru je soběstačný, chvályhodný.}.Al-Hadid(The Iron)24</string>
+    <string name="esm8989">al-Mugh·niyy/ al-Mugh·nī/ al-Mughni</string>
+    <string name="esm898989">The Enricher, The Emancipator</string>
+    <string name="esm89898989">{Vy, kteří věříte! Modloslužebníci jsou věru nečistota! Nechť se tudíž nepřibližují k Posvátné mešitě po tomto roce! A obáváte-li se kvůli tomu nedostatku, pak vás Bůh obohatí ze štědrosti Své, bude-li chtít, a Bůh věru je vševědoucí i moudrý.}.At-Taubah(The Repentance)28</string>
+    <string name="esm9090">al-Māniʿ/ al-Mānīʿ</string>
+    <string name="esm909090">al-Maniʿ/ al-Manie [al-Maaniʿ/ al-Maanie]</string>
+    <string name="esm90909090">The Preventer, The Withholder, The Shielder, The Defender</string>
+    <string name="esm9191">aḍ-Ḍārr/ aḍ-Ḍārr/ Adh-Dharr [Adh-Dhaarr]</string>
+    <string name="esm919191">The Distressor, The Harmer, The Afflictor</string>
+    <string name="esm91919191">{Jestliže se tě Bůh dotkne nějakým neštěstím, pak tě ho nikdo nezbaví kromě Něho. A jestliže se tě dotkne něčím dobrým - vždyť On nade všemi je mocný.}.Al-An\'am(The Cattle)17</string>
+    <string name="esm9292">an-Nāfiʿ/ An-Nafi‘/ An-Nafie [An-Naafiʿ/ al-Naafie]</string>
+    <string name="esm92929292">The Propitious, The Benefactor, The Source of Good</string>
+    <string name="esm929292">{Což neviděli, že Bůh rukou otevřenou uštědřuje či odměřuje obživu, komu chce? A v tom věru jsou znamení pro lid věřící.}.Ar-Room(The Romans)37</string>
+    <string name="esm9393">an-Nūr/ An-Nur [An-Nour]</string>
+    <string name="esm93939393">The Light</string>
+    <string name="esm939393">{A Bůh je světlem nebes i země. Světlo Jeho podobá se výklenku, v němž hoří lampa, a lampa je v nádobě skleněné. A nádoba skleněná se podobá hvězdě zářící; a je zapalována ze stromu požehnaného, stromu olivového, jenž není ani východní, ani západní, a olej jeho lehko vzplane, i když se ho nedotkne oheň žádný. A je to světlo na světle! A Bůh vede k světlu Svému, koho chce, a Bůh uvádí lidem podobenství různá. Bůh vševědoucí je o věci každé.}.An-Noor(The Light)35</string>
+    <string name="esm9494">al-Hādiy/ al-Hādī/ al-Hadi [al-Haadi]</string>
+    <string name="esm949494">The Guide, The Way</string>
+    <string name="esm94949494">{a aby ti, jimž dostalo se vědění, poznali, že to je pravda od Pána tvého, a uvěřili v ni a pokořila se před ní srdce jejich. Bůh zajisté povede ty, kdož uvěřili, ke stezce přímé.}.Al-Hajj(The Pilgrimage)54</string>
+    <string name="esm9595">al-Badiyʿ/ al-Badīʿ/ al-Badiʿ[al-Badiyʿ/ al-Badiye] The Originator, The Incomparable, The Unattainable, The Beautiful</string>
+    <string name="esm959595">{On stvořitelem je nebes a země, a když rozhodne věc nějakou, pak řekne toliko \"Staniž se!\" a stane se.}.Al-Baqarah(The Cow)117</string>
+    <string name="esm95959595">{Tvůrce nebes a země jak by mohl mít děti, když nemá družku žádnou a Sám stvořil všechny věci a o všem je vševědoucí.}.Al-An\'am(The Cattle)101</string>
+    <string name="esm9696">al-Bāqiy/ al-Bāqī/ al-Baqi [al-Baaqi]</string>
+    <string name="esm969696">The Immutable, The Infinite, The Everlasting</string>
+    <string name="esm96969696">{a zůstane jen tvář Pána tvého, majestátnosti a velkomyslnosti plného.}.Ar-Rahman(The Most Graciouse)27</string>
+    <string name="esm9797">al-Wārith/ al-Warith [al-Waarith] The Heir, The Inheritor of All</string>
+    <string name="esm979797">{A jsme to My, kdo život i smrt dáváme, a My sami všeho jsme dědici}.Al-Hijr(The Rocky Tract)23</string>
+    <string name="esm97979797">{Co je s vámi, že nechcete rozdávat na cestě Boží, když Bohu přece připadne dědictví nebes a země? Ti z vás, kdož rozdávali a bojovali ještě před vítězstvím, nejsou stejní jako ti, kdož vyčkávali; ti první jsou mnohem výše na stupních než ti, kdo rozdávali a bojovali až po něm. Však obojím Bůh přislíbil odměnu překrásnou a Bůh je dobře zpraven o všem, co děláte.}.Al-Hadid(The Iron)10</string>
+    <string name="esm9898">ar-Rashiyd/ ar-Rashīd/ Ar-Rashid [Ar-Rasheed] The Guide to the Right Path</string>
+    <string name="esm989898">{Nebudiž žádného donucování v náboženství! A již bylo jasně rozlišeno správné vedení od bloudění! Ten, kdo nevěří v Tághúta a věří v Boha, ten uchopil se rukojeti spolehlivé, jež nikdy se neutrhne. A Bůh je slyšící, vševědoucí.}.Al-Baqarah(The Cow)256</string>
+    <string name="esm98989898">{A my věru nevíme, zda zlo je zamýšleno pro ty, kdož na zemi dlí, či zda Pán jejich si pro ně přeje správného vedení.}.Al-Jinn(The Jinn)10</string>
+    <string name="esm9999">aṣ-Ṣabūr/ As-Sabur/ As-Ssabur/ As-Swabur [As-Sabour/ As-Ssabour/ As-Swabour] The Timeless, The Patient</string>
+    <string name="esm999999">{Vy, kteří věříte, hledejte pomoc v trpělivosti a v modlitbě, vždyť Bůh je věru s trpělivými.}.Al-Baqarah(The Cow)153,{Vy, kteří věříte! Buďte neochvějní a povzbuzujte se k neochvějnosti! Buďte pevní a bojte se Boha - snad budete blažení!}.Al-Imran(The Famiy of Imran)200</string>
+    <string name="esm99999999">{Kromě těch, kdož uvěřili a zbožné skutky konali a vzájemně se k pravdě a neochvějnosti nabádali.}.Al-Asr(The Time)3</string>
+    <string name="stop">zastavení</string>
+    <string name="bybyback">Zpět</string>
+    <string name="play">Přehrávání zvuku pouze Arab</string>
+    <string name="z8384">Verše 83 a 84</string>
+    <string name="z2829">Verše 28 a 29</string>
+    <string name="z117118">Verše 117 a 118</string>
+    <string name="z1617">Verše 16 a 17</string>
+    <string name="z8889">Verše 88 a 89</string>
+    <string name="z8788">Verše 87 a 88</string>
+    <string name="z8990">Verše 89 a 90</string>
+    <string name="z1516">Verše 15 a 16</string>
+    <string name="z8586">Verše 85 a 86</string>
+    <string name="z285286">Verše 285 a 286</string>
+    <string name="z2627">Verše 26 a 27</string>
+    <string name="z173174">Verše 173 a 174</string>
+    <string name="z9394">Verše 93 a 94</string>
+    <string name="z9798">Verše 97 a 98</string>
+    <string name="z110111">Verše 110 a 111</string>
+    <string name="z128129">Verše 128 a 129</string>
+    <string name="z2628">Verše Od 26 do 28</string>
+    <string name="z3541">Verše Od 35 do 41</string>
+    <string name="z8389">Verše Od 83 do 89</string>
+    <string name="z4_6">Verše Od 4 do 6</string>
+    <string name="z127129">Verše Od 127 do 129</string>
+    <string name="z155157">Verše Od 155 do 157</string>
+    <string name="z2536">Verše Od 25 do 36</string>
+    <string name="z4_7">Verše Od 4 do 7</string>
+    <string name="z3537">Verše Od 35 do 37</string>
+    <string name="z7_9">Verše Od 7 do 9</string>
+    <string name="z200202">Verše Od 200 do 202</string>
+    <string name="z191194">Verše Od 191 do 194</string>
+    <string name="z6366">Verše Od 63 do 66</string>
+    <string name="z1_7">Verše Od 1 do 7</string>
+    <string name="z1_4">Verše Od 1 do 4</string>
+    <string name="z1_5">Verše Od 1 do 5</string>
+    <string name="z1_6">Verše Od 1 do 6</string>
+    <string name="z8082">Verše Od 80 do 82</string>
+    <string name="send">Sdílejte aplikaci</string>
+    <string name="surah7">Al-A\'raf(The Heights)</string>
+    <string name="surah12">Yusuf(Joseph)</string>
+    <string name="surah21">Al-Anbiya(The Prophets)</string>
+    <string name="sourah38">Sad(The Letter Sad)</string>
+    <string name="sourah11">Hud</string>
+    <string name="sourah23">Al-Mu\'minoon(The Believers)</string>
+    <string name="sourah26">" Ash-Shuara(The Poets)"</string>
+    <string name="sourah71">Nooh</string>
+    <string name="sourah2">Al-Baqarah(The Cow)</string>
+    <string name="sourah37">As-Saaffat(Those Ranges in Ranks)</string>
+    <string name="sourah14">Ibrahim(Abraham)</string>
+    <string name="sourah60">Al-Mumtahanah(The Woman to be examined)</string>
+    <string name="sourah28">Al-Qasas( he Stories)</string>
+    <string name="sourah20">Taha</string>
+    <string name="sourah10">Yunus(Jonah)</string>
+    <string name="sourah27">An-Naml(The Ants)</string>
+    <string name="sourah5">Al-Maidah(The Table spread with Food)</string>
+    <string name="sourah29">Al-Ankaboot(The Spider)</string>
+    <string name="sourah19">Maryam(Mary)</string>
+    <string name="sourah3">Al-Imran(The Famiy of Imran)</string>
+    <string name="sourah46">Al-Ahqaf(The Curved Sand-hills)</string>
+    <string name="sourah59">Al-Hashr(The Gathering)</string>
+    <string name="sourah40">Ghafir(The Forgiver God)</string>
+    <string name="sourah18">Al-Kahf(The Cave)</string>
+    <string name="sourah66">At-Tahrim(The Prohibition)</string>
+    <string name="sourah4">An-Nisa(The Women)</string>
+    <string name="sourah25">Al-Furqan(The Criterion)</string>
+    <string name="sourah1">Al-Fatihah(The Opening)</string>
+    <string name="sourah112">Al-Ikhlas(Sincerity)</string>
+    <string name="sourah113">Al-Falaq(The Daybreak)</string>
+    <string name="sourah114">An-Nas(Mankind)</string>
+    <string name="sourah17">Al-Isra(The Night Journey)</string>
+    <string name="sourah9">At-Taubah(The Repentance)</string>
+
+    <string name="turnlang">Změňte jazyk</string>
+    <string name="sharetwitter">Sdílejte odkaz na aplikaci(Twitter)</string>
+    <string name="sharefacebook">Sdílejte odkaz na aplikaci(Facebook)</string>
+    <string name="sharegmail">Sdílejte odkaz na aplikaci(Gmail)</string>
+    <string name="sharewhatapp">Sdílejte odkaz na aplikaci(What\'s App)</string>
+    <string name="shareinstagram">Sdílejte odkaz na aplikaci(Instagram)</string>
+    <string name="sharetumblr">Sdílejte odkaz na aplikaci(Tumblr)</string>
+    <string name="shareviber">Sdílejte odkaz na aplikaci(Viber)</string>
+    <string name="sharelinkedin">Sdílejte odkaz na aplikaci(Linkedin)</string>
+    <string name="sharesnapchat">Sdílejte odkaz na aplikaci(Snapchat)</string>
+    <string name="shareskype">Sdílejte odkaz na aplikaci(Skype)</string>
+    <string name="sharetelegram">Sdílejte odkaz na aplikaci(Telegram)</string>
+    <string name="sharereddit">Sdílejte odkaz na aplikaci(Reddit)</string>
+
+    <string name="dialog_title">Nová verze k dispozici</string>
+    <string name="dialog_message">Nová verze aplikace je k dispozici, prosím, klikněte níže pro aktualizaci nejnovější
+        verze.
+    </string>
+    <string name="dialog_positive_button_title">Aktualizace</string>
+    <string name="all_records_deleted">Všechny nahrávky byly úspěšně vymazány</string>
+    <string name="app_settings">Nastavení zvuku:</string>
+    <string name="available_space">Dostupné místo: %s</string>
+    <string name="bookmarks">Referenční signály</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="btn_no">Ne</string>
+    <string name="btn_play">Zapněte</string>
+    <string name="btn_save">Uložit</string>
+    <string name="btn_yes">Ano</string>
+    <string name="delete_all">Vymazat všechny záznamy</string>
+    <string name="delete_all_records">Odstranit všechny záznamy nebudou znovu získat?</string>
+    <string name="delete_record">Smazat tento registrace %s?</string>
+    <string name="error_cant_create_file">Nelze vytvořit soubor</string>
+    <string name="error_failed_to_init_player">Nepodařilo se spustit provozní</string>
+    <string name="error_failed_to_init_recorder">Nepodařilo se spustit záznam</string>
+    <string name="error_failed_to_rename">Nepodařilo se přejmenovat registr!</string>
+    <string name="error_file_exists">Soubor s tímto názvem již existuje!</string>
+    <string name="error_invalid_output_file">Výstupní soubor je neplatný</string>
+    <string name="error_permission_denied">Žádost o přístup odepřen</string>
+    <string name="error_player_data_source">Provozovatel nemůže číst soubor</string>
+    <string name="error_unable_to_read_sound_file">Nelze přehrát zvukový soubor</string>
+    <string name="error_unknown">Neznámá chyba</string>
+    <string name="failed_to_delete_all_records">Nepodařilo se odstranit všechny záznamy</string>
+    <string name="fetchs">Připojení k internetu</string>
+    <string name="hold_button_to_record">Spusťte nahrávání</string>
+    <string name="hold_button_to_record2">Při nahrávání, pokračujte prosím na dotek</string>
+    <string name="import_progress">Importovat zvukový soubor&#8230;</string>
+    <string name="keep_screen_on">Nevypne obrazovku během nahrávání</string>
+    <string name="no_bookmarks">Záložky jsou prázdné.</string>
+    <string name="no_records">Záznamy jsou prázdné.</string>
+    <string name="other_settings">Jiné:</string>
+    <string name="playback">Spustit: %s</string>
+    <string name="please_select_record_to_share">Vyberte nebo zaregistrujte zvukový soubor, který chcete sdílet</string>
+    <string name="record_in_stereo">Stereofonní zvuk</string>
+    <string name="record_name">Nové jméno</string>
+    <string name="record_processing">Zpracování souborů&#8230;</string>
+    <string name="recording">Registrace: %s</string>
+    <string name="recording_is_on">záznam je zapnutý</string>
+    <string name="recording_progress">nahrávání&#8230;</string>
+    <string name="recording_paused">pozastaveno</string>
+    <string name="recording_settings">Nastavení registru:</string>
+    <string name="records">Nahrávky</string>
+    <string name="recordtoast">Registrovaný čas je:</string>
+    <string name="settingss">Settings</string>
+    <string name="share_record">Sdílejte registrace: %s</string>
+    <string name="slide_to_cancel">Přetažením zrušit</string>
+    <string name="store_records_public">Uložit záznamy ve veřejné složce</string>
+    <string name="today">Dnes</string>
+    <string name="total_duration">Celkem zaznamenané období: %s</string>
+    <string name="total_record_count">Celkový počet záznamů: %d</string>
+    <string name="warning">Varování!</string>
+    <string name="yesterday">Včera</string>
+    <string name="private_dir_warning">Záznamy budou uloženy v soukromém adresáři aplikace, který není viditelný pro jiné aplikace</string>
+    <string name="public_dir_warning">Záznamy budou uloženy do společného adresáře na vašem zařízení, který je viditelný pro jiné aplikace</string>
+    <string name="error_on_recording">Chyba záznamu!</string>
+
+    <string-array name="theme_colors">
+        <item>Téma Není vybráno</item>
+        <item>Téma černá</item>
+        <item>Téma Teal</item>
+        <item>Téma modrá</item>
+        <item>Téma Deep Purple</item>
+        <item>Téma Pink</item>
+        <item>Téma Deep Orange</item>
+        <item>Téma červená</item>
+        <item>Téma Brown</item>
+        <item>Téma modrá šedá</item>
+    </string-array>
+
+    <string-array name="formats">
+        <item>Formát: MP3</item>
+        <item>Formát: Wav</item>
+    </string-array>
+
+    <string-array name="sample_rates">
+        <item>Vzorkovací frekvence: 8000</item>
+        <item>Vzorkovací frekvence: 16000</item>
+        <item>Vzorkovací frekvence: 32000</item>
+        <item>Vzorkovací frekvence: 44100</item>
+        <item>Vzorkovací frekvence: 48000</item>
+    </string-array>
+
+    <string-array name="bit_rates">
+        <item>Bitrate: 24kbps</item>
+        <item>Bitrate: 48kbps</item>
+        <item>Bitrate: 96kbps</item>
+        <item>Bitrate: 128kbps</item>
+        <item>Bitrate: 192kbps</item>
+    </string-array>
+    <string name="wifion">Wi-Fi</string>
+    <string name="aya33_1" >On je ten, jenž vyslal posla Svého se správným vedením a náboženstvím pravdivým, aby zvítězilo nad všemi náboženstvími jinými, i když se to nelíbí modloslužebníkům.{33}</string>
+    <string name="aya114_2" >Mám si snad žádat jako soudce někoho jiného než Boha, jenž je tím, kdo seslal vám Písmo jasně vyložené? Ti, jimž dali jsme Písmo, dobře vědí, že od Pána tvého bylo s pravdou sesláno. A nebuď tedy z těch, kdož pochybují!{114﹜</string>
+    <string name="aya41_3" >Což jsi neviděl, že Boha slaví všichni, kdož na nebesích jsou i na zemi, a rovněž ptáci, v řadách letící? A vše zná modlitbu i volání slávy Jeho. A Bůh dobře ví o všem, co dělají.{41}Bohu náleží království na nebesích i na zemi a u Boha je cíl konečný.{42}Což jsi neviděl, jak Bůh žene oblaka, potom je spojuje a posléze z nich učiní shluk? A pak vidíš z jeho středu vycházet déšť. A On sesílá z nebe jakoby hory, v nichž jsou kroupy, a zasahuje jimi, koho chce, a odvrací je, od koho chce. A zablesknutí málem zbaví lidi zraku.﹛42﹜A Bůh působí střídání noci a dne - a věru je v tom poučení pro lid prozíravý.{44}Bůh stvořil každého živočicha z vody; a jsou mezi nimi ti, kteří plazí se po břiše, jiní, kteří chodí po dvou nohou, a další, kteří chodí po čtyřech. Bůh tvoří, co chce, a Bůh věru všemocný je nad věcí každou.{45}A seslali jsme nyní znamení zřetelná; a Bůh vede, koho chce, ke stezce přímé.{46}</string>
+    <string name="aya28_4" >Jak to, že nevěříte v Boha? Když byli jste mrtví, On dal vám život, potom vás usmrtí a posléze znovu oživí a nakonec budete k Němu navráceni.{28}On je ten, jenž pro vás stvořil vše, co na zemi je, potom se k nebi obrátil a v sedmi nebesích je vyrovnal. On věru všech věcí je znalý.{29}</string>
+    <string name="aya163_5" >Váš Bůh je Bůh jediný a není božstva kromě Něho, milosrdného, slitovného.{163}Vskutku je ve stvoření nebes a země, ve střídání noci a dne, v lodi, jež pluje po moři s tím, co užitečné je lidem, ve vodě, již Bůh z nebe sesílá a kterou znovu oživuje zem po smrti její - a na ní všechna zvířata se rozptylují - a v pohybu větrů a oblacích podrobených mezi nebem a zemí - v tom všem jsou věru znamení pro lid rozumný.{164}</string>
+    <string name="aya71_6" >Rci: "Máme snad vzývat vedle Boha něco, co nám nemůže ani prospět, ani uškodit, a obrátit se nazpět po stopách svých poté, co Bůh nás již jednou uvedl na stezku správnou, podobni tomu, jemuž satani dali zbloudit na zemi, ačkoliv má přátele, kteří volají zvouce jej k cestě správné: Pojď k nám!" Rci: "Vedení Boží je věru jediné správné vedení. A bylo nám nařízeno, abychom se odevzdali do vůle Pána lidstva veškerého."{71}"Dodržujte modlitbu a bojte se Boha, neb On je ten, u Něhož budete shromážděni!"{72}On je ten, jenž nebesa i zemi jako skutečnost vážnou stvořil, a v den, kdy řekne: "Staniž se!", stane se. Slovo Jeho je pravda a Jemu bude patřit vláda v ten den, kdy zatroubeno bude na pozoun; On zná nepoznatelné i všeobecně známé a On moudrý je i vědoucí.{73}</string>
+    <string name="aya95_7" >Bůh je ten, jenž rozštěpuje zrno i pecku datlovou, vyvádí živé z mrtvého a mrtvé z živého. Takový je Bůh - jak jen mohli jste se od Něho odvrátit?{95}On dává vzejít ranní záři a ustanovil noc pro odpočinek a slunce a měsíc pro měření času. Hle, toto je ustanovení mocného, vševědoucího.{96}A On je ten, jenž pro vás stvořil hvězdy, abyste se mohli podle nich řídit v temnotách souše i moře. Takto My činíme srozumitelnými znamení pro lid, jenž schopen je poznáni﹛97﹜A On je ten, jenž vám dal vzniknout z jediné bytosti; a pak je spočinutí a složení. A takto jsme učinili znamení Svá srozumitelnými pro lid, jenž schopen je pochopení.{98}A On je ten, jenž sesílá vodu z nebe, a pomocí jí dáváme vyrůst rostlinám všech druhů a dáváme z ní vyrazit zeleni, z níž vznikají zrna seřazená v klasy, i palmám, z jejichž vrchlíků husté trsy datlí visí, i zahradám révy vinné, olivám a jablkům granátovým, jež jsou si podobná i nepodobná. Pohleďte na plody jejich, když uzrávají, a pohleďte na zralost jejich - v tom věru znamení jsou pro lid věřící.{99}A oni učinili z džinů společníky Bohu, zatímco byl to On, jenž je stvořil, a v neznalosti své vymyslili Mu syny a dcery. Chvála Jemu, jenž povznesen je nade vše, co mu připisují!{100}Tvůrce nebes a země jak by mohl mít děti, když nemá družku žádnou a Sám stvořil všechny věci a o všem je vševědoucí.{101}</string>
+    <string name="aya1_8" >Alif lám rá! Toto jsou znamení Písma moudrého!{1}Je snad lidem podivné, že jsme vnukli muži jednomu z nich: "Varuj lidi a oznam zvěst radostnou těm, kdož uvěřili, že u Pána svého budou mít spravedlivé postavení." Nevěřící říkají:,, Toto je věru kouzelník zjevný!"{2}Pánem vaším je věru Bůh, jenž stvořil nebesa a zemi v šesti dnech a potom se na trůnu usadil, aby věci všechny řídil. A není přímluvce, pokud On to předtím nedovolí. Hle, takový je Bůh, Pán váš, pročež Jej vzývejte! Což se nevzpamatujete?{3}K Němu se uskuteční návrat váš, a to slib Boží je pravdivý! On zahájil první stvoření a potom je bude opakovat, aby spravedlivě odměnil ty, kdož uvěřili a zbožné skutky konali; pro ty, kdož nevěřícími byli, pak připraven je nápoj vroucí a trest bolestný za to, že nevěřili.{4}On je ten, kdo slunce jasnou září učinil a měsíc světlem a postavení jeho určil, abyste počet roků i počítání jejich znali. A Bůh to stvořil jako skutečnost vážnou a On činí znamení srozumitelnými pro lidi vědoucí.{5}A zajisté jsou ve střídání noci a dne i ve všem, co Bůh na nebesích a na zemi stvořil, znamení pro lid bohabojný.{6}</string>
+    <string name="aya6_9" >A není na světě zvířete jediného, jehož obživa by od Boha nezávisela; a On zná spočinutí jeho i složení jeho a to vše je v Knize zjevné zapsáno.{6}A On je ten, jenž nebesa a zemi v šesti dnech stvořil, zatímco trůn Jeho se nad vodou vznášel, aby vyzkoušel, kdo z vás lepší bude ve skutcích. A když řekneš: "Po smrti budete vskutku vzkříšeni!", tu odpovídají ti, kdož nevěří: "To kouzelnictví zjevné je toliko!"{7}</string>
+    <string name="aya12_10" >On je ten, jenž ukazuje vám blesk pro strach i naději a dává vzniknout mračnům vodou obtěžkaným.{12}A slaví hrom chválu Jeho a stejně činí i andělé z bázně před Ním. On blesky vysílá a zasahuje jimi, koho chce, zatímco lidé se hádají o Bohu, jenž mocný je v prudkosti Své.{17}</string>
+    <string name="aya10_11" >On je ten, jenž z nebe vodu seslal, z níž pro vás jsou nápoje a z níž žijí rostliny, na nichž stáda svá pasete.{10}A z ní vyrůstá vám obilí, olivovníky, palmy datlové a vinná réva i všechny druhy ovoce. A v tom je věru znamení pro lid přemýšlivý.{11}A podmanil vám noc i den, slunce i měsíc a také hvězdy podléhají rozkazu Jeho. A v tom jsou věru znamení pro lid rozumný.{12}I v tom, co rozsel pro vás na zemi v druzích rozmanitých, je také znamení pro lid myslící.{17}On je ten, jenž podmanil vám moře, abyste z něho mohli maso čerstvé jíst a získávali z něho ozdoby, jež na sebe zavěšujete. A vidíš lodi, jež brázdí vlny jeho, abyste hledali část přízně Jeho - snad budete vděčni!{14}A On rozhodil po zemi hory pevně zakotvené, aby se s vámi nekymácela; a také řeky a cesty - snad budete tím správně vedeni -{15}a ukazovatele, a podle hvězd jsou též vedeni.{16}Což je ten, jenž tvoří, roven tomu, kdo netvoři? Což se nevzpamatujete?{17}Kdybyste chtěli spočítat všechnu laskavost Boží, nikdy ji nespočtete - a Bůh věru odpouštějící je i slitovný.{18}</string>
+    <string name="aya1_12" >Chválí Boha vše, co na nebesích je i na zemi - a On mocný je i moudrý.{1}Jemu náleží království nebes i země a On život i smrt dává a On všech věcí je mocný.{2}On počátkem je i koncem, zjevný i skrytý; On o každé věci je vševědoucí.{3}On je ten, jenž stvořil nebesa i zemi v šesti dnech a potom se na trůnu Svém usadil. On zná, co vniká do země a co z ní vychází, co sestupuje z nebe a co na ně vystupuje, a ať jste kdekoliv, On s vámi je a vše, co děláte, zří.{4}Jemu náleží království nebes i země a k Bohu se rozkazy všechny navracejí.{5}On dává přejít noci v den a dni v noc a On dobře zná vše, co v hrudích se skrývá.{6}</string>
+    <string name="aya52_13" >Zajisté přišli jsme k nim s Písmem, jež vědomě jsme srozumitelným učinili, aby stalo se věděním a milosrdenstvím pro lid věřící.{52}Což očekávají něco jiného než výklad jeho? V ten den, kdy přijde výklad jeho, řeknou ti, kdož dříve naň zapomněli: "Poslové Pána našeho věru s pravdou přišli. Což nemáme dnes přímluvce, kteří by se za nás přimluvili? Anebo nemohli bychom se vrátit na zem, abychom mohli vykonat něco jiného než to, co jsme konali?" Avšak oni sami duše své zahubili a byli opuštěni tím, co si vymyslili.{53}Pánem vaším je vskutku Bůh, jenž stvořil nebesa i zemi v šesti dnech a potom se usadil na trůně Svém. On pokrývá nocí den, který se bez přestání žene za ní, zatímco slunce, měsíc a hvězdy jsou rozkazu Jeho podrobeny. Což Jemu nenáleží stvoření a rozkazování? Požehnán buď Bůh, Pán lidstva veškerého!{54]Vzývejte Pána svého pokorně a skrytě - vždyť On věru nemiluje přestupníky!{55}A nešiřte pohoršení na zemi poté, co stala se na ní náprava! A vzývejte Jej s bázní a touhou, neboť věru milosrdenství Boží jest blízké pro ty, kdož dobro konají.{56}A On je ten, jenž větry vysílá jako poselství radostné, zvěstující milosrdenství Jeho. Když potom jsou obtíženy mračny těžkými, ženeme je nad krajinu mrtvou a sesíláme z nich vodu, jejíž pomocí dáváme vyrůst všem druhům plodů. A stejně tak dáme vyjíti mrtvým z jejich hrobů - snad si to připomenete!{57}Z dobré země vyrůstají rostliny v hojnosti z dovolení Pána jejího, zatímco ve špatné rostou jen řídce - a takto činíme srozumitelnými znamení Naše pro lid vděčný.{58}</string>
+    <string name="aya1_14" >Alif lám mím rá! Toto jsou znamení Písma; a pravdou je to, co bylo ti Pánem tvým sesláno, avšak většina lidí tomu nevěří.{1}Bůh je ten, jenž vztyčil nebesa bez pilířů viditelných, potom se usadil na trůnu Svém a podmanil si slunce a měsíc; obě tělesa pak spějí k lhůtě stanovené. On rozkaz usměrňuje a činí srozumitelnými znamení Svá snad budete přesvědčeni o setkání s Pánem svým.{2}On je ten, jenž rozprostřel zemi a vytvořil na ni hory pevně zakotvené i řeky; a od každého plodu učinil dvě pohlaví a dává zahalovat den nocí. A v tom věru jsou znamení pro lid přemýšlivý.{3}A na zemi jsou polnosti vzájemně sousedící i zahrady vinné révy a obilí i palmy datlové, vyrůstající z jednoho kořene či hromadně, zavlažovány vodou jednou; některé z nich jsme učinili lepšími k jídlu než druhé - a v tom věru jsou znamení pro lid rozumný.{4}</string>
+    <string name="aya32_15" >Bůh je ten, jenž stvořil nebesa a zemi a z nebe vodu seslal a z ní plodům pro obživu vaši vyrůst dal. A podrobil vám lodi, aby po moři pluly podle rozkazu Jeho, a též řeky vám podmanil;{32}a podčinil vám slunce a měsíc, jež neúnavně obíhají, a též noc a den vám podrobil{33}a vše, oč žádali jste Jej, vám uštědřil. A kdybyste chtěli spočítat projevy laskavosti Boží, nikdy je nespočítáte, vždyť člověk je věru nespravedlivý a nevděčný.{34}</string>
+    <string name="aya9_16" >Bůh je ten, jenž vysílá vítr, aby zdvihal mraky; a My je ženeme nad mrtvou oblast a
+        oživujeme jimi zemi po smrti její. A podobně tomu bude se vzkříšením.{9}Kdo si přeje moci… vždyť jedině Bohu
+        náleží moc veškerá; k Němu stoupají slova dobrá a On skutek zbožný k sobě pozvedá. Pro ty, kdož úklady zlé
+        chystají, připraven je trest přísný a úklady jich se vniveč obrátí.{10}Bůh vás stvořil z prachu, potom z kapky
+        semene a posléze z vás učinil pohlaví dvojí. A nechodí samice žádná s útěžkem ani neslehne, aniž by o tom On
+        věděl; a neprodlouží se život dlouhověkému a není zkrácen život žádnému, aniž by to bylo v Knize zaznamenáno; a
+        to vše je Bohu velmi snadné:{11}A nejsou si obě velké vody rovné: jedna je sladká, čerstvá a příjemná k pití,
+        zatímco druhá je slaná a hořká; z obou pak pojídáte čerstvé maso a lovíte z nich ozdoby, jež nosíte. A vidíš na
+        nich lodě brázdící vlny, abyste na nich mohli hledat část z přízně Boží - a snad budete vděčni.{12}On dává
+        vniknout noci do dne a dni do noci a podmanil si slunce a měsíc a obě tělesa se pohybují k lhůtě stanovené.
+        Takový je Bůh, Pán váš, jemuž patří moc královská, zatímco ti, které vzýváte vedle Něho, nemají moc ani nad
+        slupkou pecky datlové.{13}Jestliže se k nim modlíte, oni neslyší vzývání vaše, a i kdyby je slyšeli, nemohli by
+        vás vyslyšet. A v den zmrtvýchvstání zapřou vaše přidružování jich k Bohu. A nikdo tě o tom nemůže poučit tak
+        jako ten, jenž o všem je zpraven.{14}</string>
+    <string name="aya1_17" >Seslání Písma od Boha mocného, moudrého pochází.{1}Věru jsme ti seslali Písmo v pravdě, uctívej tedy Boha a zasvěcuj Mu svou víru upřímnou!{2}Což Bohu víra upřímná nepatří? Ti, kdož si berou jako ochránce jiné než Jeho, hovoří: "My je uctíváme jen proto, aby nás co nejvíce k Bohu přiblížili." Bůh věru pak mezi nimi rozsoudí to, o čem ve sporu byli. A Bůh zajisté nepovede správně ty, kdož lháři jsou a nevěřící zarputilí.{3}Kdyby si byl Bůh přál mít děti, byl by si věru vybral podle libosti z těch, které stvořil. Sláva Jemu - On Bůh je jediný, vše podmaňující.{4}On stvořil nebesa a zemi jako skutečnost vážnou a On zavinuje noc dnem a den nocí; a podmanil si slunce a měsíc, takže obě tělesa ke lhůtě stanovené ubíhají. Což tedy není mocný, odpouštějící?{5}Vás pak stvořil z bytosti jediné, z níž potom udělal družku její. A seslal vám z dobytčat osm v párech. On tvoří vás v lůnech matek vašich jedním tvořením za druhým, v temnotě trojnásobné. Takový je Bůh, Pán váš, a Jemu náleží panství; není božstva kromě Něho. Jak se jen můžete tak odvracet?{6}Jestliže jste vy nevděční, je Bůh věru soběstačný i bez vás a nelíbí se mu nevděk u služebníků Jeho. Jste-li vděční, pak ve vás nalezne zalíbení. A neponese žádná duše břímě duše jiné; posléze navrátíte se k Pánu svému a On vás poučí o tom, co jste dělali, vždyť On dobře zná, co hrudi vaše skrývají.{7}</string>
+    <string name="aya1_18" >Há mím!{1}Seslání Písma od Boha mocného, moudrého pochází.{2}Na nebesích i na zemi jsou věru pro věřící znamení,{3}a také ve stvoření vašem i ve zvířatech, jež po zemi rozmnožil, jsou znamení pro lid pevně přesvědčený,{4}i ve střídání noci a dne, i v tom, co Bůh z nebes sesílá jako obživu a oživuje tím zemi poté, co mrtvá byla, a rovněž ve větrů vysílání jsou znamení pro lid rozumný.{5}Toto jsou znamení Boží, jež podle pravdy ti sdělujeme. A jakému tedy uvěří zvěstování, zamítnou-li Boha a Jeho znamení?{6}Běda každému pomluvači hříšnému,{7}jenž naslouchá znamením Božím, když jsou mu sdělována, však potom v pýše své setrvává, jako by je ani neslyšel! O trestu bolestném zvěst oznam jemu!{8}A když naučí se něčemu ze znamení Naších, tropí si z toho jen posměšky. A takové očekává trest potupný.{9}Za nimi peklo číhá a nebude jim platné nic z toho, co si vysloužili, ani to, co místo Boha jako ochránce si vzali a pro ně určen je trest nesmírný.{10}Toto je správné vedení a ti, kdož neuvěřili v Pána svého znamení, trestem muk bolestných budou potrestáni.{11}Bůh je ten, jenž podrobil vám moře, aby po něm lodi podle rozkazu Jeho pluly a abyste na něm o část přízně Jeho usilovali - snad za to budete vděčni!{12}On podmanil vám vše, co na nebesích je i na zemi, a všechno od Něho pochází. A věru jsou v tom znamení pro lid uvažující!{13}</string>
+    <string name="aya53_19" >A On je ten, jenž volně dal téci oběma mořím: jedno sladké a pitné je, druhé slané a hořké. A mezi oběma umístil překážku a přehradu zahrazující.{53}A On je ten, jenž stvořil z vody smrtelníka a učinil mu přímé a přišvagřené příbuzenstvo. A Pán tvůj je všemohoucí.{54}Avšak oni uctívají místo Boha něco, co jim prospívat ani škodit nemůže; a nevěřící je proti Pánu svému (satanovým) pomocníkem.{55}</string>
+    <string name="aya39_20" >A jest to On, jenž učinil vás nástupci na zemi. A kdo neuvěřil, toho nevíra se obrátí proti němu. A nevíra nevěřících jen rozmnožuje pro ně nenávist u Pána jejich a nevíra jejich zvětší pro nevěřící jen jejich zatracení.{39}Rci: "Viděli jste společníky své, jež vedle Boha vzýváte? Ukažte mi tedy, co stvořili na zemi či jaký mají podíl na nebi anebo zda dali jsme jim Písmo nějaké, aby opřít se mohli o jasný důkaz z něho?" Nikoliv, nespravedliví si vzájemně slibují jen klam!{40}Bůh věru pevně třímá nebesa a zemi, aby se nesesuly; kdyby se sesuly, pak by je po Něm nikdo jiný nemohl udržet, a On soucitný je a odpouštějící.{41}</string>
+    <string name="aya60_21" >Tak bude! Tomu, kdo potrestá stejným způsobem, jakým byl sám trestán, a potom je mu kvůli tomu ukřivděno, tomu věru Bůh pomůže, vždyť Bůh je promíjející, odpouštějící.{60}A je to proto, že Bůh dává noci proniknout v den a dni v noc a protože je slyšící, jasnozřivý.{61}A je to proto, že Bůh je pravda a že to, co je místo Něho vzýváno, je nicotné a Bůh věru je vznešený, veliký.{62}Což jsi neviděl, jak Bůh seslal z nebes vodu, takže se země zazelenala? Vždyť Bůh je věru rychlý a dobře zpravený.{63}Jemu náleží vše, co na nebesích je i na zemi, a On je soběstačný, chvályhodný.{64}Což jsi neviděl, jak Bůh vám podrobil vše, co na zemi je, stejně jako lodi, jež po moři plují podle rozkazu Jeho? A On zadržuje nebe, aby nespadlo na zem, leda z dovolení Jeho. Vždyť Bůh je vůči lidem věru shovívaný, slitovný.{65}A On je ten, jenž dal vám život, potom vás zemřít nechá, aby vás posléze znovu oživil. A člověk je vskutku velmi nevděčný.{66}A každé obci jsme stanovili obřady, jimiž se řídí. Nechť se tedy s tebou nehádají ohledně věci této. Vyzývej k Pánu svému, neboť tys věru na cestě přímé!{67}</string>
+    <string name="aya1_22" >Chvála Bohu, který stvořil nebesa a zemi a učinil temnotu a světlo. A přece potom ti, kdož neuvěřili, Pánu svému rovné dávají!{1}On je ten, jenž z hlíny vás stvořil a pak stanovil lhůtu života vašeho - a lhůta u Něho je pevně stanovena - a přece o tom pochybujete.{2}</string>
+    <string name="aya59_23" >On klíče má k nepoznatelnému a zná je toliko On; On nejlépe ví, co na souši je i na moři, a nespadne list žádný, aniž by On o něm nevěděl, a není zrnka v temnotách země ani stébla zeleného či uschlého, jež zaznamenáno by nebylo v Knize zjevné.{59}On je ten, jenž vás v noci odvolává a jenž zná, co za dne jste vykonali, a potom vás za dne probudí, aby se dovršila lhůta vám stanovená. A posléze budete k Němu navráceni a On vás zpraví o tom, co jste dělali."{60}On moc neomezenou má nad služebníky Svými a posílá strážce, aby nad vámi bděli, dokud nezastihne některého z vás smrt; a tehdy poslové Naši jej povolají a nikoho neopomenou.{61}A potom budou k Bohu, Pánu svému skutečnému, navráceni. Zdaž Jemu nepřísluší soudit? On věru nejrychlejší je v účtování.{62}</string>
+    <string name="aya164_24" >Rci: "Jak bych mohl toužit po nějakém pánu jiném než Bohu, když On Pánem je všech věcí?" Každá duše získá jen to, co si vysloužila, a žádná duše hříchy obtížená neponese břímě jiné. A posléze k Pánu svému budete navráceni a On vás zpraví o tom, o čem jste ve sporu byli.{164}On je ten, jenž učinil vás nástupci dřívějších na zemi a jenž povýšil jedny z vás nad druhé v hodnostech, aby vás zkoušel tím, čím vás obdařil; Pán tvůj je věru rychlý v trestání, ale také odpouštějící, slitovný!{165}</string>
+    <string name="aya187_25" >Budou se tě dotazovat na Hodinu a na příchod její. Rci: "Vědomost o tom je pouze u Pána mého a jedině On odkryje ji v čas její. Těžká je na nebesích a na zemi a přijde k vám leč znenadání." A budou se tě dotazovat, jako bys byl o ní zpraven. Rci: "Jedině u Boha je o ní vědění, avšak většina lidí to neví."{187}Rci: "Nemohu si sám ani prospět, ani uškodit, leda bude-li Bůh chtít. Kdybych znal nepoznatelné, mohl bych věru rozmnožit dobro své a nedotklo by se mne zlo žádné; já však jsem pouze varovatelem a zvěstovatelem pro lid, jenž věří."{188}A On je ten, jenž vás stvořil z bytosti jediné a z ní utvořil i manželku její, aby přebývala u ní. A když u ní pobyl, otěhotněla nejdříve lehkým těhotenstvím a snadno s ním chodila; když pak se cítila těžkou, oba volali k Bohu, Pánu jich obou: "Dáš-li nám syna bezúhonného, vskutku budeme patřit mezi vděčné!"{189}Avšak když jim daroval syna bezúhonného, oni Mu božstva přidružená přidali za to, co jim daroval. Bůh však daleko je vznešenější než to, co k Němu je přidružováno.{190}Což k Němu budou přidružovat to, co vůbec nic nestvořilo, ale samo bylo stvořeno,{191}a není schopno jim nikterak pomoci a nemůže pomoci ani sobě?{192}Jestliže je vyzvete ke správné cestě, nebudou vás následovat; a jest pro vás lhostejné, zda je k tomu vyzýváte, či zda mlčíte.{193}Věru ti, které vzýváte vedle Boha, jsou služebníky stejnými jako vy. Vzývejte si je tedy a nechť vám odpoví, jste-li pravdomluvní!{194}</string>
+    <string name="aya66_26" >Což Bohu nepatří vše, co na nebesích je i na zemi? Co tedy vlastně následují ti, kdož místo Boha "přidružené" vzývají? Domněnky své jen následují a pouze předpokládají.{66}On je ten, kdo pro vás noc stvořil, abyste v ní odpočívali, a den, abyste v něm zřetelně viděli. A věru jsou v tom znamení pro lid slyšící.{67}Říkají: "Bůh si vzal děti." Sláva Mu, jenž soběstačný je a Jemuž náleží vše, co na nebesích a na zemi je. Máte snad oprávnění k tomuto tvrzení, či chcete říkat o Bohu něco, o čem nemáte ponětí?{68}Rci: "Ti, kdož si o Bohu lži vymýšlejí, nebudou mezi blaženými.{69}Krátké bude jejich života pozemského užívání; k Nám pak se jejich návrat uskuteční a nakonec jim dáme okusit trestu strašného za to, že byli nevěřící.{70}</string>
+    <string name="aya78_27" >A On je ten, jenž stvořil vám sluch, zrak i srdce - a jak málo jste mu vděčni!{78}A On je ten, jenž vás po zemi rozšířil, a u Něho budete shromážděni.{79}A On je ten, jenž život i smrt dává, a On střídání noci a dne ovládá. Což to nepochopíte?{80}</string>
+    <string name="aya43_28" >Myslíš, že tomu, kdo si vzal jako své božstvo vášeň svou, jsi dozorcem,{43}anebo domníváš se, že většina z nich naslouchá či uvažuje rozumně? Vždyť oni jsou jen jak dobytčata ba ještě dále zbloudili z cesty správné.{44}Což nevidíš, jak Pán tvůj stín prodlužuje? Kdyby byl chtěl, věru by jej byl nehybným učinil; a pak jsme slunce ustanovili jemu vůdcem{45}a potom jej k sobě přitahujeme lehkým uchopením.{46}A On je ten, jenž pro vás noc rouchem učinil a spánek odpočinkem a den učinil vzbuzením.{47}A On je ten, jenž větry vysílá jako hlasatele milosrdenství Svého; a sesíláme z nebe vodu čistou,{48}abychom jí oživili zem mrtvou a napojili to, co jsme stvořili z dobytka a lidí, mírou hojnou.{49}A rozdělujeme ji mezi ně, aby se upamatovali, avšak většina lidí odmítá vše kromě nevěrectví.{50}</string>
+    <string name="aya58_29" >Spolehni se na Živého, jenž neumírá, a oslavuj chválu Jeho; On dostatečným je znalcem hříchů služebníků Svých.{58}Ten, jenž nebesa a zemi a vše, co je mezi nimi, v šesti dnech stvořil a pak na trůnu se pevně usadil - to je Milosrdný! A zeptej se na Něj dobře zpravených!{59}A když se jim řekne: "Padněte na zem před Milosrdným!", odpovídají: "A co je to Milosrdný? Máme padat na zem jen proto, že ty nám to poroučíš?" A to vše jen rozmnožuje odpor jejich.{60}Požehnán budiž ten, jenž na nebi znamení zvěrokruhu stvořil a svítilnu tam umístil i měsíc osvětlený.{61}A On je ten, jenž stanovil střídání noci i dne jako znamení pro toho, kdo chce si Boha připomenout, a toho, kdo chce být vděčný.{62}</string>
+    <string name="aya64_30" >Bůh je ten, jenž pro vás zemi příbytkem stálým učinil a nebesa nad vámi budovou; on vyrovnal vás a podobu krásnou vám dal a pokrmy výtečné vám uštědřil. Takový je Bůh, váš Pán! Požehnán buď Bůh, Pán lidstva veškerého.{64}On živý je a není božstva kromě Něho! Modlete se k Němu zasvěcujíce Mu upřímnou víru svou! Chvála Bohu, Pánu lidstva veškerého!{65}Rci: "Bylo mi zakázáno, abych uctíval ty, jež vzýváte vedle Boha, když se mi dostalo jasných důkazů od Pána mého. A bylo mi poručeno, abych se odevzdal do vůle Pána lidstva veškerého."{66}On je ten, který vás stvořil z prachu, potom z kapky semene, pak z kapky přilnavé, potom vás vyvedl jako kojence, abyste později dosáhli dospělosti a abyste se posléze stali starci a někteří z vás budou povoláni k Němu dříve a abyste dospěli ke lhůtě stanovené, snad rozumní budete.{67}On je ten, kdo oživuje i usmrcuje, a když o něčem rozhodne, tu řekne pouze: "Staniž se!" a stane se.{68}</string>
+    <string name="aya64_31" >A seslali jsme ti Písmo jedině proto, abys jim vysvětlil to, o čem se hádají, a aby bylo správným vedením i milosrdenstvím pro lid věřící.{64}Bůh sesílá z nebe vodu a oživuje jí zemi poté, co zemřela - a věru je v tom znamení pro lid slyšící.{65}A je pro vás též v dobytku vašem poučení: napájíme vás tím, co je v břichách jejich - něčím, co je mezi odpadem a krví - mlékem čistým, jež požitkem je pro pijící.{66}A z plodů datlovníku a z hroznů opojný nápoj získáváte i stravu výtečnou a také v tom je znamení pro lid rozumný.{67}Pán tvůj pak vnukl včelám: "Zřiďte si příbytky své v horách, ve stromech i v tom, co lidé si postaví!{68}Potom požívejte z plodů všech a kráčejte po cestě Pána svého pokojně!" A z útrob jejich pak vychází nápoj barev rozličných, v němž lék jest pro lidi. A to věru je znamení pro lid přemýšlivý.{69}Bůh vás stvořil a posléze vás k sobě povolá. A jsou mezi vámi někteří, kdo věku sešlosti dosáhnou a nic z toho znát nebudou, co již věděli. A Bůh věru je vševědoucí, všemohoucí.{70}Bůh dal jedněm z vás přednost před druhými v podílu na živobytí; avšak ti, jimž přednost byla dána, nedávají z podílu svého těm, jimž pravice jejich vládne, aby si tak byli rovni. Což popírat chtějí dobrodiní Boží?{71}Bůh dal vám manželky mezi vámi zrozené a učinil vám z manželek vašich syny a vnuky a uštědřil vám všemožné věci výtečné. Což věřit budou v božstva falešná, jsouce tak za dobrodiní Boží nevděční?{72}</string>
+    <string name="aya1_32" >Požehnán buď ten, v jehož rukou je království a jenž všemocný je nad každou věcí,{1}jenž stvořil smrt i život, aby vyzkoušel, kdo z vás bude v skutcích nejlepší - a On mocný je i odpouštějící -{2}jenž stvořil sedm nebes ve vrstvách. A nespatříš ve stvoření Milosrdného nesouměrnost žádnou! Pozvedni jen zrak svůj, zda uvidíš trhlinu nějakou!{3}A potom obrať svůj zrak ještě dvakrát, a pohled tvůj se k tobě navrátí ponížen a vyčerpán námahou marnou.{4}My věru jsme ozdobili nejbližší nebe svítilnami, jež určili jsme i pro satanů kamenováni, a připravili jsme pro ně trest plamenný.{5}Těm, kdož neuvěřili v Pána svého, náleží trest pekelný a jak hnusný je to cíl konečný!{6}</string>
+    <string name="aya5_33" >A zvolal: "Pane můj, vyzýval jsem lid svůj nocí i dnem,{5}mé kázání však rozmnožilo jejich odpor jen.{6}A kdykoliv jsem je vyzýval - abys jim mohl odpustit - tu prsty si do uší strkali, do šatů svých se halili, zatvrdili se a chovali se hrdopyšně.{7}Potom jsem jim kázal zcela veřejně,{8}pak jsem vystoupil otevřeně a jednal s nimi skrytě i tajně{9}a pravil jsem jim:, Proste Pána svého za odpuštění, vždyť On věru je odpouštějící!{10}On sešle na vás nebe deštěm hojným{11}a rozmnoží vám majetky i syny a připraví pro vás zahrady a řeky.{12}Co je vám, že nedoufáte ve velkomyslnost Boží?{13}On přece stvořil vás v postupných formách;{14}což nevidíte, jak Bůh stvořil sedm nebes ve vrstvách{15}a umístil mezi nimi měsíc jako světlo a slunce učinil pochodní?{16}Bůh dal vám vyrůst ze země jako rostlinám,{17]potom vás do ní vrátí a posléze vás z ní vyvede znenadání.{18}A Bůh zemi jako koberce rozprostřel vám,{19}abyste cestami širokými chodili po ní.? "{20}</string>
+    <string name="aya17_34" >Což neuvažují o tom, jak stvořeni byli velbloudi,{17}jak nebesa byla zdvižena,{18}jak pohoří byla vztyčena,{19}jak země byla rozprostřena?{20}</string>
+
+    <string name="arom_k1" >Alif lám mím!{1}Poražení byli Byzantinci{2}v nejbližší zemi, však po porážce své zase
+        zvítězí{3}v několika letech. Bohu přísluší rozhodnutí jak dřívější, tak i pozdější. V ten den pak se zaradují
+        věřící{4}z vítězné pomoci Boží. A pomáhá On, komu chce, a On mocný je a slitovný.{5}Slib Boží - a Bůh slib Svůj
+        neruší, však většina lidí to neví.{6}Znají jen vnější stránky života pozemského, zatímco k životu budoucímu jsou
+        lhostejní.{7}Což neuvažovali ve svých duších, že Bůh stvořil nebesa a zemi i vše, co je mezi nimi, nejinak než
+        jako skutečnost a na lhůtu stanovenou? Však většina lidí v setkání s Pánem svým nevěří.{8}Což necestovali po
+        zemi a neviděli, jaký byl konec těch, kdož před nimi byli? A přece byli mocnější silou a orali zemi a obdělávali
+        ji více, než oni ji obdělávají. A přišli k nim poslové jejich s jasnými znameními. A nebyl Bůh takový, aby jim
+        ukřivdil, leč oni sami na sobě křivdu spáchali.{9}A konec těch, kdož zlo činili, bude pak ještě horší, neboť za
+        lživá znamení Boží prohlašovali a posměšky si z nich tropili.{10}Bůh zahajuje život prvním stvořením, pak
+        opakovat to bude a posléze k Němu budete navráceni.{11}V den, kdy Hodina udeří, budou hříšníci v zoufalství
+        přivedeni{12}a nebudou mít ve společnících svých přímluvce žádné a ve společníky své věřit přestanou.{13}A v
+        den, kdy Hodina udeří, lidé rozděleni budou:{14}co týká se těch, kdož věřili a dobré skutky konali, ti v zahradě
+        budou obšťastněni,{15}zatímco ti, kdož nevěřili a znamení Naše i setkání na onom světě za lež prohlašovali, ti k
+        trestu budou předvedeni.{16}Pronášejte slávu Bohu, když večer zastihne vás a když ráno procitáte{17}A chvála
+        jemu na nebi i na zemi, v noci i ve dne{18}On dává vzejít živému z mrtvého a mrtvému z živého a oživuje zemi po
+        smrti její. A podobně i vy budete z hrobů vyvedeni.{19}A patří k Jeho znamením, že stvořil vás z prachu, a hle,
+        když lidstvem jste se stali, po zemi jste rozptýleni.{20}A patří k Jeho znamením, že vám z vás samých manželky
+        stvořil, abyste u nich klid nalezli. A vložil mezi vás lásku a dobro - a věru jsou v tom znamení pro lidi
+        přemýšlivé.{21}A patří k Jeho znamením stvoření nebes a země i rozličnost jazyků vašich i barev - a v tom je
+        věru znamení pro lidstvo veškeré.{22}A patří k Jeho znamením, že za noci spíte a za dne o část z Jeho přízně
+        usilujete. I v tom je věru znamení pro lid slyšící.{23}A patří k Jeho znamením, že vám ukazuje blesky pro strach
+        i naději a sesílá z nebe vodu a oživuje jí zemi po smrti její. A v tom je věru znamení pro lid chápavý.{24}A
+        patří k Jeho znamením, že nebesa a země z rozkazu Jeho pevně stojí a že potom, až zvoláním vás zavolá ze země,
+        vy ven vyjdete z ní.{25}A Jemu náleží vše, co na nebesích je i na zemi, a všichni jsou Mu pokorně oddáni.{26}A
+        On je ten, jenž zahajuje život prvním stvořením a pak to opakovat bude - a to pro něj je velmi snadné. On
+        příkladem nejvyšším je na nebesích a na zemi a On mocný je i moudrý.{27}On uvádí vám podobenství o vás samých:
+        máte snad mezi těmi, jimž pravice vaše vládne, společníky v tom, co jsme vám uštědřili, takže jste si v tom
+        rovni? Bojíte se otroků svých tak, jak bojíte se navzájem? Takto činíme znamení Naše srozumitelnými pro lid
+        rozumný.{28}Však nikoliv! Ti, kdož nespravedliví jsou, vášně své jen bez rozmyslu následují. Kdo může vést ty,
+        jimž Bůh dal zbloudit a kteří žádné pomocníky nemají?{29}Obrať tvář svou k náboženství pravému jako haníf podle
+        sklonu přirozeného lidem, v němž Bůh lidi stvořil. Stvoření Boží pak změnit nelze - a toto je náboženství
+        neměnné, však většina lidí to neví.{30}(Vzývejte Pána svého) obracejíce se k Němu kajícně! Buďte bohabojní,
+        dodržujte modlitbu a nebuďte z modloslužebníků{31}ani z těch, kdož náboženství své rozštěpili a stali se různými
+        stranami. A každá strana se těší jen ze svých vlastních názorů.{32}Když dotkne se lidí neštěstí, Pána svého
+        vzývají a kajícně se k Němu obracejí. Když jim však potom dá ochutnat milosrdenství Svého, hle, část z nich Pánu
+        svému společníky přidává,{33}aby tak nevděční byli za to, co jsme jim uštědřili. Jen si užívejte, však záhy se
+        dozvíte!{34}Či jsme jim snad seslali plnou moc, jež by hovořila o tom, co k Němu přidružují?{35}Když dáme lidem
+        okusit milosrdenství Svého, tu radují se z něho, však když je postihne něco zlého za to, co ruce jejich předtím
+        učinily, hle, hned si zoufají.{36}Což neviděli, že Bůh rukou otevřenou uštědřuje či odměřuje obživu, komu chce?
+        A v tom věru jsou znamení pro lid věřící.{37}Dávej příbuznému podle práva jeho i chudákovi a tomu, kdo na cestě
+        je Boží - a to pro ty je lepší, kdo po tváři Boží touží, a to jsou ti, kdož budou blažení.{38}To, co jako lichvu
+        berete, aby to přineslo rozmnožení vzaté z majetku jiných, to nepřinese u Boha úrok žádný. Však to, co jako
+        almužnu dáváte, toužíce po tváři Boží - tak činí ti, jimž odměna bude zdvojnásobena.{39}Bůh je ten, jenž vás
+        stvořil, potom vám obživu uštědřil, pak zemřít vám dá a nakonec vás opět k životu přivede. Je mezi těmi, které
+        Mu přidružujete, někdo, kdo mohl by něco podobného učinit? Sláva Mu a On vznešenější je než to, co je k Němu
+        přidružováno.{40}A objevila se na pevnině i na moři spoušť za to, co ruce lidí způsobily, aby tak Bůh jim dal
+        okusit část z toho, co si vysloužili - snad se obrátí.{41}Rci: "Cestujte po zemi a pohleďte, jaký byl konec těch
+        před vámi, neboť většina z nich byli také modloslužebníci!"{42}Obrať tedy tvář svou k náboženství neměnnému,
+        dříve než přijde od Boha den, jejž nelze odvrátit. V ten den budou lidi na dvě skupiny rozděleni:{43}ten, kdo
+        nevěřil obtížen bude nevírou svou, zatímco ti, kdož zbožné skutky konali, sami pro sebe si připravili
+        ulehčení,{44}aby tak Bůh ty, kdož uvěřili a zbožné skutky konali, z laskavosti své mohl odměnit. A On nemiluje
+        nevěřící.{45}A patří k Jeho znamením, že vysílá větry jako zvěstovatele radostné zprávy, a aby vám tím dal
+        ochutnat milosrdenství Svého a aby lodi pluly po moři z rozkazu Jeho a abyste mohli usilovat o část z dobrodiní
+        Jeho - snad budete vděční.{46}A již před tebou jsme vyslali posly k lidu jejich a přišli k nim s jasnými
+        znameními. A pomstili jsme se těm, kdož hřešili, a povinností Naší je, abychom pomohli věřícím.{47}Bůh je ten,
+        kdo vysílá větry, jež zvedají do výše mračna; pak rozptyluje je po obloze, jak chce, a rozděluje je na menší
+        kusy a posléze vidíš, i jak mezi nimi vychází déšť. A když jím zasáhne ze služebníků Svých ty, jež chce, hle,
+        zaradují se,{48}ačkoliv předtím, než seslán byl jim, naplněni byli zoufalstvím.{49}Pohlédni tedy na stopy
+        milosrdenství Božího, pohlédni, jak zemi oživuje po smrti její. A On věru je ten, jenž mrtvé k životu přivádí,
+        vždyť On věcí všech je mocen.{50}I kdybychom vyslali vítr vysušující a lidé by spatřili rostlinstvo zežloutlé,
+        přece by nepřestali být ani potom nevěřícími.{51}Ty věru nedokážeš, aby mrtví slyšeli ani aby hluší uslyšeli
+        volání, když zády se odvracejí.{52}A ty nejsi ani ten, jenž slepé z jejich bloudění vyvádí, ty pouze dokážeš,
+        aby slyšeli ti, kdož věří ve znamení Naše, a to jsou ti, kteří do vůle Naší jsou odevzdáni.{53}Bůh je ten, jenž
+        stvořil vás slabými, po slabosti pak sílu dal a posléze opět ze síly slabost a sivost učinil. On tvoří, co chce,
+        a On vševědoucí je i všemohoucí.{54}V den, kdy Hodina udeří, hříšníci přísahat budou, že v hrobech zůstali jen
+        hodinu jedinou. Takto se sami klamali!{55}Ti, jimž dostalo se vědění i víry, však řeknou: "Věru jste tak
+        zůstali, jak psáno je v knize Boží, až do dne vzkříšení. A toto zde je den vzkříšení, však vy jste to
+        neznali."{56}V ten den nebude těm, kdož nespravedliví byli, nic platna výmluva jejich a nebudou vyslyšeni.{57}A
+        věru jsme uvedli lidem v Koránu tomto různé druhy příkladů; když však přijdeš s nějakým znamením, řeknou
+        nevěřící: ("… ". Rci:) "Vy nečiníte nic jiného, než že za falešné prohlašujete!"{58}A takto Bůh zapečeťuje srdce těch, kdož nic nevědí.{59}Buď však neochvějný, vždyť slib Boží pravdou jest. A nechť ti, kdož nejsou pevně přesvědčeni, tě ve víře tvé nezviklají!{60}</string>
+
+    <string name="an1biaa1_6" >Přibližuje se k lidem zúčtování jejich, zatímco lhostejně se odvracejí,{1}a kdykoliv jim od Pána jejich nové připomenutí přijde, jen jako v zábavě mu naslouchají{2}s výsměchem v srdcích. A ti, kdož nespravedliví jsou, tajně se domlouvají: "Což není on jen smrtelník vám podobný? Cožpak se chcete podílet na kouzelnictví, přestože oči máte vidoucí?"{3}Rci: "Pán můj dobře zná řeči na nebesích i na zemi, On slyšící je i vševědoucí."{4}Však naopak oni hovoří: "To jsou jen sny popletené či spíše on sám si to vymyslil, ba věru on básníkem je! Ať tedy předloží znamení, s jakými byli vysláni proroci staří!"{5}Neuvěřilo před nimi žádné město, a zahubili jsme je. Uvěří snad nyní tito?{6}</string>
+    <string name="an2biaa7_10" >A poslali jsme před tebou pouze muže, jimž vnuknutí jsme dali. Zeptejte se tedy lidí, jimž dostalo se připomenutí, nevíte-li!{7}A nedali jsme těmto prorokům těla, jež by pokrmy nejedla, a ani nesmrtelní nebyli.{8}Potom jsme splnili slib jim daný a zachránili jsme je i ty, jež jsme chtěli, zatímco přestupníky jsme zahubili.{9}A nyní jsme vám již Písmo seslali, v němž pro vás je připomenutí - což to nepochopíte?{10}</string>
+    <string name="an3biaa11_15" >A kolik jsme vyvrátili měst, jež byla nespravedlivá, a po nich vzniknout jsme národům jiným dali!{11}A jakmile pocítili přísnost Naši, prchat z měst se jali.{12}"Neprchejte, ale raději se vraťte k přepychu, v němž jste žili, a do příbytků svých - možná že o vydání počtu požádáni budete!"{13}A odpověděli: "Běda nám, my věru byli jsme nespravedliví!"{14}A nepřestalo toto volání jejich, dokud jsme je jak obilí neskosili a životy jejich nezhasili.{15}</string>
+    <string name="an4biaa16_18" >My nebesa a zemi a vše, co je mezi nimi, jsme pro zábavu nestvořili;{16}kdybychom se byli chtěli pobavit, našli bychom si zábavu u Sebe, kdybychom už tak učinit zamýšleli.{17}Naopak My pravdu proti falši mrštíme, a roztříští ji, a hle, ona se rozplyne; však běda vám za to, co lživě Bohu připisujete!{18}</string>
+    <string name="an5biaa19_20" >Jemu náleží všichni, kdož na nebesích jsou a na zemi; a ti, kdož u Něho dlí, nejsou tak hrdopyšní, aby Mu nesloužili, a nikdy neumdlí{19}a pějí slávu Jeho dnem i nocí bez přestání.{20}</string>
+    <string name="an6biaa21_23" >Vzali si snad božstva pozemská, jež k životu probouzejí?{21}Kdyby byla na nebi a na zemi božstva jiná kromě Boha, věru by obojí již zkáze bylo propadlo. A oč je Bůh, Pán trůnu, slavnější než to, co mu připisují!{22}A On nebude tázán na to, co koná. zatímco oni budou dotazováni na počtu vydání.{23}</string>
+    <string name="an7biaa24_29" >Či vzali si vedle Něho božstva jiná? Rci: "Předložte tedy důkaz svůj! Toto je připomenutí těm, kdož se mnou jsou, i připomenutí těm, kdož byli přede mnou!" Však naopak, většina z nich pravdu nezná a odvrací se od ní.{24}A nevyslali jsme před tebou žádného posla, abychom mu nebyli vnukli: "Není božstva kromě Mne; uctívejte Mne tedy!"{25}Hovoří: "Milosrdný si vzal děti!" Sláva Mu! Ba nikoliv, to služebníci jsou jen Jeho ctihodní,{26}kteří se dříve než On promluvit neodvažují a jen podle rozkazu Jeho jednají.{27}A On zná dobře, co je před nimi a co je za nimi, a oni se přimlouvat nesmějí, leč za toho, v němž On nalezne zalíbení; a oni se před Ním třesou bázní.{28}A kdyby někdo z nich řekl: "Já božstvem vedle Něho jsem," toho bychom peklem odměnili, neboť takto My nespravedlivé odměňujeme.{29}</string>
+    <string name="an8biaa30_33" >Což ti, kdož nevěří, nevidí, že nebesa a země byly pevně spojeny a že jsme je od sebe odtrhli a že z vody jsme vše živé učinili? Což neuvěří?{30}A vztyčili jsme na zemi hory pevně zakotvené, aby se s nimi nekývala, a učinili jsme na ní průchody jako cesty - snad jimi budou vedeni.{31}A učinili jsme nebe střechou chráněnou a přesto se oni odvracejí od Našich znamení.{32}On je ten, jenž stvořil noc i den, slunce i měsíc a oba po nebeské své dráze plují.{33}</string>
+    <string name="an9biaa34_35" >Žádnému ze smrtelníků, kteří před tebou byli, jsme nesmrtelnost nedali. A jestliže ty zemřeš, budou snad oni nesmrtelní?{34}Každá duše smrti okusí; a zkoušíme vás zlým i dobrým co pokušením, a k Nám budete navráceni.{35}</string>
+    <string name="an10biaa36_41" >A když tě nevěřící spatří, posměšky si z tebe jen dělají a hovoří: "Je tohle ten, co zmiňuje se pohrdavě o božstvech vašich?" A při tom sami nevěří v Milosrdného připomenutí!{36}Člověk je stvořen ze spěchu! Já ukáži vám záhy Svá znamení, však nežádejte jejich uspíšení!{37}A říkají nevěřící: "Kdy slib tento se splní, jste-li pravdomluvní?"{38}Kéž by znali ti, kdož nevěří, tu chvíli, kdy nebudou moci oheň odvrátit od tváří svých a zad svých a kdy pomoc žádnou mít nebudou!{39}Ba, Hodina přikvačí na ně znenadání a v úžas je uvede a nebudou schopni ji zadržet a ani odklad nedostanou.{40}A dělali si posměšky již z poslů předchozích, avšak to, čemu se posmívali, obklopilo ty, kdož tomu se posmívali.{41}</string>
+    <string name="an11biaa42_47" >Rci: "Kdo ochrání vás za noci i za dne před Milosrdným?" A přece od připomenutí Pána svého se odvracejí!{42}Mají snad místo Nás božstva jiná, jež bránit je budou? Ta nejsou schopna pomoci ani sama sobě, a oni jimi nebudou proti Nám chráněni.{43}Ba naopak, nechali jsme je i otce jejich užívat světa tohoto tak, až prodloužily se životy jejich. Což nevidí, že přicházíme na zem zmenšujíce ji ze všech stran? Jsou snad vítězi oni?{44}Rci: "Já varuji vás jedině vnuknutím mně daným, však hluší neslyší volání, jsou-li varováni."{45}A jestliže se jich dotkne jen jediné dechnutí trestu Pána tvého, vykřiknou: "Běda nám, my vskutku nespravedliví jsme byli!"{46}A postavíme v den zmrtvýchvstání váhu spravedlivou a nebude duše žádná o nic ošizena; a i kdyby to mělo jen váhu zrna hořčičného, My je přineseme. A my stačíme si jako účetní.{47}</string>
+    <string name="an12biaa48_50" >A dali jsme již kdysi Mojžíšovi a Árónovi spásné zjevení, osvícení, i bohabojným připomenutí,{48}těm, kteří se Pána svého kvůli nepoznatelnému obávají a před Hodinou se chvějí.{49}A toto je připomenutí požehnané, Námi seslané. Chcete je snad popírat?{50}</string>
+    <string name="an13biaa51_73" >A darovali jsme již předtím Abrahamovi správné vedení, neboť jsme o něm věděli.{51}Hle, pravil otci svému a lidu svému: "Co je to za sochy, jichž se tak usilovně přidržujete?"{52}Odpověděli: "Shledali jsme, že otcové naši je uctívali."{53}Pravil: "Vskutku vy i vaši otcové ve zjevném bludu jste!"{54}I řekli: "Přišels k nám s pravdou, anebo jsi jedním z těch, kdo žertují?"{55}Odpověděl: "Ba právě naopak! Váš Pán je Pánem nebe a země a On obé stvořil. A já jsem jedním z těch, kdož to dosvědčují.{56}Při Bohu, dozajista nastrojím úklad modlám vašim, jakmile záda vaše se obrátí."{57}A rozbil je na kousky všechny kromě té největší z nich - snad oni sami se k ní navrátí.{58}I řekli: "Kdo tohle božstvům našim udělal, ten věru mezi nespravedlivé patří!"{59}A pravili jedni: "Slyšeli jsme mladíka nějakého o nich poznámky činit, Abraham mu říkají."{60}I zvolali: "Přiveďte ho před oči lidí - snad budou proti němu svědčit!"{61}A zeptali se jej: "Byls to ty, Abrahame, kdo s našimi božstvy se tohle odvážil učinit?"{62}Odpověděl: "Nikoliv, to tenhle největší z nich udělal, zeptejte se jich, jestliže mohou promluvit!"{63}Nevěřící se obrátili proti sobě a řekli: "Vy věru jste nespravedliví!"{64}Potom však opět nastal obrat v hlavách jejich a prohlásili: "Ty přece víš, že vůbec nemluví!"{65}Abraham pravil: "Pročpak tedy uctíváte vedle Boha něco, co vám ani neprospívá, ani neškodí?{66}Hanba na vás i na to, co místo Boha uctíváte. Cožpak nejste rozumní?"{67}Zvolali: "Upalte ho a pomozte božstvům svým, udělat něco chcete-li."{68}Avšak My jsme pravili: "Ohni, vychladni a buď neškodným pro Abrahama!"{69}A hodlali mu úklad nastrojit, však My jsme způsobili, že sami ztrátu největší utrpěli.{70}A zachránili jsme jeho i Lota vedouce je do země, již jsme pro lidstvo celé požehnali,{71}a darovali jsme mu Izáka a Jakuba nádavkem a všechny jsme bezúhonnými učinili.{72}A ustanovili jsme je vůdci, kteří lid svůj řídí podle rozkazu Našeho, a vnukli jsme jim konání dobrého, dodržování modlitby a rozdáváni almužny - a byli služebníky Našimi.{73}</string>
+    <string name="an14biaa74_75" >A dali jsme Lotovi osvícení a vědění a zachránili jsme ho z města, jež nepravosti páchalo a jehož obyvatelé byli lidmi špatnými a hanebnými.{74}A uvedli jsme jej do milosrdenství Svého, neboť patřil mezi bezúhonné.{75}</string>
+    <string name="an15biaa76_77" >(A zmiň) se o Noem, který již dříve Nás volal, a vyslyšeli jsme jej a zachránili jsme jej i rodinu jeho od pohromy nesmírné{76}a pomohli jsme mu proti lidu, jenž prohlašoval znamení Naše za vylhaná. A byl to lid špatný a utopili jsme je všechny.{77}</string>
+    <string name="an16biaa78_82" >A zmiň se o Davidovi a Šalomounovi; hle, oni vynesli rozsudek o poli, jež poškodilo stádo ovcí lidí jedněch, a byli jsme svědky rozsudku jejich.{78}A vnukli jsme Šalomounovi pochopení věci té a oběma jsme darovali osvícení a vědění. A donutili jsme hory a ptáky, aby spolu s Davidem Naši pěli chválu. A tak jsme učinili.{79}A naučili jsme jej vyrábět brnění pro vás, abyste se jimi chránili před útočností vzájemnou - budete za to vděčni?{80}A Šalomounovi jsme podrobili vítr, jenž jako vichřice na rozkaz jeho duje k zemi, již jsme požehnali. A o všech těch věcech My dobře jsme věděli.{81}A také některé satany jsme mu podrobili, aby se do moře potápěli či práce jiné proň vykonávali, a My jsme je při tom střežili.{82}</string>
+    <string name="an17biaa83_84" >A zmiň se o Jóbovi, jenž volal k Pánu svému: "Postihlo mne neštěstí, však tys nejslitovnější ze slitovníků!"{83}A vyslyšeli jsme jej a odvrátili od něho neštěstí, jež nesl, a vrátili jsme mu jeho rodinu a přidali ještě jednou tolik s nimi jako milosrdenství své a jako připomenutí těm, kdož Nás uctívají.{84}</string>
+    <string name="an18biaa85_86" >A zmiň se o Ismaelovi, Idrísovi a Dhu l-Kiflovi - a ti všichni byli trpěliví,{85}a uvedli jsme je do milosrdenství Svého a jsou mezi bezúhonnými.{86}</string>
+    <string name="an19biaa87_88" >A zmiň se o Muži s rybou; když odešel rozzloben a domníval se, že proti němu nic nezmůžeme. A volal nás v temnotách říkaje: "Není božstva kromě Tebe, sláva budiž Tobě! Věru jsem patřil k nespravedlivým!"{87}I vyslyšeli jsme jej a zachránili jsme jej z útrap jeho. A takto My poskytujeme záchranu věřícím.{88}</string>
+    <string name="an20biaa89_90" >A zmiň se o Zachariášovi, když volal k Pánu svému: "Pane můj, neponechávej mne samotného, Ty, jenž z dědiců jsi nejlepší!"{89}Vyslyšeli jsme jej a darovali jsme mu Jana a učinili jsme manželku jeho plodnou. A všichni ti se předstihovali v dobročinném konání a modlili se k Nám z touhy a úcty a byli vůči Nám pokorní.{90}</string>
+    <string name="an21biaa_91" >A zmiň se o té, jež panenství své střežila. A vdechli jsme do ní část ducha Svého a učinili jsme z ní i ze syna jejího pro veškeré lidstvo znamení.{91}</string>
+    <string name="an22biaa92_94" >Hle, tato vaše obec je obcí jedinou a Já Pánem jsem vaším, uctívejte Mne tedy!{92}Avšak oni se ve věci své mezi sebou rozpoltili, však přesto se všichni k Nám navrátí.{93}Kdokoliv dobré skutky koná a je při tom věřící, tomu úsilí jeho věru nebude upřeno a zajisté mu je k dobru připíšeme.{94}</string>
+    <string name="an23biaa95_100" >A je zakázáno městu každému, jež jsme zahubili, aby se obyvatelé jeho v ně navrátili,{95}pokud nebudou vypuštěni Gog a Magog; a tehdy se lidé z každého hrobu vynoří!{96}Pravdivý slib se přibližuje, a hle, strnulé jsou zraky těch, kdož neuvěřili. "Běda nám, že lhostejní jsme byli k němu, ba naopak, byli jsme nespravedliví."{97}Vskutku vy i to, co jste místo Boha uctívali, palivem budete peklu a věru se doň dostanete!{98}Kdyby tamti byli skutečnými božstvy, nebyli by se sem dostali; a všichni v něm budou nesmrtelní.{99}A bude tam pro ně jen sténání, však nebudou v něm slyšeni.{100}</string>
+    <string name="an24biaa101_103" >Ti však, jimž jsme předem slíbili odměnu překrásnou, ti od pekla budou vzdáleni{101}a neuslyší z něho ani šelest nejmenší a v tom, po čem duše jejich toužily, budou nesmrtelní.{102}Ani den hrůzy největší je nezarmoutí a andělé je přivítají slovy: "Toto váš je den, jenž byl vám přislíben!"{103}</string>
+    <string name="an25biaa104_106" >V ten den svineme nebe, jako se svinují svitky knih, a jako jsme začali již prvním stvořením, tak opakovat to budeme podle slibu Námi daného. A My tak učiníme!{104}A věru jsme již napsali v žalmech, po připomenutí, že zemi podědí Moji bezúhonní služebníci.{105}A je v tom zajisté sdělení pro lid Mne uctívající.{106}</string>
+    <string name="an26biaa107_112" >A neposlali jsme tě leč jako znamení milosrdenství pro lidstvo veškeré.{107}Rci: "Bylo mi vnuknuto jenom, že božstvem vaším je Bůh jediný. Odevzdáte se tedy do Jeho vůle?"{108}A jestliže se odvrátí, tedy rci: "Já varoval vás bez rozdílu a věru nevím, je-li blízko či daleko to, co vám bylo slíbeno."{109}A On zná dobře to, co veřejně hovoříte, i to, co skrýváte.{110}Nevím, zda to snad není pouze pokušení pro vás a dopřání vám užívat na určitou chvíli.{111}Rci: "Pane můj, rozhodni podle pravdy!" Pán náš je Milosrdný a u Něho budiž vyžadována pomoc proti tomu, co lživě Mu připisujete!{112}</string>
+
+
+    <string name="sourah13">Ar-Ra\'d(The Thunder)</string>
+    <string name="sourah16">An-Nahl(The Bees)</string>
+    <string name="sourah22">Al-Hajj(The Pilgrimage)</string>
+    <string name="sourah24">An-Noor(The Light)</string>
+    <string name="sourah35">Fatir(The Orignator)</string>
+    <string name="sourah39">Az-Zumar(The Groups)</string>
+    <string name="sourah45">Al-Jathiya(Crouching)</string>
+    <string name="sourah57">Al-Hadid(The Iron)</string>
+    <string name="sourah6">Al-An\'am(The Cattle)</string>
+
+
+    <string name="sourah30">Ar-Room(The Romans)</string>
+    <string name="sourah67">Al-Mulk(Dominion)</string>
+
+
+
+    <string name="sourah88" >Al-Ghashiya(The Overwhelming)</string>
+    <string name="h3535iiii">Jaký byl recept ráje a to vytvořilo</string>
+    <string name="h3535">Řekl: Lidé ráje vidí lidi z místností nad nimi,Jako vzdálená a svítící planeta v dohledu,od Orientu nebo Maroka, aby mezi nimi rozlišovali</string>
+    <string name="h3535i">Řekli: Ó posel Boží, tyto domy proroků neinformují ostatní</string>
+    <string name="h3535ii">Řekl: Ano, přísahám na Boha,I muži, kteří uvěřili v Boha a uvěřili poslům</string>
+    <string name="h3535iii">Kniha (začátek tvorby)</string>
+    <string name="btn_c">Odstraňte soubor byl zrušen</string>
+    <string name="btn_cancell">The zrušit Změna názvu</string>
+    <string name="btn_cancelll">OK</string>
+    <string name="btn_cc">přehled</string>
+    <string name="btn_ccc">Soubor byl úspěšně smazán</string>
+    <string name="btn_cccc">Zrušit mazat soubory</string>
+    <string name="btn_ccccc">Všechny nahrávky byly úspěšně vymazány</string>
+    <string name="btn_savee">Název byl úspěšně změněn</string>
+    <string name="card_aya1">Verš {33}</string>
+    <string name="card_aya10">"Verše Od {12} do {13} "</string>
+    <string name="card_aya11">"Verše Od {10} do {18} "</string>
+    <string name="card_aya12">"Verše Od {1} do {6} "</string>
+    <string name="card_aya13">"Verše Od {52} do {58} "</string>
+    <string name="card_aya14">"Verše Od {1} do {4} "</string>
+    <string name="card_aya15">"Verše Od {32} do {34} "</string>
+    <string name="card_aya16">"Verše Od {9} do {14} "</string>
+    <string name="card_aya17">"Verše Od {1} do {7} "</string>
+    <string name="card_aya18">"Verše Od {1} do {13} "</string>
+    <string name="card_aya19">"Verše Od {53} do {55} "</string>
+    <string name="card_aya2">Verš {114}</string>
+    <string name="card_aya20">"Verše Od {39} do {41} "</string>
+    <string name="card_aya21">"Verše Od {60} do {68} "</string>
+    <string name="card_aya22">"Verše Od {1} do {2} "</string>
+    <string name="card_aya23">"Verše Od {59} do {62} "</string>
+    <string name="card_aya24">"Verše Od {164} do {165} "</string>
+    <string name="card_aya25">"Verše Od {187} do {194} "</string>
+    <string name="card_aya26">"Verše Od {66} do {70} "</string>
+    <string name="card_aya27">"Verše Od {78} do {80} "</string>
+    <string name="card_aya28">"Verše Od {43} do {50} "</string>
+    <string name="card_aya29">"Verše Od {58} do {62} "</string>
+    <string name="card_aya3">"Verše Od {41} do {46} "</string>
+    <string name="card_aya30">"Verše Od {64} do {68} "</string>
+    <string name="card_aya31">"Verše Od {64} do {72} "</string>
+    <string name="card_aya33">"Verše Od {5} do {20} "</string>
+    <string name="card_aya34">"Verše Od {17} do {20} "</string>
+    <string name="card_aya35">Verše {60}</string>
+    <string name="card_aya4">"Verše Od {28} do {29} "</string>
+    <string name="card_aya5">"Verše Od {163} do {164} "</string>
+    <string name="card_aya6">"Verše Od {71} do {73} "</string>
+    <string name="card_aya7">"Verše Od {95} do {101} "</string>
+    <string name="card_aya8">"Verše Od {1} do {6} "</string>
+    <string name="card_aya9">"Verše Od {6} do {7} "</string>
+    <string name="fantitl">Veršů od Koránu</string>
+    <string name="fantitl2">Některé z veršů vytvoření všemohoucího Boha na nebi i na zemi</string>
+    <string name="ask_to_rename">Ukázat přejmenování dialog po nahrávce zastavení</string>
+    <string name="btn_allow">dovolit</string>
+    <string name="btn_deny">odmítnout</string>
+    <string name="btn_ok">OK</string>
+    <string name="delete">vymazat</string>
+    <string name="download">stažení</string>
+    <string name="email_clients_not_found">Nebyl nalezen žádný e-mailový klient</string>
+    <string name="error_process_waveform">Nelze nakreslit průběh</string>
+    <string name="info">informace</string>
+    <string name="naming">Pojmenování:</string>
+    <string name="need_write_permission">Aplikace vyžaduje povolení přístupu k veřejnému úložišti. Pokud to není povoleno, budou záznamy ukládány do soukromého adresáře aplikace</string>
+    <string name="open_record_with">Otevřete %s pomocí</string>
+    <string name="open_with">Otevřít s</string>
+    <string name="rec_duration">Doba trvání:</string>
+    <string name="rec_format">Formát:</string>
+    <string name="rec_location">Umístění souboru:</string>
+    <string name="rec_name">Název:</string>
+    <string name="rec_size">Velikost:</string>
+    <string name="record_deleted_successfully">Záznam byl úspěšně smazán</string>
+    <string name="rename">přejmenovat</string>
+    <string name="request">Žádost nebo zpětná vazba</string>
+    <string name="send_email">Poslat e-mailem ...</string>
+    <string name="share">podíl</string>
+    <string name="delete_all2">Smazat všechny</string>
+    <string name="dont_ask_again_rename">Neptejte přejmenování znovu</string>
+    <string name="error_lost_records">Některé z vašich záznamů byla odstraněna nebo přesunuta</string>
+    <string name="lost_records">Ztracené záznamy</string>
+    <string name="records_was_removed">Některé záznamy soubory nebyl nalezen v adresáři záznamy.Možná byly odstraněny nebo přesunuty.</string>
+    <string name="cancel_rec">Registrace byla zrušena</string>
+    <string name="btn_details">Podrobnosti</string>
+    <string name="delete_record_forever">Smazat tento záznam navždy %s?</string>
+    <string name="empty">Prázdný</string>
+    <string name="error_no_available_space">Není k dispozici prostor!</string>
+    <string name="rec_frequency">Frekvence:</string>
+    <string name="record_moved_into_trash">Záznam byl přesunut do koše</string>
+    <string name="record_restored_successfully">Záznam byl úspěšně obnoven</string>
+    <string name="restore_record">Obnovit tento záznam?</string>
+    <string name="trash">Odpadky</string>
+    <string name="trash_info">Záznamy přesunuté do koše budou navždy odstraněny za 60 dní.</string>
+    <string name="rec_created">Vytvořeno:</string>
+    <string name="error_failed_access_to_storage" >Nepodařilo se získat přístup k úložišti souborů</string>
+    <string name="downloading_cancel" >Stahování bylo zrušeno</string>
+    <string name="downloading_success" >%s stažené do adresáře Stáhnout</string>
+    <string name="downloading_failed" >Stahování se nezdařilo: %s</string>
+    <string name="downloading" >Stahování: %s</string>
+    <string name="by_date" >Podle data (nejnovější)</string>
+    <string name="by_date_desc" >Podle data (nejstarší)</string>
+    <string name="by_name" >Podle jména (A-Z)</string>
+    <string name="by_name_desc" >Podle jména (Z-A)</string>
+    <string name="by_duration" >Podle délky (nejdelší)</string>
+    <string name="by_duration_desc" >Podle délky (nejkratší)</string>
+    <string name="delete_this_record" >Smazat tento záznam?</string>
+    <string name="all_records_deleted_successfully" >Všechny záznamy byly úspěšně odstraněny</string>
+    <string name="about_play_store2">Naše další aplikace</string>
+    <string name="internet_satalite">Seznam internetová přípojka</string>
+    <string name="quran_karem">Svatý Korán</string>
+    <string name="refresh">Občerstvit</string>
+    <string name="find">Nalézt</string>
+    <string name="share_via">Sdílet prostřednictvím</string>
+    <string name="copy_link">Kopírovat odkaz</string>
+    <string name="copied_to_clipboard">Zkopírováno do schránky</string>
+    <string name="site_quran">Webové stránky Koránu</string>
+    <string name="qna_maka">Mekka žije</string>
+    <string name="qna_suna">(Sunna Proroka) naživo</string>
+    <string name="vidio_maka">Kanál Svatého Koránu Živé vysílání z Mekky Al-Mukarramah uvnitř Velké mešity v arabštině.</string>
+    <string name="vidio_souna">Kanál Sunna vysílal živě z Mediny uvnitř Prorokovy mešity v arabštině.</string>
+</resources>
