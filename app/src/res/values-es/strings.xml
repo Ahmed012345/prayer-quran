@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang">es</string>
+    <string name="about_contact_us">Contáctenos</string>
+    <string name="about_instagram">Síganos en Instagram</string>
+    <string name="about_facebook">Síganos en Facebook</string>
+    <string name="about_play_store">Puntúanos en Play Store</string>
+    <string name="about_youtube">Mire nuestros vídeos en Youtube</string>
+    <string name="about_twitter">Síganos en Twitter</string>
+    <string name="about_github">Haga una copia en GitHub</string>
+    <string name="about_website">Visite nuestro sitio web</string>
+    <string name="beasm_ellah">En el nombre de Dios</string>
+    <string name="app_name">La súplica del Corán</string>
+    <string name="menu1">lista</string>
+    <string name="zekr">Recuerdo Dios</string>
+    <string name="hamd">gracias a Dios</string>
+    <string name="allah_a">es el más grande</string>
+    <string name="dawat_alanbyaa">Algunas llamadas de profetas y justos como mencioné en El Sagrado Corán</string>
+    <string name="aaraf">"Dijeron: «¡Señor! Hemos sido injustos con nosostros mismos. Si no nos perdonas y Te apiadas de nosotros, seremos, ciertamente, de los que pierden». "</string>
+    <string name="dua_adm">suplica Adan y su esposa</string>
+    <string name="dua_noh">suplica Noé</string>
+    <string name="surt_hud">"Noé invocó a su Señor y dijo: «¡Señor! Mi hijo es de mi familia. Lo que Tú prometes es verdad. Tú eres Quien mejor decide». "</string>
+    <string name="surt_houd47">"Dijo: «¡Señor, líbrame de pedirte algo de lo que no tengo conocimiento! Si Tú no me perdonas y Te apiadas de mí, seré de los que están perdidos…» "</string>
+    <string name="surt_moon">"«¡Señor!» dijo: «¡Auxíliame, que me desmienten!» "</string>
+    <string name="surt_noh">"Noé dijo: «¡Señor! ¡No dejes en la tierra a ningún infiel con vida! "</string>
+    <string name="surtmoom">"Cuando tú y los tuyos estéis instalados en la nave, di: '¡Alabado sea Alá, Que nos ha salvado del pueblo impío!' "</string>
+    <string name="surtmoom2">"Y di: '¡Señor! ¡Haz que desembarque en un lugar bendito! Tú eres Quien mejor puede hacerlo' "</string>
+    <string name="surtshoraa117">"Dijo: «¡Señor! Mi pueblo me desmiente. "</string>
+    <string name="surtshoraa118">"¡Falla, pues, entre yo y ellos, y sálvame, junto con los creyentes que están conmigo!» "</string>
+    <string name="surt_nouh1">"Noé dijo: «¡Señor! ¡No dejes en la tierra a ningún infiel con vida! "</string>
+    <string name="surt_nouh2">"Si les dejas, extraviarán a Tus siervos y no engendrarán sino a pecadores, infieles pertinaces. "</string>
+    <string name="surt_nouh3">"¡Señor! ¡Perdónanos, a mi y a mis padres, a quien entre en mi casa como creyente, a los creyentes y a las creyentes! Y a los impíos ¡no hagas sino perderles más!» "</string>
+    <string name="duaaebrahem">suplica Abraham</string>
+    <string name="bkra_126">"Y cuando Abraham dijo: «¡Señor! Haz de ésta una ciudad segura y provee de frutos a su población, a aquéllos que crean en Alá y en el último Día». Dijo: «A quienes no crean, es dejaré que gocen por breve tiempo. Luego. les arrastraré al castigo del Fuego. ¡Qué mal fin…!» "</string>
+    <string name="surt_sfat">"¡Señor! ¡Regálame un hijo justo!» "</string>
+    <string name="surt_ebrahem">"Y cuando Abraham dijo: «¡Señor! ¡Que esté segura esta ciudad! ¡Y evita que yo y mis hijos sirvamos a los ídolos! "</string>
+    <string name="surt_ebrahem1">"¡Señor! ¡Han extraviado a muchos hombres! Quien me siga será de los míos. Pero quien me desobedezca… Tú eres indulgente, misericordioso. "</string>
+    <string name="surt_ebrahem2">"¡Señor! He establecido a parte de mi descendencia en un valle sin cultivar, junto a tu Casa Sagrada, ¡Señor!, para que hagan la azalá. ¡Haz que los corazones de algunos hombres sean afectuosos con ellos! ¡Provéeles de frutos! Quizás, así, sean agradecidos. "</string>
+    <string name="surt_ebrahem3">"¡Señor! Tú sabes bien lo que ocultamos y lo que manifestamos. No hay nada, en la tierra como en el cielo, que se esconda a Alá. "</string>
+    <string name="surt_ebrahem4">"¡Alabado sea Alá, Que, a pesar de mi vejez, me ha regalado a Ismael e Isaac! Mi Señor oye, ciertamente, a quien Le invoca. "</string>
+    <string name="surt_ebrahem5">"¡Señor! ¡Haz que haga la azalá, y también mi descendencia, Señor, y acepta mi invocación! "</string>
+    <string name="surt_ebrahem6">"¡Señor! Perdónanos, a mí, a mis padres y a los creyentes el día que se ajusten cuentas». "</string>
+    <string name="surt_ashoara">"¡Señor! ¡Regálame juicio y reúneme con los justos! "</string>
+    <string name="surt_ashoara1">"¡Haz que tenga una buena reputación en mi posteridad! "</string>
+    <string name="surt_ashoara2">"¡Cuéntame entre los herederos del Jardín de la Delicia! "</string>
+    <string name="surt_ashoara3">"¡Perdona a mi padre, estaba extraviado! "</string>
+    <string name="surt_ashoara4">"No me avergüences el día de la Resurrección, "</string>
+    <string name="surt_ashoara5">"el día que no aprovechen hacienda ni hijos varones, "</string>
+    <string name="surt_ashoara6">"excepto a quien vaya a Alá con corazón sano». "</string>
+    <string name="surt_momtahena">"Tenéis un bello modelo en Abraham y en los que con él estaban. Cuando dijeron a su pueblo: «No somos responsables de vosotros ni de lo que servís en lugar de servir a Alá. ¡Renegamos de vosotros! ¡Ha aparecido, entre nosotros y vosotros, hostilidad y odio para siempre mientras no creáis en Alá Solo!» No es de imitar, en cambio, Abraham cuando dijo a su padre: «He de pedir perdón para ti, aunque no pueda hacer nada por ti contra Alá. ¡Señor! Confiamos en Ti y a Ti nos volvemos arrepentidos. ¡Eres Tú el fin de todo! "</string>
+    <string name="surt_momtahena1">"¡Señor! ¡No hagas de nosotros instrumento de tentación para los infieles! ¡Perdónanos, Señor! Eres Tú el Poderoso, el Sabio». "</string>
+    <string name="surt_momtahena2">"Tenéis en ellos un bello modelo para quien cuenta con Alá y con el último Día. Pero quien vuelve la espalda,… Alá es Quien Se basta a Sí mismo, el Digno de Alabanza. "</string>
+    <string name="doua_ebrahemwesmail">suplica Abraham Y Ismael</string>
+    <string name="sure_alpakra">"Y cuando Abraham e Ismael levantaban los cimientos de la Casa: «¡Señor, acéptanoslo! ¡Tú eres Quien todo lo oye, Quien todo lo sabe! "</string>
+    <string name="sure_alpakra1">"¡Y haz, Señor, que nos sometamos a Ti, haz de nuestra descendencia una comunidad sumisa a Ti, muéstranos nuestros ritos y vuélvete a nosotros! ¡Tú eres, ciertamente, el Indulgente, el Misericordioso! "</string>
+    <string name="sure_alpakra2">"¡Señor! Suscita entre ellos a un Enviado de su estirpe que les recite Tus aleyas y les enseñe la Escritura y la Sabiduría les purifique! Tú eres, ciertamente, el Poderoso, el Sabio». "</string>
+    <string name="douaa_lot">suplica Lot</string>
+    <string name="surt_ankabout">"Dijo: «¡Señor! ¡Auxíliame contra el pueblo corruptor!» "</string>
+    <string name="sourt_choara">"¡Señor! ¡Sálvanos, a mí y a mi familia, de lo que hacen!» "</string>
+    <string name="duoa_yosof">suplica José</string>
+    <string name="surt_uosef">"Dijo él: «¡Señor! Prefiero la cárcel a acceder a lo que ellas me piden. Pero, si no apartas de mí su astucia, cederé a ellas y seré de los ignorantes». "</string>
+    <string name="surt_yosfaya101">"¡Señor! Tú me has dado del dominio y me has enseñado a interpretar sueños. ¡Creador de los cielos y de la tierra! ¡Tú eres mi Amigo en la vida de acá y en la otra! ¡Haz que cuando muera lo haga sometido a Ti y me reúna con los justos!» "</string>
+    <string name="doua_ayop">suplica Job</string>
+    <string name="surtanbyaaayat3848">"Y a Job. Cuando invocó a su Señor: «¡He sufrido una desgracia, pero Tú eres la Suma Misericordia!» "</string>
+    <string name="surtanbyaaya48">"Y le escuchamos, alejando de él la desgracia que tenía, dándole su familia y otro tanto, como misericordia venida de Nosotros y como amonestación para Nuestros siervos. "</string>
+    <string name="surt_sad">"¡Y recuerda a nuestro siervo Job! Cuando invocó a su Señor. «El Demonio me ha infligido una pena y un castigo». "</string>
+    <string name="doua_shoaup">suplica Suayb</string>
+    <string name="suer_aaraf">"Inventaríamos una mentira contra Alá si volviéramos a vuestra religión después de habernos salvado Alá de ella. No podemos volver a ella, a menos que Alá nuestro Señor lo quiera. Nuestro Señor lo abarca todo en Su ciencia. ¡Confiamos en Alá! ¡Señor, falla según Justicia entre nosotros y nuestro pueblo! Tú eres Quien mejor falla». "</string>
+    <string name="douaa_souliman">suplica a Salomón</string>
+    <string name="suer_sad35">"«¡Señor!» dijo. «¡Perdóname y regálame un dominio tal que a nadie después de mí le esté bien. Tú eres el Munífico». "</string>
+    <string name="surt_alnaml">"Sonrió al oír lo que ella decía y dijo: «¡Señor! ¡Permíteme que Te agradezca la gracia que nos has dispensado, a mí y a mis padres! ¡Haz que haga obras buenas que Te plazcan! ¡Haz que entre a formar parte, por Tu misericordia, de Tus siervos justos!» "</string>
+    <string name="douaa_uonos">suplica Jonás</string>
+    <string name="surt_anbiaa">"Y al del pez. Cuando se fue airado y creyó que no podríamos hacer nada contra él. Y clamó en las tinieblas: «¡No hay más dios que Tú! ¡Gloria a Ti! He sido de los impíos». "</string>
+    <string name="surt_anbiaa1">"Le escuchamos, pues, y le salvamos de la tribulación. Así es como salvamos a los creyentes. "</string>
+    <string name="douaa_eisa">suplica Jesús</string>
+    <string name="surt_almaeda">"Dijo Jesús, hijo de María: «¡Alá, Señor nuestro! Haz que nos baje del cielo una mesa servida, que sea para nosotros, el primero como el último, motivo de regocijo y signo venido de Ti. ¡Provéenos del sustento necesario, Tú, Que eres el Mejor de los proveedores!». "</string>
+    <string name="douaa_zakria">suplica Zacarías</string>
+    <string name="sourt_mariam">"Dijo: «¡Señor! Se me han debilitado los huesos, mis cabellos han encanecido. Cuando Te he invocado, Señor, nunca me has decepcionado. "</string>
+    <string name="sourt_mariam1">"Temo la conducta de mis parientes a mi muerte, pues mi mujer es estéril. Regálame, pues, de Ti un descendiente, "</string>
+    <string name="sourt_mariam2">"que me herede a mí y herede de la familia de Jacob, y ¡haz, Señor, que él Te sea agradable!» "</string>
+    <string name="sourt_mariam3">"«¡Zacarías! Te anunciamos la buena nueva de un muchacho que se llamará Juan, sin homónimos en el pasado». "</string>
+    <string name="sorat_alemran">"Entonces, Zacarías invocó a su Señor diciendo: «¡Señor! ¡Regálame, de Ti, una descendencia buena! Tú escuchas a quien Te invoca». "</string>
+    <string name="sorat_lanbiaa">"Y a Zacarías. Cuando invocó a su Señor: «¡Señor! ¡No me dejes solo! ¡Pero Tú eres el Mejor de los herederos!» "</string>
+    <string name="sotat_lanbiaa1">"Y le escuchamos y le regalamos Juan e hicimos que su esposa fuera capaz de concebir. Rivalizaban en buenas obras, Nos invocaban con amor y con temor y se conducían humildemente ante Nosotros. "</string>
+    <string name="doua_emratemran">suplica Mujer Imran madre de maria</string>
+    <string name="sourt_aliemran">"Cuando la mujer de Imran dijo: «¡Señor! Te ofrezco en voto, a Tu exclusivo servicio, lo que hay en mi seno. ¡Acéptamelo! Tú eres Quien todo lo oye, Quien todo lo sabe». "</string>
+    <string name="sourt_aliemran1">"Y cuando dio a luz a una hija, dijo:«¡Señor! Lo que he dado a luz es una hembra -bien sabía Alá lo que había dado a luz- y un varón no es igual que una hembra. Le he puesto por nombre María y la pongo bajo Tu protección contra el maldito Demonio, y también a su descendencia». "</string>
+    <string name="sourt_aliemran2">"Su Señor la acogió favorablemente, la hizo crecer bien y la confió a Zacarías. Siempre que Zacarías entraba en el Templo para verla, encontraba sustento junto a ella. Decía:«María!, ¿de dónde te viene eso?» Decía ella:«De Alá. Alá provee sin medida a quien Él quiere». "</string>
+    <string name="doua_almoumen">"suplica Creyente "</string>
+    <string name="sort_a2af">"Hemos ordenado al hombre que se porte bien con sus padres. Su madre le llevó con molestia y con molestia le dio a luz. El embarazo y la lactancia duran treinta meses. Hasta que, al alcanzar la madurez y cumplir cuarenta años, dice: «¡Señor! Permíteme que Te agradezca la gracia que nos has dispensado, a mí y a mis padres, y que haga obras buenas que Te plazcan! ¡Dame una descendencia próspera! Me vuelvo a Ti. Soy de los que se someten a Ti». "</string>
+    <string name="douaa_altabin">suplica Seguidores hacen el bien</string>
+    <string name="afdal_alduoaa">mejor suplica</string>
+    <string name="douaa_mlaeka">suplica ángeles</string>
+    <string name="doua_banyesrail">suplica El construyó a Israel con Moisés.</string>
+    <string name="doua_m2monen">suplica Creyentes de los hijos de Israel</string>
+    <string name="doua_shart">suplica los magos faraón</string>
+    <string name="douaa_ansaresa">suplica Apóstoles simpatizantes de jesus</string>
+    <string name="doua_atbaa">suplica Seguidores de los profetas</string>
+    <string name="douaa_alftya">suplica Juventud</string>
+    <string name="douaa_asia">suplica Aceh, la mujer del faraón</string>
+    <string name="sort_a2af1">"Éstos son aquéllos de cuyas obras aceptaremos lo mejor y pasaremos por alto sus malas obras. Estarán entre los moradores del Jardín, promesa de verdad que se les hizo. "</string>
+    <string name="surt_alhashr">"Quienes vinieron después de ellos, dicen: «¡Señor! ¡Perdónanos, a nosotros y a nuestros hermanos que nos han precedido en la fe! ¡Haz que no abriguen nuestros corazones rencor a los que creen! ¡Señor! Tú eres manso, misericordioso». "</string>
+    <string name="surt_alfateh">"Alabado sea Alá, Señor del universo, "</string>
+    <string name="surt_alfateh1">"el Compasivo, el Misericordioso, "</string>
+    <string name="surt_alfateh2">"Dueño del día del Juicio, "</string>
+    <string name="surt_alfateh3">"A Ti solo servimos y a Ti solo imploramos ayuda. "</string>
+    <string name="surt_alfateh4">"Dirígenos por la vía recta, "</string>
+    <string name="surt_alfateh5">"la vía de los que Tú has agraciado, no de los que han incurrido en la ira, ni de los extraviados. "</string>
+    <string name="surt_bkara">"Cuando Mis siervos te pregunten por Mí, estoy cerca y respondo a la oración de quien invoca cuando Me invoca. ¡Que Me escuchen y crean en Mí! Quizás, así, sean bien dirigidos. "</string>
+    <string name="suer_gafer">"Los que llevan el Trono y los que están a su alrededor celebran las alabanzas de su Señor, creen en Él y Le piden que perdone a los creyentes: «¡Señor! Tú lo abarcas todo en Tu misericordia y en Tu ciencia. ¡Perdona, pues, a los que se arrepienten y siguen Tu camino! ¡Líbrales del castigo del fuego de la gehena! "</string>
+    <string name="suer_gafer1">"¡Señor! ¡Introdúceles en los jardines del edén que les prometiste, junto con aquéllos de sus padres, esposas y descendientes que fueron buenos! Tú eres el Poderoso, el Sabio. "</string>
+    <string name="suer_gafer2">"¡Líbrales de mal! Ese día, aquél a quien hayas librado de mal será objeto de Tu misericordia. ¡Ése es el éxito grandioso!» "</string>
+    <string name="surt_uonos">"Dijeron: «¡Confiamos en Alá! ¡Señor! ¡No hagas de nosotros instrumentos de tentación para el pueblo impío! "</string>
+    <string name="surt_uonos1">"¡Sálvanos por Tu misericordia del pueblo infiel!» "</string>
+    <string name="surt_albakra">"Y, cuando salieron contra Goliat y sus soldados, dijeron: «¡Señor! ¡Infunde en nosotros paciencia, afirma nuestros pasos, auxílianos contra el pueblo infiel!» "</string>
+    <string name="surt_alaaraf">"Te vengas de nosotros sólo porque hemos creído en los signos de nuestro Señor cuando han venido a nosotros. ¡Señor! Infunde en nosotros paciencia y haz que cuando muramos lo hagamos sometidos a Ti». "</string>
+    <string name="surt_alyemran">"¡Señor! Creemos en lo que has revelado y seguimos al enviado. Inscríbenos, pues, entre los que dan testimonio». "</string>
+    <string name="surt_alyemrany">"No decían más que:«¡Señor! ¡Perdónanos nuestros pecados y los excesos que hemos cometido! ¡Afirma nuestros pasos! ¡Auxílianos contra el pueblo infiel!» "</string>
+    <string name="surt_alkhf">"Cuando los jóvenes, al refugiarse en la caverna, dijeron: «¡Señor! ¡Concédenos una misericordia de Ti y haz que nos conduzcamos correctamente!» "</string>
+    <string name="surt_athrem">"Y Alá pone como ejemplo para los creyentes a la mujer de Faraón. Cuando dijo: «¡Señor! ¡Constrúyeme, junto a Ti, una casa en el Jardín y sálvame de Faraón y de sus obras! ¡Sálvame del pueblo impío!» "</string>
+    <string name="douaa_ashap">suplica los moradores de los lugares elevados</string>
+    <string name="surt_alaaaaraf">"Cuando sus miradas se vuelvan hacia los moradores del Fuego, dirán: «¡Señor! ¡No nos pongas con el pueblo impío» "</string>
+    <string name="douaa_mostdafin">suplica Los vulnerables</string>
+    <string name="surt_nsaaa">"¿Por qué no queréis combatir por Alá y por los oprimidos -hombres, mujeres y niños que dicen: «¡Señor! ¡Sácanos de esta ciudad, de impíos habitantes! ¡Danos un amigo designado por Ti! ¡Danos un auxiliar designado por ti!»? "</string>
+    <string name="doua_mosa">suplica Moisés</string>
+    <string name="surt_allaraf">"Cuando Moisés acudió a Nuestro encuentro y su Señor le hubo hablado, dijo: «¡Señor! ¡Muéstrate a mí, que pueda mirarte!» Dijo: «¡No Me verás! ¡Mira, en cambio, la montaña! Si continúa firme en su sitio, entonces Me verás». Pero, cuando su Señor se manifestó a la montaña, la pulverizó y Moisés cayó al suelo fulminando. Cuando volvió en si dijo: «¡Gloria a Ti! Me arrepiento y soy el primero de los que creen». "</string>
+    <string name="sourt_alaarafi">"Dijo: «¡Señor! ¡Perdónanos a mí y a mi hermano, e introdúcenos en Tu misericordia! Tú eres la Suma Misericordia». "</string>
+    <string name="suort_aaraf">"Moisés eligió de su pueblo a setenta hombres para asistir a Nuestro encuentro. Cuando les sorprendió el Temblor dijo: «¡Señor! Si hubieras querido, les habrías hecho perecer antes y a mí también. ¿Vas a hacernos perecer por lo que han hecho los tontos de nuestro pueblo? Esto no es más que una prueba Tuya, que Te sirve para extraviar o dirigir a quien quieres. ¡Tú eres nuestro Amigo! Perdónanos, pues, y apiádate de nosotros! Nadie perdona tan bien como Tú. "</string>
+    <string name="suort_aaraf1">"Destínanos bien en la vida de acá y en la otra. Nos hemos vuelto a Ti». Dijo: «Inflijo Mi castigo a quien quiero, pero Mi misericordia es omnímoda». Destinaré a ella a quienes teman a Alá y den el azaque y a quienes crean en Nuestros signos. "</string>
+    <string name="suort_aaraf2">"a quienes sigan al Enviado, el Profeta de los gentiles, a quien ven mencionado en sus textos: en la Tora y en el Evangelio, que les ordena lo que está bien y les prohíbe lo que está mal, les declara lícitas las cosas buenas e ilícitas las impuras, y les libera de sus cargas y de las cadenas que sobre ellos pesaban. Los que crean en él, le sostengan y auxilien, los que sigan la Luz enviada abajo con él, ésos prosperarán. "</string>
+    <string name="surt_kass">"Dijo: «¡Señor! He sido injusto conmigo mismo. ¡Perdóname!» Y le perdonó. Él es el Indulgente, el Misericordioso. "</string>
+    <string name="surt_kass1">"Dijo: «¡Señor! Por las gracias que me has dispensado, no respaldaré a los pecadores». "</string>
+    <string name="surt_alkass">"Y abrevó su rebaño. Luego, se retiró a la sombra. Y dijo: «¡Señor! Me hace mucha falta cualquier bien que quieras hacerme». "</string>
+    <string name="surt_tahaa">"Dijo: «¡Señor! ¡Infúndeme ánimo! "</string>
+    <string name="surt_tahaa1">"¡Facilítame la tarea! "</string>
+    <string name="surt_tahaa2">"¡Desata un nudo de mi lengua! "</string>
+    <string name="surt_tahaa3">"Así entenderán lo que yo diga. "</string>
+    <string name="surt_tahaa4">"Dame a alguien de mi familia que me ayude: "</string>
+    <string name="surt_tahaa5">"a Aarón, mi hermano. "</string>
+    <string name="surt_tahaa6">"¡Aumenta con él mi fuerza "</string>
+    <string name="surt_tahaa7">"y asóciale a mi tarea, "</string>
+    <string name="surt_tahaa8">"para que Te glorifiquemos mucho "</string>
+    <string name="surt_tahaa9">"y Te recordemos mucho! "</string>
+    <string name="surt_tahaa10">"Tú nos ves bien». "</string>
+    <string name="surt_tahaa11">"Dijo: «¡Moisés! Tu ruego ha sido escuchado. "</string>
+    <string name="sourt_uonos">"Moisés dijo: «¡Señor! Tú has dado a Faraón y a sus dignatarios lujo y bienes en la vida de acá para terminar, ¡Señor!. extraviando a otros de Tu camino. ¡Señor! ¡Borra sus bienes y endurece sus corazones a fin de que no crean hasta que vean el castigo doloroso!» "</string>
+    <string name="sourt_uonos1">"Dijo: «Vuestra plegaria ha sido escuchada. ¡Id los dos por la vía recta y no sigáis el camino de los que no saben!» "</string>
+    <string name="doua_m2monenn">suplica generalmente creyentes</string>
+    <string name="surt_bkra200">"Cuando hayáis cumplido vuestros ritos, ¡recordad a Alá como recordáis a vuestros antepasados o con más fervor aún! Hay entre los hombres quienes dicen: «¡Señor! ¡Danos n la vida de acá!» Ésos no tendrán parte en la otra vida. "</string>
+    <string name="surt_bkra200i">"Otros dicen: «¡Señor! ¡Danos bien en la vida de acá y en la otra y presérvanos del castigo del Fuego!» "</string>
+    <string name="surt_bkra200ii">"Ésos tendrán parte según sus méritos. Alá es rápido en ajustar cuentas… "</string>
+    <string name="surt_bk285">"El Enviado cree en cuanto le ha sido revelado por su Señor, y lo mismo los creyentes. Todos ellos creen en Alá, en Sus ángeles. en Sus Escrituras y en Sus enviados. No hacemos distinción ente ninguno de Sus enviados. Han dicho: «Oímos y obedecemos. ¡Tu perdón, Señor! ¡Eres Tú el fin de todo!» "</string>
+    <string name="surt_bk285i">"Alá no pide nada a nadie más allá de sus posibilidades. Lo que uno haya hecho redundará en su propio bien o en su propio mal. ¡Señor! ¡No castigues nuestros olvidos o nuestras faltas! ¡Señor! ¡No nos impongas una carga como la que impusiste a quienes nos precedieron! ¡Señor! ¡No nos impongas más allá de nuestras fuerzas! ¡Y absuélvenos, perdónanos, apiádate d nosotros! ¡Tú eres nuestro Protector! ¡Auxílianos contra el pueblo infiel! "</string>
+    <string name="surt_alyqmran">"que dicen: «¡Señor! ¡Nosotros creemos! ¡Perdónanos, pues, nuestros pecados y presérvanos del castigo del Fuego!», "</string>
+    <string name="surt_alyqmrani">"pacientes, sinceros, devotos, que practican la caridad y piden perdón al rayar el alba. "</string>
+    <string name="surt_alywmran">"que recuerdan a Alá de pie, sentados o echados, y que meditan en la creación de los cielos y de la tierra:«¡Señor! No has creado todo esto en vano ¡Gloria a Ti! ¡Presérvanos del castigo del Fuego!». "</string>
+    <string name="surt_alywmrani">"¡Señor! Tú cubres de oprobio a quien introduces en el Fuego. Los impíos no tendrán quien les auxilie. "</string>
+    <string name="surt_alywmranii">"¡Señor! ;Hemos oído a uno que llamaba a la fe: «¡Creed en Vuestro Señor!» y hemos creído. ¡Señor!¡ Perdónanos nuestros pecados! ¡Borra nuestras malas obras y recíbenos. cuando muramos, entre los justos! "</string>
+    <string name="surt_alywmraniii">"¡Y danos, Señor, lo que nos has prometido por Tus enviados y no nos cubras de oprobio el día de la Resurrección! Tú no faltas a Tu promesa. "</string>
+    <string name="surt_forkan">"Los siervos del Compasivo son los que van por la tierra humildemente y que, cuando los ignorantes les dirigen la palabra, dicen: «¡Paz!» "</string>
+    <string name="surt_forkani">"Pasan la noche ante su Señor, postrados o de pie. "</string>
+    <string name="surt_forkanii">"Dicen: «¡Señor! ¡Aleja de nosotros el castigo de la gehena!» Su castigo es perpetuo. "</string>
+    <string name="surt_forkaniii">"Sí es mala como morada y residencia. "</string>
+    <string name="surt_fourcan">"Dicen: «¡Señor! ¡Haznos el regalo de que nuestras esposas y descendencia sean nuestra alegría, haz que seamos modelo para los temerosos de Alá!» "</string>
+    <string name="surt_threm">"¡Creyentes! ¡Volveos a Alá con sincero arrepentimiento! Quizá vuestro Señor borre vuestras malas obras y os introduzca en jardines por cuyos bajos fluyen arroyos. El día que Alá libre de vergüenza al Profeta y a los que con él creyeron… Su luz correrá ante ellos y a su derecha. Dirán: «¡Señor! ¡Perfecciónanos nuestra luz y perdónanos! Eres omnipotente». "</string>
+    <string name="surt_m2moenon">"Algunos de Mis siervos decían: «¡Señor! ¡Creemos! ¡Perdónanos, pues, y ten misericordia de nosotros! ¡Tú eres el Mejor de quienes tienen misericordia!» "</string>
+    <string name="duoa_nabina">suplica Nuestro Profeta Muhammad</string>
+    <string name="surt_liemran">"Di: «¡Oh, Alá, Dueño del dominio! Tú das el dominio a quien quieres y se lo retiras a quien quieres, exaltas a quien quieres y humillas a quien quieres. En Tu mano está el bien. Eres omnipotente. "</string>
+    <string name="surt_liemran1">"Tú haces que la noche entre en el día y que el día entre en la noche. Tú sacas al vivo del muerto y al muerto del vivo. Tú provees sin medida a quien quieres». "</string>
+    <string name="sourat_alyemran">"A aquéllos a quienes se dijo: «La gente se ha agrupado contra vosotros, ¡tenedles miedo!», esto les aumentó la fe y dijeron: «Alá nos basta! ¡Es un protector excelente!» "</string>
+    <string name="sourat_alyemran1">"Y regresaron por una gracia y favor de Alá, sin sufrir mal. Buscaron la satisfacción de Alá. Y Alá es el Dueño del favor inmenso. "</string>
+    <string name="surt_m2menoun">"Di: «¡Señor! Si me mostraras aquello con que se les ha amenazado… "</string>
+    <string name="surt_m2menoun1">"¡No me pongas, Señor, con el pueblo impío!» "</string>
+    <string name="sort_nonon">"Di: «¡Señor! Me refugio en Ti contra las sugestiones de los demonios. "</string>
+    <string name="sort_nonon1">"Me refugio en Ti, Señor, contra su acoso». "</string>
+    <string name="surt_mo2mnen">"Y di: «¡Señor! ¡Perdona y ten misericordia! ¡Tú eres el Mejor de quienes tienen misericordia!» "</string>
+    <string name="surt_alesraa">"Y di: «¡Señor! ¡Hazme entrar bien, hazme salir bien! ¡Concédeme, de Ti, una autoridad que me auxilie!» "</string>
+    <string name="surt_alesraa1">"Y di: «¡Ha venido la Verdad y se ha disipado lo falso! ¡Lo falso tiene que disiparse!» "</string>
+    <string name="surt_alesraa2">"Hacemos descender, por medio del Corán, lo que es curación y misericordia para los creyentes, pero esto no hace sino perder más a los impíos. "</string>
+    <string name="surt_esraa">"Di: «¡Invocad a 'Alá' o invocad al 'Compasivo'! Como quiera que invoquéis, Él posee los nombres más bellos». No hagas la azalá en voz demasiado alta, ni demasiado baja, sino con voz moderada. "</string>
+    <string name="surt_esraa1">"Y di: «¡Alabado sea Alá, Que no ha adoptado un hijo, ni tiene asociado en el dominio, ni amigo frente a la humillación!» ¡Y ensalza Su grandeza! "</string>
+    <string name="surt_altoubh">"Os ha venido un Enviado salido de vosotros. Le duele que sufráis, anhela vuestro bien. Con los creyentes es manso, misericordioso. "</string>
+    <string name="surt_altoubh1">"Si te vuelven la espalda, di: «¡Alá me basta! ¡No hay más dios que Él! ¡En Él confío! ¡Él es el Señor del Trono augusto!» "</string>
+    <string name="surt_taha">"¡Exaltado sea Alá, el Rey verdadero! ¡No te precipites en la Recitación antes de que te sea revelada por entero! Y di: «¡Señor! ¡Aumenta mi ciencia!» "</string>
+    <string name="album_title">Esto es por la gracia de mi Señor</string>
+    <string name="artist_name">Recuerdo Dios en todo momento</string>
+    <string name="song_title">Participar</string>
+    <string name="e_prog1">Recuerda a dios</string>
+    <string name="aya_alkorsi">Ayat Al Kursi</string>
+    <string name="aya_alkorcey">"¡Alá! No hay más dios que El. el Viviente, el Subsistente. Ni la somnolencia ni el sueño se apoderan de Él. Suyo es lo que está en los cielos y en la tierra. ¿Quién podrá interceder ante Él si no es con Su permiso? Conoce su pasado y su futuro, mientras que ellos no abarcan nada de Su ciencia, excepto lo que Él quiere. Su Trono se extiende sobre los cielos y sobre la tierra y su conservación no le resulta onerosa. Él es el Altísimo, el Grandioso. "</string>
+    <string name="b_1">"¡En el nombre de Alá, el Compasivo, el Misericordioso! "</string>
+    <string name="kol_hewo_allah">"Di: «¡Él es Alá, Uno, "</string>
+    <string name="kol_hewo_allah1">"Dios, el Eterno. "</string>
+    <string name="kol_hewo_allah2">"No ha engendrado, ni ha sido engendrado. "</string>
+    <string name="kol_hewo_allah3">"No tiene par». "</string>
+    <string name="alflak">"Di: «Me refugio en el Señor del alba "</string>
+    <string name="alflak1">"del mal que hacen sus criaturas, "</string>
+    <string name="alflak2">"del mal de la oscuridad cuando se extiende, "</string>
+    <string name="alflak3">"del mal de las que soplan en los nudos, "</string>
+    <string name="alflak4">"del mal envidioso cuando envidia». "</string>
+    <string name="alnas">"Di: «Me refugio en el Señor de los hombres, "</string>
+    <string name="alnas1">"el Rey de los hombres, "</string>
+    <string name="alnas2">"el Dios de los hombres, "</string>
+    <string name="alnas3">"del mal de la insinuación, del que se escabulle, "</string>
+    <string name="alnas4">"que insinúa en el ánimo de los hombres, "</string>
+    <string name="alnas5">"sea genio, sea hombre». "</string>
+    <string name="profile">Nombres de Allah</string>
+    <string name="feed">Del Sagrado Corán</string>
+    <string name="activity">rosario</string>
+    <string name="settings">el programa</string>
+    <string name="menu">Alabanza</string>
+    <string name="close">Salir</string>
+    <string name="autooooo">(Alá esté complacido con ellos)</string>
+    <string name="autoooo">Si alcanza su pico</string>
+    <string name="autooo">(Que Allah esté complacido con ella)</string>
+    <string name="autoo">(La paz sea con ellos)</string>
+    <string name="auto">(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="eklass">Surah El Monoteísmo</string>
+    <string name="flk">Surah La Alborada</string>
+    <string name="nas">Surah Los Hombres</string>
+    <string name="salam">(La paz sea con ellos)</string>
+    <string name="salamm">Con Saúl</string>
+    <string name="salammm">Cuando creyeron</string>
+    <string name="atba">En guerra</string>
+    <string name="atbaa">Propietarios de cuevas</string>
+    <string name="atbaaa">Si vieran el fuego</string>
+    <string name="ard">En el suelo</string>
+    <string name="ardd">Y Se pidió la ayuda de Dios</string>
+    <string name="alfateha">Surah La Apertura</string>
+    <string name="quran">Del Sagrado Corán</string>
+    <string name="mainActivityh">(Alá esté complacido con él)</string>
+    <string name="mainActivityhh">Desde abu hurayrah</string>
+    <string name="mainActivityhhh">El dijo:El Mensajero de Allah la paz sea con él.</string>
+    <string name="mainActivitya">El dijo</string>
+    <string name="mainActivityaa">Dios tiene noventa y nueve nombres.Guardarlos en su corazón,Entra al paraiso</string>
+    <string name="mainActivitys">De u Entenderlos entraron en el paraíso</string>
+    <string name="mainActivityd">En una novela</string>
+    <string name="m1">Libro hadiz de los profetas</string>
+    <string name="mm1">La puerta de la creación de Adán y sus descendientes.</string>
+    <string name="hadethAdm">Dios creó a Adán y su altura era de sesenta codos.</string>
+    <string name="hadethAdm1">Luego dijo, dio la bienvenida a los ángeles,Y Escucha lo que te saluda.</string>
+    <string name="hadethAdm2">Él dijo: La paz sea con ustedes.</string>
+    <string name="hadethAdm3">Ellos dijeron: La paz sea con ustedes y la misericordia de Dios, aumentadla: la misericordia de Dios.</string>
+    <string name="hadethAdm4">Todos los que entran en el paraíso a imagen de Adán.Pero la creación hasta el momento por debajo de su longitud.</string>
+    <string name="rwa">Sahih Bujari</string>
+    <string name="h2">Le pidieron al Profeta (que la paz y las bendiciones de Allah sean con él),De las mejores personas?</string>
+    <string name="h22">El dijo:El que teme a Dios</string>
+    <string name="h222">Dijeron: \"Oh, profeta de Dios, esto no es lo que te pedimos\".</string>
+    <string name="h2222">Él dijo: Las mejores personas, José el Profeta de Dios, el hijo del Profeta de Dios, el hijo del Profeta de Dios, el hijo de Abraham, el Profeta de Dios.</string>
+    <string name="h22222">Ellos dijeron: Esto no es lo que te pedimos.</string>
+    <string name="h222222">Dijo: \"Me preguntas sobre los minerales de los árabes\".</string>
+    <string name="h2222222">Ellos dijeron: sí.</string>
+    <string name="hf">Dios Todopoderoso dijo:{¿Fuisteis, acaso, testigos de lo que dijo Jacob a sus hijos varones cuando iba a morir. «¿A quién serviréis cuando yo ya no esté?» Dijeron: «Serviremos a tu Dios, el Dios de tus padres Abraham, Ismael e Isaac, como a un Dios Uno. Nos sometemos a Él».}[La Vaca:133]</string>
+    <string name="h22222222">Dijo que la mejor, se aprende del Islam</string>
+    <string name="h3">Del profeta (la paz y las bendiciones de Allah desciendan sobre él).</string>
+    <string name="hh3">Dios Todopoderoso dijo:{Y a Job. Cuando invocó a su Señor: «¡He sufrido una desgracia, pero Tú eres la Suma Misericordia!»}[Los Profetas:83]</string>
+    <string name="h33">Él dijo: Mientras Ayub se bañan desnudos,Un hombre arrojó un poco de oro,Y comenzó a recogerlo en su ropa.</string>
+    <string name="h333">Rabbo lo llamó, O Ayoub,He hecho cantaste al respecto</string>
+    <string name="h3333">Dijo que sí, Señor,Pero soy indispensable para tu bendición.</string>
+    <string name="h4">Acerca de Ibn Omar</string>
+    <string name="h44">(Alá esté complacido con ellos)</string>
+    <string name="h444">El Mensajero de Allah (la paz y las bendiciones de Allah desciendan sobre él) vino a la gente y elogió a Allah y luego mencionó el Dajjaal.</string>
+    <string name="h4444">Y él dijo: Debo advertirles, todos los profetas advirtieron a su gente.</string>
+    <string name="h44444">Noé advirtió a su pueblo, pero te digo algo que un profeta no le dijo a su pueblo:</string>
+    <string name="h444444">Tú sabes que él es ciego, y que Dios no es ciego.</string>
+    <string name="hh4">Dios Todopoderoso dijo:{Enviamos a Noé a su pueblo: «¡Advierte a tu pueblo antes de que le alcance un castigo doloroso!»}[Noé:1]</string>
+    <string name="h5">(Interpretación del significado): \"Y al deudor de su hermano Shuaiba\" a la gente de Madin, porque Madin Balad, y como él {pregunta al pueblo} Surgió mi necesidad y me hizo dorsal. Dijo: Al-Dhahri para llevar contigo un animal o una vasija para memorizarlo, su lugar y lugar, y uno, vivirán. (Así): Me entristezco y dije Hassan: (Tú eres Halim) te burlas de él y dijo Mujahid: (Lago) el grueso, {el día de la sombra}: las nubes arrojan el tormento sobre ellos</string>
+    <string name="hh5">Dios Todopoderoso dijo:{Y a los madianitas su hermano Suayb. Dijo: «¡Pueblo! ¡Servid a Alá! No tenéis a ningún otro dios que a Él. Os ha venido, de vuestro Señor, una prueba. ¡Dad la medida y el peso justos, no defraudéis a los hombres en sus bienes! ¡No corrompáis en la tierra después de reformada! Eso es mejor para vosotros, si es que sois creyentes.}[El Muro Divisorio:85]</string>
+    <string name="h6">De ibn abbas</string>
+    <string name="h66">Dijo: Usted Stjmon descalzo, desnudo</string>
+    <string name="h6i">Luego leyó:Dios Todopoderoso dijo:{Día en que plegaremos el cielo como se pliega un pergamino de escritos. Como creamos una vez primera, crearemos otra. ¡Es promesa que nos obliga y la cumpliremos!}[Los Profetas:104]</string>
+    <string name="h6ii">Y el primero en ser cubierto en el Día de la Resurrección Ibrahim.</string>
+    <string name="h6iii">Y que algunos de mis compañeros serán llevados con ellos al norte,Yo digo mis amigos, mis amigos</string>
+    <string name="h6iiii">Dice: han sido apóstatas desde su partida.</string>
+    <string name="h6iiiii">Yo digo como dijo el buen esclavo:{No les he dicho más que lo que Tú me has ordenado: \'¡Servid a Alá, mi Señor y Señor vuestro!\' Fui testigo de ellos mientras estuve entre ellos, pero, después de llamarme a Ti, fuiste Tú Quien les vigiló. Tú eres testigo de todo.}[La Mesa Servida:117]</string>
+    <string name="h666">Dios Todopoderoso dijo:{¿Quién es mejor, tocante a religión. que quien se somete a Alá, hace el bien y sigue la religión de Abraham, que fue hanif ? Alá tomó a Abraham como amigo.}[Las Mujeres:125]</string>
+    <string name="h7">Salama Ibn al-Akwa \'</string>
+    <string name="h77">El Profeta (la paz y las bendiciones de Allah desciendan sobre él) llegó a algunos musulmanes mientras entrenaban</string>
+    <string name="h77i">El Mensajero de Allah (que la paz y las bendiciones de Allah sean con él) dijo:Empieza, Bani Ismael, tu padre era Ramia, y yo estoy con este equipo.</string>
+    <string name="h77ii">Dijo que un equipo agarró sus manos</string>
+    <string name="h77iii">El Mensajero de Allah (que la paz y las bendiciones de Allah sean con él) dijo:¿Por qué no empezaste?</string>
+    <string name="h77iiii">Y ellos dijeron: Oh Mensajero de Allah, los lanzaremos contigo</string>
+    <string name="h77iiiii">Él dijo: Comience, estoy con todos ustedes.</string>
+    <string name="h777">Dios Todopoderoso dijo:{Y recuerda en la Escritura a Ismael. Fue cumplidor de su promesa. Fue enviado, profeta.}[María:54]</string>
+    <string name="h8">Moisés era un hombre vivo, un hombre que no veía nada de su piel.</string>
+    <string name="h8i">Y le hizo daño a los hijos de Israel, y ellos dijeron: ¿Qué oculta este ocultamiento, a excepción de una mancha en su piel: una lepra o una maja: o un azote.</string>
+    <string name="h8ii">Y que Dios quiso, fue absuelto de lo que le dijeron a Moisés:Un día, puso su ropa en la piedra, luego se bañó,Cuando terminó se fue a su ropa para tomarlos, pero la piedra movió su prenda.</string>
+    <string name="h8iii">Moisés tomó su vara y pidió la piedra.Y empezó a decir: mi vestido Piedra,mi vestido Piedra Hasta que terminó en la plenitud de los hijos de Israel, y lo vieron desnudo, lo mejor que Dios había creado, y fue mejor que lo que dijeron.</string>
+    <string name="h8iiii">Y detener la piedra,Tomó su ropa Y lo llevaba puesto,La piedra fue golpeada con un palo, si la piedra quedó marcada por el impacto de su golpiza, tres o cuatro o cinco</string>
+    <string name="h8iiiii">Dios Todopoderoso dijo:{¡Creyentes! ¡No seáis como los que molestaron a Moisés! Alá le declaró inocente de lo que le habían acusado. Alá le tenía consideración.}[Los Aliados:69]</string>
+    <string name="h88">Hadiz de Moisés la paz sea con él</string>
+    <string name="h9">Yo y la gente, como un hombre que avivó un fuego, hizo que las mariposas y estos animales cayeran en el fuego.</string>
+    <string name="h9i">Y él dijo: Había dos mujeres con ellos, sus hijos, y el lobo vino y fue al hijo de uno de ellos.</string>
+    <string name="h9ii">La gran dama dijo: Se llevó a tu hijo.</string>
+    <string name="h9iii">La señorita dijo: tu hijo se ha ido.</string>
+    <string name="h9iiii">Pidieron que David gobernara entre ellos,Y él dijo: Hijo de la gran dama.Entonces ellos fueron a Salomón, el hijo de David, y le dijeron:</string>
+    <string name="h9iiiii">Y él dijo: Tráeme con el cuchillo y átalo entre ellos.</string>
+    <string name="h9iiiiii">La señorita dijo: No hagas,Que Dios tenga misericordia de ti,Él es, a su madre,Dijo, que es el hijo de una pequeña dama.</string>
+    <string name="h9iiiiiii">Abu Hurayrah dijo: El único oído el cuchillo aquel día,</string>
+    <string name="h99">Dios Todopoderoso dijo:{A David le regalamos Salomón. ¡Qué siervo tan agradable! Su arrepentimiento era sincero.}[s:30]</string>
+    <string name="h10">Mientras un judío exhibe su mercancía, le doy algo que odiar.</string>
+    <string name="h10i">Él dijo: \"No, y Dios, que escogió a Moisés sobre los hombres,Un hombre de Ansar lo escuchó.Y él se levantó y golpeó su rostro,Y El dijo:Dice:y Dios, que escogió a Moisés sobre los hombres,¿Y la profeta paz sea con él entre nosotros apareció?</string>
+    <string name="h10ii">Entonces se acercó a él y le dijo: Abu al-Qasim,Tengo un edicto y un pacto.¿Por qué esto me golpeó la cara?</string>
+    <string name="h10iii">Él dijo: ¿Por qué le golpeaste la cara,El Profeta (la paz y las bendiciones de Allah desciendan sobre él) se enojó hasta que fue visto en su rostro</string>
+    <string name="h10iiii">Luego dijo: No distingáis entre los profetas de Dios,El día que se toque la trompeta, se aterrorizarán quienes estén en los cielos y en la tierra, salvo aquéllos que Alá quiera</string>
+    <string name="h10iiiii">Entonces sopla, yo seré el primero en enviar, si Moisés toma el trono,No sé si Dios calcula el día del trueno.O enviado primero</string>
+    <string name="h10iiiiii">Y yo digo: Nadie es mejor que Younis bin Mattah.</string>
+    <string name="h1010">Dios Todopoderoso dijo:{Jonás fue, ciertamente, uno de los enviados.}[Los Ordenados en Filas:139]</string>
+    <string name="h11">Y jurar por Dios, está a punto de descender en ti el hijo de María el juicio justo,Él rompe la cruz, mata al cerdo y pone el tributo.Y el dinero se desborda para que nadie lo acepte,Para que la postración de Dios sea mejor que el mundo y lo que hay en él.</string>
+    <string name="h11i">Entonces Abu Huraira dice: Y lee si te gusta en el Libro de Dios:{Entre la gente de la Escritura no has nadie que no crea en Él antes de su muerte. Él día de la Resurrección servirá de testigo contra ellos.}[Las Mujeres:159]</string>
+    <string name="h1111">La puerta del descenso de Jesús, hijo de María, la paz sea con ellos.</string>
+    <string name="h12">Dios perdona a Lot si él se refugia en un rincón severo</string>
+    <string name="h1212">Dios Todopoderoso dijo:{Y a Lot. Cuando dijo a su pueblo: «¿Cometéis deshonestidad a sabiendas?¿Os llegáis a los hombres, por concupiscencia, en lugar de llegaros a las mujeres? Sí, sois gente ignorante».Lo único que respondió su pueblo fue: «¡Expulsad de la ciudad a la familia de Lot! Son gente que se las dan de puros».Les preservamos del castigo, a él y a su familia, salvo a su mujer. Determinamos que fuera de los que se rezagaran.E hicimos llover sobre ellos una lluvia. ¡Lluvia fatal para los que habían sido advertidos…!}[Las Hormigas:55]</string>
+    <string name="h13">De Malik bin Saas\'a</string>
+    <string name="h1313">el Profeta de Allah (la paz y las bendiciones de Allah desciendan sobre él) les contó acerca de una noche que ascendió hasta que llegó el segundo cielo y fue abierto.</string>
+    <string name="h1313i">Se dijo: ¿Quién es este? Él dijo: Jibril</string>
+    <string name="h1313ii">Se dijo: ¿Quién está contigo? Él dijo: Muhammad</string>
+    <string name="h1313iii">Se dijo: ¿Fue enviado a él? Dijo: si</string>
+    <string name="h1313iiii">Cuando terminé me encontré con Yahya Issa Son los hijos de su tío</string>
+    <string name="h1313iiiii">Dijo: Este Yahya Y Issa, les dio la bienvenida.</string>
+    <string name="h1313iiiiii">Luego dijeron: Hola, buen hermano y buen profeta.</string>
+    <string name="h131313">Dios Todopoderoso dijo:{Recuerdo de la misericordia que tu Señor tuvo con Su siervo Zacarías.}[María:2]</string>
+    <string name="h14">Escuché que el Mensajero de Allah la paz sea con él, dice:Ninguno de los hijos de Adán nace, sino que es tocado por el diablo cuando nace, y comienza a gritar al tocar a Satanás, excepto a María y su hijo.</string>
+    <string name="h14i">Entonces Abu Hurayrah dice:Dios Todopoderoso dijo:{Y cuando dio a luz a una hija, dijo:«¡Señor! Lo que he dado a luz es una hembra -bien sabía Alá lo que había dado a luz- y un varón no es igual que una hembra. Le he puesto por nombre María y la pongo bajo Tu protección contra el maldito Demonio, y también a su descendencia».}[La Familia de Imran:36]</string>
+    <string name="h1414">Dios Todopoderoso dijo:{Y recuerda a María en la Escritura, cuando dejó a su familia para retirarse a un lugar de Oriente.}[María:16]</string>
+    <string name="h15">Libro de tawhid</string>
+    <string name="h1515">De Ibn Mas\'ud</string>
+    <string name="h151515">Que un hombre le preguntó al Profeta, la paz sea con él ¿Cuál es el mejor negocio? Él dijo: Oración al escuchar el adhaan,La justicia de los padres, y luego la jihad por el bien de Allah.</string>
+    <string name="h15151515">El Profeta (la paz y las bendiciones de Allah desciendan sobre él) llamó a la oración una obra,Dijo: «No hay una oración por aquellos que no leyeron la apertura del libro»</string>
+    <string name="h16">Sobre Asir bin Jabir</string>
+    <string name="h1616">Era edad si la oferta de la gente de Yemen les preguntaba, él dijo: ¿Tiene Oyes ibn Amer? Escuché al Mensajero de Allah (la paz y las bendiciones de Allah desciendan sobre él) decir: Oyes ibn Amer vino a usted con la provisión de la gente de Yemen de Murad y luego de hace un siglo. Perdonadle Vafal y narrado por un compañero, de Yazid ibn Abi Ziad, de Abdul Rahman bin Abi Laila, dijo: Un hombre de la gente del Levante en dos días: Afik M Owais, escuché que el Mensajero de Allah, la paz sea con él, dice: Aweys bin Amer al-Qarni de los mejores seguidores de la caridad</string>
+    <string name="h161616">Conocimiento de los Compañeros, por Abu Naim Asbahani</string>
+    <string name="h16161616">Los nombres</string>
+    <string name="h1616161616">Aws ibn Anas bin Amer estaba en la era del Profeta, la paz sea con él, no lo vio</string>
+    <string name="h17">Si Dios amaba a un esclavo, le dijo a Gabriel:Dios ama esto,Jibril lo ama,Jibril dice en la gente del cielo:Dios ama esto,En el amor con ellos desde el cielo,Y luego lo colocó admisión a la gente de la tierra</string>
+    <string name="h1717">Libro de literatura</string>
+    <string name="h171717">La puerta del amor de Dios.</string>
+    <string name="h17171717">Amor de dios</string>
+    <string name="h18">Cuando, llegó el Mensajero de Allah, la paz sea con él a la ciudad Los judíos ayunaron el día de Ashura, y él les preguntó.</string>
+    <string name="h18i">Y ellos dijeron: Este es el día en que Moisés derrotó a Faraón.</string>
+    <string name="h18ii">El Profeta (la paz y las bendiciones de Allah desciendan sobre él) dijo:Merecemos a Moisés y el mérito de ayunar más que ellos.</string>
+    <string name="h1818">Dios Todopoderoso dijo:{Inspiramos a Moisés: «¡Sal de noche con Mis siervos y ábreles un camino seco en el mar! ¡No temas que os alcancen, no tengas miedo!»Faraón les persiguió con sus tropas y las aguas del mar les cubrieron.Faraón había extraviado a su pueblo, no le había dirigido bien.}[Ta-Ha:78]</string>
+    <string name="h181818">Libro de interpretación del Corán.</string>
+    <string name="h19">Acerca de Bara</string>
+    <string name="h1919">Fuimos los propietarios de Muhammad la paz sea con él,hablamos:Que el número de luchadores en la Batalla de Badr, como el número de luchadores con Saúl, que cruzaron el río con él,Y no excedió con él solo a trescientos diez creyentes.</string>
+    <string name="h191919">Libro de maghazi</string>
+    <string name="h19191919">Número de luchadores en Badr</string>
+    <string name="h20">Desde Abu Musa al-Ash\'ari</string>
+    <string name="h2020">Dios extiende su mano en la noche.Arrepentirse de los pecados, en el día,y durante el día Arrepentirse de los pecados, por la noche,Hasta que el sol salga por el Oeste</string>
+    <string name="h202020">Narrado por musulmanes en Sahih de Bandar</string>
+    <string name="h20202020">De abu dawood</string>
+    <string name="h2020202020">Y la brujería de Faraón y su historia en el libro de Dios Todopoderoso para aceptar el arrepentimiento del mago.</string>
+    <string name="h202020202020">El Gran Sunan de Bayhaqi</string>
+    <string name="h20202020202020">libro Alksamh</string>
+    <string name="h2020202020202020">Las puertas del juicio en el mago.</string>
+    <string name="h21">Dios Todopoderoso dijo:{Anuncia un castigo doloroso a quienes no creen en los signos de Alá, matan a los profetas sin justificación y matan a los hombres que ordenan la equidad.}[La Familia de Imran:21]</string>
+    <string name="h21i">Él dijo: Envía, Jesús, hijo de María en doce hombres de los Apóstoles:Ellos enseñan a la gente,Estaban impidiendo a la gente,A partir de casarse, su hijo, el hermano Él era el rey de su sobrina que le gusta,Él le estaba sirviendo cada día algo.</string>
+    <string name="h21ii">Ella le dijo a ella, su madre:Si te pregunta por tu necesidad,Y él le dijo: Matarás a Yahya, hijo de Zacarías.</string>
+    <string name="h21iii">El rey le dijo: ¿Tu necesidad?</string>
+    <string name="h21iiii">Ella dijo: Necesito matar a Yahya Bin Zakaria.</string>
+    <string name="h21iiiii">Dijo: pregunta otra cosa.</string>
+    <string name="h21iiiiii">Ella dijo: No pregunto nada más que esto.</string>
+    <string name="h21iiiiiii">Y cuando vino a él,, Masacre en la cuenca,Empecé a dejar caer una gota de sangre,Todavía hierve hasta que Dios envió a Bakhtnasr,Y encontró en sí mismo que todavía está matando, así que calma esta sangre,Matado en un día de setenta mil</string>
+    <string name="h21iiiiiiii">Este es un hadiz sahih</string>
+    <string name="h2121">Mustadrak en la correcta</string>
+    <string name="h212121">Libro de interpretacion</string>
+    <string name="h21212121">Es Surat Al-Imran.</string>
+    <string name="h2_2">Dios garantiza a aquellos que luchan en su camino, no para sacarlo de su casa, excepto el jihad en su camino y la ratificación de su palabra, para entrar al Paraíso o regresar a su hogar con la recompensa.</string>
+    <string name="h2_22_2">Dios Todopoderoso dijo:{Di: «si fuera el mar tinta para las palabras de mi Señor, se agotaría el mar antes de que se agotaran las palabras de mar Señor, aun si añadiéramos otro mar de tinta».}[La Caverna:109]</string>
+    <string name="h23">Acerca de Bara bin Azab</string>
+    <string name="h2323">Él dijo: Un hombre estaba leyendo Surat al-Kahf,Junto a él hay un caballo atado,Y una nube vino sobre él.</string>
+    <string name="h2323i">Al día siguiente fue al Profeta (la paz y las bendiciones de Allah desciendan sobre él)Y dijo: Esa tranquilidad descendió por el Corán.</string>
+    <string name="h232323">Libro de las virtudes del Corán</string>
+    <string name="h23232323">La puerta de la virtud de Surat Al Kahf.</string>
+    <string name="h24">Desde Abu Musa al-Ash\'ari</string>
+    <string name="h2424">Ética completó una gran cantidad de hombres,Las mujeres no completaron Excepto Maryam bint Omran, y Asya la esposa de Faraón,Aisha favoreció a las mujeres como la mejor comida de todas las demás comidas.</string>
+    <string name="h242424">Libro de los alimentos</string>
+    <string name="h24242424">puerta gachas</string>
+    <string name="h25">Desde Abu Sa\'eed al-Khudri</string>
+    <string name="h2525">Al Profeta (la paz y las bendiciones de Allah desciendan sobre él) se le preguntó acerca de los moradores de los lugares elevados.</string>
+    <string name="h2525i">Él dijo: son hombres que fueron asesinados en el camino de Alá, desobedecen a sus padres, les impidieron entrar al fuego e impidieron que el pecado entrara en el Paraíso</string>
+    <string name="h2525ii">Están en una pared entre el cielo y el fuego hasta que su carne y su grasa se marchitan hasta que Dios vacía la cuenta de la creación.</string>
+    <string name="h2525iii">Si Dios completa el cálculo de su creación, no hay otros dejados por Dios con Su misericordia, por lo que los llevará al Paraíso con Su misericordia.</string>
+    <string name="h252525">El Diccionario Central de Tabarani</string>
+    <string name="h25252525">Bab Al Ain</string>
+    <string name="h2525252525">De su nombre: Obeid Allah</string>
+    <string name="h26">" el Profeta (la paz y las bendiciones de Allah desciendan sobre él) solía decir en la oración:Oh Dios, salva al ayyash ibn Abi Rabia,Y Salama Ibn Hisham, y Walid bin Walid,Dios salve a los débiles de los creyentes,Dios vengó la causa del daño,Y enviarlos años como años José"</string>
+    <string name="h2626">la coacción libro</string>
+    <string name="h262626">Lo que salió por la puerta Almtoolin</string>
+    <string name="h27">Abu Khair</string>
+    <string name="h2727">Abdullah bin Amr escuchó</string>
+    <string name="h272727">Que Abu Bakr Alsadiq</string>
+    <string name="h27272727">Dijo a El profeta la paz sea con él.</string>
+    <string name="h2727272727">Oh Mensajero de Allah, enséñame la oración que digo en mi oración.</string>
+    <string name="h2727272727i">El dijo: Di: Oh Dios, he hecho daño a mí mismo a menudo injustamente,Se te perdonan los pecados, solo tú,Perdóname, porque tú eres el Perdonador, el Misericordioso.</string>
+    <string name="h272727272727">Dios Todopoderoso dijo:{Quien desee la recompensa de la vida de acá, sepa que Alá dispone de la recompensa de la vida de acá y de la otra. Alá todo lo oye, todo lo ve.}[Las Mujeres:134]</string>
+    <string name="h28">Desde Abu Sa\'eed Ibn al-Mu\'ali</string>
+    <string name="h2828">Estaba rezando en la mezquita. El Mensajero de Allah (la paz y las bendiciones de Allah desciendan sobre él) me llamó y no le contesté.</string>
+    <string name="h2828i">Yo dije: Oh Mensajero de Dios, estaba orando</string>
+    <string name="h2828ii">El dijo:Dios Todopoderoso dijo:{¡Creyentes! ¡Escuchad a Alá y al Enviado cuando éste os llama a algo que os da la vida! ¡Sabed que Alá se interpone entre el hombre y su corazón y que seréis congregados hacia Él!}[Los Botines:24]</string>
+    <string name="h2828iii">Luego me dijo: Te diré que Surat es la mejor sura del Corán.Antes de salir de la mezquita. Luego tomó mi mano, y cuando quiso salir.</string>
+    <string name="h2828iiii">Le dije: Pero no me dijiste el mejor Surat del Corán.</string>
+    <string name="h2828iiiii">Él dijo: (Alabado sea Alá, Señor del universo) , y el Gran Corán que he dado.</string>
+    <string name="h282828">Parte de lo que vino al principio del libro.</string>
+    <string name="h29">Desde abu masud</string>
+    <string name="h2929">El Profeta (la paz y las bendiciones de Allah desciendan sobre él) dijo: Quienquiera que lea los dos versos del último Sura de Baqarah en la noche Suficiente.</string>
+    <string name="h292929">El Mensajero de Allah (que la paz y las bendiciones de Allah sean con él) me dijo que mantuviera el zakaah en Ramadán conmigo,y Alguien vino a mi,Y comenzó a tomar alimentos Lo tomé de él</string>
+    <string name="h292929i">Dije: voy a decir al Mensajero de Allah, la paz sea con él, sobre usted</string>
+    <string name="h292929ii">El dijo:Si vienes a tu cama, lee Ayat al-Kursi,Estate contigo de Dios Hafiz, y no te traigas demonio hasta que te conviertas</string>
+    <string name="h292929iii">El Profeta (la paz y las bendiciones de Allah desciendan sobre él) dijo:Te dijo honestidad, un mentiroso.Eso es un demonio</string>
+    <string name="h29292929">La puerta de la virtud de Surat Al Baqarah.</string>
+    <string name="h30">Dios dijo: El Hijo de Adán me mintió.Y No tiene ningún derecho a hacerlo,Y él me maldijo y no tiene derecho a hacerlo</string>
+    <string name="h30i">Como una mentira sobre mí, para decir:No lo volveré a crear como lo creé.</string>
+    <string name="h30ii">En cuanto a la maldición de mí, para decir:Dios tomó un hijo,y yo el Eterno(No ha engendrado, ni ha sido engendrado. No tiene par)</string>
+    <string name="h3030">Dios Todopoderoso dijo:{Dios, el Eterno.}[El Monoteísmo:2]</string>
+    <string name="h31">Acerca de Aisha</string>
+    <string name="h3131">Que el Profeta (la paz y las bendiciones de Allah desciendan sobre él) viniera a su cama todas las noches para juntar sus manos.</string>
+    <string name="h3131i">"Luego los respiró y leyó:Di: ¡Él es Alá, Uno,Y Di: Me refugio en el Señor del alba,Y Di: Me refugio en el Señor de los hombres, "</string>
+    <string name="h3131ii">Y luego tocarlas lo que pudo de su cuerpo,Comienza con ellos en su cabeza y cara, y lo que acepto de su cuerpo lo hace tres veces.</string>
+    <string name="h313131">Virtudes de</string>
+    <string name="h32">Él dijo: No hay ningún niño, excepto en el corazón que susurra,La mención de Dios, el diablo fuera de él,Y si olvida una sombra susurra en su corazón.</string>
+    <string name="h32i">Este es un verdadero hadiz.</string>
+    <string name="h32ii">El último libro de interpretación y Alabado sea Alá, Señor del universo,Que Allah bendiga a nuestro maestro Muhammad y su familia y compañeros.</string>
+    <string name="h3232">Interpretación de Surat Al Nas</string>
+    <string name="h3_3">Dos palabras amadas por El Compasivo,Peso ligero En la lengua,Balance pesado:¡Gloria a Alá y alabanza, ¡Gloria a Alá el Grandioso.</string>
+    <string name="h33_33">Dios Todopoderoso dijo:{Para el día de la Resurrección dispondremos balanzas que den el peso justo y nadie será tratado injustamente en nada. Aunque se trate de algo del peso de un grano de mostaza, lo tendremos en cuenta. ¡Bastamos Nosotros para ajustar cuentas!}[Los Profetas:47]</string>
+    <string name="h34">Acerca de Ali</string>
+    <string name="h3434">Fátima la paz sea con ella, se quejó de lo que está en sus manos del trabajo de la harina,Entonces el Profeta (la paz y las bendiciones de Allah desciendan sobre él) fue a pedirle un sirviente, pero no lo encontró.He mencionado que a Aisha, le dijo al profeta cuando vino.</string>
+    <string name="h3434i">Ella dijo: Vinimos y tomamos nuestra cama,</string>
+    <string name="h3434ii">Dijo: Tu lugar se sentó entre nosotros, hasta que encontré los pies fríos en mi pecho.</string>
+    <string name="h3434iii">El dijo: Te voy a decir lo que es bueno para usted desde el servidor?</string>
+    <string name="h3434iiii">Si vienes a tu cama, A tu Señor, ¡ensálzale! treinta y tres, y ¡Gloria a Alá! treinta y tres, y Alabado sea Alá treinta y tres, esto es mejor para ti que para un sirviente.</string>
+    <string name="h3434iiiii">E Ibn Sirin, dijo: Treinta y cuatro elogio</string>
+    <string name="h343434">Libro de invitaciones</string>
+    <string name="h34343434">Zoom y alabanza en un sueño.</string>
+    <string name="copy_right">Ahmed Saad %1$d</string>
+    <string name="finalback">Púlselo de nuevo para volver al menú principal.</string>
+    <string name="back">Presione de nuevo para salir</string>
+    <string name="eshab">Tire hacia arriba o hacia abajo</string>
+    <string name="bhs">Búsqueda</string>
+    <string name="list1">suplica Adan y su esposa(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list4">suplica Noé(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list6">suplica Abraham(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list7">suplica Abraham Y Ismael(La paz sea con ellos)</string>
+    <string name="list12">suplica Lot(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list2">suplica José(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list3">suplica Job(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list5">suplica Suayb(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list9">suplica a Salomón(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list10">suplica Jonás(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list11">suplica Jesús(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list13">suplica Zacarías(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list14">suplica madre de maria(La paz sea con ellos)</string>
+    <string name="list28">mejor suplica Surah La Apertura</string>
+    <string name="list17">suplica ángeles(La paz sea con ellos)</string>
+    <string name="list21">suplica Apóstoles simpatizantes de jesus(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list8">suplica Moisés(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list18">suplica El construyó a Israel con Moisés(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="list20">suplica Fieles magos del faraón</string>
+    <string name="list23">suplica Propietarios de cuevas</string>
+    <string name="list24">suplica Aceh(que Allah esté complacido con ella)</string>
+    <string name="list26">suplica Los vulnerables en la tierra.</string>
+    <string name="list33">suplica Nuestro Profeta Muhammad(Que la paz y las bendiciones de Allah sean con él)</string>
+    <string name="il">" -¿cómo no van a tranquilizarse los corazones con el recuerdo de Alá?-"</string>
+    <string name="ill">Alabado sea Alá, Señor del universo.</string>
+    <string name="esm0">Al-lah</string>
+    <string name="esm1">Ar Rajmán</string>
+    <string name="esm2">Ar Rajim</string>
+    <string name="esm3">Al Málik</string>
+    <string name="esm4">Al Cudús</string>
+    <string name="esm5">As Salam</string>
+    <string name="esm6">Al Mumin</string>
+    <string name="esm7">Al Muhaimin</string>
+    <string name="esm8">Al Aziz</string>
+    <string name="esm9">Al Yabar</string>
+    <string name="esm10">Al Mutakábir</string>
+    <string name="esm11">Al Jálik</string>
+    <string name="esm12">Al Bari</string>
+    <string name="esm13">Al Musáwir</string>
+    <string name="esm14">Al Gafar</string>
+    <string name="esm15">Al Cahar</string>
+    <string name="esm16">Al Wahab</string>
+    <string name="esm17">Ar Razak</string>
+    <string name="esm18">Al Fataj</string>
+    <string name="esm19">Al Alim</string>
+    <string name="esm20">Al Cábid</string>
+    <string name="esm21">Al Básit</string>
+    <string name="esm22">Al Jáfid</string>
+    <string name="esm23">Ar Rafi</string>
+    <string name="esm24">Al Muiz</string>
+    <string name="esm25">Al Mudil</string>
+    <string name="esm26">As Samí</string>
+    <string name="esm27">Al Basir</string>
+    <string name="esm28">Al Jakam</string>
+    <string name="esm29">Al Ádel</string>
+    <string name="esm30">Al Latif</string>
+    <string name="esm31">Al Jabir</string>
+    <string name="esm32">Al Jalim</string>
+    <string name="esm33">Al Adim</string>
+    <string name="esm34">Al Gafur</string>
+    <string name="esm35">Ach Chakur</string>
+    <string name="esm36">Al Alíi</string>
+    <string name="esm37">Al Kabir</string>
+    <string name="esm38">Al Jafid</string>
+    <string name="esm39">Al Muquit</string>
+    <string name="esm40">Al Jasib</string>
+    <string name="esm41">Al Yalil</string>
+    <string name="esm42">Al Karim</string>
+    <string name="esm43">Ar Raquib</string>
+    <string name="esm44">Al Muyib</string>
+    <string name="esm45">Al Wasi</string>
+    <string name="esm46">Al Jakim</string>
+    <string name="esm47">Al Wadud</string>
+    <string name="esm48">Al Mayid</string>
+    <string name="esm49">Al Baiz</string>
+    <string name="esm50">Ach Chahid</string>
+    <string name="esm51">\tAl Jak</string>
+    <string name="esm52">Al Wakil</string>
+    <string name="esm53">Al Cawí</string>
+    <string name="esm54">Al Matín</string>
+    <string name="esm55">Al Walí</string>
+    <string name="esm56">Al Jamid</string>
+    <string name="esm57">Al Mujsí</string>
+    <string name="esm58">Al Mubdí</string>
+    <string name="esm59">Al Muid</string>
+    <string name="esm60">Al Mují</string>
+    <string name="esm61">Al Mumit</string>
+    <string name="esm62">Al Jay</string>
+    <string name="esm63">Al Caiyum</string>
+    <string name="esm64">Al Wájid</string>
+    <string name="esm65">Al Máyid</string>
+    <string name="esm66">Al Wáyid</string>
+    <string name="esm68">As Samad</string>
+    <string name="esm69">Al Cádir</string>
+    <string name="esm70">Al Múctadir</string>
+    <string name="esm71">Al Mucádim</string>
+    <string name="esm72">Al Muájir</string>
+    <string name="esm73">Al Áwal</string>
+    <string name="esm74">Al Ájir</string>
+    <string name="esm75">Ad Dáhir</string>
+    <string name="esm76">Al Batin</string>
+    <string name="esm77">Al Waali</string>
+    <string name="esm78">Al Mutaal</string>
+    <string name="esm79">Al Barr</string>
+    <string name="esm80">At Tawab</string>
+    <string name="esm81">Al Muntaquim</string>
+    <string name="esm82">Al Afúu</string>
+    <string name="esm83">Ar Rauf</string>
+    <string name="esm84">Málikul Mulk</string>
+    <string name="esm85">Dul Yalali wal Ikram</string>
+    <string name="esm86">Al Múcsit</string>
+    <string name="esm87">Al Yami</string>
+    <string name="esm88">Al Ganí</string>
+    <string name="esm89">Al Mugní</string>
+    <string name="esm90">Al Mani</string>
+    <string name="esm91">Ad Dar</string>
+    <string name="esm92">An Nafi</string>
+    <string name="esm93">An Nur</string>
+    <string name="esm94">Al Hadi</string>
+    <string name="esm95">Al Badí</string>
+    <string name="esm96">Al Baqui</string>
+    <string name="esm97">Al Wáriz</string>
+    <string name="esm98">Ar Rachid</string>
+    <string name="esm99">As Sabur</string>
+    <string name="esm1_1">Ar-Raḥmān/El Compasivo con toda la creación</string>
+    <string name="esm111">Corán: Comienzo de cada Sura (capítulo) excepto uno, y muchos otros lugares.</string>
+    <string name="esm11_11">El primer verso (\'ayat) de Surah ar-Rahman (Sura 55) consiste solo en este Nombre.</string>
+    <string name="esm00">Allah/Dios</string>
+    <string name="esm0000">Es el nombre más grande que es único por el Todopoderoso y se distingue por sí mismo y lo convirtió en el primer nombre.</string>
+    <string name="esm00000">Nombre de Dios: Él es el Creador de todo.</string>
+    <string name="esm000">{Alá posee los nombres más bellos}.El Muro Divisorio 180</string>
+    <string name="esm2_2">Ar-Raḥīm/El Misericordioso con los creyentes</string>
+    <string name="esm222">Corán: comienzo de cada Sura (capítulo) excepto uno</string>
+    <string name="esm22_22">y muchos otros lugares (hay un total de 114 Surahs en el Corán).</string>
+    <string name="esm3_3">Al-Malik/El Rey</string>
+    <string name="esm333">{Es Alá -no hay más dios que Él-, el Rey, el Santísimo, la Paz, Quien da Seguridad, el Custodio, el Poderoso, el Fuerte, el Sumo. ¡Gloria a Alá! ¡Está por encima de lo que Le asocian!}El Destierro 23,{¡Exaltado sea Alá, el Rey verdadero! ¡No te precipites en la Recitación antes de que te sea revelada por entero! Y di: «¡Señor! ¡Aumenta mi ciencia!»}.Ta-Ha 114</string>
+    <string name="esm33_33">{¡Exaltado sea Alá, el Rey verdadero! No hay más dios que Él, el Señor del Trono noble.}.Los Creyentes 116</string>
+    <string name="esm4_4">Al-Quddūs/El Santísimo</string>
+    <string name="esm444">{Es Alá -no hay más dios que Él-, el Rey, el Santísimo, la Paz, Quien da Seguridad, el Custodio, el Poderoso, el Fuerte, el Sumo. ¡Gloria a Alá! ¡Está por encima de lo que Le asocian!}El Destierro 23</string>
+    <string name="esm44_44">{Lo que está en los cielos y en la tierra glorifica a Alá, el Rey, el Santísimo, el Poderoso, el Sabio.}.El Viernes 1</string>
+    <string name="esm5_5">As-Salām</string>
+    <string name="esm555">La Paz</string>
+    <string name="esm55_55">{Es Alá -no hay más dios que Él-, el Rey, el Santísimo, la Paz, Quien da Seguridad, el Custodio, el Poderoso, el Fuerte, el Sumo. ¡Gloria a Alá! ¡Está por encima de lo que Le asocian!}El Destierro 23</string>
+    <string name="esm6_6">Al-Muʾmin</string>
+    <string name="esm666">El Dispensador de seguridad</string>
+    <string name="esm66_66">{Es Alá -no hay más dios que Él-, el Rey, el Santísimo, la Paz, Quien da Seguridad, el Custodio, el Poderoso, el Fuerte, el Sumo. ¡Gloria a Alá! ¡Está por encima de lo que Le asocian!}El Destierro 23</string>
+    <string name="esm7_7">Al-Muhaymin</string>
+    <string name="esm777">El Custodio</string>
+    <string name="esm77_77">{Es Alá -no hay más dios que Él-, el Rey, el Santísimo, la Paz, Quien da Seguridad, el Custodio, el Poderoso, el Fuerte, el Sumo. ¡Gloria a Alá! ¡Está por encima de lo que Le asocian!}El Destierro 23</string>
+    <string name="esm8_8">Al-ʿAzīz/El Todopoderoso</string>
+    <string name="esm888">{Él es Quien os forma en el seno como quiere. No hay más dios que Él, el Poderoso, el Sabio.}.La Familia de Imran 6,{sino que Alá lo elevó a Sí. Alá es poderoso, sabio.}.Las Mujeres 158,{Si le negáis auxilio, Alá sí que le auxilió cuando, expulsado por los infieles, con un solo compañero, le decía a éste estando los dos en la cueva: «¡No estés triste! ¡Alá está con nosotros!» Alá hizo descender sobre él Su sakina y le reforzó con legiones invisibles a vuestros ojos. Alá puso Su Palabra por encima de la palabra de los infieles.. Alá es poderoso, sabio.}.El Arrepentimiento 40</string>
+    <string name="esm88_88">{Las legiones de los cielos y de la tierra son de Alá. Alá es poderoso, sabio.}.La Victoria 7,{Es Alá -no hay más dios que Él-, el Rey, el Santísimo, la Paz, Quien da Seguridad, el Custodio, el Poderoso, el Fuerte, el Sumo. ¡Gloria a Alá! ¡Está por encima de lo que Le asocian!}El Destierro 23</string>
+    <string name="esm9_9">Al-Jabbār</string>
+    <string name="esm999">El Dominador</string>
+    <string name="esm99_99">{Es Alá -no hay más dios que Él-, el Rey, el Santísimo, la Paz, Quien da Seguridad, el Custodio, el Poderoso, el Fuerte, el Sumo. ¡Gloria a Alá! ¡Está por encima de lo que Le asocian!}El Destierro 23</string>
+    <string name="esm1010">Al-Mutakabbir</string>
+    <string name="esm101010">El Supremo</string>
+    <string name="esm10101010">{Es Alá -no hay más dios que Él-, el Rey, el Santísimo, la Paz, Quien da Seguridad, el Custodio, el Poderoso, el Fuerte, el Sumo. ¡Gloria a Alá! ¡Está por encima de lo que Le asocian!}El Destierro 23</string>
+    <string name="esm1111">Al-Khāliq/El Creador</string>
+    <string name="esm111111">{Ése es Alá, vuestro Señor. No hay más dios que Él. Creador de todo. ¡Servidle, pues! Él vela por todo.}.Los Ganados 102,{Di: «¿Quién es el Señor de los cielos y de la tierra?» Di: «¡Alá!» Di: «¿Y tomaréis, en lugar de tomarle a Él, a amigos que no disponen para sí mismos de lo que puede aprovechar o dañar?» Di: «¿Son iguales el ciego y el vidente? ¿Son iguales las tinieblas y la luz? ¿Han dado a Alá asociados que hayan creado algo como lo que Él ha creado, al punto de llegar a confundir lo creado?» Di: «Alá es el Creador de todo. Él es el Uno, el Invicto».}.El Trueno 16,{¿Es que Quien ha creado los cielos y la tierra no será capaz de crear semejantes a ellos? ¡Claro que sí! Él es el Creador de todo, el Omnisciente.}.ia-sin 81</string>
+    <string name="esm11111111">{Alá es creador de todo y vela por todo.}.Los Tropeles 62,{ése es Alá, vuestro Señor, creador de todo. ¡No hay más dios que É! ¡Cómo podéis, pues, ser tan desviados!}.El Remisorio 62,{Es Alá, el Creador, el Hacedor, el Formador. Posee los nombres más bellos. Lo que está en los cielos y en la tierra Le glorifica. Es el Poderoso, el Sabio.}.El Destierro 24</string>
+    <string name="esm1212">Al-Bāriʾ</string>
+    <string name="esm121212">El Iniciador</string>
+    <string name="esm12121212">{Es Alá, el Creador, el Hacedor, el Formador. Posee los nombres más bellos. Lo que está en los cielos y en la tierra Le glorifica. Es el Poderoso, el Sabio.}.El Destierro 24</string>
+    <string name="esm13131313">Al-Muṣawwir</string>
+    <string name="esm1313">El Formador</string>
+    <string name="esm131313">{Es Alá, el Creador, el Hacedor, el Formador. Posee los nombres más bellos. Lo que está en los cielos y en la tierra Le glorifica. Es el Poderoso, el Sabio.}.El Destierro 24</string>
+    <string name="esm1414">Al-Ghaffār/El que perdona</string>
+    <string name="esm141414">{Yo soy, ciertamente, indulgente con quien se arrepiente, cree, obra bien y, luego, se deja dirigir bien.}.Ta-Ha 82,{el Señor de los cielos, de la tierra y de lo que entre ellos está, el Poderoso, el Indulgente}.Sad 66,{Ha creado con un fin los cielos y la tierra. Hace que la noche suceda al día y el día a la noche. Ha sujetado el sol y la luna, prosiguiendo cada uno su curso hacia un término fijo. ¿No es Él el Poderoso, el Indulgente?}.Los Tropeles 5</string>
+    <string name="esm14141414">{Me llamáis a que sea infiel a Alá y a que Le asocie algo de lo que no tengo conocimiento, mientras que yo os llamo al Poderoso, al Indulgente.}.El Remisorio 42,{Y he dicho: \'¡Pedid perdón a vuestro Señor -Que es indulgente-}.Noé 10</string>
+    <string name="esm1515">Al-Qahhār/El Victorioso</string>
+    <string name="esm151515">{¡Compañeros de cárcel! ¿Son preferibles señores separados a Alá, el Uno, el Invicto?}.José 39,{Di: «¿Quién es el Señor de los cielos y de la tierra?» Di: «¡Alá!» Di: «¿Y tomaréis, en lugar de tomarle a Él, a amigos que no disponen para sí mismos de lo que puede aprovechar o dañar?» Di: «¿Son iguales el ciego y el vidente? ¿Son iguales las tinieblas y la luz? ¿Han dado a Alá asociados que hayan creado algo como lo que Él ha creado, al punto de llegar a confundir lo creado?» Di: «Alá es el Creador de todo. Él es el Uno, el Invicto».}.El Trueno 16,{el día que la tierra sea sustituida por otra tierra y los cielos por otros cielos, que comparezcan ante Alá, el Uno, el Invicto.}.Abraham 48</string>
+    <string name="esm15151515">{Di: «Yo no soy más que uno que advierte. No hay ningún otro dios que Alá, el Uno, el Invicto»}.Sad 65,{Si Alá hubiera deseado adoptar un hijo, habría elegido entre lo que ha creado lo que hubiera querido. ¡Gloria a Él! Es Alá, el Uno, el Invicto.}.Los Tropeles 4,{Ese día surgirán, sin que nada de ellos pueda ocultarse a Alá. Ese día, ¿de quién será el dominio? ¡De Alá, el Uno, el Invicto!}.El Remisorio 16</string>
+    <string name="esm1616">Al-Wahhāb/El Dadivoso</string>
+    <string name="esm161616">{¿O tienen los tesoros de misericordia de tu Señor, el Poderoso, el Munífico?}.Sad 9</string>
+    <string name="esm16161616">{«¡Señor!» dijo. «¡Perdóname y regálame un dominio tal que a nadie después de mí le esté bien. Tú eres el Munífico».}.Sad 35</string>
+    <string name="esm1717">Ar-Razzāq</string>
+    <string name="esm171717">El Proveedor</string>
+    <string name="esm17171717">{Alá es el Proveedor de todo, el Fuerte, el Firme.}.Los Vientos 58</string>
+    <string name="esm1818">Al-Fattāḥ</string>
+    <string name="esm181818">El que abre los corazones a la fe y el conocimiento</string>
+    <string name="esm18181818">{Di: «Nuestro Señor nos reunirá y fallará entre nosotros según justicia. Él es Quien falla, el Omnisciente».}.Saba 26</string>
+    <string name="esm1919">Al-ʿAlīm/El Omnisciente</string>
+    <string name="esm191919">{Safa y Marwa figuran entre los ritos prescritos por Alá. Por eso, quien hace la peregrinación mayor a la Casa o la menor, no hace mal en dar las vueltas alrededor de ambas. Y si uno hace el bien espontáneamente, Alá es agradecido, omnisciente.}.La Vaca 158,{No alcanzaréis la piedad auténtica mientras no gastéis algo de lo que amáis. Y Alá conoce bien cualquier cosa que gastáis.}.La Familia de Imran 92,{Si teméis una ruptura entre los esposos, nombrad un árbitro de la familia de él y otro de la de ella. Si desean reconciliarse, Alá hará que lleguen a un acuerdo. Alá es omnisciente, está bien informado.}.Las Mujeres 35</string>
+    <string name="esm19191919">{¿No ves que glorifican a Alá quienes están en los cielos y en la tierra, y las aves con las alas desplegadas? Cada uno sabe cómo orar y cómo glorificarle. Alá sabe bien lo que hacen.}.La Luz 41,{Mahoma no es el padre de ninguno de vuestros varones, sino el Enviado de Alá y el sello de los profetas. Alá es omnisciente.}.Los Aliados 40</string>
+    <string name="esm2020">Al-Qābiḍ</string>
+    <string name="esm202020">El Restrictivo</string>
+    <string name="esm20202020">{¿Quién será el que haga un préstamo generoso a Alá? Alá se lo devolverá multiplicado. Alá cierra y abre. Seréis devueltos a Él.}.La Vaca 245</string>
+    <string name="esm21212121">{¿Quién será el que haga un préstamo generoso a Alá? Alá se lo devolverá multiplicado. Alá cierra y abre. Seréis devueltos a Él.}.La Vaca 245</string>
+    <string name="esm2121">Al-Bāsiṭ</string>
+    <string name="esm212121">El Pródigo</string>
+    <string name="esm2222">Al-Khāfiḍ</string>
+    <string name="esm222222">El que da humildad</string>
+    <string name="esm22222222">{¡Abatirá, exaltará!}.El Suceso 3</string>
+    <string name="esm2323">Ar-Rāfiʿ/El Enaltecedor</string>
+    <string name="esm232323">{¡Creyentes! Cuando se os dice: «¡Haced sitio en las asambleas!» hacedlo así para que Alá os haga también sitio. Y si se os dice: «¡Levantaos!», hacedlo así para que Alá también eleve la categoría de aquéllos de vosotros que crean y reciban la Ciencia. Alá está informado de lo que hacéis.}.La Discusión 11</string>
+    <string name="esm23232323">{Ése es el argumento Nuestro que dimos a Abraham contra su pueblo. Ascendemos la categoría de quien queremos. Tu Señor es sabio, omnisciente.}.Los Ganados 83</string>
+    <string name="esm2424">Al-Muʿizz</string>
+    <string name="esm242424">El que otorga honores</string>
+    <string name="esm24242424">{Di: «¡Oh, Alá, Dueño del dominio! Tú das el dominio a quien quieres y se lo retiras a quien quieres, exaltas a quien quieres y humillas a quien quieres. En Tu mano está el bien. Eres omnipotente».}.La Familia de Imran 26</string>
+    <string name="esm2525">Al-Muzill</string>
+    <string name="esm252525">El Humillador</string>
+    <string name="esm25252525">{Di: «¡Oh, Alá, Dueño del dominio! Tú das el dominio a quien quieres y se lo retiras a quien quieres, exaltas a quien quieres y humillas a quien quieres. En Tu mano está el bien. Eres omnipotente».}.La Familia de Imran 26</string>
+    <string name="esm2626">As-Samīʿ/El Omnioyente</string>
+    <string name="esm262626">{Y cuando Abraham e Ismael levantaban los cimientos de la Casa: «¡Señor, acéptanoslo! ¡Tú eres Quien todo lo oye, Quien todo lo sabe!}.La Vaca 127,{No cabe coacción en religión. La buena dirección se distingue claramente del descarrío. Quien no cree en los taguts y cree en Alá, ese tal se ase del asidero más firme, de un asidero irrompible. Alá todo lo oye, todo lo sabe.}.La Vaca 256</string>
+    <string name="esm26262626">{No erais vosotros quienes les mataban, era Alá Quien les mataba. Cuando tirabas, no eras tú quien tiraba, era Alá Quien tiraba, para hacer experimentar a los creyentes un favor venido de Él. Alá todo lo oye, todo lo sabe.}.Los Botines 17,{¡Creyentes! ¡No os adelantéis a Alá y a su Enviado y temed a Alá! Alá todo lo oye, todo lo sabe.}.Los aposentos 1</string>
+    <string name="esm2727">Al-Baṣīr/El Omnividente</string>
+    <string name="esm272727">{Alá os ordena que restituyáis los depósitos a sus propietarios y que cuando decidáis entre los hombres lo hagáis con justicia. ¡Qué bueno es aquello a que Alá os exhorta! Alá todo lo oye, todo lo ve.}.Las Mujeres 58,{¡Gloria a Quien hizo viajar a Su Siervo de noche, desde la Mezquita Sagrada a la Mezquita Lejana, cuyos alrededores hemos bendecido, para mostrarle parte de Nuestros signos! Él es Quien todo lo oye, todo lo ve.}.El Viaje Nocturno 1</string>
+    <string name="esm27272727">{Creador de los cielos y de la tierra. Os ha dado esposas salidas de vosotros y parejas salidas de vuestros rebaños, diseminándoos así. No hay nada que se Le asemeje. Él es Quien todo lo oye, Quien todo lo ve.}.El Consejo 11,{Si Alá dispensara el sustento a Sus siervos con largueza, se insolentarían en la tierra. Lo que hace, en cambio, es concederles con mesura lo que quiere. Está bien informado sobre Sus siervos, les ve bien.}.El Consejo</string>
+    <string name="esm2828">Al-Ḥakam</string>
+    <string name="esm282828">El Juez</string>
+    <string name="esm28282828">{«Alá decidirá entre vosotros el día de la Resurreción sobre aquello en que discrepabais».}.La Peregrinación 69</string>
+    <string name="esm2929">Al-ʿAdl</string>
+    <string name="esm292929">El Justo</string>
+    <string name="esm29292929">The Just/ Authorized and Straightforward Judge of Dealing Justly</string>
+    <string name="esm3030">Al-Laṭīf/El Sutil</string>
+    <string name="esm303030">{¿No ves cómo hace Alá bajar agua del cielo y la tierra verdea? Alá es sutil, está bien informado.}.La Peregrinación 63,{«¡Hijito! Aunque se trate de algo del peso de un grano de mostaza y esté escondido en una roca, en los cielos o en la tierra, Alá lo sacará a luz. Alá es sutil, está bien informado».}.Luqman 16</string>
+    <string name="esm30303030">{Recordad lo que de las aleyas de Alá y de la Sabiduría se recita en vuestras casas. Alá es sutil, está bien informado.}.Los Aliados 34</string>
+    <string name="esm3131">Al-Khabīr/El Bien Informado</string>
+    <string name="esm313131">{Él es Quien domina a Sus siervos. Él es el Sabio, el Bien Informado.}.Los Ganados 18,{Tu Señor dispensa el sustento a quien Él quiere: a unos con largueza, a otros con mesura. Está bien informado de Sus siervos, les ve bien.}.El Viaje Nocturno 30</string>
+    <string name="esm31313131">{¡Hombres! Os hemos creado de un varón y de una hembra y hemos hecho de vosotros pueblos y tribus, para que os conozcáis unos a otros. Para Alá, el más noble de entre vosotros es el que más Le teme. Alá es omnisciente, está bien informado.}.Los aposentos 13,{¡Creyentes! ¡Temed a Alá! ¡Que cada uno considere lo que prepara para Mañana! ¡Temed a Alá! Alá está bien informado de lo que hacéis.}.El Destierro 18</string>
+    <string name="esm3232">Al-Ḥalīm/El Indulgente</string>
+    <string name="esm323232">{No hacéis mal en proponer a tales mujeres casaros con ellas o en ocultarles vuestra intención de hacerlo. Alá sabe que pensaréis en ellas. Pero ¡no les prometáis nada en secreto! ¡Habladas, más bien, como se debe! ¡Y no decidáis concluir el matrimonio hasta que se cumpla el período prescrito de espera! ¡Sabed que Alá conoce lo que hay en vuestras mentes, de modo que cuidado con Él! Pero sabed que Alá es indulgente, benigno.}.La Vaca 235,{Le glorifican los siete cielos, la tierra y sus habitantes. No hay nada que no celebre Sus alabanzas, pero no comprendéis su glorificación. Él es benigno, indulgente.}.El Viaje Nocturno 44</string>
+    <string name="esm32323232">{Ha de introducirles en un lugar que les placerá. Alá es, ciertamente, omnisciente, benigno.}.La Peregrinación 59,{Alá sostiene los cielos y la tierra para que no se desplomen. Si se desplomaran no habría nadie, fuera de Él, que pudiera sostenerlos. Es benigno, indulgente.}.Originador 41</string>
+    <string name="esm3333">Al-ʿAẓīm/El Grandioso</string>
+    <string name="esm333333">{¡Alá! No hay más dios que El. el Viviente, el Subsistente. Ni la somnolencia ni el sueño se apoderan de Él. Suyo es lo que está en los cielos y en la tierra. ¿Quién podrá interceder ante Él si no es con Su permiso? Conoce su pasado y su futuro, mientras que ellos no abarcan nada de Su ciencia, excepto lo que Él quiere. Su Trono se extiende sobre los cielos y sobre la tierra y su conservación no le resulta onerosa. Él es el Altísimo, el Grandioso.}.La Vaca 255,{Suyo es lo que está en los cielos y en la tierra. Él es el Altísimo, el Grandioso.}.El Consejo 4</string>
+    <string name="esm33333333">{¡Glorifica, pues, el nombre de tu Señor, el Grandioso!}.El Suceso 96</string>
+    <string name="esm3434">Al-Ghafūr/El Absolvedor</string>
+    <string name="esm343434">{Os ha prohibido sólo la carne mortecina, la sangre. la carne de cerdo y la de todo animal sobre el que se haya invocado un nombre diferente del de Alá. Pero si alguien se ve compelido por la necesidad -no por deseo ni por afán de contravenirno peca. Alá es indulgente, misericordioso.}.La Vaca 173,{¡Tomad del botín hecho lo lícito, lo bueno! ¡Y temed a Alá! Alá es indulgente, misericordioso.}.Los Botines 69</string>
+    <string name="esm34343434">{Tu Señor, para quienes hayan emigrado, después de haber sufrido pruebas y de haber, luego, combatido y tenido paciencia, tu Señor será, ciertamente, después de eso, indulgente, misericordioso}.Las Abejas 110,{«como alojamiento venido de Uno Que es indulgente, misericordioso».}.Los Preceptos Detallados 32</string>
+    <string name="esm3535">Ash-Shakūr/El Recompensador</string>
+    <string name="esm353535">{para que Él les dé su recompensa y aún más de Su favor. Es indulgente, muy agradecido.}.Originador 30,{Y dirán: «¡Alabado sea Alá, Que ha retirado de nosotros la tristeza! En verdad, nuestro Señor es indulgente, muy agradecido}.Originador 34</string>
+    <string name="esm35353535">{Ésta es la buena nueva que Alá anuncia a Sus siervos, que creen y obran bien. Di: «Yo no os pido salario a cambio, fuera de que améis a los parientes». A quien obre bien, le aumentaremos el valor de su obra. Alá es indulgente, muy agradecido.}.El Consejo 23,{Si hacéis un préstamo generoso a Alá, Él os devolverá el doble y os perdonará. Alá es muy agradecido, benigno.}.El Desengaño 17</string>
+    <string name="esm3636">Al-ʿAlī/El Sublime</string>
+    <string name="esm363636">{Esto es así porque Alá es la Verdad, pero lo que ellos invocan en lugar de invocarle a Él es lo falso. Alá es el Altísimo, el Grande.}.Luqman 30,{Suyo es lo que está en los cielos y en la tierra. Él es el Altísimo, el Grandioso.}.El Consejo 4</string>
+    <string name="esm36363636">"{A ningún mortal le es dado que Alá le hable si no es por inspiración, o desde detrás de una cortina, o mandándole un enviado que le inspire, con Su autorización, lo que Él quiere. Es altísimo, sabio.}.El Consejo 51,{«Es inútil interceder por nadie ante Él, excepto por quien Él lo permita. Hasta que, cuando el terror haya desaparecido de sus corazones, digan: \'¿Qué ha dicho vuestro Señor?\' Dirán: \'La verdad\' Él es el Altísimo, el Grande».}.Saba 23"</string>
+    <string name="esm3737">Al-Kabīr/El Grande</string>
+    <string name="esm373737">{El Conocedor de lo oculto y de lo patente, el Grande, el Sublime.}.El Trueno 9.{Esto es así porque Alá es la Verdad, pero lo que ellos invocan en lugar de invocarle a Él es lo falso, y porque Alá es el Altísimo, el Grande.}.La Peregrinación 62</string>
+    <string name="esm37373737">{«Es inútil interceder por nadie ante Él, excepto por quien Él lo permita. Hasta que, cuando el terror haya desaparecido de sus corazones, digan: \'¿Qué ha dicho vuestro Señor?\' Dirán: \'La verdad\' Él es el Altísimo, el Grande».}.Saba 23</string>
+    <string name="esm3838">Al-Ḥafīẓ/El Preservador</string>
+    <string name="esm383838">{Si volvéis la espalda… yo ya os he comunicado aquello con que he sido enviado a vosotros. Mi Señor hará que os suceda otro pueblo y no podréis hacerle ningún daño. ¡Mi Señor todo lo vigila!}.Hud 57,{No tenía poder sobre ellos. Queríamos sólo distinguir a los que creían en la otra vida de los que dudaban de ella. Tu Señor cuida de todo.}.Saba 21</string>
+    <string name="esm38383838">{A los que han tomado amigos en lugar de tomarle a Él, Alá les vigila. Tú no eres su protector.}.El Consejo 6</string>
+    <string name="esm3939">Al-Muqīt</string>
+    <string name="esm393939">El Preponderante</string>
+    <string name="esm39393939">{Quien intercede de buena manera tendrá su parte y quien intercede de mala manera recibirá otro tanto. Alá vela por todo.}.Las Mujeres 85</string>
+    <string name="esm4040">Al-Ḥasīb/El que tiene en cuenta todas las cosas</string>
+    <string name="esm404040">{Tantead a los huérfanos hasta que alcancen la nubilidad, Cuando los creáis ya maduros, pasadles su hacienda. No la consumáis pródiga y prematuramente antes de que alcancen la mayoría de edad. El rico, que no se aproveche. El pobre, que gaste como es debido. Cuando les entreguéis su hacienda, requerid la presencia de testigos. Alá basta para ajustar cuentas…}.Las Mujeres 6,{Si os saludan, saludad con un saludo aún mejor, o devolvedlo igual. Alá tiene todo en cuenta.}.Las Mujeres 86</string>
+    <string name="esm40404040">{que transmitían los mensajes de Alá y Le tenían miedo, no teniendo miedo de nadie más que de Alá. ¡Basta Alá para ajustar cuentas!}.Los Aliados 39</string>
+    <string name="esm4141">Al-Jalīl/El Sublime</string>
+    <string name="esm414141">{Pero subsiste tu Señor, el Majestuoso y Honorable}.El Clemente 27</string>
+    <string name="esm41414141">{Cuando Moisés acudió a Nuestro encuentro y su Señor le hubo hablado, dijo: «¡Señor! ¡Muéstrate a mí, que pueda mirarte!» Dijo: «¡No Me verás! ¡Mira, en cambio, la montaña! Si continúa firme en su sitio, entonces Me verás». Pero, cuando su Señor se manifestó a la montaña, la pulverizó y Moisés cayó al suelo fulminando. Cuando volvió en si dijo: «¡Gloria a Ti! Me arrepiento y soy el primero de los que creen».}.El Muro Divisorio 143</string>
+    <string name="esm4242">Al-Karīm/El Generoso</string>
+    <string name="esm424242">{El que tenía ciencia de la Escritura dijo: «Yo te lo traeré en un abrir y cerrar de ojos». Cuando lo vio puesto junto a sí, dijo: «éste es un favor de mi Señor para probarme si soy o no agradecido. Quien es agradecido, lo es en realidad, en provecho propio. Y quien es desagradecido… Mi Señor Se basta a Sí mismo, es generoso».}.Las Hormigas 40</string>
+    <string name="esm42424242">{¡Hombre! ¿Qué es lo que te ha engañado acerca de tu noble Señor}.La Hendidura 6</string>
+    <string name="esm4343">Ar-Raqīb/El Vigilante</string>
+    <string name="esm434343">{¡Hombres! ¡Temed a vuestro Señor, Que os ha creado de una sola persona, de la que ha creado a su cónyuge, y de los que ha diseminado un gran número de hombres y de mujeres! ¡Temed a Alá, en Cuyo nombre os pedís cosas, y respetad la consanguinidad! Alá siempre os observa.}.Las Mujeres 1</string>
+    <string name="esm43434343">{No les he dicho más que lo que Tú me has ordenado: \'¡Servid a Alá, mi Señor y Señor vuestro!\' Fui testigo de ellos mientras estuve entre ellos, pero, después de llamarme a Ti, fuiste Tú Quien les vigiló. Tú eres testigo de todo.}.La Mesa Servida 117</string>
+    <string name="esm4444">Al-Mujīb</string>
+    <string name="esm444444">El que responde las súplicas</string>
+    <string name="esm44444444">{Y a los tamudeos su hermano Salih. Dijo: «¡Pueblo! ¡Servid a Alá! No tenéis a ningún otro dios que a Él. Él os ha creado de la tierra y os ha establecido en ella. ¡Pedidle perdón! Luego, ¡volveos a Él! Mi Señor está cerca, escucha».}.Hud 61</string>
+    <string name="esm4545">Al-Wāsiʿ/El Vasto</string>
+    <string name="esm454545">{El Demonio os amenaza con la pobreza y os ordena lo deshonesto, mientras que Alá os promete Su perdón y favor. Alá es inmenso, omnisciente.}.La Vaca 268,{Y no creáis sino a quienes siguen vuestra religión». Di: «La Dirección es la dirección de Alá. Que no se dé a otro lo que se os ha dado a vosotros, que no discutan con vosotros ante vuestro Señor». Di: «El favor está en la mano de Alá, Que lo dispensa a quien Él quiere». Alá es inmenso, omnisciente.}.La Familia de Imran 73</string>
+    <string name="esm45454545">{¡Creyentes! Si uno de vosotros apostata de su fe… Alá suscitará una gente a la cual Él amará y de la cual será amado, humilde con los creyentes, altivo con los infieles, que Alá y que no temerá la censura de nadie. Éste es el favor de Alá. Lo dispensa a quien Él quiere. Alá es inmenso, omnisciente.}.La Mesa Servida 54</string>
+    <string name="esm4646">Al-Ḥakīm/El Sabio</string>
+    <string name="esm464646">{Si se hicieran cálamos de los árboles de la tierra, y se añadieran al mar, luego de él, otros siete mares más, no se agotarían las palabras de Alá. Alá es poderoso, sabio.}.Luqman 27,{La revelación de la Escritura procede de Alá, el Poderoso, el Sabio.}.Las Dunas 2</string>
+    <string name="esm46464646">{Lo que está en los cielos y en la tierra glorifica a Alá. Él es el Poderoso, el Sabio.}.El Hierro 1,{Alá os ha prescrito la anulación de vuestros juramentos. Alá es vuestro Protector. Él es el Omnisciente, el Sabio.}.La Prohibición 2</string>
+    <string name="esm4747">Al-Wadūd/El Afectuoso</string>
+    <string name="esm474747">{¡Pedid perdón a vuestro Señor! Luego, ¡volveos a Él Mi Señor es misericordioso. lleno de amor}.Hud 90</string>
+    <string name="esm47474747">{Él es el Indulgente, el Lleno de Amor}.Las Constelaciones 14</string>
+    <string name="esm4848">Al-Majīd</string>
+    <string name="esm484848">El Majestuoso</string>
+    <string name="esm48484848">{«¿Te asombras de la orden de Alá?» dijeron. «¡Que la misericordia de Alá y Sus bendiciones sean sobre vosotros, gente de la casa! ¡Es digno de ser alabado, glorificado!»}.Hud 73</string>
+    <string name="esm4949">Al-Bāʿith</string>
+    <string name="esm494949">El Resurrector</string>
+    <string name="esm49494949">{Es que la Hora llega, no hay duda de ella, y Alá resucitará a quienes se encuentren en las sepulturas.}.La Peregrinación 7</string>
+    <string name="esm5050">Ash-Shahīd/El Testigo</string>
+    <string name="esm505050">{Pero Alá es testigo de que lo que El te ha revelado lo ha revelado con Su ciencia. Los ángeles también son testigos, aunque basta Alá como testigo}.Las Mujeres 166,{El día de la Resurrección, Alá fallará acerca de los creyentes, los judíos, los sabeos, los cristianos, los zoroastrianos y los asociadores. Alá es testigo de todo.}.La Peregrinación 17</string>
+    <string name="esm50505050">{Les mostraremos Nuestros signos fuera y dentro de sí mismos hasta que vean claramente que es la Verdad. ¿Es que no basta que tu Señor sea testigo de todo?}.Los Preceptos Detallados 53,{Él es Quien ha mandado a Su Enviado con la Dirección y con la religión verdadera, para que prevalezca sobre toda otra religión. ¡Alá basta como testigo!}.La Victoria 28</string>
+    <string name="esm5151">Al-Ḥaqq/La Verdad</string>
+    <string name="esm515151">{Luego, son devueltos a Alá, su verdadero Dueño. ¿No es a Él a quien toca decidir? Él es el más rápido en ajustar cuentas.}.Los Ganados 62,{Esto es así porque Alá es la Verdad, devuelve la vida a los muertos y es omnipotente.}.La Peregrinación 6</string>
+    <string name="esm51515151">{¡Exaltado sea Alá, el Rey verdadero! No hay más dios que Él, el Señor del Trono noble.}.Los Creyentes 116,{Ese día, Alá les retribuirá en su justa medida y sabrán que Alá es la Verdad manifiesta.}.La Luz 25</string>
+    <string name="esm5252">Al-Wakīl/El Amparador</string>
+    <string name="esm525252">{A aquéllos a quienes se dijo: «La gente se ha agrupado contra vosotros, ¡tenedles miedo!», esto les aumentó la fe y dijeron: «Alá nos basta! ¡Es un protector excelente!»}.La Familia de Imran 173,{¡Gente de la Escritura ! ¡No exageréis en vuestra religión! ¡No digáis de Alá sino la verdad: que el Ungido, Jesús, hijo de María, es solamente el enviado de Alá y Su Palabra, que Él ha comunicado a María, y un espíritu que procede de Él! ¡Creed, pues, en Alá y en Sus enviados! ¡No digáis "Tres'! ¡Basta ya, será mejor para vosotros! Alá es sólo un Dios Uno. ¡Gloria a Él Tener un hijo…Suyo es lo que está en los cielos y en la tierra… ¡Alá basta como protector!}.Las Mujeres 171</string>
+    <string name="esm52525252">{Dijo: «¡Trato hecho! Y cualquiera que sea el plazo que yo decida, no seré objeto de hostilidad. Alá responde de nuestras palabras».}.El Relato 28,{El Señor del Oriente y del Occidente. No hay más dios que Él. ¡Tómale, pues, como protector!}.El Cobijado 9</string>
+    <string name="esm5353">Al-Qawiy/El Fuerte</string>
+    <string name="esm535353">{A quienes han sido expulsados injustamente de sus hogares, sólo por haber dicho: «¡Nuestro Señor es Alá!» Si Alá no hubiera rechazado a unos hombres valiéndose de otros, habrían sido demolidas ermitas, iglesias, sinagogas y mezquitas, donde se menciona mucho el nombre de Alá. Alá auxiliará, ciertamente, a quienes Le auxilien. Alá es, en verdad, fuerte, poderoso.}.La Peregrinación 40,{No han valorado a Alá debidamente. Alá es, en verdad, fuerte, poderoso.}.La Peregrinación 74</string>
+    <string name="esm53535353">{Alá es bondadoso con Sus siervos. Provee a las necesidades de quien Él quiere. Él es el Fuerte, el Poderoso.}.El Consejo 19,{Ya hemos mandado a nuestros enviados con las pruebas claras. Y hemos hecho descender con ellos la Escritura y la Balanza, para que los hombres observen la equidad. Hemos hecho descender el hierro, que encierra una gran fuerza y ventajas para los hombres. A fin de que Alá sepa quiénes les auxilian en secreto, a Él y a Sus enviados. Alá es fuerte poderoso.}.El Hierro 25</string>
+    <string name="esm5454">Al-Matīn</string>
+    <string name="esm545454">El Firme</string>
+    <string name="esm54545454">{Alá es el Proveedor de todo, el Fuerte, el Firme.}.Los Vientos 58</string>
+    <string name="esm5555">Al-Walī/El Protector</string>
+    <string name="esm555555">{Alá conoce mejor que nadie a vuestros enemigos. Alá basta como amigo. Alá basta como auxiliar.}.Las Mujeres 45,{Mi amigo es Alá, Que ha revelado la Escritura y Que elige a los justos como amigos.}.El Muro Divisorio 196</string>
+    <string name="esm55555555">{Él es Quien envía de lo alto la lluvia abundante, cuando ya han perdido toda esperanza, y difunde Su misericordia. Él es el Amigo, el Digno de Alabanza.}.El Consejo 28,{No te servirán de nada frente a Alá. Los impíos son amigos unos de otros, pero Alá es el Amigo de los que Le temen.}.La Arrodillada 19</string>
+    <string name="esm5656">Al-Ḥamīd/El Loable</string>
+    <string name="esm565656">{Moisés dijo: «Si sois desagradecidos, vosotros y todos los que están en la tierra… Alá Se basta a Sí mismo, es digno de alabanza».}.Abraham 8,{Dimos a Luqmán la sabiduría: «¡Sé agradecido con Alá! Quien es agradecido lo es, en realidad, en provecho propio. Quien es desagradecido… Alá Se basta a Sí mismo, es digno de alabanza».}.Luqman 12</string>
+    <string name="esm56565656">{Es de Alá lo que está en los cielos y en la tierra. Alá es Quien Se basta a Sí mismo, el Digno de Alabanza.}.Luqman 26,{completamente inaccesible a lo falso, revelación procedente de uno Que es sabio, digno de alabanza.}.Los Preceptos Detallados 42</string>
+    <string name="esm5757">Al-Muḥṣī/El Calculador</string>
+    <string name="esm575757">{«para saber si han transmitido los mensajes de su Señor. Abarca todo lo concerniente a ellos y lleva cuenta exacta de todo»}.Los Genios 28</string>
+    <string name="esm57575757">{siendo así que habíamos consignado todo en una Escritura}.La Noticia 29</string>
+    <string name="esm5858">Al-Mubdiʾ/El Originador</string>
+    <string name="esm5959">Al-Muʿīd/El Restaurador</string>
+    <string name="esm585858">{Di: «¿Hay alguno de vuestros asociados que inicie la creación y luego la repita?» Di: «Alá inicia la creación y luego la repite. ¡Cómo podéis, pues, ser tan desviados!»}.Jonás 34,{¿Quién, si no, inicia la creación y luego la repite? ¿Quién os sustenta de los bienes del cielo y de la tierra? ¿ Hay un dios junto con Alá? Di: «¡Aportad vuestra prueba, si es verdad lo que decís!»}.Las Hormigas 64</string>
+    <string name="esm595959">{Di: «¿Hay alguno de vuestros asociados que inicie la creación y luego la repita?» Di: «Alá inicia la creación y luego la repite. ¡Cómo podéis, pues, ser tan desviados!»}.Jonás 34,{¿Quién, si no, inicia la creación y luego la repite? ¿Quién os sustenta de los bienes del cielo y de la tierra? ¿ Hay un dios junto con Alá? Di: «¡Aportad vuestra prueba, si es verdad lo que decís!»}.Las Hormigas 64</string>
+    <string name="esm58585858">{¿Es que no ven cómo inicia Alá la creación y, luego, la repite? Es cosa fácil para Alá.}.La Araña 19,{Él crea y re-crea.}.Las Constelaciones 13</string>
+    <string name="esm59595959">{¿Es que no ven cómo inicia Alá la creación y, luego, la repite? Es cosa fácil para Alá.}.La Araña 19,{Él crea y re-crea.}.Las Constelaciones 13</string>
+    <string name="esm6060">Al-Muḥyī/El que da la vida</string>
+    <string name="esm6161">Al-Mumīt/El que quita la vida</string>
+    <string name="esm616161">{Di: «¡Hombres Yo soy el Enviado de Alá a todos vosotros, de Aquél a Quien pertenece el dominio de los cielos y de la tierra. No hay más dios que Él. Él da la vida y da la muerte. ¡Creed, pues, en Alá y en su Enviado, el Profeta de los gentiles, que cree en Alá y en Sus palabras! ¡Y seguidle! Quizás, así, seáis bien dirigidos».}.El Muro Divisorio 158,{Somos Nosotros, sí, Quienes damos la vida y la muerte, Nosotros los Herederos.}.Al-Hiyr 23</string>
+    <string name="esm606060">{Di: «¡Hombres Yo soy el Enviado de Alá a todos vosotros, de Aquél a Quien pertenece el dominio de los cielos y de la tierra. No hay más dios que Él. Él da la vida y da la muerte. ¡Creed, pues, en Alá y en su Enviado, el Profeta de los gentiles, que cree en Alá y en Sus palabras! ¡Y seguidle! Quizás, así, seáis bien dirigidos».}.El Muro Divisorio 158,{Somos Nosotros, sí, Quienes damos la vida y la muerte, Nosotros los Herederos.}.Al-Hiyr 23</string>
+    <string name="esm61616161">{Suyo es el dominio de los cielos y de la tierra. Él da la vida y da la muerte. Y es omnipotente.}.El Hierro 2,{¡Creyentes! ¡No seáis como quienes no creen y dicen de sus hermanos que están de viaje o de incursión: «Si se hubieran quedado con nosotros, no habrían muerto o no les habrían matado»! ¡Haga Alá que les pese esto en sus corazones! Alá da la vida y dala muerte. Alá ve bien lo que hacéis.}.La Familia de Imran 156</string>
+    <string name="esm60606060">{Suyo es el dominio de los cielos y de la tierra. Él da la vida y da la muerte. Y es omnipotente.}.El Hierro 2,{¡Y mira las huellas de la misericordia de Alá, cómo vivifica la tierra después de muerta! Tal es, en verdad, el Vivificador de los muertos. Es omnipotente.}.Los Bizantinos 50</string>
+    <string name="esm6262">Al-Ḥayy/El Siempre Vivo</string>
+    <string name="esm6363">Al-Qayyūm/El Autónomo</string>
+    <string name="esm626262">{¡Alá! No hay más dios que El. el Viviente, el Subsistente. Ni la somnolencia ni el sueño se apoderan de Él. Suyo es lo que está en los cielos y en la tierra. ¿Quién podrá interceder ante Él si no es con Su permiso? Conoce su pasado y su futuro, mientras que ellos no abarcan nada de Su ciencia, excepto lo que Él quiere. Su Trono se extiende sobre los cielos y sobre la tierra y su conservación no le resulta onerosa. Él es el Altísimo, el Grandioso.}.La Vaca 255,{¡Alá! No hay más dios que Él, el Viviente, el Subsistente.}.La Familia de Imran 2,{Los rostros se humillarán ante el Viviente, el Subsistente. Quien se haya cargado de impiedad, sufrirá una decepción}.Ta-Ha 111</string>
+    <string name="esm636363">{¡Alá! No hay más dios que El. el Viviente, el Subsistente. Ni la somnolencia ni el sueño se apoderan de Él. Suyo es lo que está en los cielos y en la tierra. ¿Quién podrá interceder ante Él si no es con Su permiso? Conoce su pasado y su futuro, mientras que ellos no abarcan nada de Su ciencia, excepto lo que Él quiere. Su Trono se extiende sobre los cielos y sobre la tierra y su conservación no le resulta onerosa. Él es el Altísimo, el Grandioso.}.La Vaca 255,{¡Alá! No hay más dios que Él, el Viviente, el Subsistente.}.La Familia de Imran 2</string>
+    <string name="esm63636363">{Los rostros se humillarán ante el Viviente, el Subsistente. Quien se haya cargado de impiedad, sufrirá una decepción}.Ta-Ha 111</string>
+    <string name="esm62626262">{Y ¡confía en el Viviente, Que no muere! ¡Celebra Sus alabanzas! El está suficientemente informado de los pecados de Sus siervos.}.El Criterio 58,{Él es el Vivo. No hay más dios que É. ¡Invocadle rindiéndole culto sincero! ¡Alabado sea Alá, Señor del universo!}.El Remisorio 65</string>
+    <string name="esm6464">Al-Wājid</string>
+    <string name="esm646464">El Constante</string>
+    <string name="esm64464646">{Y: «¡Toma en tu mano un puñado de hierba, golpea con él y no cometas perjurio!» Le encontramos paciente. ¡Qué siervo tan agradable! Su arrepentimiento era sincero.}.Sad 44</string>
+    <string name="esm6565">Al-Mājid/El Ilustre</string>
+    <string name="esm656565">{el Señor del Trono, el Glorioso}.Las Constelaciones 15</string>
+    <string name="esm65656565">{«¿Te asombras de la orden de Alá?» dijeron. «¡Que la misericordia de Alá y Sus bendiciones sean sobre vosotros, gente de la casa! ¡Es digno de ser alabado, glorificado!»}.Hud 73</string>
+    <string name="esm6666">Al-Wāḥid/El Único</string>
+    <string name="esm666666">{Di: «¿Quién es el Señor de los cielos y de la tierra?» Di: «¡Alá!» Di: «¿Y tomaréis, en lugar de tomarle a Él, a amigos que no disponen para sí mismos de lo que puede aprovechar o dañar?» Di: «¿Son iguales el ciego y el vidente? ¿Son iguales las tinieblas y la luz? ¿Han dado a Alá asociados que hayan creado algo como lo que Él ha creado, al punto de llegar a confundir lo creado?» Di: «Alá es el Creador de todo. Él es el Uno, el Invicto».}.El Trueno 16,{el día que la tierra sea sustituida por otra tierra y los cielos por otros cielos, que comparezcan ante Alá, el Uno, el Invicto.}.Abraham 48</string>
+    <string name="esm66666666">{Di: «Yo no soy más que uno que advierte. No hay ningún otro dios que Alá, el Uno, el Invicto»}.Sad 65,{Si Alá hubiera deseado adoptar un hijo, habría elegido entre lo que ha creado lo que hubiera querido. ¡Gloria a Él! Es Alá, el Uno, el Invicto.}.Los Tropeles 4</string>
+    <string name="esm6868">Aṣ-Ṣamad</string>
+    <string name="esm686868">El Absoluto</string>
+    <string name="esm68686868">{Dios, el Eterno.}.El Monoteísmo 2</string>
+    <string name="esm6969">Al-Qādir/El Determinador</string>
+    <string name="esm696969">{Di: «Él es el Capaz de enviaros un castigo de arriba o de abajo, o de desconcertaros con partidos diferentes y haceros gustar vuestra mutua violencia». ¡Mira cómo exponemos las aleyas! Quizás, así comprendan mejor».}.Los Ganados 65,{¿No han visto que Alá, Que ha creado los cielos y la tierra sin cansarse por ello, es capaz de devolver la vida a los muertos? Pues sí, es omnipotente.}.Las Dunas 33</string>
+    <string name="esm69696969">{Ese tal ¿no será capaz de devolver la vida a los muertos?}.La Resurrección 40</string>
+    <string name="esm7070">Al-Muqtadir/El que dispone todos los asuntos</string>
+    <string name="esm707070">{Propónles la parábola de la vida de acá. Es como agua que hacemos bajar del cielo y se empapa de ella la vegetación de la tierra, pero se convierte en hierba seca, que los vientos dispersan. Alá es potísimo en todo}.La Caverna 45,{Desmintieron todos Nuestros signos y les sorprendimos como sorprende Uno poderoso, potísimo.}.La Luna 42</string>
+    <string name="esm70707070">{Di: «Él es el Capaz de enviaros un castigo de arriba o de abajo, o de desconcertaros con partidos diferentes y haceros gustar vuestra mutua violencia». ¡Mira cómo exponemos las aleyas! Quizás, así comprendan mejor».}.Los Ganados 65</string>
+    <string name="esm7171">Al-Muqaddim</string>
+    <string name="esm717171">El Auspiciador</string>
+    <string name="esm71717171">{Si Alá tuviera en cuenta la impiedad humana, no dejaría ningún ser vivo sobre ella. Pero los retrasa por un plazo determinado y, cuando vence su plazo, no pueden retrasarlo ni adelantarlo una hora.}.Las Abejas 61</string>
+    <string name="esm7272">Al-Muʾakhkhir</string>
+    <string name="esm727272">El que pospone</string>
+    <string name="esm72727272">{«Así, os perdonará vuestros pecados y os remitirá a un plazo fijo. Pero, cuando venza el plazo fijado por Alá, no podrá ya ser retardado. Si supierais…»}.Noé 4</string>
+    <string name="esm7373">Al-ʾAwwal</string>
+    <string name="esm737373">El Primero</string>
+    <string name="esm73737373">{Él es el Principio y el Fin, el Visible y el Escondido. Y es omnisciente.}.El Hierro 3</string>
+    <string name="esm7474">Al-ʾAkhir</string>
+    <string name="esm747474">El Último</string>
+    <string name="esm74747474">{Él es el Principio y el Fin, el Visible y el Escondido. Y es omnisciente.}.El Hierro 3</string>
+    <string name="esm7575">Aẓ-Ẓāhir</string>
+    <string name="esm757575">El Manifiesto</string>
+    <string name="esm75757575">{Él es el Principio y el Fin, el Visible y el Escondido. Y es omnisciente.}.El Hierro 3</string>
+    <string name="esm7676">Al-Bāṭin</string>
+    <string name="esm767676">El Oculto</string>
+    <string name="esm76767676">{Él es el Principio y el Fin, el Visible y el Escondido. Y es omnisciente.}.El Hierro 3</string>
+    <string name="esm7777">Al-Wālī</string>
+    <string name="esm777777">El Amo</string>
+    <string name="esm77777777">{Tiene, por delante y por detrás, pegados a él, que le custodian por orden de Alá. Alá no cambiará la condición de un pueblo mientras éste no cambie lo que en sí tiene. Pero, si Alá quiere mal a un pueblo, no hay manera de evitarlo: fuera de Él, no tienen amigo.}.El Trueno 11</string>
+    <string name="esm7878">Al-Mutaʿāl</string>
+    <string name="esm787878">El Sublime</string>
+    <string name="esm78787878">{El Conocedor de lo oculto y de lo patente, el Grande, el Sublime.}.El Trueno 9</string>
+    <string name="esm7979">Al-Barr</string>
+    <string name="esm797979">El Bondadoso</string>
+    <string name="esm79797979">{«Ya Le invocábamos antes. Es el Bueno, el Misericordioso»}.El Monte 28</string>
+    <string name="esm8080">At-Tawwāb/El que se vuelve hacia quien lo busca</string>
+    <string name="esm808080">{¡Y haz, Señor, que nos sometamos a Ti, haz de nuestra descendencia una comunidad sumisa a Ti, muéstranos nuestros ritos y vuélvete a nosotros! ¡Tú eres, ciertamente, el Indulgente, el Misericordioso!}.La Vaca 128,{No hemos mandado a ningún Enviado sino para, con permiso de Alá, ser obedecido. Si, cuando fueron injustos consigo mismos, hubieran venido a ti y pedido el perdón de Alá, y si el Enviado hubiera también pedido el perdón por ellos, habrían encontrado a Alá indulgente, misericordioso.}.Las Mujeres 64</string>
+    <string name="esm80808080">{¡Creyentes! ¡Evitad conjeturar demasiado! Algunas conjeturas son pecado. ¡No espiéis! ¡No calumniéis! ¿Os gustaría comer la carne de un hermano muerto? Os causaría horror… ¡Temed a Alá! Alá es indulgente, misericordioso.}.Los aposentos 12,{entonces, ¡celebra las alabanzas de tu Señor y pide Su perdón! Es indulgente.}.El Socorro 3</string>
+    <string name="esm8181">Al-Muntaqim/El Vengador</string>
+    <string name="esm818181">{¿Hay alguien que sea más impío que quien, habiéndosele recordado los signos de su Señor, se desvía luego de ellos? Nos vengaremos de los pecadores.}.La Prosternación 22,{O te hacemos morir y, luego, Nos vengamos de ellos}.Los Ornamentos de Oro 41</string>
+    <string name="esm81818181">{El día que hagamos uso del máximo rigor, Nos vengaremos.}.El Humo 16</string>
+    <string name="esm8282">Al-ʿAfū/El que perdona los pecados del que se arrepiente</string>
+    <string name="esm828282">{¡Creyentes! No os acerquéis ebrios a la azalá. Esperad a que estéis en condiciones de saber lo que decís. No vayáis impuros -a no ser que estéis de viaje- hasta que os hayáis lavado. Y si estáis enfermos o de viaje, si viene uno de vosotros de hacer sus necesidades, o habéis tenido contacto con mujeres y no encontráis agua, recurrid a arena limpia y pasadla por el rostro y por las manos. Alá es perdonador, indulgente.}.Las Mujeres 43,{A éstos puede que Alá les perdone. Alá es perdonador, indulgente.}.Las Mujeres 99,{Que divulguéis un bien o lo ocultéis, que perdonéis un agravio… Alá es perdonador, poderoso.}.Las Mujeres 149</string>
+    <string name="esm82828282">{Así es. Y si uno se desagravia en la medida del agravio recibido y es de nuevo tratado injustamente, Alá no dejará de auxiliarle. Alá, en verdad. perdona mucho, es indulgente.}.La Peregrinación 60,{Aquéllos de vosotros que repudian a sus mujeres mediante la fórmula: «¡Eres para mí como la espalda de mi madre!»… Ellas no son sus madres. Sólo son sus madres las que les han dado a luz. Dicen, ciertamente, algo reprobable y erróneo. Pero Alá es, sí, perdonador, indulgente.}.La Discusión 2</string>
+    <string name="esm8383">Ar-Raʾūf/El Clemente</string>
+    <string name="esm838383">{Alá se ha vuelto al Profeta, a los emigrados y a los auxiliares, que le siguieron en una hora de apuro, luego de haberse casi desviado los corazones de algunos de ellos. Se ha vuelto, depués, a ellos. Alá es con ellos manso, misericordioso.}.El Arrepentimiento 117,{Él es Quien revela a Su siervo signos claros para sacaros de las tinieblas a la luz. En verdad, Alá es manso, misericordioso con vosotros.}.El Hierro 9</string>
+    <string name="esm83838383">{Quienes vinieron después de ellos, dicen: «¡Señor! ¡Perdónanos, a nosotros y a nuestros hermanos que nos han precedido en la fe! ¡Haz que no abriguen nuestros corazones rencor a los que creen! ¡Señor! Tú eres manso, misericordioso».}.El Destierro 10</string>
+    <string name="esm8484">Mālik-ul-Mulk</string>
+    <string name="esm848484">El Soberano Supremo</string>
+    <string name="esm84848484">{Di: «¡Oh, Alá, Dueño del dominio! Tú das el dominio a quien quieres y se lo retiras a quien quieres, exaltas a quien quieres y humillas a quien quieres. En Tu mano está el bien. Eres omnipotente.}.La Familia de Imran 26</string>
+    <string name="esm8585">Dhū-l-Jalāli wa-l-ʾikrām/El poseedor de la majestuosidad y la generosidad</string>
+    <string name="esm858585">{Pero subsiste tu Señor, el Majestuoso y Honorable}.El Clemente 27</string>
+    <string name="esm85858585">{¡Bendito sea el nombre de tu Señor, el Majestuoso y Honorable!}.El Clemente 78</string>
+    <string name="esm8686">Al-Muqsiṭ</string>
+    <string name="esm868686">El Equitativo</string>
+    <string name="esm86868686">{Alá atestigua, y con Él los ángeles y los hombres dotados de ciencia, que no hay más dios que Él, Que vela por la equidad. No hay más dios que Él, el Poderoso, el Sabio.}.La Familia de Imran 18</string>
+    <string name="esm8787">Al-Jāmiʿ</string>
+    <string name="esm878787">El Reunidor</string>
+    <string name="esm87878787">{¡Señor! Tú eres quien va a reunir a los hombres para un día indubitable. Alá no falta a Su promesa.}.La Familia de Imran 9</string>
+    <string name="esm8888">Al-Ghanī/El Opulento</string>
+    <string name="esm888888">{Si sois ingratos,… Alá puede prescindir de vosotros. No acepta la ingratitud de Sus siervos. En cambio, si sois agradecidos, os lo aceptará complacido. Nadie cargará con la carga ajena. Al final, volveréis a vuestro Señor y ya os informará Él de lo que hacíais. Él sabe bien lo que los pechos encierran.}.Los Tropeles 7,{He aquí que sois vosotros los invitados a gastar por la causa de Alá, pero hay entre vosotros algunos avaros. Y quien es avaro lo es, en realidad, en detrimento propio. Alá es Quien Se basta a Sí mismo, mientras que sois vosotros los necesitados. Y, si volvéis la espalda, hará que otro pueblo os sustituya, que no será como vosotros.}.Muhammad 38</string>
+    <string name="esm88888888">{a los avaros que ordenan avaricia a los hombres. Pero quien vuelve la espalda…, Alá es Quien Se basta a Sí mismo, el Digno de Alabanza}.El Hierro 24</string>
+    <string name="esm8989">Al-Mughnī</string>
+    <string name="esm898989">El Suficiente</string>
+    <string name="esm89898989">{¡Creyentes! Los asociadores son mera impureza. ¡Que no se acerquen, pues, a la Mezquita Sagrada después de este su año! Si teméis escasez, Alá os enriquecerá por favor Suyo, si quiere. Alá es omnisciente, sabio.}.El Arrepentimiento 28</string>
+    <string name="esm9090">Al-Māniʿ</string>
+    <string name="esm909090">El que priva</string>
+    <string name="esm90909090">The Preventer, The Withholder, The Shielder, The Defender</string>
+    <string name="esm9191">Aḍ-Ḍārr</string>
+    <string name="esm919191">El Creador de lo que hace daño</string>
+    <string name="esm91919191">{Si Alá te aflige con una desgracia, nadie más que Él podrá retirarla. Si te favorece con un bien… Él es omnipotente.}.Los Ganados 17</string>
+    <string name="esm9292">An-Nāfiʿ</string>
+    <string name="esm92929292">El Creador de lo bueno</string>
+    <string name="esm929292">{¿Es que no ven que Alá dispensa el sustento a quienes Él quiere: a unos con largueza, a otros con mesura? Ciertamente, hay en ello signos para gente que cree.}.Los Bizantinos 37</string>
+    <string name="esm9393">An-Nūr</string>
+    <string name="esm93939393">La Luz</string>
+    <string name="esm939393">{Alá es la Luz de los cielos y de la tierra. Su Luz es comparable a una hornacina en la que hay un pabilo encendido. El pabilo está en un recipiente de vidrio, que es como si fuera una estrella fulgurante. Se enciende de un árbol bendito, un olivo, que no es del Oriente ni del Occidente, y cuyo aceite casi alumbra aun sin haber sido tocado por el fuego. ¡Luz sobre Luz! Alá dirige a Su Luz a quien Él quiere. Alá propone parábolas a los hombres. Alá es omnisciente.}.La Luz 35</string>
+    <string name="esm9494">Al-Hādī</string>
+    <string name="esm949494">El Creador de la guía</string>
+    <string name="esm94949494">{y para que sepan quienes han recibido la Ciencia que esto es la Verdad venida de tu Señor, para que crean en ella y se humille ante ella su corazón. En verdad, Alá dirige a los creyentes a una vía recta.}.La Peregrinación 54</string>
+    <string name="esm9595">Al-Badīʿ/El Iniciador</string>
+    <string name="esm959595">{Es el Creador de los cielos y de la tierra. Y cuando decide algo, le dice tan sólo: «¡Sé!» y es.}.La Vaca 117</string>
+    <string name="esm95959595">{Creador de los cielos y de la tierra. ¿Cómo iba a tener un hijo si no tiene compañera, si lo ha creado todo y lo sabe todo?}.Los Ganados 101</string>
+    <string name="esm9696">Al-Bāqī</string>
+    <string name="esm969696">El Eterno</string>
+    <string name="esm96969696">{Pero subsiste tu Señor, el Majestuoso y Honorable}.El Clemente 27</string>
+    <string name="esm9797">Al-Wārith/El Heredero</string>
+    <string name="esm979797">{ Somos Nosotros, sí, Quienes damos la vida y la muerte, Nosotros los Herederos.}.Al-Hiyr 23</string>
+    <string name="esm97979797">{Y ¿por qué no habéis de gastar por la causa de Alá, siendo así que la herencia de los cielos y de la tierra pertenece a Alá? No seréis todos iguales: unos, que han gastado y combatido antes del Éxito, tendrán una categoría más elevada que otros que han gastado y combatido después de ella. A todos, sin embargo, ha prometido Alá lo mejor. Alá está bien informado de lo que hacéis.}.El Hierro 10</string>
+    <string name="esm9898">Ar-Rashīd</string>
+    <string name="esm989898">El Maestro Infalible</string>
+    <string name="esm98989898">The Guide to the Right Path</string>
+    <string name="esm9999">Aṣ-Ṣabūr/El Paciente</string>
+    <string name="esm999999">{¡Vosotros, los que creéis, buscad ayuda en la paciencia y en la azalá! Alá está con los pacientes.}.La Vaca 153,{¡Creyentes! ¡Tened paciencia, rivalizad en ella! ¡Sed firmes! ¡Temed a Alá! Quizás así, prosperéis.}.La Familia de Imran 200</string>
+    <string name="esm99999999">{Excepto quienes crean, obren bien, se recomienden mutuamente la verdad y se recomienden mutuamente la paciencia.}.El Transcurso del Tiempo 3</string>
+    <string name="bybyback">Atrás</string>
+    <string name="stop">Parar</string>
+    <string name="play">Ejecutar solo en árabe</string>
+    <string name="z8384">Versos 83 y 84.</string>
+    <string name="z2829">Versos 28 y 29.</string>
+    <string name="z117118">Versos 117 y 118.</string>
+    <string name="z1617">Versos 16 y 17.</string>
+    <string name="z8889">Versos 88 y 89.</string>
+    <string name="z8788">Versos 87 y 88.</string>
+    <string name="z8990">Versos 89 y 90.</string>
+    <string name="z1516">Versos 15 y 16.</string>
+    <string name="z8586">Versos 85 y 86.</string>
+    <string name="z285286">Versos 285 y 286.</string>
+    <string name="z2627">Versos 26 y 27.</string>
+    <string name="z173174">Versos 173 y 174.</string>
+    <string name="z9394">Versos 93 y 94.</string>
+    <string name="z9798">Versos 97 y 98.</string>
+    <string name="z110111">Versos 110 y 111.</string>
+    <string name="z128129">Versos 128 y 129.</string>
+    <string name="z2628">Versos del 26 al 28.</string>
+    <string name="z3541">Versos del 35 al 41.</string>
+    <string name="z8389">Versos del 83 al 89.</string>
+    <string name="z4_6">Versos del 4 al 6.</string>
+    <string name="z127129">Versos del 127 al 129.</string>
+    <string name="z155157">Versos del 155 al 157.</string>
+    <string name="z2536">Versos del 35 al 37.</string>
+    <string name="z4_7">Versos del 4 al 7.</string>
+    <string name="z3537">Versos del 35 al 37.</string>
+    <string name="z7_9">Versos del 7 al 9.</string>
+    <string name="z200202">Versos del 200 al 202.</string>
+    <string name="z191194">Versos del 191 al 194.</string>
+    <string name="z6366">Versos del 63 al 66.</string>
+    <string name="z1_7">Versos del 1 al 7.</string>
+    <string name="z1_4">Versos del 1 al 4.</string>
+    <string name="z1_5">Versos del 1 al 5.</string>
+    <string name="z1_6">Versos del 1 al 6.</string>
+    <string name="z8082">Versos del 80 al 82.</string>
+    <string name="send">Comparte la aplicación</string>
+    <string name="surah7">El Muro Divisorio</string>
+    <string name="surah12">José</string>
+    <string name="surah21">Surah Los Profetas</string>
+    <string name="sourah38">Sad</string>
+    <string name="sourah11">Hud</string>
+    <string name="sourah23">Los Creyentes</string>
+    <string name="sourah26">Los Poetas</string>
+    <string name="sourah71">Noé</string>
+    <string name="sourah2">La Vaca</string>
+    <string name="sourah37">Los Ordenados en Filas</string>
+    <string name="sourah14">Abraham</string>
+    <string name="sourah60">La Examinada</string>
+    <string name="sourah28">El Relato</string>
+    <string name="sourah20">Ta-Ha</string>
+    <string name="sourah10">Jonás</string>
+    <string name="sourah27">Las Hormigas</string>
+    <string name="sourah5">La Mesa Servida</string>
+    <string name="sourah29">La Araña</string>
+    <string name="sourah19">María</string>
+    <string name="sourah3">La Familia de Imran</string>
+    <string name="sourah46">Las Dunas</string>
+    <string name="sourah59">El Destierro</string>
+    <string name="sourah40">El Remisorio</string>
+    <string name="sourah18">La Caverna</string>
+    <string name="sourah66">La Prohibición</string>
+    <string name="sourah4">Las Mujeres</string>
+    <string name="sourah25">El Criterio</string>
+    <string name="sourah1">La Apertura</string>
+    <string name="sourah112">El Monoteísmo</string>
+    <string name="sourah113">La Alborada</string>
+    <string name="sourah114">Los Hombres</string>
+    <string name="sourah17">El Viaje Nocturno</string>
+    <string name="sourah9">El Arrepentimiento</string>
+    <string name="turnlang">Cambiar el idioma</string>
+    <string name="sharetwitter">Compartir enlace de la aplicación(Twitter)</string>
+    <string name="sharefacebook">Compartir enlace de la aplicación(Facebook)</string>
+    <string name="sharegmail">Compartir enlace de la aplicación(Gmail)</string>
+    <string name="sharewhatapp">Compartir enlace de la aplicación(What\'s App)</string>
+    <string name="shareinstagram">Compartir enlace de la aplicación(Instagram)</string>
+    <string name="sharetumblr">Compartir enlace de la aplicación(Tumblr)</string>
+    <string name="shareviber">Compartir enlace de la aplicación(Viber)</string>
+    <string name="sharelinkedin">Compartir enlace de la aplicación(Linkedin)</string>
+    <string name="sharesnapchat">Compartir enlace de la aplicación(Snapchat)</string>
+    <string name="shareskype">Compartir enlace de la aplicación(Skype)</string>
+    <string name="sharetelegram">Compartir enlace de la aplicación(Telegram)</string>
+    <string name="sharereddit">Compartir enlace de la aplicación(Reddit)</string>
+    <string name="dialog_title">Nueva versión disponible</string>
+    <string name="dialog_message">Una nueva versión de la aplicación está disponible, haga clic a continuación para actualizar la última versión.</string>
+    <string name="dialog_positive_button_title">Actualizar</string>
+    <string name="all_records_deleted">Todas las grabaciones se han eliminado con éxito</string>
+    <string name="app_settings">Configuración de audio:</string>
+    <string name="available_space">Espacio disponible: %s</string>
+    <string name="bookmarks">señales de referencia</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_no">No</string>
+    <string name="btn_play">Encender</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_yes">Si</string>
+    <string name="delete_all">Borrar todas las grabaciones</string>
+    <string name="delete_all_records">¿Eliminar todas las grabaciones y no será recuperable?</string>
+    <string name="delete_record">Eliminar esta registro %s?</string>
+    <string name="error_cant_create_file">No se puede crear el archivo</string>
+    <string name="error_failed_to_init_player">Error al iniciar</string>
+    <string name="error_failed_to_init_recorder">Error al iniciar la grabación</string>
+    <string name="error_failed_to_rename">Error al cambiar el nombre del registro!</string>
+    <string name="error_file_exists">Este nombre de archivo ya existe!</string>
+    <string name="error_invalid_output_file">El archivo de salida no es válido</string>
+    <string name="error_permission_denied">Solicitud de permiso denegado</string>
+    <string name="error_player_data_source">El operador no puede leer el archivo</string>
+    <string name="error_unable_to_read_sound_file">No se puede leer el archivo de audio</string>
+    <string name="error_unknown">Error desconocido</string>
+    <string name="failed_to_delete_all_records">Error al eliminar todos los registros</string>
+    <string name="fetchs">Conexion a internet</string>
+    <string name="hold_button_to_record">Empezar a grabar</string>
+    <string name="hold_button_to_record2">Durante la grabación, por favor continúe el toque</string>
+    <string name="import_progress">Importar archivo de audio …</string>
+    <string name="keep_screen_on">No apague la pantalla durante la grabación</string>
+    <string name="no_bookmarks">Los marcadores están vacíos.</string>
+    <string name="no_records">grabaciones vacías.</string>
+    <string name="other_settings">Otras:</string>
+    <string name="playback">Run: %s</string>
+    <string name="please_select_record_to_share">Por favor seleccione o registre un archivo de audio para compartir</string>
+    <string name="record_in_stereo">Sonido estereo</string>
+    <string name="record_name">Nuevo nombre</string>
+    <string name="record_processing">Procesando archivo …</string>
+    <string name="recording">Registro: %s</string>
+    <string name="recording_is_on">Grabación en modo reproducción</string>
+    <string name="recording_progress">grabación&#8230;</string>
+    <string name="recording_paused">pausa</string>
+    <string name="recording_settings">Configuraciones de registro:</string>
+    <string name="records">Grabaciones</string>
+    <string name="recordtoast">El tiempo registrado es:</string>
+    <string name="settingss">Ajustes</string>
+    <string name="share_record">Compartir Registro: %s</string>
+    <string name="store_records_public">Almacenar grabaciones en la carpeta pública.</string>
+    <string name="today">Hoy</string>
+    <string name="total_duration">Período total registrado: %s</string>
+    <string name="total_record_count">Número total de registros: %d</string>
+    <string name="warning">¡Atención!</string>
+    <string name="yesterday">Ayer</string>
+    <string name="private_dir_warning">Los registros se almacenarán en el directorio privado de la aplicación que no es visible para otras aplicaciones</string>
+    <string name="public_dir_warning">Los registros se almacenarán en el directorio común de su dispositivo, que es visible para otras aplicaciones</string>
+    <string name="error_on_recording">¡Error de grabación!</string>
+
+    <string-array name="theme_colors">
+        <item>Tema no seleccionado</item>
+        <item>Tema Negro</item>
+        <item>Tema Teal</item>
+        <item>Tema Azul</item>
+        <item>Tema Morado Oscuro</item>
+        <item>Tema Rosada</item>
+        <item>Tema Naranja Profundo</item>
+        <item>Tema Roja</item>
+        <item>Tema Marrón</item>
+        <item>Tema azul gris</item>
+    </string-array>
+
+    <string-array name="formats">
+        <item>Formato: MP3</item>
+        <item>Formato: Wav</item>
+    </string-array>
+
+    <string-array name="sample_rates">
+        <item>Frecuencia de muestreo: 8000</item>
+        <item>Frecuencia de muestreo: 16000</item>
+        <item>Frecuencia de muestreo: 32000</item>
+        <item>Frecuencia de muestreo: 44100</item>
+        <item>Frecuencia de muestreo: 48000</item>
+    </string-array>
+
+    <string-array name="bit_rates">
+        <item>Bitrate: 24kbps</item>
+        <item>Bitrate: 48kbps</item>
+        <item>Bitrate: 96kbps</item>
+        <item>Bitrate: 128kbps</item>
+        <item>Bitrate: 192kbps</item>
+    </string-array>
+    <string name="wifion">Wi-Fi</string>
+
+    <string name="aya33_1" >Él es Quien ha mandado a Su Enviado con la Dirección y con la religión verdadera para que, a despecho de los asociadores, prevalezca sobre toda otra religión.{33}</string>
+    <string name="aya114_2" >«¿Buscaré, pues, a otro diferente de Alá como juez, siendo Él Quien os ha revelado la Escritura explicada detalladamente?» Aquéllos a quienes Nosotros hemos dado la Escritura saben bien que ha sido revelada por tu Señor con la Verdad. ¡No seáis, pues, de los que dudan!{114}</string>
+    <string name="aya41_3" >¿No ves que glorifican a Alá quienes están en los cielos y en la tierra, y las aves con las alas desplegadas? Cada uno sabe cómo orar y cómo glorificarle. Alá sabe bien lo que hacen.{41}El dominio de los cielos y de la tierra pertenece a Alá. ¡Es Alá el fin de todo!{42}¿No ves que Alá empuja las nubes y las agrupa y, luego, forma nubarrones? Ves, entonces, que el chaparrón sale de ellos. Hace bajar del cielo montañas de granizo y hiere o no con él según que quiera o no quiera. El resplandor del relámpago que acompaña deja casi sin vista.{43}Alá hace que se sucedan la noche y el día. Sí, hay en ello motivo de reflexión para los que tienen ojos.{44}Alá ha creado a todos los animales de agua: de ellos unos se arrastran, otros caminan a dos patas, otros a cuatro. Alá crea lo que quiere. Alá es omnipotente.{45}Hemos revelado aleyas aclaratorias. Alá dirige a quien Él quiere a una vía recta.{46}</string>
+    <string name="aya28_4" >¿Cómo podéis no creer en Alá, siendo así que os dio la vida cuando aún no existíais, que os hará morir y os volverá a la vida, después de lo cual seréis devueltos a Él?{28}Él es Quien creó para vosotros cuanto hay en la tierra. Y subió al cielo e hizo de él siete cielos. Es omnisciente.{29}</string>
+    <string name="aya163_5" >Vuestro Dios es un Dios Uno. No hay más dios que Él, el Compasivo, el Misericordioso.{163}En la creación de los cielos y de la tierra, en la sucesión de la noche y el día, en las naves que surcan el mar con lo que aprovecha a los hombres, en el agua que Alá hace bajar del cielo, vivificando con ella la tierra después de muerta, diseminando por ella toda clase de bestias, en la variación de los vientos, en las nubes, sujetas entre el cielo y la tierra, hay, ciertamente, signos para gente que razona.{164}</string>
+    <string name="aya71_6" >Di: «¿Invocaremos, en lugar de invocar a Alá, lo que no puede aprovecharnos ni dañarnos?
+        ¿Volveremos sobre nuestros pasos después de habernos dirigido Alá?» Como aquél a quien los demonios han seducido
+        y va desorientado por la tierra… Sus compañeros le llaman, invitándole a la Dirección: «¡Ven a nosotros!» Di:
+        «La dirección de Alá es la Dirección. Hemos recibido la orden de someternos al Señor del universo.{71}¡Haced la
+        azalá! ¡Temedle! Es Él hacia Quien seréis congregados».{72}Es Él Quien ha creado con un fin los cielos y la
+        tierra. El día que dice: «¡Sé!», es. Su palabra es la Verdad. Suyo será el dominio el día que se toque la
+        trompeta. El Conocedor de lo oculto y de lo patente. Él es el Sabio, el Bien Informado.{73}</string>
+    <string name="aya95_7" >Alá hace que germinen el grano y el hueso del dátil, saca al vivo del muerto y al muerto del vivo. ¡Ése es Alá! ¡Cómo podéis, pues, ser tan desviados!{95}Quien hace que el alba apunte, Quien hizo de la noche descanso y del sol y de la luna cómputo. Esto es lo que ha decretado el Poderoso, el Omnisciente.{96}Y Él es Quien ha hecho, para vosotros, las estrellas, con objeto de que podáis dirigiros por ellas entre las tinieblas de la tierra y del mar. Hemos expuesto así los signos a gente que sabe.{97}Y Él es Quien os ha creado de una sola persona. Receptáculo y depósito. Hemos expuesto así los signos a gente que entiende.{98}Y Él es Quien ha hecho bajar agua del cielo. Mediante ella hemos sacado toda clase de plantas y follaje, del que sacamos granos arracimados. Y de las vainas de la palmera, racimos de dátiles al alcance. Y huertos plantados de vides, y los olivos y los granados, parecidos y diferentes. Cuando fructifican, ¡mirad el fruto que dan y cómo madura! Ciertamente, hay en ello signos para gente que cree.{99}Han hecho de los genios asociados de Alá, siendo así que Él es Quien los ha creado. Y Le han atribuido, sin conocimiento, hijos e hijas. ¡Gloria a Él! ¡Está por encima de lo que Le atribuyen!{100}Creador de los cielos y de la tierra. ¿Cómo iba a tener un hijo si no tiene compañera, si lo ha creado todo y lo sabe todo?{101}</string>
+    <string name="aya1_8" >\'lr. Éstas son las aleyas de la Escritura sabia.{1}¿Se sorprenden los hombres de que hayamos revelado a uno de ellos: «Advierte a los hombres y anuncia a los creyentes la buena nueva de que, cuando se presenten a su Señor, tendrán una buena posición»? Los infieles dicen: «Éste es, sí, un mago manifiesto».{2}Vuestro Señor es Alá, Que ha creado los cielos y la tierra en seis días. Luego, se ha instalado en el trono para disponerlo todo. Nadie puede interceder sin Su permiso. ¡Ése es Alá, vuestro Señor! ¡Servidle, pues! ¿Es que no os dejaréis amonestar?{3}Todos volveréis a Él. ¡Promesa de Alá, verdad! Él inicia la creación y luego la repite, para remunerar con equidad a quienes han creído y obrado bien. En cuanto a quienes hayan sido infieles, se les dará a beber agua muy caliente y sufrirán un castigo doloroso por no haber creído.{4}Él es Quien ha hecho del sol claridad y de la luna luz, Quien ha determinado las fases de ésta para que sepáis el número de años y el cómputo. Alá no ha creado esto sino con un fin. Él explica los signos a gente que sabe.{5}En la sucesión de la noche y el día y en todo lo que Alá ha creado en los cielos y en la tierra hay, ciertamente, signos para gente que Le teme.{6}</string>
+    <string name="aya6_9" >No hay bestia sobre la tierra a cuyo sustento no provea Alá, Que conoce su madriguera y su depósito: todo está en una Escritura clara.{6}Él es Quien ha creado los cielos y la tierra en seis días, teniendo Su Trono en el agua, para probaros, para ver quién de vosotros es el que mejor se comporta. Si dices: «Seréis resucitados después de muertos», seguro que los infieles dicen: «Esto no es más que manifiesta magia».{7}</string>
+    <string name="aya12_10" >Él es quien os hace ver el relámpago, motivo de temor y de anhelo, Él quien forma los nubarrones.{12}Por temor a Él, el trueno celebra Sus alabanzas, y los ángeles también. Él envía los rayos y hiere con ellos a quien Él quiere, mientras discuten sobre Alá, pues es fuerte en poderío.{13}</string>
+    <string name="aya10_11" >Él es Quien ha hecho bajar para vosotros agua del cielo. De ella bebéis y de ella viven las matas con que apacentáis.{10}Gracias a ella, hace crecer para vosotros los cereales, los olivos, las palmeras, las vides y toda clase de frutos. Ciertamente, hay en ello un signo para gente que reflexiona.{11}Y ha sujetado a vuestro servicio la noche y el día, el sol y la luna. Las estrellas están sujetas por Su orden. Ciertamente, hay en ello signos para gente que razona.{12}Las criaturas que Él ha puesto en la tierra para vosotros son de clases diversas. Ciertamente, hay en ello un signo para gente que se deja amonesta{13}Él es Quien ha sujetado el mar para que comáis de él carne fresca y obtengáis de él adornos que poneros. Y ves que las naves lo surcan. Para que busquéis Su favor. Quizás, así, seáis agradecidos.{14}Y ha fijado en la tierra las montañas para que ella y vosotros no vaciléis, ríos, caminos -quizás, así, seáis bien dirigidos-{15}y mojones. Y se guían por los astros.{16}¿Acaso Quien crea es como quien no crea? ¿Es que no os dejaréis amonestar?{17}Si os pusierais a contar las gracias de Alá, no podríais enumerarlas. Alá es, en verdad, indulgente, misericordioso.{18}</string>
+    <string name="aya1_12" >Lo que está en los cielos y en la tierra glorifica a Alá. Él es el Poderoso, el Sabio.{1}Suyo es el dominio de los cielos y de la tierra. Él da la vida y da la muerte. Y es omnipotente.{2}Él es el Principio y el Fin, el Visible y el Escondido. Y es omnisciente.{3}Él es Quien creó los cielos y la tierra en seis días. Luego, se instaló en el Trono. Sabe lo que penetra en la tierra y lo que de ella sale, lo que desciende del cielo y lo que a él asciende. Está con vosotros dondequiera que os encontréis. Alá ve bien lo que hacéis.{4}Suyo es el dominio de los cielos y de la tierra. ¡Y todo será devuelto a Alá!{5}Hace que la noche entre en el día y que el día entre en la noche. Y Él sabe bien lo que encierran los pechos.{6}</string>
+    <string name="aya52_13" >Les trajimos una Escritura, que explicamos detalladamente, con pleno conocimiento, como dirección y misericordia para gente que cree.{52}¿Esperan otra cosa que su cumplimiento? El día que se cumpla, los que antes la olvidaron dirán: «Los enviados de nuestro Señor bien que trajeron la Verdad ¿Tenemos ahora intercesores que intercedan por nosotros o se nos podría devolver y obraríamos de modo diferente al que obramos?» Se han perdido a sí mismos y se han esfumado sus invenciones.{53}Vuestro Señor es Alá, Que ha creado los cielos y la tierra en seis días. Luego, se ha instalado en el Trono. Cubre el día con la noche, que le sigue rápidamente. Y el sol, la luna y las estrellas, sujetos por Su orden. ¿No son Suyas la creación y la orden? ¡Bendito sea Alá, Señor del universo!{54}¡Invocad a vuestro Señor humilde y secretamente! Él no ama a quienes violan la ley.{55}¡No corrompáis en la tierra después de reformada! ¡Invocadle con temor y anhelo! La misericordia de Alá está cerca de quienes hacen el bien.{56}Es Él quien envía los vientos como nuncios que preceden a Su misericordia. Cuando están cargados de nubes pesadas, las empujamos a un país muerto y hacemos que llueva en él y que salgan, gracias al agua, frutos de todas clases. Así haremos salir a los muertos. Quizás así, os dejéis amonestar.{57}La vegetación de un país bueno sale con la ayuda de su Señor, mientras que de un país malo sale pero escasa. Así explicamos los signos a gente que agradece.{58}</string>
+    <string name="aya1_14" >\'lmr. Ésas son las aleyas de la Escritura. Lo que se te ha revelado, de parte de tu Señor, es la verdad, pero la mayoría de los hombres no creen.{1}Alá es quien elevó los cielos sin pilares visibles. Luego, se instaló en el Trono y sujetó el sol y la luna, prosiguiendo los dos su curso hacia un término fijo. Él lo dispone todo. Explica detalladamente los signos. Quizás, así, estéis convencidos del encuentro de vuestro Señor.{2}Él es quien ha extendido la tierra y puesto en ella montañas firmes, ríos y una pareja en cada fruto. Cubre el día con la noche. Ciertamente, hay en ello signos para gente que reflexiona.{3}En la tierra hay parcelas de terreno colindantes, viñedos, cereales, palmeras de tronco simple o múltiple. Todo lo riega una misma agua, pero hacemos que unos frutos sean mejores que otros. Ciertamente, hay en ello signos para gente que razona.{4}</string>
+    <string name="aya32_15" >Alá es Quien ha creado los cielos y la tierra y ha hecho bajar agua del cielo, mediante la cual ha sacado frutos para sustentaros. Ha sujetado a vuestro servicio las naves para que, por Su orden, surquen el mar. Ha sujetado a vuestro servicio los ríos.{32}Ha sujetado a vuestro servicio el sol y la luna, que siguen su curso. Ha sujetado a vuestro servicio la noche y el día.{33}Os ha dado de todo lo que Le habéis pedido. Si os pusierais a contar las gracias de Alá, no podríais enumerarlas. El hombre es, ciertamente, muy impío, muy desagradecido.{34}</string>
+    <string name="aya9_16" >Alá es Quien envía los vientos y éstos levantan nubes, que Nosotros conducimos a un país
+        árido. Con ellas vivificamos la tierra después de muerta. Así será la Resurrección.{9}Quien quiera el poder… El
+        poder pertenece, en su totalidad, a Alá. Hacia Él se eleva la buena palabra y Él realza la obra buena. En
+        cambio, quienes tramen males tendrán un castigo severo, y la trama de ésos se malogrará.{10}Alá os ha creado de
+        tierra; luego, de una gota; luego, hizo de vosotros parejas. Ninguna hembra concibe o pare sin que Él lo sepa.
+        Nadie muere a edad avanzada o prematura que no esté eso en una Escritura. Es cosa fácil para Alá.{11}No son
+        iguales las dos grandes masas de agua: una potable, dulce, agradable de beber; otra salobre, amarga. Pero de
+        cada una coméis una carne fresca y obtenéis adornos que os ponéis. Y ves que las naves las surcan. Para que
+        busquéis Su favor. Quizás, así, seáis agradecidos.{12}Hace que la noche entre en el día y que el día entre en la
+        noche. Ha sujetado el sol y la luna, prosiguiendo los dos su curso hacia un término fijo. Ése es Alá, vuestro
+        Señor. Suyo es el dominio. Los que invocáis en lugar de invocarle a Él no pueden lo más mínimo.{13}Si les
+        invocáis, no oyen vuestra súplica y, aun si la oyeran, no os escucharían. El día de la Resurrección renegarán de
+        que les hayáis asociado a Alá. Y nadie te informará como Quien está bien informado.{14}</string>
+    <string name="aya1_17" >La revelación de la Escritura procede de Alá, el Poderoso, el Sabio.{1}Te hemos revelado la
+        Escritura con la verdad. ¡Sirve, pues, a Alá, rindiéndole culto sincero!{2}El culto puro ¿no se debe a Alá? Los
+        que han tomado amigos en lugar de tomarle a Él -«Sólo les servimos para que nos acerquen bien a Alá»-… Alá
+        decidirá entre ellos sobre aquello en que discrepaban. Alá no guía al que miente, al infiel pertinaz.{3}Si Alá
+        hubiera deseado adoptar un hijo, habría elegido entre lo que ha creado lo que hubiera querido. ¡Gloria a Él! Es
+        Alá, el Uno, el Invicto.{4}Ha creado con un fin los cielos y la tierra. Hace que la noche suceda al día y el día
+        a la noche. Ha sujetado el sol y la luna, prosiguiendo cada uno su curso hacia un término fijo. ¿No es Él el
+        Poderoso, el Indulgente?{5}Os ha creado de una sola persona, de la que ha sacado a su cónyuge. Os ha dado, de
+        los rebaños, cuatro parejas. Os ha creado en el seno de vuestras madres, creación tras creación, en triple
+        oscuridad. Tal es Alá, vuestro Señor. Suyo es el domino. No hay más dios que Él. ¡Cómo, podéis pues, ser tan
+        desviados!{6}Si sois ingratos,… Alá puede prescindir de vosotros. No acepta la ingratitud de Sus siervos. En
+        cambio, si sois agradecidos, os lo aceptará complacido. Nadie cargará con la carga ajena. Al final, volveréis a
+        vuestro Señor y ya os informará Él de lo que hacíais. Él sabe bien lo que los pechos encierran.{7}</string>
+    <string name="aya1_18" >hm.{1}La revelación de la Escritura procede de Alá, el Poderoso, el Sabio.{2}Hay, en verdad, en los cielos y en la tierra signos para los creyentes.{3}En vuestra creación y en las bestias que Él esparce hay signos para gente que está convencida.{4}También en la sucesión de la noche y el día, en lo que como sustento Alá hace bajar del cielo, vivificando con ello la tierra después de muerta, y en la variación de los vientos hay signos para gente que comprende.{5}Estas son las aleyas de Alá, que te recitamos conforme a la verdad. Y ¿en qué anuncio van a creer si no creen en Alá y en Sus signos?{6}¡Ay de todo aquél que sea mentiroso, pecador,{7}que, a pesar de oír las aleyas de Alá que se le recitan, se obstina en su altivez como si no las hubiera oído! ¡Anúnciale un castigo doloroso!{8}Los que, habiendo conocido algo de Nuestros signos, los hayan tomado a burla, tendrán un castigo humillante.{9}Les espera la gehena y sus posesiones no les servirán de nada, como tampoco los que tomaron como amigos en lugar de tomar a Alá. Tendrán un castigo terrible.{10}Esto es una dirección. Los que no crean en los signos de su Señor tendrán el castigo de un suplicio doloroso.{11}Alá es Quien ha sujetado el mar a vuestro servicio para que las naves lo surquen a una orden Suya para que busquéis Su favor. Y quizás, así, seáis agradecidos.{12}Y ha sujetado a vuestro servicio lo que está en los cielos y en la tierra. Todo procede de Él. Ciertamente, hay en ello signos para gente que reflexiona.{13}</string>
+    <string name="aya53_19" >Él es Quien ha hecho que las dos grandes masas de agua fluyan: una, dulce, agradable; otra, salobre, amarga. Ha colocado entre ellas una barrera y límite infranqueable.{53}Él es quien ha creado del agua un ser humano, haciendo de él el parentesco por consanguinidad o por afinidad. Tu Señor es omnipotente.{54}Pero, en lugar de servir a Alá, sirven lo que no puede aprovecharles ni dañarles. El infiel es un auxiliar contra su Señor.{55}</string>
+    <string name="aya39_20" >Él es Quien os ha hecho sucesores en la tierra. Quien no crea, sufrirá las consecuencias de su incredulidad. La incredulidad servirá sólo para hacer a los infieles más aborrecibles ante su Señor. La incredulidad servirá sólo para perder más a los infieles.{39}Di: «¿Veis a vuestros asociados, a los que invocáis en lugar de invocar a Alá? Mostradme qué han creado de la tierra o si tienen participación en los cielos. O ¿les hemos dado una Escritura, en cuya prueba clara puedan basarse?» ¡No! Las promesas que los impíos se hacen mutuamente no son sino falacias.{40}Alá sostiene los cielos y la tierra para que no se desplomen. Si se desplomaran no habría nadie, fuera de Él, que pudiera sostenerlos. Es benigno, indulgente.{41}</string>
+    <string name="aya60_21" >Así es. Y si uno se desagravia en la medida del agravio recibido y es de nuevo tratado injustamente, Alá no dejará de auxiliarle. Alá, en verdad. perdona mucho, es indulgente.{60}Esto es así porque Alá hace que la noche entre en el día y que el día entre en la noche. Alá todo lo oye, todo lo ve.{61}Esto es así porque Alá es la Verdad, pero lo que ellos invocan en lugar de invocarle a Él es lo falso, y porque Alá es el Altísimo, el Grande.{62}¿No ves cómo hace Alá bajar agua del cielo y la tierra verdea? Alá es sutil, está bien informado.{63}Suyo es lo que está en los cielos y en la tierra. Alá es, ciertamente, Quien Se basta a Sí mismo, el Digno de Alabanza.{64}¿No ves que Alá ha sujetado a vuestro servicio lo que hay en la tierra, así como las naves que navegan siguiendo Su orden? Sostiene el cielo para que no se desplome sobre la tierra, si no es con Su permiso. En verdad, Alá es con los hombres manso, misericordioso.{65}Él es Quien os dio la vida; luego, os hará morir, luego, os volverá a la vida. El hombre es, ciertamente, desagradecido.{66}Hemos establecido para cada comunidad un ritual, que ellos siguen. ¡Que no discutan contigo sobre este asunto! ¡Llama a tu Señor! Sí, sigues una dirección recta.{67}</string>
+    <string name="aya1_22" >¡Alabado sea Alá, Que creó los cielos y la tierra e instituyó las tinieblas y la luz! Aun
+        así, los que no creen equiparan a otros a su Señor.{1}Él es Quien os creó de arcilla y decretó a cada uno un
+        plazo. Ha sido fijado un plazo junto a Él. Y aún dudáis…{2}</string>
+    <string name="aya59_23" >Él posee las llaves de lo oculto, sólo Él las conoce. Él sabe lo que hay en la tierra y en el mar. No cae ni una hoja sin que Él lo sepa, no hay grano en las tinieblas de la tierra, no hay nada verde, nada seco, que no esté en una Escritura clara.{59}Él es quien os llama de noche y sabe lo que habéis hecho durante el día. Luego, os despierta en él. Esto es así para que se cumpla un plazo fijo. Luego, volveréis a Él y os informará de lo que hacíais.{60}Él es Quien domina a Sus siervos. Envía sobre vosotros a custodios. Cuando, al fin, viene la muerte a uno de vosotros, Nuestros enviados le llaman, no se descuidan.{61}Luego, son devueltos a Alá, su verdadero Dueño. ¿No es a Él a quien toca decidir? Él es el más rápido en ajustar cuentas.{62}</string>
+    <string name="aya164_24" >Di: «¿Buscaré a otro diferente de Alá como Señor. Él que es el Señor de todo?» Nadie comete mal sino en detrimento propio. Nadie cargará con la carga ajena. Luego, volveréis a vuestro Señor y ya os informará Él de aquello en que discrepabais.{164}Él es Quien os ha hecho sucesores en la tierra y Quien os ha distinguido en categoría a unos sobre otros, para probaros en lo que os ha dado. Tu Señor es rápido en castigar, pero también es indulgente, misericordioso.{165}</string>
+    <string name="aya187_25" >Te preguntan por la Hora: «¿Cuándo llegará?» Di: «Sólo mi Señor tiene conocimiento de
+        ella. Nadie sino Él la manifestará a su tiempo. Abruma en los cielos y en la tierra. No vendrá a vosotros sino
+        de repente»,. Te preguntan a ti como si estuvieras bien enterado. Di: «Sólo Alá tiene conocimiento de ella».
+        Pero la mayoría de los hombres no saben.{187}Di: «Yo no dispongo de nada que pueda aprovecharme o dañarme sino
+        tanto cuanto Alá quiera. Si yo conociera lo oculto, abundaría en bienes y no me alcazaría el mal. Pero no soy
+        sino un monitor, un nuncio de buenas nuevas para gente que cree».{188}Él es Quien os ha creado de una sola
+        persona, de la que ha sacado a su cónyuge para que encuentre quietud en ella. Cuando yació con ella, ésta llevó
+        una carga ligera, con la que iba de acá para allá; pero cuando se sintió pesada, invocaron ambos a Alá, su
+        Señor. «Si nos das un hijo bueno, seremos, ciertamente, de los agradecidos.{189}Pero, cuando les dio uno bueno,
+        pusieron a Alá asociados en lo que Él les había dado. ¡Y Alá está por encima de lo que Le asocian!{190}¿Le
+        asocian dioses que no crean nada -antes bien, ellos mismos han sido creados-{191}y que no pueden ni auxiliarles
+        a ellos ni auxiliarse a sí mismos?{192}Si les llamáis a la Dirección, no os siguen. Les da lo mismo que les
+        llaméis o no.{193}Aquéllos a quienes invocáis, en lugar de invocar a Alá, son siervos como vosotros.
+        ¡Invocadles, pues, y que os escuchen, si es verdad lo que decís…!{194}</string>
+    <string name="aya66_26" >¿No es, acaso, de Alá lo que está en los cielos y en la tierra? ¿Qué siguen, pues, quienes invocan a otros asociados, en lugar de invocar a Alá? No siguen sino conjeturas, no formulan sino hipótesis.{66}Él es Quien ha dispuesto para vosotros la noche para que descanséis en ella, y el día para que podáis ver claro. Ciertamente, hay en ello signos para gente que oye.{67}Dicen: «Alá ha adoptado un hijo». ¡Gloria a Él! Él es Quien Se basta a Sí mismo. Suyo es lo que está en los cielos y en la tierra. ¡No tenéis ninguna autoridad para hablar así! ¿Decís contra Alá lo que no sabéis?{68}Di: «Quienes inventen la mentira contra Alá no prosperarán».{69}Tendrán breve disfrute en la vida de acá y, luego, volverán a Nosotros. Luego, les haremos gustar el castigo severo por no haber creído.{70}</string>
+    <string name="aya78_27" >Él es Quien ha creado para vosotros el oído, la vista y el intelecto. ¡Qué poco agradecidos sois!{78}Él es Quien os ha diseminado por la tierra. Y hacia Él- seréis congregados.{79}Él es Quien da la vida y da la muerte. Él ha hecho que se sucedan la noche y el día. ¿Es que no comprendéis?{80}</string>
+    <string name="aya43_28" >¿Qué te parece quien ha divinizado su pasión? ¿Vas a ser tú su protector?{43}¿Crees que la mayoría oyen o entienden? No son sino como rebaños. No, más extraviados aún del Camino.{44}¿No ves cómo hace tu Señor que se deslice la sombra? Si quisiera, podría hacerla fija. Además, hemos hecho del sol guía para ella.{45}Luego, la atraemos hacia Nosotros con facilidad.{46}Él es Quien ha hecho para vosotros de la noche vestidura, del sueño descanso, del día resurrección.{47}Él es Quien envía los vientos como nuncios que preceden a Su misericordia. Hacemos bajar del cielo agua pura,{48}para vivificar con ella un país muerto y dar de beber, entre lo que hemos creado, a la multitud de rebaños y seres humanos.{49}La hemos distribuido entre ellos para que se dejen amonestar, pero la mayoría de los hombres no quieren sino ser infieles.{50}</string>
+    <string name="aya58_29" >Y ¡confía en el Viviente, Que no muere! ¡Celebra Sus alabanzas! El está suficientemente
+        informado de los pecados de Sus siervos.{58}Él es Quien ha creado en seis días los cielos, la tierra y lo que
+        entre ellos hay. Luego, se ha instalado en el Trono. El Compasivo. ¡Interroga a quien esté bien informado de
+        Él!{59}Cuando se les dice: «¡Prosternaos ante el Compasivo!», dicen: «Y ¿qué es \\\'el Compasivo\'? ¿Vamos a
+        prosternarnos sólo porque tú lo ordenes?» Y esto acrecienta su repulsa.{60}¡Bendito sea Quien ha puesto
+        constelaciones en el cielo y entre ellas un luminar y una luna luminosa!{61}Él es Quien ha dispuesto que se
+        sucedan la noche y el día para quien quiera dejarse amonestar o quiera dar gracias.{62}
+    </string>
+    <string name="aya64_30" >Alá es Quien os ha estabilizado la tierra y hecho del cielo un edificio, os ha formado armoniosamente y os ha proveído de cosas buenas. ése es Alá, vuestro Señor. ¡Bendito sea, pues, Alá, Señor del universo!{64}Él es el Vivo. No hay más dios que É. ¡Invocadle rindiéndole culto sincero! ¡Alabado sea Alá, Señor del universo!{65}Di: «Cuando he recibido de mi Señor las pruebas claras, se me ha prohibido que sirva a aquéllos que invocáis en lugar de invocar a Alá. He recibido la orden de someterme al Señor del universo».{66}Él es Quien os ha creado de tierra; luego, de una gota; luego, de un coágulo de sangre. Luego, os hace salir como criaturas para alcanzar, más tarde, la madurez, luego la vejez -aunque algunos de vosotros mueren prematuramente- y llegar a un término fijo. Quizás, así, razonéis.{67}Él es Quien da la vida y da la muerte. Y cuando decide algo, le dice tan sólo: «¡Sé!» y es.{68}</string>
+    <string name="aya64_31" >No te hemos revelado la Escritura sino para que les expliques en qué discrepaban y como dirección y misericordia para gente que cree.{64}Alá ha hecho bajar agua del cielo, vivificando con ella la tierra después de muerta. Ciertamente, hay en ello un signo para gente que oye.{65}Y en los rebaños tenéis motivo de reflexión. Os damos a beber del contenido de sus vientres, entre heces y sangre: una leche pura, grata a los bebedores.{66}De los frutos de las palmeras y de la vides obtenéis una bebida embriagadora y un bello sustento. Ciertamente, hay en ello un signo para gente que razona.{67}Tu Señor ha inspirado a las abejas: «Estableced habitación en las montañas, en los árboles y en las construcciones humanas.{68}Comed de todos los frutos y caminad dócilmente por los caminos de vuestro Señor». De su abdomen sale un líquido de diferentes clases, que contiene un remedio para los hombres. Ciertamente, hay en ello un signo para gente que reflexiona.{69}Alá os ha creado y luego os llamará. A algunos de vosotros se les deja que alcancen una edad decrépita, para que, después de haber sabido, terminen no sabiendo nada. Alá es omnisciente, poderoso.{70}Alá os ha favorecido a unos con más sustento que a otros; pero aquéllos que han sido favorecidos no ceden tanto de su sustento a sus esclavos que lleguen a igualarse con ellos. ¿Y rehusarán la gracia de Alá?{71}Alá os ha dado esposas nacidas de vosotros. Y, de vuestras esposas, hijos varones y nietos. Os ha proveído también de cosas buenas. ¿Creen, pues, en lo falso y no creerán en la gracia de Alá?{72}</string>
+    <string name="aya1_32" >¡Bendito sea Aquél en Cuya mano está el dominio! Es omnipotente.{1}Es Quien ha creado la
+        muerte y la vida para probaros, para ver quién de vosotros es el que mejor se porta. Es el Poderoso, el
+        Indulgente.{2}Es Quien ha creado siete cielos superpuestos. No ves ninguna contradición en la creación del
+        Compasivo. ¡Mira otra vez! ¿Adviertes alguna falla?{3}Luego, mira otras dos veces: tu mirada volverá a ti
+        cansada, agotada.{4}Hemos engalanado el cielo más bajo con luminares, de los que hemos hecho proyectiles contra
+        los demonios y hemos preparado para ellos el castigo del fuego de la gehena.{5}Quienes no hayan creído en su
+        Señor tendrán el castigo de la gehena. ¡Qué mal fin…!{6}</string>
+    <string name="aya5_33" >Dijo: «¡Señor! He llamado a mi pueblo noche y día.{5}Mi llamamiento sólo ha servido para que huyan más.{6}Siempre que les llamo para que Tú les perdones, se ponen los dedos en los oídos, se cubren con la ropa, se obstinan y se muestran en extremo altivos.{7}Además, les he llamado abiertamente{8}y les he hablado en público y en secreto.{9}Y he dicho: \'¡Pedid perdón a vuestro Señor -Que es indulgente-{10}y enviará sobre vosotros del cielo una lluvia abundante!{11}Os dará mucha hacienda e hijos varones. Pondrá a vuestra disposición jardines, pondrá a vuestra disposición arroyos.{12}¿Qué os pasa, que no esperáis de Alá magnanimidad,{13}habiéndoos creado en fases?{14}¿No habéis visto cómo ha creado Alá siete cielos superpuestos{15}y puesto en ellos la luna como luz y el sol como lámpara?{16}Alá os ha hecho crecer de la tierra como plantas.{17}Después, os hará volver a ella, y os sacará.{18}Alá os ha puesto la tierra como alfombra{19}para que recorráis en ella caminos, anchos pasos\'».{20}</string>
+    <string name="aya17_34" >¿Es que no consideran cómo han sido creados los camélidos,{17}cómo alzado el cielo.{18}cómo erigidas las montañas,{19}cómo extendida la tierra?{20}</string>
+    <string name="arom_k1" >\'lm.{1}Los bizantinos han sido vencidos{2}en los confines del país. Pero, después de su
+        derrota, vencerán{3}dentro de varios años. Todo está en manos de Alá, tanto el pasado como el futuro. Ese día,
+        los creyentes se regocijarán{4}del auxilio de Alá. Auxilia a quien Él quiere. Es el Poderoso, el
+        Misericordioso.{5}¡Promesa de Alá! Alá no falta a Su promesa. Pero la mayoría de los hombres no saben.{6}Conocen
+        lo externo de la vida de acá, pero no se preocupan por la otra vida.{7}¿Es que no reflexionan en su interior?
+        Alá no ha creado los cielos, la tierra y lo que entre ellos está sino con un fin y por un período determinado.
+        Pero muchos hombres se niegan, sí, a creer en el encuentro de su Señor.{8}¿No han ido por la tierra y mirado
+        cómo terminaron sus antecesores? Eran más poderosos, araban la tierra y la poblaban más que ellos. Sus enviados
+        vinieron a ellos con las pruebas claras. No fue Alá quien fue injusto con ellos, sino que ellos lo fueron
+        consigo mismos.{9}Y el fin de los que obraron mal fue el peor, porque desmintieron los signos de Alá y se
+        burlaron de ellos.{10}Alá inicia la creación y luego la repite, después de lo cual seréis devueltos a
+        Él.{11}Cuando suene la Hora, los pecadores serán presa de la desesperación.{12}Sus asociados no intercederán por
+        ellos y éstos renegarán de aquéllos.{13}El día que suene la Hora se dividirán:{14}quienes hayan creído y obrado
+        bien, serán regocijados en un prado;{15}pero quienes no hayan creído y hayan desmentido Nuestros signos y la
+        existencia de la otra vida serán entregados al castigo.{16}¡Gloria a Alá tarde y mañana!{17}¡Alabado sea en los
+        cielos y en la tierra, por la tarde y al mediodía!{18}Saca al vivo del muerto, al muerto del vivo. Vivifica la
+        tierra después de muerta. Así es como se os sacará.{19}Y entre Sus signos está el haberos creado de tierra.
+        Luego, hechos hombres, os diseminasteis…{20}Y entre Sus signos está el haberos creado esposas nacidas entre
+        vosotros, para que os sirvan de quietud, y el haber suscitado entre vosotros el afecto y la bondad. Ciertamente,
+        hay en ellos signos para gente que reflexiona.{21}Y entre Sus signos está la creación de los cielos y de la
+        tierra, la diversidad de vuestras lenguas y de vuestros colores. Ciertamente hay en ello signos para los que
+        saben.{22}Y entre Sus signos está vuestro sueño, de noche o de día, vuestra solicitud en recibir Su favor.
+        Ciertamente, hay en ello signos para gente que oye.{23}Y entre Sus signos está el haceros ver el relámpago,
+        motivo de temor y de anhelo, y el hacer bajar agua del cielo, vivificando con ella la tierra después de muerta.
+        Ciertamente, hay en ello signos para gente que razona.{24}Y entre sus Signos está el que los cielos y la tierra
+        se sostengan por una orden Suya. Al final, apenas Él os llame de la tierra, saldréis inmediatamente.{25}Suyos
+        son quienes están en los cielos y en la tierra. Todos Le obedecen.{26}Es Él Quien inicia la creación y, luego,
+        la repite. Es cosa fácil para Él. Representa el ideal supremo en los cielos y en la tierra. Es el Poderoso, el
+        Sabio.{27}Os propone una parábola tomada de vuestro mismo ambiente: ¿Hay entre vuestros esclavos quienes
+        participen del mismo sustento de que os hemos proveído, de modo que podáis equipararos en ello con ellos y les
+        temáis tanto cuanto os teméis unos a otros? Así explicamos detalladamente los signos a gente que razona.{28}Los
+        impíos, al contrario, siguen sus pasiones sin conocimiento. ¿Quién podrá dirigir a aquéllos a quienes Alá ha
+        extraviado? No tendrán quien les auxilie.{29}¡Profesa la Religión como hanif, según la naturaleza primigenia que
+        Alá ha puesto en los hombres! No cabe alteración en la creación de Alá. Ésa es la religión verdadera. Pero la
+        mayoría de los hombres no saben.{30}volviéndoos a Él arrepentidos. ¡Temedle, haced la azalá y no seáis de los
+        asociadores,{31}de los que escinden su religión en sectas, contento cada grupo con lo suyo!{32}Cuando los
+        hombres sufren una desgracia, invocan a su Señor, volviéndose a Él arrepentidos. Luego, cuando les ha hecho
+        gustar una misericordia venida de Él, algunos de ellos asocian otros dioses a su Señor,{33}para terminar negando
+        lo que les hemos dado. ¡Gozad, pues, brevemente! ¡Vais a ver…!{34}¿Acaso les hemos conferido una autoridad que
+        hable de lo que ellos Le asocian?{35}Cuando hacemos gustar a los hombres una misericordia, se regocijan de ella.
+        Pero, si les sucede un mal como castigo a sus obras, ahí les tenéis desesperados.{36}¿Es que no ven que Alá
+        dispensa el sustento a quienes Él quiere: a unos con largueza, a otros con mesura? Ciertamente, hay en ello
+        signos para gente que cree.{37}Da lo que es de derecho al pariente, al pobre y al viajero. Es lo mejor para
+        quienes desean agradar a Alá. Esos son los que prosperarán.{38}Lo que prestáis con usura para que os produzca a
+        costa de la hacienda ajena no os produce ante Alá. En cambio, lo que dais de azaque por deseo de agradar a
+        Alá… Ésos son los que recibirán el doble.{39}Alá es Quien os ha creado y, luego proveído del sustento, Quien
+        os hará morir y, luego, volveros a la vida. ¿Hay alguno de vuestros asociados que sea capaz de hacer algo de
+        eso? ¡Gloria a Él! ¡Está por encima de lo que Le asocian!{40}Ha aparecido la corrupción en la tierra y en el mar
+        como consecuencia de las acciones de los hombres, para hacerles gustar parte de lo que han hecho. Quizás, así,
+        se conviertan.{41}Di: «¡Id por la tierra y mirad cómo terminaron sus antecesores: fueron, en su mayoría,
+        asociadores!»{42}Profesa la religión verdadera antes de que llegue un día que Alá no evitará. Ese día serán
+        separados:{43}quienes no hayan creído sufrirán las consecuencias de su incredulidad, pero quienes hayan obrado
+        bien se habrán preparado un lecho.{44}Para retribuir con Su favor a los que hayan creído y obrado bien. Él no
+        ama a los infieles.{45}Entre Sus signos, está el envío de los vientos como nuncios de la buena nueva, para daros
+        a gustar de Su misericordia, para que naveguen las naves siguiendo Sus órdenes y para que busquéis Su favor. Y
+        quizás, así, seáis agradecidos.{46}Antes de ti, hemos mandado enviados a su pueblo. Les aportaron las pruebas
+        claras. Nos vengamos de los que pecaron, era deber Nuestro auxiliar a los creyentes.{47}Alá es Quien envía los
+        vientos y éstos levantan nubes. Y Él las extiende como quiere por el cielo, las fragmenta y ves que sale de
+        dentro de ellas el chaparrón. Cuando favorece con éste a los siervos que Él quiere, he aquí que éstos se
+        regocijan,{48}mientras que, antes de haberles sido enviado desde arriba, habían sido presa de la
+        desesperación.{49}¡Y mira las huellas de la misericordia de Alá, cómo vivifica la tierra después de muerta! Tal
+        es, en verdad, el Vivificador de los muertos. Es omnipotente.{50}Y si enviamos un viento y ven que amarillea, se
+        obstinan, no obstante, en su incredulidad.{51}Tú no puedes hacer que los muertos oigan ni que los sordos oigan
+        el llamamiento, si vuelven la espalda.{52}Ni puedes dirigir a los ciegos, sacándoles de su extravío. Tú no
+        puedes hacer que oigan sino quienes creen en Nuestros signos y están sometidos a Nosotros.{53}Alá es Quien os
+        creó débiles; luego, después de ser débiles, os fortaleció luego, después de fortaleceros, os debilitó y os
+        encaneció. Crea lo que Él quiere. Es el Omnisciente, el Omnipotente.{54}El día que llegue la Hora, jurarán los
+        pecadores que no han permanecido sino una hora. Así estaban de desviados…{55}Quienes habían recibido la
+        Ciencia y la fe dirán: «Habéis permanecido el tiempo previsto en la Escritura de Alá: hasta el día de la
+        Resurrección, y hoy es el día de la Resurrección. Pero no sabíais…»{56}Ese día, no les servirán de nada a los
+        impíos sus excusas y no serán agraciados.{57}En este Corán hemos dado a los hombres toda clase de ejemplos. Si
+        les vienes con una aleya, seguro que dicen los infieles: «¡No sois más que unos falsarios!»{58}Así es como sella
+        Alá los corazones de los que no saben.{59}¡Ten, pues, paciencia! ¡Lo que Alá promete es verdad! ¡Que no te
+        encuentren ligero quienes no están convencidos!{60}</string>
+
+
+    <string name="an1biaa1_6" >Se acerca el momento en que los hombres deban rendir cuentas, pero ellos, despreocupados, se desvían.{1}Cuando reciben una nueva amonestación de su Señor, la escuchan sin tomarla en serio,{2}divertidos sus corazones. Los impíos cuchichean entre sí: «¿No es éste sino un mortal como vosotros? ¿Cederéis a la magia a sabiendas?»{3}Dice: «Mi Señor sabe lo que se dice en el cielo y en la tierra. Él es Quien todo lo oye, Quien todo lo sabe».{4}Ellos, en cambio, dicen: «¡Amasijo de sueños! ¡No! ¡Él lo ha inventado! ¡No! Es un poeta! ¡Que nos traiga un signo como los antiguos enviados!»{5}Antes de ellos, ninguna de las ciudades que destruimos creía. Y éstos ¿van a creer?{6}</string>
+    <string name="an2biaa7_10" >Antes de ti, no enviamos sino a hombres a los que hicimos revelaciones. Si no lo sabéis, ¡preguntad a la gente de la Amonestación!{7}No les dimos un cuerpo que no necesitara alimentarse. Y no eran inmortales.{8}Cumplimos la promesa que les hicimos y les salvamos, igual que a otros a quienes Nosotros quisimos salvar, mientras que hicimos perecer a los inmoderados.{9}Os hemos revelado una Escritura en que se os amonesta. ¿Es que no comprendéis?{10}</string>
+    <string name="an3biaa11_15" >¡Cuántas ciudades impías hemos arruinado, suscitando después a otros pueblos!{11}Cuando sintieron Nuestro rigor, quisieron escapar de ellas rápidamente.{12}«¡No huyáis, volved a vuestra vida regalada, a vuestras mansiones! Quizá se os pidan cuentas».{13}Dijeron: «¡Ay de nosotros, que hemos obrado impíamente!»{14}Y no cesaron en sus lamentaciones hasta que les segamos sin vida.{15}</string>
+    <string name="an4biaa16_18" >No creamos el cielo, la tierra y lo que entre ellos hay para pasar el rato.{16}Si
+        hubiéramos querido distraernos, lo habríamos conseguido por Nosotros mismos, de habérnoslo propuesto.{17}Antes,
+        al contrario, lanzamos la Verdad contra lo falso, lo invalida… y éste se disipa. ¡Ay de vosotros, por lo que
+        contáis…!{18}</string>
+    <string name="an5biaa19_20" >Suyos son quienes están en los cielos y en la tierra. Y quienes están junto a Él no se consideran demasiado altos para servirle, ni se cansan de ello.{19}Glorifican noche y día sin cesar.{20}</string>
+    <string name="an6biaa21_23" >¿Han tomado de la tierra a dioses capaces de resucitar?{21}Si hubiera habido en ellos otros dioses distintos de Alá, se habrían corrompido. ¡Gloria a Alá, Señor del Trono, Que está por encima de lo que cuentan!{22}No tendrá Él que responder de lo que hace, pero ellos tendrán que responder.{23}</string>
+    <string name="an7biaa24_29" >Entonces, ¿han tomado a dioses en lugar de tomarle a Él? Di: «¡Aportad vuestra prueba!». Ésta es la Amonestación de mis contemporáneos y la Amonestación de mis antecesores. Pero la mayoría no conocen la Verdad y se desvían.{24}Antes de ti no mandamos a ningún enviado que no le reveláramos: «¡No hay más dios que Yo! ¡Servidme, pues!»{25}Y dicen: «El Compasivo ha adoptado hijos». ¡Gloria a É! Son, nada más, siervos honrados.{26}Dejan que sea Él el primero en hablar y obran siguiendo Sus órdenes.{27}Él conoce su pasado y su futuro. No intercederán sino por aquéllos de quienes Él esté satisfecho. Están imbuidos del miedo que Él les inspira.{28}A quien de ellos diga: «Soy un dios fuera de Él» le retribuiremos con la gehena. Así retribuimos a los impíos.{29}</string>
+    <string name="an8biaa30_33" >¿Es que no han visto los infieles que los cielos y la tierra formaban un todo homogéneo y los separamos? ¿Y que sacamos del agua a todo ser viviente? ¿Y no creerán?{30}Hemos colocado en la tierra montañas firmes para que ella y sus habitantes no vacilen. Hemos puesto en ella anchos pasos a modo de caminos. Quizás, así, sean bien dirigidos.{31}Hemos hecho del cielo una techumbre protegida. Pero ellos se desvían de sus signos.{32}Él es Quien ha creado la noche y el día, el sol y la luna. Cada uno navega en una órbita.{33}</string>
+    <string name="an9biaa34_35" >No hemos hecho eterno a ningún mortal antes de ti. Muriendo tú, ¿iban otros a ser inmortales?{34}Cada uno gustará la muerte. Os probamos tentándoos con el mal y con el bien. Y a Nosotros seréis devueltos.{35}</string>
+    <string name="an10biaa36_41" >Cuanto te ven los infieles«no hacen sino tomarte a burla: «¿Es Éste quien habla mal de
+        vuestros dioses?» Y no creen en la amonestación del Compasivo.{36}El hombre ha sido creado precipitado. Ya os
+        haré ver Mis signos. ¡No Me deis prisa!{37}que decís?» Y dicen: «¿Cuándo se cumplirá esta amenaza, si es verdad
+        lo{38}Si supieran los infieles, cuando no puedan apartar el fuego de sus rostros ni de sus espaldas, cuando no
+        puedan ser auxiliados…{39}Pero ¡no! Les vendrá de repente y les dejará aturdidos. No podrán ni rechazarla ni
+        retardarla.{40}Se burlaron de otros enviados que te precedieron, pero los que se burlaban se vieron cercados por
+        aquello de que se burlaban.{41}</string>
+    <string name="an11biaa42_47" >Di: «¿Quién os protegerá, noche y día. contra el Compasivo?» Pero no hacen caso de la amonestación de su Señor.{42}¿Tienen dioses que les defiendan en lugar de Nosotros? Éstos no pueden auxiliarse a sí mismos, ni encontrarán quien les ayude frente a Nosotros.{43}Les hemos permitido gozar de efímeros placeres, a ellos y a sus padres, hasta alcanzar una edad avanzada. ¿Es que no se dan cuenta de Nuestra intervención cuando reducimos la superficie de la tierra? ¡Serán ellos los vencedores?{44}Di: «Os advierto, en verdad, por la Revelación, pero los sordos no oyen el llamamiento cuando se les advierte».{45}Si les alcanza un soplo del castigo de tu Señor, dicen de seguro: «¡Ay de nosotros, que hemos obrado impíamente!»{46}Para el día de la Resurrección dispondremos balanzas que den el peso justo y nadie será tratado injustamente en nada. Aunque se trate de algo del peso de un grano de mostaza, lo tendremos en cuenta. ¡Bastamos Nosotros para ajustar cuentas!{47}</string>
+    <string name="an12biaa48_50" >Dimos a Moisés y a Aarón el Criterio, una claridad y una amonestación para los temerosos de Alá,{48}que tienen miedo de su Señor en secreto y se preocupan por la Hora.{49}Esto es una amonestación bendita, que Nosotros hemos revelado ¿Y la negaréis?{50}</string>
+    <string name="an13biaa51_73" >Antes, dimos a Abraham, a quien conocíamos, la rectitud.{51}Cuando dijo a su padre y a
+        su pueblo: «¿Qué son estas estatuas a cuyo culto estáis entregados?»{52}Dijeron: «Nuestros padres ya les rendían
+        culto».{53}Dijo: «Pues vosotros y vuestros padres estáis evidentemente extraviados».{54}Dijeron: «¿Nos hablas en
+        serio o bromeas?»{55}Dijo: «¡No! Vuestro Señor es el Señor de los cielos y de la tierra, que Él ha creado. Yo
+        soy testigo de ello.{56}-¡Y por Alá!, que he de urdir algo contra vuestros ídolos cuando hayáis vuelto la
+        espalda-».{57}Y los hizo pedazos, excepto a uno grande que les pertenecía. Quizás, así, volvieran a
+        él.{58}Dijeron: «¿Quién ha hecho eso a nuestros dioses? Ese tal es, ciertamente, de los impíos».{59}«Hemos
+        oído», dijeron, «a un mozo llamado Abraham que hablaba mal de ellos».{60}Dijeron: «¡Traedlo a vista de la gente!
+        Quizás, así, sean testigos».{61}Dijeron: «¡Abraham! ¿Has hecho tú eso con nuestros dioses?»{62}«¡No!» dijo. «El
+        mayor de ellos es quien lo ha hecho. ¡Preguntádselo, si es que son capaces de hablar!»{63}Se volvieron a sí
+        mismos y dijeron: «Sois vosotros los impíos».{64}Pero, en seguida, mudaron completamente de opinión: «Tú sabes
+        bien que éstos son incapaces de hablar».{65}Dijo: «¿Es que servís, en lugar de servir a Alá, lo que no puede
+        aprovecharos nada, ni dañaros?{66}¡Uf, vosotros y lo que servís en lugar de servir a Alá! ¿Es que no
+        razonáis?»{67}Dijeron: «¡Quemadlo y auxiliad así a vuestros dioses, si es que os lo habéis
+        propuesto…!»{68}Dijimos: «¡Fuego! ¡Sé frío para Abraham y no le dañes!»{69}Quisieron emplear artimañas contra
+        él, pero hicimos que fueran ellos los que más perdieran.{70}Les salvamos, a él y a Lot, a la tierra que hemos
+        bendecido para todo el mundo.{71}Y le regalamos, por añadidura, a Isaac y a Jacob. Y de todos hicimos
+        justos.{72}Les hicimos jefes, que dirigieran siguiendo Nuestra orden. Les inspiramos que obraran bien, hicieran
+        la azalá y dieran el azaque. Y Nos rindieron culto.{73}</string>
+    <string name="an14biaa74_75" >A Lot le dimos juicio y ciencia y le salvamos de la ciudad que se entregaba a la torpeza. Eran gente malvada, perversa.{74}Le introdujimos en Nuestra misericordia. Es de los justos.{75}</string>
+    <string name="an15biaa76_77" >Y a Noé. Cuando, antes, invocó y le escuchamos. Y les salvamos, a él y a los suyos, de la gran calamidad.{76}Y le auxiliamos contra el pueblo que había desmentido Nuestros signos. Eran gente mala y los anegamos a todos.{77}</string>
+    <string name="an16biaa78_82" >Y a David y Salomón. Cuando dictaron sentencia sobre el sembrado en que las ovejas de
+        la gente se habían introducido de noche. Nosotros fuimos testigos de su sentencia.{78}Hicimos comprender a
+        Salomón de qué se trataba. Dimos a cada uno juicio y ciencia. Sujetamos, junto con David, las montañas y las
+        aves para que glorificaran. Nosotros hicimos eso.{79}Le enseñamos a elaborar cotas de malla para vosotros, para
+        que os protegieran de vuestra propia violencia. ¿Ya lo agradecéis?{80}Y a Salomón el ventarrón, que sopla, a una
+        orden suya, hacia la tierra que hemos bendecido. Lo sabemos todo…{81}De los demonios, había algunos que buceaban
+        para él y hacían otros trabajos. Nosotros les vigilábamos.{82}</string>
+    <string name="an17biaa83_84" >Y a Job. Cuando invocó a su Señor: «¡He sufrido una desgracia, pero Tú eres la Suma Misericordia!»{83}Y le escuchamos, alejando de él la desgracia que tenía, dándole su familia y otro tanto, como misericordia venida de Nosotros y como amonestación para Nuestros siervos.{84}</string>
+    <string name="an18biaa85_86" >Y a Ismael, Idris y Dulkifl. Todos fueron de los pacientes.{85}Les introdujimos en Nuestra misericordia. Son de los justos.{86}</string>
+    <string name="an19biaa87_88" >Y al del pez. Cuando se fue airado y creyó que no podríamos hacer nada contra él. Y clamó en las tinieblas: «¡No hay más dios que Tú! ¡Gloria a Ti! He sido de los impíos».{87}Le escuchamos, pues, y le salvamos de la tribulación. Así es como salvamos a los creyentes.{88}</string>
+    <string name="an20biaa89_90" >Y a Zacarías. Cuando invocó a su Señor: «¡Señor! ¡No me dejes solo! ¡Pero Tú eres el Mejor de los herederos!»{89}Y le escuchamos y le regalamos Juan e hicimos que su esposa fuera capaz de concebir. Rivalizaban en buenas obras, Nos invocaban con amor y con temor y se conducían humildemente ante Nosotros.{90}</string>
+    <string name="an21biaa_91" >Y a la que conservó su virginidad. Infundimos en ella de Nuestro Espíritu e hicimos de ella y de su hijo signo para todo el mundo.{91}</string>
+    <string name="an22biaa92_94" >«Ésta es vuestra comunidad, es una sola comunidad. Y Yo soy vuestro Señor. ¡Servidme, pues!»{92}Se dividieron en sectas, pero volverán todos a Nosotros.{93}El esfuerzo del creyente que obra bien no será ignorado. Nosotros tomamos nota.{94}</string>
+    <string name="an23biaa95_100" >Cuando destruimos una ciudad, les está prohibido a sus habitantes regresar a ella,{95}hasta que se suelte a Gog y Magog y se precipiten por toda colina abajo.{96}Se acerca la amenaza verdadera. Los infieles, desorbitados los ojos: «¡Ay de nosotros, que no sólo nos traía esto sin cuidado, sino que obrábamos impíamente!»{97}Vosotros y lo que servís en lugar de servir a Alá, seréis combustible para la gehena. ¡Bajaréis a ella!{98}Si ésos hubieran sido dioses, no habrían bajado a ella. Estarán todos en ella eternamente.{99}Gemirán en ella, pero no oirán en ella.{100}</string>
+    <string name="an24biaa101_103" >Aquéllos que ya hayan recibido de Nosotros lo mejor, serán mantenidos lejos de de ella.{101}No oirán el más leve ruido de ella y estarán eternamente en lo que tanto ansiaron.{102}No les entristecerá el gran terror y los ángeles saldrán a su encuentro: «¡Éste es vuestro día, que se os había prometido!»{103}</string>
+    <string name="an25biaa104_106" >Día en que plegaremos el cielo como se pliega un pergamino de escritos. Como creamos una vez primera, crearemos otra. ¡Es promesa que nos obliga y la cumpliremos!{104}Hemos escrito en los Salmos, después de la Amonestación, que la tierra la heredarán Mis siervos justos.{105}He aquí un comunicado para gente que rinde culto a Alá.{106}</string>
+    <string name="an26biaa107_112" >Nosotros no te hemos enviado sino como misericordia para todo el mundo.{107}Di: «Sólo se me ha revelado que vuestro Dios es un Dios Uno ¡,Os someteréis, pues, a Él?»{108}Si se desvían, di:«Os he informado a todos con equidad. Y no sé si aquello con que se os amenaza es inminente o remoto.{109}Él sabe tanto lo que decís abiertamente como lo que ocultáis»{110}No sé. Quizás eso constituya para vosotros tentación y disfrute por algún tiempo».{111}Dice: «¡Señor, decide según justicia! Nuestro Señor es el Compasivo, Aquél Cuya ayuda se implora contra lo que contáis».{112}</string>
+
+    <string name="sourah13">El Trueno</string>
+    <string name="sourah16">Las Abejas</string>
+    <string name="sourah22">La Peregrinación</string>
+    <string name="sourah24">La Luz</string>
+    <string name="sourah35">Originador</string>
+    <string name="sourah39">Los Tropeles</string>
+    <string name="sourah45">La Arrodillada</string>
+    <string name="sourah57">El Hierro</string>
+    <string name="sourah6">Los Ganados</string>
+    <string name="slide_to_cancel">Arrastrar para cancelar</string>
+    <string name="sourah30">Los Bizantinos</string>
+    <string name="sourah67">El Reino</string>
+
+    <string name="sourah88" >El Día Angustiante</string>
+    <string name="h3535iiii">Lo que vino en el atributo del Paraíso y se crean.</string>
+    <string name="h3535iii">Libro (el principio de la creación)</string>
+    <string name="h3535">Él dijo: La gente del Paraíso ve a la gente de las habitaciones sobre ellos, Como el lejano planeta iluminador a la vista., desde el este o hacia el oeste, para diferenciar entre ellas</string>
+    <string name="h3535i">Ellos dijeron: Oh Mensajero de Allah, estas casas de los profetas no informan a otros</string>
+    <string name="h3535ii">El dijo: Sí, y lo juro por Dios, También los hombres que creen en Dios y creen en los mensajeros.</string>
+    <string name="btn_c">Archivo no eliminado</string>
+    <string name="btn_cancell">El nombre no ha sido modificado.</string>
+    <string name="btn_cancelll">ok</string>
+    <string name="btn_cc">borrar</string>
+    <string name="btn_ccc">Archivo eliminado correctamente</string>
+    <string name="btn_cccc">Los archivos no fueron eliminados</string>
+    <string name="btn_ccccc">Todas las grabaciones se han eliminado con éxito</string>
+    <string name="btn_savee">Nombre exitosamente modificado</string>
+    <string name="card_aya10">Versos del {12} al {13}</string>
+    <string name="card_aya1">verso {33}</string>
+    <string name="card_aya11">Versos del {10} al {18}</string>
+    <string name="card_aya12">Versos del {1} al {6}</string>
+    <string name="card_aya13">Versos del {52} al {58}</string>
+    <string name="card_aya14">Versos del {1} al {4}</string>
+    <string name="card_aya15">Versos del {32} al {34}</string>
+    <string name="card_aya16">Versos del {9} al {14}</string>
+    <string name="card_aya17">Versos del {1} al {7}</string>
+    <string name="card_aya18">Versos del {1} al {13}</string>
+    <string name="card_aya19">Versos del {53} al {55}</string>
+    <string name="card_aya2">verso {114}</string>
+    <string name="card_aya20">Versos del {39} al {41}</string>
+    <string name="card_aya21">Versos del {60} al {68}</string>
+    <string name="card_aya22">Versos del {1} al {2}</string>
+    <string name="card_aya23">Versos del {59} al {62}</string>
+    <string name="card_aya24">Versos del {164} al {165}</string>
+    <string name="card_aya25">Versos del {187} al {194}</string>
+    <string name="card_aya26">Versos del {66} al {70}</string>
+    <string name="card_aya27">Versos del {78} al {80}</string>
+    <string name="card_aya28">Versos del {43} al {50}</string>
+    <string name="card_aya29">Versos del {58} al {62}</string>
+    <string name="card_aya3">Versos del {41} al {46}</string>
+    <string name="card_aya30">Versos del {64} al {68}</string>
+    <string name="card_aya31">Versos del {64} al {72}</string>
+    <string name="card_aya33">Versos del {5} al {20}</string>
+    <string name="card_aya34">Versos del {17} al {20}</string>
+    <string name="card_aya35">Versos {60}</string>
+    <string name="card_aya4">Versos del {28} al {29}</string>
+    <string name="card_aya5">Versos del {163} al {164}</string>
+    <string name="card_aya6">Versos del {71} al {73}</string>
+    <string name="card_aya7">Versos del {95} al {101}</string>
+    <string name="card_aya8">Versos del {1} al {6}</string>
+    <string name="card_aya9">Versos del {6} al {7}</string>
+    <string name="fantitl">Versos del Corán</string>
+    <string name="fantitl2">Algunos de los versos de la creación de Dios Todopoderoso en el cielo y la tierra</string>
+    <string name="ask_to_rename">Mostrar el indicador de cambio de nombre después de detener la grabación</string>
+    <string name="btn_allow">permitir</string>
+    <string name="btn_deny">Negar</string>
+    <string name="btn_ok">Okay</string>
+    <string name="delete">Borrar</string>
+    <string name="download">descargar</string>
+    <string name="email_clients_not_found">No se ha encontrado ningún cliente de correo electrónico</string>
+    <string name="error_process_waveform">No se puede dibujar la forma de onda</string>
+    <string name="info">información</string>
+    <string name="naming">Naming:</string>
+    <string name="need_write_permission">La aplicación requiere permiso para acceder al almacenamiento público. Si no está permitido, los registros se almacenarán en el directorio privado de la aplicación</string>
+    <string name="open_record_with">Abrir %s con</string>
+    <string name="open_with">abrir con</string>
+    <string name="rec_duration">Duración:</string>
+    <string name="rec_format">Formato:</string>
+    <string name="rec_location">Ubicación del archivo:</string>
+    <string name="rec_name">Nombre:</string>
+    <string name="rec_size">Talla:</string>
+    <string name="record_deleted_successfully">registro eliminado con éxito</string>
+    <string name="rename">rebautizar</string>
+    <string name="request">Solicitud o retroalimentación</string>
+    <string name="send_email">Enviar por correo electrónico…</string>
+    <string name="share">compartir</string>
+    <string name="delete_all2">Eliminar todos</string>
+    <string name="dont_ask_again_rename">No preguntes renombrar de nuevo</string>
+    <string name="error_lost_records">Algunos de sus registros fueron eliminados o movidos</string>
+    <string name="lost_records">Registros perdidos</string>
+    <string name="records_was_removed">Algunos archivos de registros no se encontraron en el directorio de registros.Posiblemente fueron retirados o trasladados.</string>
+    <string name="btn_details">Detalles</string>
+    <string name="cancel_rec">El registro ha sido cancelado</string>
+    <string name="delete_record_forever">¿Eliminar este registro para siempre %s?</string>
+    <string name="empty">Vacío</string>
+    <string name="rec_frequency">Frecuencia:</string>
+    <string name="error_no_available_space">No hay espacio disponible!</string>
+    <string name="record_moved_into_trash">Registro movido a la papelera</string>
+    <string name="record_restored_successfully">Registro restaurado con éxito</string>
+    <string name="restore_record">Restaurar este registro?</string>
+    <string name="trash_info">Los registros movidos a la basura se eliminarán para siempre en 60 días.</string>
+    <string name="trash">Basura</string>
+    <string name="rec_created">Creado:</string>
+    <string name="error_failed_access_to_storage" >Acceso fallido al almacenamiento de archivos</string>
+    <string name="downloading_cancel" >Descarga cancelada</string>
+    <string name="downloading_success" >%s descargado al directorio de descargas</string>
+    <string name="downloading_failed" >Error al descargar: %s</string>
+    <string name="downloading" >Descargando: %s</string>
+    <string name="by_date" >Por fecha (más reciente)</string>
+    <string name="by_date_desc" >Por fecha (más antigua)</string>
+    <string name="by_name" >Por nombre (A-Z)</string>
+    <string name="by_name_desc" >Por nombre (Z-A)</string>
+    <string name="by_duration" >Por duración (más larga)</string>
+    <string name="by_duration_desc" >Por duración (la más corta)</string>
+    <string name="delete_this_record" >¿Eliminar este registro?</string>
+    <string name="all_records_deleted_successfully" >Todos los registros eliminados correctamente</string>
+    <string name="about_play_store2">Nuestras otras aplicaciones</string>
+    <string name="internet_satalite">lista de conexión a Internet</string>
+    <string name="quran_karem">El sagrado Corán</string>
+    <string name="refresh">Refrescar</string>
+    <string name="find">Encontrar</string>
+    <string name="share_via">Compartir via</string>
+    <string name="copy_link">Copiar link</string>
+    <string name="copied_to_clipboard">Copiado al portapapeles</string>
+    <string name="site_quran">Sitio web del Sagrado Corán</string>
+    <string name="qna_maka">La Meca en vivo</string>
+    <string name="qna_suna">La Sunnah del Profeta en vivo</string>
+    <string name="vidio_maka">El canal del Sagrado Corán transmite en vivo desde la Meca dentro de la Gran Mezquita en árabe.</string>
+    <string name="vidio_souna">El canal Sunnah transmite en vivo desde Medina dentro de la Mezquita del Profeta en árabe.</string>
+</resources>
