@@ -1,0 +1,524 @@
+<resources>
+
+	<style name="AppTheme" parent="AppTheme.Base"/>
+	<!-- Base application theme. -->
+	<style name="AppTheme.Base" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+		<!-- Customize your theme here. -->
+		<item name="colorPrimary">#fbfbfb</item>
+		<item name="colorPrimaryDark">#74848B</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="android:windowActionBar">false</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowActionBarOverlay">true</item>
+		<item name="android:windowBackground">@drawable/launch_screen</item>
+	</style>
+
+	<style name="A2" parent="AppTheme">
+		<item name="colorPrimaryDark">#27a3dd</item>
+	</style>
+
+	<style name="A3" parent="AppTheme">
+		<item name="colorPrimaryDark">#46CAA6</item>
+	</style>
+
+	<style name="fan" parent="AppTheme">
+		<item name="colorPrimaryDark">#DC8744</item>
+	</style>
+
+	<style name="A4" parent="AppTheme">
+		<item name="colorPrimaryDark">#FED663</item>
+	</style>
+
+	<style name="A22" parent="AppTheme">
+		<item name="colorPrimaryDark">#E56353</item>
+	</style>
+
+	<style name="L1" parent="AppTheme">
+		<item name="colorPrimaryDark">#cc4964</item>
+	</style>
+	<style name="L2" parent="AppTheme">
+		<item name="colorPrimaryDark">#388ad0</item>
+	</style>
+	<style name="L3" parent="AppTheme">
+		<item name="colorPrimaryDark">#ab451e</item>
+	</style>
+	<style name="L4" parent="AppTheme">
+		<item name="colorPrimaryDark">#005858</item>
+	</style>
+	<style name="L5" parent="AppTheme">
+		<item name="colorPrimaryDark">#39481f</item>
+	</style>
+	<style name="L6" parent="AppTheme">
+		<item name="colorPrimaryDark">#7c2020</item>
+	</style>
+	<style name="L7" parent="AppTheme">
+		<item name="colorPrimaryDark">#235e80</item>
+	</style>
+	<style name="L8" parent="AppTheme">
+		<item name="colorPrimaryDark">#930f26</item>
+	</style>
+	<style name="L9" parent="AppTheme">
+		<item name="colorPrimaryDark">#617e80</item>
+	</style>
+	<style name="L10" parent="AppTheme">
+		<item name="colorPrimaryDark">#7a28a3</item>
+	</style>
+	<style name="L11" parent="AppTheme">
+		<item name="colorPrimaryDark">#5ba5c0</item>
+	</style>
+	<style name="L12" parent="AppTheme">
+		<item name="colorPrimaryDark">#a55318</item>
+	</style>
+	<style name="L13" parent="AppTheme">
+		<item name="colorPrimaryDark">#473550</item>
+	</style>
+	<style name="L14" parent="AppTheme">
+		<item name="colorPrimaryDark">#192134</item>
+	</style>
+	<style name="L15" parent="AppTheme">
+		<item name="colorPrimaryDark">#426c39</item>
+	</style>
+	<style name="L16" parent="AppTheme">
+		<item name="colorPrimaryDark">#3676e8</item>
+	</style>
+	<style name="L17" parent="AppTheme">
+		<item name="colorPrimaryDark">#a55315</item>
+	</style>
+	<style name="L18" parent="AppTheme">
+		<item name="colorPrimaryDark">#781513</item>
+	</style>
+	<style name="L19" parent="AppTheme">
+		<item name="colorPrimaryDark">#7e99d4</item>
+	</style>
+	<style name="L20" parent="AppTheme">
+		<item name="colorPrimaryDark">#a6a659</item>
+	</style>
+	<style name="L21" parent="AppTheme">
+		<item name="colorPrimaryDark">#e1a912</item>
+	</style>
+	<style name="L22" parent="AppTheme">
+		<item name="colorPrimaryDark">#894a4a</item>
+	</style>
+	<style name="L23" parent="AppTheme">
+		<item name="colorPrimaryDark">#38678f</item>
+	</style>
+	<style name="L24" parent="AppTheme">
+		<item name="colorPrimaryDark">#72843a</item>
+	</style>
+	<style name="L25" parent="AppTheme">
+		<item name="colorPrimaryDark">#9a2d4b</item>
+	</style>
+	<style name="L26" parent="AppTheme">
+		<item name="colorPrimaryDark">#2b4231</item>
+	</style>
+	<style name="L27" parent="AppTheme">
+		<item name="colorPrimaryDark">#81653c</item>
+	</style>
+	<style name="L28" parent="AppTheme">
+		<item name="colorPrimaryDark">#ad102f</item>
+	</style>
+	<style name="L29" parent="AppTheme">
+		<item name="colorPrimaryDark">#cf4b8f</item>
+	</style>
+	<style name="L30" parent="AppTheme">
+		<item name="colorPrimaryDark">#334197</item>
+	</style>
+	<style name="L31" parent="AppTheme">
+		<item name="colorPrimaryDark">#105229</item>
+	</style>
+	<style name="L32" parent="AppTheme">
+		<item name="colorPrimaryDark">#703688</item>
+	</style>
+	<style name="L33" parent="AppTheme">
+		<item name="colorPrimaryDark">#9c3c1d</item>
+	</style>
+	<style name="L34" parent="AppTheme">
+		<item name="colorPrimaryDark">#000000</item>
+	</style>
+
+	<style name="LinearLayout"/>
+
+	<style name="LinearLayout.GuillotineItem">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:orientation">horizontal</item>
+		<item name="android:layout_marginTop">@dimen/_24mdp</item>
+	</style>
+
+	<style name="TextView"/>
+
+	<style name="TextView.ToolbarTitle">
+		<item name="android:gravity">center</item>
+		<item name="android:textSize">@dimen/_20font_mdp</item>
+		<item name="android:textColor">@color/black</item>
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+	</style>
+
+	<style name="TextView.GuillotineItem">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_marginLeft">@dimen/_24mdp</item>
+		<item name="android:textSize">@dimen/_18font_mdp</item>
+		<item name="android:layout_gravity">center_vertical</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+
+	<style name="Toolbar">
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:minHeight">@dimen/_56mdp</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:background">#fbfbfb</item>
+	</style>
+
+	<style name="ImageView"/>
+
+	<style name="ImageView.Hamburger" parent="Widget.AppCompat.ActionButton">
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_marginBottom">@dimen/_6mdp</item>
+	</style>
+
+	//
+	<style name="Material"/>
+
+	<style name="Material.Drawable"/>
+
+	<style name="Material.Drawable.Ripple">
+		<item name="rd_enable">true</item>
+		<item name="rd_inInterpolator">@android:anim/decelerate_interpolator</item>
+		<item name="rd_outInterpolator">@android:anim/decelerate_interpolator</item>
+		<item name="rd_maskType">rectangle</item>
+		<item name="rd_cornerRadius">@dimen/_2mdp</item>
+		<item name="rd_padding">0dp</item>
+		<item name="rd_delayClick">none</item>
+	</style>
+
+	<style name="Material.Drawable.Ripple.Touch" parent="Material.Drawable.Ripple">
+		<item name="rd_backgroundColor">#26CCCCCC</item>
+		<item name="rd_backgroundAnimDuration">200</item>
+		<item name="rd_maxRippleRadius">48dp</item>
+		<item name="rd_rippleColor">#19CCCCCC</item>
+		<item name="rd_rippleAnimDuration">300</item>
+		<item name="rd_rippleType">touch</item>
+	</style>
+
+	<style name="Material.Drawable.Ripple.Touch.Light" parent="Material.Drawable.Ripple.Touch">
+		<item name="rd_backgroundColor">#33999999</item>
+		<item name="rd_rippleColor">#33999999</item>
+	</style>
+
+	<style name="Material.Drawable.Ripple.Wave" parent="Material.Drawable.Ripple">
+		<item name="rd_maxRippleRadius">@dimen/_48mdp</item>
+		<item name="rd_rippleColor">#3FCCCCCC</item>
+		<item name="rd_rippleAnimDuration">200</item>
+		<item name="rd_rippleType">wave</item>
+	</style>
+
+	<style name="Material.Drawable.Ripple.Wave.Light" parent="Material.Drawable.Ripple.Wave">
+		<item name="rd_rippleColor">#66999999</item>
+	</style>
+	//
+
+	//
+
+	<style name="ContentImageBadgeTitle" parent="AppTheme">
+		<item name="android:alpha">0.5</item>
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:textSize">@dimen/_12font_mdp</item>
+	</style>
+
+	<style name="ContentImageBadgeText" parent="AppTheme">
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:textSize">@dimen/_20font_mdp</item>
+		<item name="android:textStyle">bold</item>
+
+	</style>
+
+	<style name="ContentMainBadgeTitle" parent="AppTheme">
+		<item name="android:textColor">@color/contentBadgeTitle</item>
+		<item name="android:textSize">@dimen/_12font_mdp</item>
+	</style>
+
+	<style name="TitleBadgeText" parent="AppTheme">
+		<item name="android:textColor">@color/titleBadgeText</item>
+		<item name="android:textSize">@dimen/_20font_mdp</item>
+	</style>
+
+	<style name="TitleBadgeTitle" parent="AppTheme">
+		<item name="android:textColor">@color/titleBadgeTitle</item>
+		<item name="android:textSize">@dimen/_12font_mdp</item>
+	</style>
+
+
+	<style name="ToastAnimation">
+		<item name="android:windowEnterAnimation">@anim/pop_in_normal</item>
+	</style>
+
+	//
+
+	<style name="about_About"/>
+
+	<style name="about_About.wrapper">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">match_parent</item>
+		<item name="android:orientation">vertical</item>
+		<item name="android:gravity">center</item>
+		<item name="android:background">@color/about_background_color</item>
+	</style>
+	<style name="about_description" parent="@android:style/TextAppearance">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:lineSpacingExtra">@dimen/_8mdp</item>
+		<item name="android:layout_marginBottom">@dimen/_20mdp</item>
+		<item name="android:textColor">@color/about_description_text_color</item>
+		<item name="android:textSize">@dimen/about_description_text_size</item>
+	</style>
+	<style name="about_elementTextAppearance" parent="@android:style/TextAppearance">
+		<item name="android:textColor">@color/about_text_color</item>
+		<item name="android:textSize">@dimen/about_item_text_size</item>
+	</style>
+	<style name="about_groupTextAppearance" parent="@android:style/TextAppearance">
+		<item name="android:textColor">@color/about_item_text_color</item>
+		<item name="android:textSize">@dimen/about_group_item_text_size</item>
+	</style>
+	<style name="about_image">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_marginBottom">@dimen/_30mdp</item>
+		<item name="android:layout_marginTop">@dimen/_20mdp</item>
+	</style>
+	<style name="about_separator">
+		<item name="android:layout_height">@dimen/about_separator_height</item>
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:background">@color/about_separator_color</item>
+		<item name="android:padding">0dp</item>
+		<item name="android:layout_weight">1</item>
+		<item name="android:layout_marginTop">0dp</item>
+		<item name="android:layout_marginBottom">0dp</item>
+	</style>
+	<style name="about_sub_wrapper">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:orientation">vertical</item>
+		<item name="android:gravity">center</item>
+		<item name="android:padding">@dimen/_20mdp</item>
+	</style>
+
+	<style name="AppTheme.Gray" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_blue_gray_700</item>
+		<item name="android:windowBackground">@drawable/gradient_gray</item>
+	</style>
+
+	<style name="AppTheme.Brown" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_brown_700</item>
+		<item name="android:windowBackground">@drawable/gradient_brown</item>
+	</style>
+
+	<style name="AppTheme.DeepOrange" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_deep_orange_800</item>
+		<item name="android:windowBackground">@drawable/gradient_deep_orange</item>
+	</style>
+
+	<style name="AppTheme.Pink" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_pink_800</item>
+		<item name="android:windowBackground">@drawable/gradient_pink</item>
+	</style>
+
+	<style name="AppTheme.Purple" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_deep_purple_700</item>
+		<item name="android:windowBackground">@drawable/gradient_purple</item>
+	</style>
+
+	<style name="AppTheme.Red" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_red_700</item>
+		<item name="android:windowBackground">@drawable/gradient_red</item>
+	</style>
+
+	<style name="AppTheme.Teal" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_teal_700</item>
+		<item name="android:windowBackground">@drawable/gradient_teal</item>
+	</style>
+
+	<style name="AppTheme.Black" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_black_1000</item>
+		<item name="android:windowBackground">@drawable/gradient_black</item>
+	</style>
+
+	<style name="AppTheme.Blue" parent="AppTheme">
+		<item name="colorPrimaryDark">@color/md_blue_700</item>
+		<item name="android:windowBackground">@drawable/gradient_blue</item>
+	</style>
+
+	<style name="Button">
+		<item name="android:textColor">@color/md_yellow_800F</item>
+		<item name="android:textSize">@dimen/text_large</item>
+	</style>
+
+	<style name="Widget" parent="@android:style/Widget" />
+
+	<style name="Widget.RaisedButton" parent="Widget.MaterialComponents.Button">
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">#414141</item>
+		<item name="android:background">@drawable/blue_button_background</item>
+		<item name="android:textAllCaps">false</item>
+		<item name="android:textSize">@dimen/text_xmedium</item>
+		<item name="android:paddingLeft">@dimen/spacing_double</item>
+		<item name="android:paddingRight">@dimen/spacing_double</item>
+		<item name="android:paddingTop">12dp</item>
+		<item name="android:paddingBottom">12dp</item>
+	</style>
+
+	<style name="Widget.BorderlessButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">#414141</item>
+		<item name="android:textAllCaps">false</item>
+		<item name="android:paddingLeft">24dp</item>
+		<item name="android:paddingRight">24dp</item>
+		<item name="android:paddingTop">@dimen/spacing_normal</item>
+		<item name="android:paddingBottom">@dimen/spacing_normal</item>
+		<item name="android:background">@color/shfaf</item>
+	</style>
+
+	<style name="TextAppearance.DialogTitle" parent="TextAppearance.MaterialComponents.Body2">
+		<item name="android:textSize">22sp</item>
+		<item name="android:gravity">start</item>
+	</style>
+
+	<style name="TextAppearance.DialogContent" parent="TextAppearance.MaterialComponents.Body1">
+		<item name="android:textSize">16sp</item>
+		<item name="android:textColor">?android:textColorSecondary</item>
+		<item name="android:gravity">start</item>
+	</style>
+
+	<style name="Text">
+		<item name="android:textColor">@color/text_primary_light</item>
+		<item name="android:fontFamily">sans-serif-light</item>
+	</style>
+
+	<style name="Text.NormalLabel" parent="Text">
+		<item name="android:textSize">@dimen/text_large</item>
+	</style>
+
+	<style name="Text.SectionLabel">
+		<item name="android:textColor">@color/text_primary_light</item>
+		<item name="android:fontFamily">sans-serif-light</item>
+		<item name="android:textSize">@dimen/text_xlarge</item>
+	</style>
+
+
+	<style name="alert_dialog_light" parent="android:Theme.Dialog">
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:windowIsTranslucent">false</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFullscreen">false</item>
+		<item name="android:windowBackground">@color/float_transparent</item>
+		<item name="android:windowAnimationStyle">@null</item>
+		<item name="android:backgroundDimEnabled">true</item>
+		<item name="android:backgroundDimAmount">0.4</item>
+
+		<item name="sweet_alert_bg_drawable">@drawable/dialog_background</item>
+		<item name="sweet_alert_title_text_color">@color/title_color</item>
+		<item name="sweet_alert_content_text_color">@color/message_color</item>
+	</style>
+
+	<style name="alert_dialog_dark" parent="alert_dialog_light">
+		<item name="android:backgroundDimAmount">0.8</item>
+		<item name="sweet_alert_bg_drawable">@drawable/dialog_background_dark</item>
+		<item name="sweet_alert_title_text_color">@color/title_color_dark</item>
+		<item name="sweet_alert_content_text_color">@color/message_color_dark</item>
+	</style>
+
+
+	<style name="dialog_blue_button" parent="android:Widget.Button">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:minWidth">@dimen/_85mdp</item>
+		<item name="android:layout_height">@dimen/_40mdp</item>
+		<item name="android:background">@drawable/green_button_background</item>
+		<item name="android:textSize">@dimen/_17font_mdp</item>
+		<item name="android:paddingLeft">@dimen/_21mdp</item>
+		<item name="android:paddingRight">@dimen/_21mdp</item>
+		<item name="android:textColor">@color/button_text_color</item>
+		<item name="android:layout_weight">1</item>
+		<item name="android:lines">1</item>
+	</style>
+
+
+	<style name="cardHeadTitle">
+		<item name="android:textColor">#ffffffff</item>
+		<item name="android:textSize">@dimen/_22font_mdp</item>
+		<item name="android:shadowColor">#000000</item>
+		<item name="android:shadowDx">1</item>
+		<item name="android:shadowDy">1</item>
+		<item name="android:shadowRadius">1</item>
+		<item name="android:textAllCaps">true</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<style name="cardItemPersonName">
+		<item name="android:textColor">#313131</item>
+		<item name="android:textSize">@dimen/_14font_mdp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<style name="cardItemComment">
+		<item name="android:textSize">@dimen/_20font_mdp</item>
+		<item name="android:textStyle">italic</item>
+	</style>
+
+	<style name="cardItemCommentDate">
+		<item name="android:textColor">#313131</item>
+		<item name="android:textSize">@dimen/_12font_mdp</item>
+		<item name="android:textAllCaps">true</item>
+		<item name="android:textStyle">italic</item>
+	</style>
+
+	<style name="positionIndicator">
+		<item name="android:textColor">#8cffffff</item>
+		<item name="android:textSize">@dimen/_66font_mdp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<style name="positionIndicatorCurrent" parent="positionIndicator">
+		<!--<item name="android:textColor">#da7c80b8</item>-->
+		<item name="android:textColor">#ffffff</item>
+	</style>
+
+	<style name="FinestWebViewTheme" parent="Theme.AppCompat.NoActionBar">
+		<item name="colorPrimary">@color/finestWhite</item>
+		<item name="colorPrimaryDark">@color/finestGray</item>
+		<item name="colorAccent">@color/finestBlack</item>
+		<item name="android:textColorPrimary">@color/finestBlack</item>
+		<item name="android:textColorSecondary">@color/finestSilver</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+	<style name="FinestWebViewTheme.Fullscreen" parent="FinestWebViewTheme">
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:windowFullscreen">true</item>
+	</style>
+
+	<style name="FinestWebViewTheme.Light" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/finestWhite</item>
+		<item name="colorPrimaryDark">@color/finestGray</item>
+		<item name="colorAccent">@color/finestBlack</item>
+		<item name="android:textColorPrimary">@color/finestBlack</item>
+		<item name="android:textColorSecondary">@color/finestSilver</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+	<style name="FinestWebViewTheme.Light.Fullscreen" parent="FinestWebViewTheme.Light">
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:windowFullscreen">true</item>
+	</style>
+
+	<declare-styleable name="ShadowLayout">
+		<attr format="dimension" name="slCornerRadius"/>
+		<attr format="dimension" name="slShadowSize"/>
+		<attr format="color" name="slShadowColor"/>
+		<attr format="dimension" name="slDx"/>
+		<attr format="dimension" name="slDy"/>
+	</declare-styleable>
+</resources>

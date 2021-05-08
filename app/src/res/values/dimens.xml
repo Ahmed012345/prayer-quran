@@ -1,0 +1,206 @@
+<resources>
+
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+	<dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="fab_margin">16dp</dimen>
+	<dimen name="appbar_padding_top">8dp</dimen>
+	<dimen name="category_section_margin">@dimen/_8mdp</dimen>
+
+
+	<dimen name="stpi_default_circle_radius">10dp</dimen>
+	<dimen name="stpi_default_circle_stroke_width">4dp</dimen>
+	<dimen name="stpi_default_indicator_radius">4dp</dimen>
+	<dimen name="stpi_default_line_stroke_width">2dp</dimen>
+	<dimen name="stpi_default_line_margin">5dp</dimen>
+
+	<dimen name="stpi_default_text_size">12sp</dimen>
+
+	<dimen name="stpi_default_bottom_indicator_height">3dp</dimen>
+	<dimen name="stpi_default_bottom_indicator_width">50dp</dimen>
+	<dimen name="stpi_default_bottom_indicator_margin_top">10dp</dimen>
+
+	<dimen name="stpi_default_label_size">12sp</dimen>
+	<dimen name="stpi_default_label_margin_top">2dp</dimen>
+
+	<dimen name="stpi_two_dp">2dp</dimen>
+	<dimen name="stpi_done_icon_size">18dp</dimen>
+
+
+	<integer name="anim_duration_very_long">1500</integer>
+	<integer name="anim_duration_long">500</integer>
+	<integer name="anim_duration_medium">300</integer>
+
+	<dimen name="fab_reveal_height">200dp</dimen>
+
+	<dimen name="common_text_size_micro">12.0sp</dimen>
+	<dimen name="common_text_size_small">14.0sp</dimen>
+	<dimen name="common_text_size_medium">18.0sp</dimen>
+	<dimen name="common_text_size_large">22.0sp</dimen>
+	<dimen name="common_text_size_big">24.0sp</dimen>
+	<dimen name="common_text_size_logo">36.0sp</dimen>
+	<dimen name="common_line_spacing_extra">4.0sp</dimen>
+	<dimen name="common_line_spacing_extra_large">8.0sp</dimen>
+	<dimen name="common_spacing_extra_micro">4.0dp</dimen>
+	<dimen name="common_spacing_extra_small">6.0dp</dimen>
+	<dimen name="common_spacing_extra">8.0dp</dimen>
+	<dimen name="common_spacing_extra_medium">12.0dp</dimen>
+	<dimen name="common_spacing_extra_large">16.0dp</dimen>
+	<dimen name="common_spacing_extra_big">24.0dp</dimen>
+
+
+	<dimen name="music_button_size">50dp</dimen>
+
+
+	<dimen name="margin_normal">16dp</dimen>
+
+	<dimen name="guillotine_small_margin">24dp</dimen>
+	<dimen name="guillotine_medium_margin">48dp</dimen>
+	<dimen name="guillotine_large_margin">100dp</dimen>
+	<dimen name="guillotine_divider_height">40dp</dimen>
+
+	<dimen name="guillotine_item_text_size">29sp</dimen>
+	<dimen name="guillotine_actionbar_background_view_height">35dp</dimen>
+
+	<dimen name="list_item_height">225dp</dimen>
+
+
+	<dimen name="toolbar_elevation">4dp</dimen>
+
+	<dimen name="toolbar_margin_start">72dp</dimen>
+	<dimen name="flexible_space_height">72dp</dimen>
+	<dimen name="flexible_space_image_height">240dp</dimen>
+	<dimen name="flexible_space_show_fab_offset">120dp</dimen>
+
+	<dimen name="parallax_image_height">180dp</dimen>
+	<dimen name="tab_height">48dp</dimen>
+
+	<dimen name="header_bar_height">72dp</dimen>
+	<dimen name="intersection_height">16dp</dimen>
+
+	<dimen name="sliding_slop">32dp</dimen>
+	<dimen name="sliding_overlay_blur_size">4dp</dimen>
+
+	<dimen name="header_height">250dp</dimen>
+	<dimen name="padding">@dimen/_4mdp</dimen>
+	<dimen name="btn_language_size">@dimen/_50mdp</dimen>
+
+
+	<dimen name="tool_bar_height">56dp</dimen>
+
+	<dimen name="menu">@dimen/_30font_mdp</dimen>
+
+	<dimen name="G1">@dimen/_22font_mdp</dimen>
+	<dimen name="G2">@dimen/_17mdp</dimen>
+
+	<dimen name="numberout">@dimen/_45font_mdp</dimen>
+	<dimen name="textname">@dimen/_30font_mdp</dimen>
+	<dimen name="textaya">@dimen/_14font_mdp</dimen>
+
+	<dimen name="marginend">@dimen/_10mdp</dimen>
+	<dimen name="marginstart">@dimen/_10mdp</dimen>
+	<dimen name="paddingend">@dimen/_8mdp</dimen>
+	<dimen name="paddingstart">@dimen/_15mdp</dimen>
+
+	<dimen name="list_text_1">@dimen/_22font_mdp</dimen>
+
+	<dimen name="list_text_2">@dimen/_22font_mdp</dimen>
+
+	<item name="st_textsize" format="dimension" type="dimen">@dimen/_20font_mdp</item>
+
+	<dimen name="xlarge_text">@dimen/_16font_mdp</dimen>
+	<dimen name="xxlarge_text">@dimen/_18font_mdp</dimen>
+
+	<dimen name="alert_width">290dp</dimen>
+	<dimen name="common_circle_width">3dp</dimen>
+	<dimen name="progress_circle_radius">34dp</dimen>
+
+	<dimen name="custom_image_size">53dp</dimen>
+	<dimen name="buttons_stroke_width">0sp</dimen>
+
+	<dimen name="about_description_text_size">@dimen/_16font_mdp</dimen>
+	<dimen name="about_group_item_text_size">@dimen/_18font_mdp</dimen>
+	<dimen name="about_group_text_padding">@dimen/_16mdp</dimen>
+	<dimen name="about_icon_padding">@dimen/_8mdp</dimen>
+	<dimen name="about_icon_size">@dimen/_34mdp</dimen>
+	<dimen name="about_item_text_size">@dimen/_16font_mdp</dimen>
+	<dimen name="about_separator_height">0.5dp</dimen>
+	<dimen name="about_text_padding">@dimen/_8mdp</dimen>
+
+	<dimen name="margin_standard">@dimen/_16mdp</dimen>
+	<dimen name="margin_short">@dimen/_8mdp</dimen>
+	<dimen name="margin_extra_short">@dimen/_4mdp</dimen>
+
+	<dimen name="default_padding">16dp</dimen>
+
+	<!-- DropDown -->
+	<dimen name="arrow_default_size">@dimen/_25mdp</dimen>
+	<dimen name="panel_default_padding">@dimen/_12mdp</dimen>
+	<dimen name="content_default_padding">@dimen/_12mdp</dimen>
+	<dimen name="margin_10">@dimen/_2mdp</dimen>
+
+	<dimen name="spacing_huge">72dp</dimen>
+	<dimen name="spacing_xdouble">48dp</dimen>
+	<dimen name="spacing_double">32dp</dimen>
+	<dimen name="spacing_xnormal">24dp</dimen>
+	<dimen name="spacing_normal">16dp</dimen>
+	<dimen name="spacing_medium">12dp</dimen>
+	<dimen name="spacing_xsmall">10dp</dimen>
+	<dimen name="spacing_small">8dp</dimen>
+	<dimen name="spacing_tiny">4dp</dimen>
+	<dimen name="spacing_zero">0dp</dimen>
+
+	<dimen name="text_smallest">10sp</dimen>
+	<dimen name="text_small">@dimen/_12font_mdp</dimen>
+	<dimen name="text_normal">@dimen/_10font_mdp</dimen>
+	<dimen name="text_medium">@dimen/_16font_mdp</dimen>
+	<dimen name="text_xmedium">@dimen/_18font_mdp</dimen>
+	<dimen name="text_large">@dimen/_20font_mdp</dimen>
+	<dimen name="text_xlarge">@dimen/_24font_mdp</dimen>
+	<dimen name="text_xlargerecord">@dimen/_24font_mdp</dimen>
+	<dimen name="text_largest">@dimen/_48font_mdp</dimen>
+	<dimen name="names2">@dimen/_25font_mdp</dimen>
+	<dimen name="divider_height">1dp</dimen>
+
+	<dimen name="bottom_pnl_btn_size">84dp</dimen>
+	<dimen name="bottom_pnl_small_btn_size">54dp</dimen>
+	<dimen name="notification_btn">64dp</dimen>
+
+	<dimen name="gradient_radius">320dp</dimen>
+	<dimen name="waveform_height">200dp</dimen>
+	<dimen name="item_waveform_height">80dp</dimen>
+
+	<dimen name="toolbar_height">56dp</dimen>
+
+	<dimen name="panel_height">316dp</dimen>
+
+	<dimen name="menu_item_icon_size">24dp</dimen>
+	<dimen name="sizetime">@dimen/_40font_mdp</dimen>
+	<dimen name="elemenup">@dimen/_22font_mdp</dimen>
+	<dimen name="bsmla">@dimen/_24font_mdp</dimen>
+	<dimen name="ayat">@dimen/_26font_mdp</dimen>
+	<dimen name="elemendown">@dimen/_22font_mdp</dimen>
+	<dimen name="iconbook">@dimen/_75mdp</dimen>
+	<dimen name="mtf_cardHeight_initial">4dp</dimen>
+	<dimen name="mtf_cardHeight_final">55dp</dimen>
+	<dimen name="mtf_corner_radius">4dp</dimen>
+    <dimen name="text_double">36sp</dimen>
+    <dimen name="spacing_xxdouble">56dp</dimen>
+	<dimen name="spacing_xtiny">6dp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="border">2dp</dimen>
+
+	<dimen name="toolbarHeight">56dp</dimen>
+	<dimen name="menusWidth">@dimen/_168mdp</dimen>
+
+	<dimen name="defaultDividerHeight">@dimen/_4mdp</dimen>
+	<dimen name="defaultProgressBarHeight">@dimen/_1mdp</dimen>
+	<dimen name="defaultTitleSize">@dimen/_14font_mdp</dimen>
+	<dimen name="defaultUrlSize">@dimen/_10font_mdp</dimen>
+	<dimen name="defaultMenuDropShadowCornerRadius">@dimen/_2mdp</dimen>
+	<dimen name="defaultMenuDropShadowSize">@dimen/_4mdp</dimen>
+	<dimen name="defaultMenuTextSize">@dimen/_16font_mdp</dimen>
+	<dimen name="defaultMenuTextPaddingLeft">@dimen/_16mdp</dimen>
+	<dimen name="defaultMenuTextPaddingRight">@dimen/_32mdp</dimen>
+	<dimen name="defaultMenuLayoutMargin">@dimen/_4mdp</dimen>
+	<dimen name="defaultMenuCornerRadius">@dimen/_2mdp</dimen>
+</resources>
