@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9E9E9E</color>
+    <color name="colorPrimaryDark">#e5e5e5</color>
+    <color name="colorAccent">#ffd600</color>
+
+    <color name="funny1">#D6CFC4</color>
+    <color name="funny2">#466CA6</color>
+    <color name="funny3">#D1AE45</color>
+    <color name="funny4">#87240E</color>
+    <color name="funny5">#040204</color>
+
+    <color name="funny11">#2C458D</color>
+    <color name="funny22">#E4DFD9</color>
+    <color name="funny33">#425B4F</color>
+    <color name="funny44">#EBAD30</color>
+    <color name="funny55">#BF2124</color>
+
+    <color name="funny111">#202221</color>
+    <color name="funny222">#661E2A</color>
+    <color name="funny333">#AB381B</color>
+    <color name="funny444">#EAD4A3</color>
+    <color name="funny555">#E3DED8</color>
+
+    <color name="funny1111">#5D7342</color>
+    <color name="funny2222">#D7AE04</color>
+    <color name="funny3333">#ECD7B8</color>
+    <color name="funny4444">#A58B8C</color>
+    <color name="funny5555">#272727</color>
+
+    <!--Main Activity-->
+    <color name="view">#E61E25</color>
+    <color name="ic_add_ripple">#535353</color>
+    <color name="bmbnormal">#37A670</color>
+    <color name="bmbhalight">#379FA4</color>
+
+</resources>
