@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang">tr</string>
+    <string name="about_youtube">Youtube\'da izle</string>
+    <string name="about_contact_us">İletişime geç</string>
+    <string name="about_facebook">Facebook\'ta beğen</string>
+    <string name="about_github">Github\'da beğen</string>
+    <string name="about_instagram">Instagram\'da takip et</string>
+    <string name="about_play_store">Play Store\'da puan ver</string>
+    <string name="about_twitter">Twitter\'da takip et</string>
+    <string name="about_website">Sitemizi ziyaret et</string>
+    <string name="beasm_ellah">Bismillah</string>
+    <string name="app_name">Kuran\'ın duası</string>
+    <string name="menu1">liste</string>
+    <string name="zekr">Tanrıyı hatırla</string>
+    <string name="hamd">Allah\'a şükür</string>
+    <string name="allah_a">Allahu Ekber</string>
+    <string name="dawat_alanbyaa">Peygamberlerin ve salih duaları bazıları,Kur\'an-ı Kerim\'de bahsettiğim gibi</string>
+    <string name="aaraf">"Dediler ki: \"Ey Rabbimiz! Biz kendimize zulmettik, eger bizi bagislamaz ve bize rahmetinle muamele etmezsen muhakkak ziyana ugrayacaklardan oluruz!\" "</string>
+    <string name="dua_adm">yalvarış Adem ve karısı</string>
+    <string name="dua_noh">yalvarış Nuh</string>
+    <string name="duaaebrahem">yalvarış Ibrahim</string>
+    <string name="douaa_lot">yalvarış Lut</string>
+    <string name="duoa_yosof">yalvarış Yusuf</string>
+    <string name="doua_ayop">yalvarış Eyyûb</string>
+    <string name="doua_shoaup">yalvarış Su\'ayb</string>
+    <string name="douaa_uonos">yalvarış Yunus</string>
+    <string name="douaa_eisa">yalvarış Isa</string>
+    <string name="douaa_zakria">yalvarış Zekeriyya</string>
+    <string name="doua_emratemran">yalvarış İmran\'ın karısı, Meryem\'in annesi</string>
+    <string name="doua_almoumen">yalvarış müminler</string>
+    <string name="douaa_altabin">yalvarış Benefactors</string>
+    <string name="douaa_mlaeka">yalvarış Melekler</string>
+    <string name="doua_banyesrail">yalvarış Israil ogullarinin Musa ile</string>
+    <string name="doua_m2monen">yalvarış müminler itibaren Israil ogullarinin</string>
+    <string name="doua_shart">yalvarış Sihirbazlar, Firavun</string>
+    <string name="douaa_ansaresa">yalvarış Havariler Ansar Isa</string>
+    <string name="doua_atbaa">yalvarış Peygamberlerin takipçileri</string>
+    <string name="douaa_alftya">yalvarış gençler</string>
+    <string name="douaa_asia">yalvarış Firavun Aceh eşi</string>
+    <string name="douaa_ashap">yalvarış nüfus Araf</string>
+    <string name="douaa_mostdafin">yalvarış mazlum</string>
+    <string name="doua_mosa">yalvarış Musa</string>
+    <string name="duoa_nabina">yalvarış Peygamberimiz Muhammed</string>
+    <string name="list1">yalvarış Adem ve karısı(Sallallahu aleyhi ve sellam)</string>
+    <string name="list2">yalvarış Yusuf(Sallallahu aleyhi ve sellam)</string>
+    <string name="list3">yalvarış Eyyûb(Sallallahu aleyhi ve sellam)</string>
+    <string name="list4">yalvarış Nuh(Sallallahu aleyhi ve sellam)</string>
+    <string name="list5">yalvarış Su\'ayb(Sallallahu aleyhi ve sellam)</string>
+    <string name="list6">yalvarış Ibrahim(Sallallahu aleyhi ve sellam)</string>
+    <string name="list8">yalvarış Musa(Sallallahu aleyhi ve sellam)</string>
+    <string name="list9">yalvarış Süleyman(Sallallahu aleyhi ve sellam)</string>
+    <string name="list10">yalvarış Yunus(Sallallahu aleyhi ve sellam)</string>
+    <string name="list11">yalvarış Isa(Sallallahu aleyhi ve sellam)</string>
+    <string name="list12">yalvarış Lut(Sallallahu aleyhi ve sellam)</string>
+    <string name="list13">yalvarış Zekeriyya(Sallallahu aleyhi ve sellam)</string>
+    <string name="list14">yalvarış İmran\'ın karısı, Meryem\'in annesi(Barış onların üzerine olsun)</string>
+    <string name="list17">yalvarış Melekler(Barış onların üzerine olsun)</string>
+    <string name="list18">yalvarış Israil ogullarinin Musa ile(Sallallahu aleyhi ve sellam)</string>
+    <string name="list20">yalvarış Sihirbazlar, Firavun müminler</string>
+    <string name="list21">yalvarış Havariler Ansar Isa(Sallallahu aleyhi ve sellam)</string>
+    <string name="list23">yalvarış Mağara sahipleri</string>
+    <string name="list24">yalvarış Aceh(Allah ondan hoşnut Onun hakkında)</string>
+    <string name="list26">yalvarış Yeryüzünde Savunmasız insanlar</string>
+    <string name="list33">yalvarış Peygamberimiz Muhammed(Sallallahu aleyhi ve sellam)</string>
+    <string name="list7">yalvarış İbrahim ve İsmail(Barış onların üzerine olsun)</string>
+    <string name="surt_hud">"Nuh Rabbine niyaz edip dedi ki: \"Ey Rabbim! Oglum benim ehlimdendi senin vaadin de elbette haktir ve gerçektir. Ve sen hakimler hakimisin.\" "</string>
+    <string name="surt_houd47">"Nuh: \"Ey Rabbim! Ben bilmedigim bir seyi istemis olmaktan dolayi sana siginirim. Sen beni bagislamazsan, bana merhamet etmezsen ben hüsrana ugrayanlardan olurum. "</string>
+    <string name="surt_moon">"Nuh: \"Rabbim! dedi, beni yalana çikarmalarina karsi bana yardim et!\" "</string>
+    <string name="surt_noh">"Nûh dedi ki: \"Yeryüzünde kafirlerden bir tek kisi birakma.\" "</string>
+    <string name="surtmoom">"Sen, yanindakilerle beraber gemiye yerlestiginde: \"Bizi zalimler toplulugundan kurtaran Allah'a hamdolsun\" de. "</string>
+    <string name="surtmoom2">"Ve de ki: \"Rabbim! Beni mübarek bir yere indir. Sen, konuklatanlarin en hayirlisisin.\" "</string>
+    <string name="surtshoraa117">"Nuh: \"Rabbim! dedi, kavmim beni yalancilikla itham etti.\" "</string>
+    <string name="surtshoraa118">"\"Artik benimle onlarin arasinda sen hükmünü ver. Beni ve beraberimdeki müminleri kurtar.\" "</string>
+    <string name="surt_nouh1">"Nûh dedi ki: \"Yeryüzünde kafirlerden bir tek kisi birakma.\" "</string>
+    <string name="surt_nouh2">"\"Zira sen onlari birakirsan kullarini yoldan çikarirlar ve sadece ahlâksiz ve kâfir çocuklar dogururlar.\" "</string>
+    <string name="surt_nouh3">"\"Ey Rabbim! Bana, babama, anama, mümin olarak evime girene ve bütün inanmis erkek ve kadinlara magfiret buyur. Zalimlerin de sadece helakini artir.\" "</string>
+    <string name="bkra_126">"Ve o vakit Ibrahim \"Ey Rabbim, burasini güvenli bir belde kil, halkindan Allah'a ve ahiret gününe iman edenleri çesitli meyvalarla riziklandir\" diye yalvardi. Allah buyurdu ki: \"küfredeni dahi riziklandirir da hayattan biraz nasip aldiririm, sonra da onu ates azabina ugratirim ki, orasi ne yaman bir duraktir!\" "</string>
+    <string name="surt_sfat">"\"Ey Rabbim! Bana salihlerden (bir ogul) ihsan et!\" "</string>
+    <string name="surt_ebrahem">"Hatirla ki; Bir zaman Ibrahim söyle demisti: \"Rabbim! Bu sehri güvenli kil! Beni ve ogullarimi putlara tapmaktan uzak tut! "</string>
+    <string name="surt_ebrahem1">"\"Rabbim! Çünkü onlar (putlar) insanlardan birçogunun sapmasina sebep oldular. Simdi kim bana uyarsa, o bendendir; kim bana karsi gelirse, artik sen gerçekten çok bagislayan ve çok merhamet edensin. "</string>
+    <string name="surt_ebrahem2">"\"Rabbimiz! Ben çocuklarimdan bir kismini namazi dosdogru kilmalari için, senin Beyt-i Haram'inin yaninda, ekinsiz bir vadiye yerlestirdim. Artik sen de insanlardan bir kismini onlara meylettir. Ve onlari bazi meyvelerle riziklandir ki sükretsinler. "</string>
+    <string name="surt_ebrahem3">"\"Ey Rabbimiz! Sen bizim gizledigimizi de açiga vurdugumuzu da süphesiz bilirsin. Çünkü yerde ve gökte, hiçbir sey Allah'tan gizli kalmaz. "</string>
+    <string name="surt_ebrahem4">"\"Ihtiyarlik halimde bana Ismail'i ve Ishak'i lutfeden Allah'a hamd olsun. Süphesiz ki Rabbim duami çok iyi isitir. "</string>
+    <string name="surt_ebrahem5">"\"Ey Rabbim! Beni ve soyumdan gelecekleri namazini dosdogru kilanlardan eyle! Ey Rabbimiz! duami kabul et! "</string>
+    <string name="surt_ebrahem6">"\"Ey Rabbimiz! Herkesin hesaba çekilecegi günde beni, ana-babami ve müminleri bagisla!\" "</string>
+    <string name="surt_ashoara">"\"Ya Rab! Bana hikmet (hüküm) ver ve beni iyiler (zümresin)e kat.\" "</string>
+    <string name="surt_ashoara1">"\"Sonra gelecekler içinde beni dogrulukla anilanlardan eyle!\" "</string>
+    <string name="surt_ashoara2">"\"Ve beni naîm (nimeti bol) cennetin varislerinden eyle!\" "</string>
+    <string name="surt_ashoara3">"\"Babami da bagisla, çünkü o yanlis gidenlerdendir. \" "</string>
+    <string name="surt_ashoara4">"\"(Insanlarin) diriltilecekleri gün, beni mahcub etme.\" "</string>
+    <string name="surt_ashoara5">"\"O gün ki ne mal fayda verir ne ogullar!\" "</string>
+    <string name="surt_ashoara6">"\"Ancak Allah'a temiz bir kalple gelenler o günde (kurtulusa erer).\" "</string>
+    <string name="surt_momtahena">"Ibrahim'de ve onunla beraber bulunanlarda sizin için güzel bir misal vardir, onlar kavimlerine demislerdi ki: \"Biz sizden ve sizin Allah'tan baska taptiklarinizdan uzagiz. Sizi tanimiyoruz. Siz bir tek Allah'a inanincaya kadar sizinle bizim aramizda sürekli bir düsmanlik ve nefret belirmistir.\" Yalniz Ibrahim'in babasina: \"Senin için magfiret dileyecegim, fakat senin için Allah'tan (gelecek) hiçbir seyi (önlemeye) gücüm yetmez.\" demesi hariç. Rabbimiz! Yalniz sana dayandik, sana yöneldik. Dönüsümüz de ancak sanadir. "</string>
+    <string name="surt_momtahena1">"\"Rabbimiz! Bizi inkar edenler için bir fitne kilma, (onlara maglub etme!) bizi bagisla! Ey Rabbimiz! Yegane gâlib ve hikmet sahibi ancak sensin.\" "</string>
+    <string name="surt_momtahena2">"Andolsun, onlarda sizin için, Allah'i ve ahiret gününü arzulayanlara güzel bir örnek vardir. Kim yüz çevirirse süphesiz Allah, zengindir, hamde layik olandir. "</string>
+    <string name="doua_ebrahemwesmail">yalvarış İbrahim ve İsmail</string>
+    <string name="sure_alpakra">"Ve ne vakit ki Ibrahim, Beyt'in temellerini yükseltmeye basladi, Ismail ile birlikte söyle dua ettiler: Ey Rabbimiz, bizden kabul buyur, hiç süphesiz isiten sensin, bilen sensin. "</string>
+    <string name="sure_alpakra1">"Ey bizim Rabbimiz, hem bizim ikimizi yalniz senin için boyun egen müslümanlar kil, hem de soyumuzdan yalniz senin için boyun egen müslüman bir ümmet meydana getir ve bize ibadetimizin yollarini göster, tevbemize rahmetle bakiver. Hiç süphesiz Tevvâb sensin, Rahîm sensin. "</string>
+    <string name="sure_alpakra2">"Ey bizim Rabbimiz, bir de onlara içlerinden öyle bir peygamber gönder ki, onlara senin âyetlerini tilavet eylesin, kendilerine kitabi ve hikmeti ögretsin, içlerini ve dislarini tertemiz yapip onlari pâk eylesin. Hiç süphesiz Azîz sensin, hikmet sahibi Sensin. "</string>
+    <string name="surt_ankabout">"(Lut:) \"Ey Rabbim! Su fesatçilar güruhuna karsi bana yardim eyle\" dedi. "</string>
+    <string name="sourt_choara">"\"Yâ Rabbi! Beni ve ailemi onlarin yapageldiklerin(in vebalin)den kurtar.\" "</string>
+    <string name="surt_uosef">"Yusuf dedi ki: \"Ey Rabbim! Zindan bana, bunlarin beni davet ettikleri seyden daha sevimlidir. Eger sen, bu kadinlarin tuzaklarini benden uzak tutmazsan, ben onlarin tuzagina düserim ve cahillik edenlerden olurum\". "</string>
+    <string name="surt_yosfaya101">"\"Ey Rabbim! Sen bana dünya mülkünden nasip verdin ve bana rüyalarin tabirinden bir ilim ögrettin. Ey gökleri ve yeri yoktan var eden Rabbim! Benim velim sensin, benim canimi müslüman olarak al ve beni salih kullarin arasina kat!\" {*} Hasili, ne zaman ki, Yusuf'a vardilar, yani Yusuf'un daha önce kardeslerine tenbih edip istedigi gibi, basta babalari olmak üzere bütün aile bireyleri topluca Misir'a gelip Yusuf'un yanina vardilar. Rivayet olunur ki, Yusuf ve Melik, yanlarinda dört bin asker, birtakim devlet adamlari ve Misir halkindan çok sayida insan, gelen kafileyi karsilamaya çikmislardi. Yakub Aleyhisselam, oglu Yahuda'ya dayanarak yürüyordu, karsidan gelen kafileye ve atlilara bakip, \"Ey Yahuda, su karsidaki adam Misir'in Firavun'u mu?\" diye sordu. O da \"Hayir, Firavun degil, oglun\" dedi. Yaklastiklari zaman Yusuf'dan önce Yakup selam verdi ve \"Selam sana ey hüzünleri gideren\" dedi{*}ilh. "</string>
+    <string name="surtanbyaaayat3848">"Eyyûb da: \"Basima bir bela geldi, (sana sigindim), sen merhametlilerin en merhametlisisin\" diye Rabbine nida etti. "</string>
+    <string name="surtanbyaaya48">"Biz de onun duasini kabul ettik de basina gelenleri kaldirdik. Katimizdan bir rahmet ve kulluk edenlere bir hatira olmak üzere, ona tekrar ailesini ve kaybettikleriyle bir mislini daha verdik . "</string>
+    <string name="surt_sad">"Kulumuz Eyyub'u da an. Bir zaman o, Rabbine söyle nida etmisti: \"Mesakkat ve aci ile bana seytan dokundu.\" "</string>
+    <string name="suer_aaraf">"(Andolsun ki), Allah bizi ondan (kâfirlikten) kurtardiktan sonra tekrar sizin dininize dönersek, Allah'a karsi iftira etmis oluruz. Rabbimiz Allah'in dilemesi hali müstesna geri dönmemiz bizim için olacak sey degildir. Rabbimizin ilmi her seyi kusatmistir. Biz sadece Allah'a dayaniriz. Ey Rabbimiz! Bizimle kavmimiz arasinda adaletle hükmet. Çünkü sen hükmedenlerin en hayirlisisin. "</string>
+    <string name="douaa_souliman">yalvarış Süleyman</string>
+    <string name="suer_sad35">"Süleyman: \"Ey Rabbim! Beni bagisla ve bana öyle bir mülk ihsan et ki, ardimdan hiç kimseye yarasmasin. Süphesiz, bütün dilekleri veren sensin.\" dedi. "</string>
+    <string name="surt_alnaml">"(Süleyman) onun sözüne gülümseyerek dedi ki: \"Ey Rabbim! Bana ve ana babama verdigin nimete sükretmemi ve hosnut olacagin iyi is yapmami gönlüme getir. Rahmetinle, beni iyi kullarin arasina kat.\" "</string>
+    <string name="surt_anbiaa">"Zünnun'u (balik sahibi Yunus'u) da hatirla. Hani o, öfkelenerek gitmisti de, bizim kendisini hiçbir zaman sikistirmayacagimizi sanmisti. Fakat sonunda karanliklar içinde: \"Senden baska ilâh yoktur, sen münezzehsin, Süphesiz ben haksizlik edenlerden oldum\" diye seslenmisti. "</string>
+    <string name="surt_anbiaa1">"Biz de duasini kabul ile icabet ettik, kendisini üzüntüden kurtardik. Iste biz iman edenleri böyle kurtaririz. "</string>
+    <string name="surt_almaeda">"Meryemoglu Isa da: \"Allah'im, Rabbimiz, bizim üzerimize gökten bir sofra indir ki, bizim için, önce ve sonra gelenlerimiz için bir bayram ve senden bir mucize olsun. Bizi riziklandir, sen rizik verenlerin en hayirlisisin!\" dedi. "</string>
+    <string name="sourt_mariam">"Söyle demisti: \"Ey Rabbim! Süphesiz (artik öyle bir durumdayim ki) benim kemigim zayiflayip gevsedi ve basim(in saçi) bembeyaz alev gibi tutustu. Sana dua etmekle de ey Rabbim, hiçbir zaman bedbaht olmadim.\" "</string>
+    <string name="sourt_mariam1">"\"Gerçekten ben, arkamdan yerime geçecek varislerden endisedeyim. Karim da kisir bulunuyor. Onun için katindan bana bir çocuk ihsan et.\" "</string>
+    <string name="sourt_mariam2">"\"Ki bana da mirasçi olsun, Yakub ailesine de mirasci olsun. Rabbim, onu sen rizana kavustur.\" "</string>
+    <string name="sourt_mariam3">"(Allah söyle buyurdu): \"Ey Zekeriyya! Süphesiz biz sana Yahya isminde bir oglani müjdeliyoruz. Bundan önce ona hiçbir adas yapmadik.\" "</string>
+    <string name="sorat_alemran">"Orada Zekeriyya, Rabbine dua etti: \"Rabbim! Bana katindan hayirli bir nesil ver. Süphesiz sen, duayi hakkiyle isitensin\" dedi. "</string>
+    <string name="sorat_lanbiaa">"Zekeriya da hani Rabbine: \"Rabbim! Beni tek basima birakma, sen varislerin en hayirlisisin\" diye nida etmisti. "</string>
+    <string name="sotat_lanbiaa1">"Biz de duasini kabul ile icabet ettik de kendisine Yahya'yi ihsan ettik. Ve esini (dogum yapmaya) elverisli hale getirdik. Dogrusu onlar iyiliklerde yarisiyorlar, umarak ve korkarak bize yalvariyorlardi. Bize karsi derin saygi duyuyorlardi. "</string>
+    <string name="sourt_aliemran">"Imran'in karisi: \"Rabbim, karnimdakini tam hür olarak sana adadim, benden kabul buyur, süphesiz sen isitensin, bilensin.\" demisti. "</string>
+    <string name="sourt_aliemran1">"Onu dogurunca -Allah onun ne dogurdugunu bilip dururken- söyle dedi: \"Rabbim, onu kiz dogurdum; erkek, kiz gibi degildir. Ona Meryem adini verdim. Onu ve soyunu kogulmus seytanin serrinden sana ismarliyorum\". "</string>
+    <string name="sourt_aliemran2">"Bunun üzerine Rabbi onu güzel bir sekilde kabul buyurdu ve onu güzel bir bitki gibi yetistirdi ve Zekeriyya'nin himayesine verdi. Zekeriyya ne zaman kizin bulundugu mihraba girse, onun yaninda yeni bir yiyecek bulurdu. \"Meryem! Bu sana nereden geldi?\" deyince, o da: \"Bu, Allah katindandir.\" derdi. Süphesiz Allah, diledigine hesapsiz rizik verir. "</string>
+    <string name="sort_a2af">"Biz insana ana ve babasina iyilik yapmayi tavsiye ettik. Anasi onu zahmetle karninda tasidi ve zahmetle dogurdu. Onun ana karninda tasinmasi ile sütten kesilme süresi otuz aydir. Nihayet insan olgunluk çagina ulasip, kirk yasina geldiginde der ki: \"Ey Rabbim! Bana ve ana babama ihsan ettigin nimetlerine sükretmemi ve senin hosnut olacagin salih amel islememi ilham et. Benim neslimden gelenleri de salih kimseler kil. Dogrusu ben tevbe edip sana yöneldim. Ve ben gerçekten müslümanlardanim.\" "</string>
+    <string name="afdal_alduoaa">yalvarış en iyisi</string>
+    <string name="sort_a2af1">"Iste yaptiklarinin en güzelini kendilerinden kabul edecegimiz ve günahlarini bagislayacagimiz bu kimseler cennetlikler arasindadirlar. Bu onlara vaad edilmis olan dosdogru bir sözdür. "</string>
+    <string name="surt_alhashr">"Onlardan sonra gelenler derler ki: \"Rabbimiz, bizi ve bizden önce inanan kardeslerimizi bagisla, kalplerimizde inananlara karsi bir kin birakma! Rabbimiz! Sen çok sefkatli, çok merhametlisin!\" "</string>
+    <string name="surt_alfateh">"Hamd o âlemlerin Rabbi, "</string>
+    <string name="surt_alfateh1">"O Rahmân ve Rahim, "</string>
+    <string name="surt_alfateh2">"O, din gününün maliki Allah'in. "</string>
+    <string name="surt_alfateh3">"Ancak sana ederiz kullugu, ibadeti ve ancak senden dileriz yardimi, inayeti. (Ya Rab!). "</string>
+    <string name="surt_alfateh4">"Hidayet eyle bizi dogru yola, "</string>
+    <string name="surt_alfateh5">"O kendilerine nimet verdigin mutlu kimselerin yoluna; o gazaba ugramislarin ve o sapmislarin yoluna degil. "</string>
+    <string name="surt_bkara">"Sayet kullarim, sana benden sordularsa, gerçekten ben çok yakinimdir. Bana dua edince, duacinin duasini kabul ederim. O halde onlar da benim davetime kossunlar ve bana hakkiyla iman etsinler ki, dogru yola gidebilsinler. "</string>
+    <string name="suer_gafer">"Arsi tasiyanlar ve onun etrafindakiler, Rablerinin hamdiyle tesbih ederler ve O'na inanirlar. Iman etmisler için de söyle bagislanma dilerler: \"Ey Rabbimiz! Rahmetin ve ilmin her seyi kusatmistir. O, tevbe edip senin yoluna uyanlari bagisla, onlari cehennem azabindan koru.\" "</string>
+    <string name="suer_gafer1">"\"Ey Rabbimiz! Hem onlari, hem onlarin atalarindan, zevcelerinden ve zürriyetlerinden iyi olanlari kendilerine vaad buyurdugun Adn cennetlerine koy. Süphesiz çok güçlü, hüküm ve hikmet sahibi olan sensin.\" "</string>
+    <string name="suer_gafer2">"\"Onlari fenaliklardan koru. Sen her kimi fenaliklardan korursan, o gün muhakkak onu rahmetinle yarligamissindir. Iste asil büyük kurtulus da budur.\" "</string>
+    <string name="surt_uonos">"Onlar da: \"Biz Allah'a güvendik. Ey Rabbimiz, bizi o zalim kavmin fitnesine ugratma!\" dediler. "</string>
+    <string name="surt_uonos1">"\"Bizi rahmetinle o kâfir kavmin elinden kurtar!\" "</string>
+    <string name="surt_albakra">"Calut ve ordusuna karsi savas meydanina çiktiklari zaman da söyle dediler: \"Ey Rabbimiz! Üzerlerimize sabir dök, ayaklarimizi sabit tut ve kâfirler topluluguna karsi bize yardim et!\" "</string>
+    <string name="surt_alaaraf">"\"Senin bize kizman da sirf Rabbimizin âyetleri gelince onlara iman etmemizden dolayidir. Ey Rabbimiz! Üzerimize sabir yagdir ve canimizi müslüman olarak al.\" derler. "</string>
+    <string name="surt_alyemran">"Ey Rabbimiz, senin indirdigine iman ettik, o peygambere de uyduk. Artik bizi sahidlerle beraber yaz. "</string>
+    <string name="surt_alyemrany">"Onlarin sözleri ancak: \"Rabbimiz! Bizim günahlarimizi ve islerimizdeki taskinliklarimizi bagisla ve (yolunda) ayaklarimizi diret, Kâfirler güruhuna karsi da bize yardim et!\" demekten ibaretti. "</string>
+    <string name="surt_alkhf">"O gençler magaraya sigininca söyle dediler: \"Rabbimiz! Bize katindan bir rahmet ver ve bizim için su isimizden bir kurtulus yolu hazirla.\" "</string>
+    <string name="surt_athrem">"Allah, inananlara da Firavun'un karisini örnek gösterdi. O söyle demisti: \"Rabbim! Bana yaninda cennetin içinde bir ev yap, beni Firavun'dan ve onun (kötü) isinden kurtar. Ve beni su zalim toplumdan kurtar!\" "</string>
+    <string name="surt_alaaaaraf">"Gözleri cehennemlikler tarafina çevrilince de :\"Rabbimiz! Bizi zalim toplulukla beraber eyleme!\" derler. "</string>
+    <string name="surt_nsaaa">"Hem size ne oluyor ki, Allah yolunda: \"Ey Rabbimiz! bizleri bu halki zâlim olan memleketten çikar, tarafindan bizi iyi idare edecek bir sahip ve bize katindan bir kurtarici gönder\" diye yalvarip duran zayif ve zavalli erkekler, kadinlar ve çocuklarin kurtarilmasi ugrunda savasa çikmiyorsunuz? "</string>
+    <string name="surt_allaraf">"Ne zaman ki, Musa, mikatimiza geldi, Rabbi ona kelâmiyla ihsanda bulundu. \"Ey Rabbim, göster bana kendini de bakayim sana\". dedi. Rabbi ona buyurdu ki; \"Beni katiyyen göremezsin ve lâkin daga bak, eger o yerinde durabilirse, sonra sen de beni göreceksin\". Daha sonra Rabbi daga tecelli edince onu yerle bir ediverdi, Musa da baygin düstü. Ayilip kendine gelince, \"Sen sübhansin\", \"tevbe ettim, sana döndüm ve ben inananlarin ilkiyim,\" dedi. "</string>
+    <string name="sourt_alaarafi">"Musa dedi ki: \"Ey Rabbim! Beni ve kardesimi bagisla! Bizi rahmetinin içine al. Sen merhametlilerin en merhametlisisin.\" "</string>
+    <string name="suort_aaraf">"Bir de Musa, mîkatimiz için (tayin ettigimiz vakitte tevbe için) kavminden yetmis erkek seçti. Ne zaman ki, bunlari o sarsinti yakaladi, iste o zaman Musa: \"Rabbim! dedi, dileseydin bunlari da, beni de daha önce helâk ederdin. Simdi bizi, içimizdeki o beyinsizlerin yaptiklari yüzünden helâk mi edeceksin? O is de senin imtihanindan baska bir sey degildi. Sen bu imtihanla diledigini sapiklikta birakir, diledigini de hidayete erdirirsin. Bizim velimiz sensin. Artik bizi bagisla, merhamet et, sen bagislayanlarin en hayirlisisin.\" "</string>
+    <string name="suort_aaraf1">"\"Ve bize hem bu dünyada bir iyilik yaz, hem de ahirette. Biz gerçekten de tevbe edip senin hidayetine döndük.\" Buyurdu ki, azabim var, onu diledigime isabet ettiririm, rahmetim de vardir , o ise her seyi kaplamis ve kusatmistir. Onu da özellikle korunanlara, zekatini verenlere ve âyetlerimize inananlara mahsus kilacagim. "</string>
+    <string name="suort_aaraf2">"Onlar ki, o ümmî peygambere uyarlar, yanlarindaki Tevrat ve Incil'de yazilmis bulacaklari o peygambere uyup, onun izinden giderler ki, o, onlara iyiyi emreder ve onlari kötülüklerden alikoyar, temiz ve hos seyleri kendilerine helâl kilar, murdar ve kötü seyleri de üzerlerine haram kilar, sirtlarindan agir yükleri indirir, üzerlerindeki baglari ve zincirleri kirar atar, iste o vakit ona iman eden, ona kuvvetle saygi gösteren, ona yardimci olan ve onun peygamberligi ile birlikte indirilen nuru izleyen kimseler var ya, iste asil murada eren kurtulmuslar onlardir. "</string>
+    <string name="surt_kass">"Musa, \"Rabbim! Dogrusu kendimi ziyana ugrattim. Beni bagisla!\" dedi; Allah da, onu bagisladi. Çünkü, çok bagislayici, çok merhamet edici olan ancak O'dur. "</string>
+    <string name="surt_kass1">"Musa, \"Rabbim! Bana lutfettigin nimetlere andolsun ki, artik suçlulara asla arka olmayacagim\" dedi. "</string>
+    <string name="surt_alkass">"Bunun üzerine Musa, onlarin davarlarini suladi. Sonra gölgeye çekildi ve \"Rabbim! Dogrusu bana indirecegin her hayra muhtacim\" dedi. "</string>
+    <string name="surt_tahaa">"Musa dedi ki: \"Ey Rabbim! Benim gögsüme genislik ver, "</string>
+    <string name="surt_tahaa1">"Isimi kolaylastir, "</string>
+    <string name="surt_tahaa2">"Dilimden dügümü çöz "</string>
+    <string name="surt_tahaa3">"Ki, sözümü iyi anlasinlar. "</string>
+    <string name="surt_tahaa4">"Bir de bana ailemden bir vezir ver. "</string>
+    <string name="surt_tahaa5">"Kardesim Harun'u (ver). "</string>
+    <string name="surt_tahaa6">"Onunla arkami kuvvetlendir. "</string>
+    <string name="surt_tahaa7">"(Elçilik) isimde onu bana ortak et. "</string>
+    <string name="surt_tahaa8">"Ki seni çok tesbih edelim. "</string>
+    <string name="surt_tahaa9">"Seni çok analim. "</string>
+    <string name="surt_tahaa10">"Süphe yok ki sen bizi görüp duruyorsun.\" "</string>
+    <string name="surt_tahaa11">"Allah buyurdu: \"Ey Musa! Diledigin (seyler) sana verildi.\" "</string>
+    <string name="sourt_uonos">"Musa dedi: \"Ey Rabbimiz! Sen Firavun'a ve adamlarina su dünya hayatinda göz kamastirici zenginlik ve bol,bol servet verdin. Ey Rabbimiz! Senin yolundan saptirsinlar diye mi? Ey Rabbimiz! Onlarin mallarini sil süpür ve kalblerine sikinti düsür. Çünkü onlar o acikli azabi görmedikçe iman etmeyecekler.\" "</string>
+    <string name="sourt_uonos1">"Allah buyurdu: \"Her ikinizin de duasi kesinlikle kabul olundu. Siz yine dogru ve dürüst olmaya devam edin. Kendini bilmeyenlerin yoluna sakin uymayin.\" "</string>
+    <string name="doua_m2monenn">yalvarış müminler</string>
+    <string name="surt_bkra200">"Nihayet hac ibadetlerinizi bitirdiginiz zaman, önceleri babalarinizi andiginiz gibi, hatta daha kuvvetli bir anisla Allah'i anin. Insanlardan kimisi: \"Ey Rabbimiz! Bize dünyada ver!\" der. Onun için ahirette hiçbir kismet yoktur. "</string>
+    <string name="surt_bkra200i">"Yine onlardan: \"Ey Rabbimiz! Bize dünyada bir güzellik ve ahirette de bir güzellik ver ve bizi ates azabindan koru!\" diyenler vardir. "</string>
+    <string name="surt_bkra200ii">"Iste onlar için, kazandiklarindan bir nasib vardir. Allah, hesabi çok çabuk görür. "</string>
+    <string name="surt_bk285">"Peygamber, Rabbi'nden kendisine ne indirildiyse ona iman etti. Müminlerin de hepsi Allah'a, meleklerine, kitaplarina ve peygamberlerine iman ettiler. \"Biz Allah'in peygamberleri arasinda ayirim yapmayiz, duyduk ve itaat ettik. Ey Rabbimiz, bagislamani dileriz, dönüs ancak sanadir.\" dediler. "</string>
+    <string name="surt_bk285i">"Allah hiç kimseye gücünün yeteceginden baska yük yüklemez. Herkesin kazandigi hayir kendisine, yaptigi kötülügün zarari yine kendisinedir. Ey Rabbimiz, eger unuttuk ya da yanildiysak bizi tutup sorguya çekme! Ey Rabbimiz, bize bizden öncekilere yükledigin gibi agir yük yükleme! Ey Rabbimiz, bize gücümüzün yetmeyecegi yükü de yükleme! Bagisla bizi, magfiret et bizi, rahmet et bize! Sensin bizim Mevlamiz, kâfir kavimlere karsi yardim et bize. "</string>
+    <string name="surt_alyqmran">"De ki, size, o istediklerinizden daha hayirlisini haber vereyim mi? Korunan kullar için Rablerinin yaninda cennetler var ki, altlarindan irmaklar akar, içlerinde ebedî kalmak üzere onlara, hem tertemiz esler var, hem de Allah'dan bir riza vardir. Allah, o kullari görür. "</string>
+    <string name="surt_alyqmrani">"Onlar ki, \"Ey Rabbimiz! Biz inandik, iman getirdik, artik bizim suçlarimizi bagisla ve bizi ates azabindan koru!\" derler. "</string>
+    <string name="surt_alywmran">"Onlar ayaktayken, otururken ve yanlari üzerine yatarken Allah'i anarlar; göklerin ve yerin yaratilisi üzerinde düsünürler. Ve \"Rabbimiz! Sen bunu bos yere yaratmadin, Sen yücesin, bizi atesin azabindan koru.\" derler. "</string>
+    <string name="surt_alywmrani">"\"Rabbimiz! Sen kimi cehennem atesine sokarsan onu rezil etmissindir. Zalimlerin hiç yardimcilari yoktur\". "</string>
+    <string name="surt_alywmranii">"\"Rabbimiz! Biz, 'Rabbinize iman edin' diye imana çagiran bir davetçi isittik, hemen iman ettik. Rabbimiz! Günahlarimizi bagisla, kötülüklerimizi ört, bizleri sana ermis kullarinla beraber yanina al\". "</string>
+    <string name="surt_alywmraniii">"\"Rabbimiz! bize peygamberlerine vaad ettigini ver, kiyamet günü bizi rezil etme. Muhakkak sen verdigin sözden dönmezsin\". "</string>
+    <string name="surt_forkan">"O çok merhametli Allah'in (has) kullari onlardir ki, yeryüzünde tevazu ile yürürler ve cahil kimseler kendilerine laf attigi zaman (incitmeksizin) \"selam\" derler (geçerler). "</string>
+    <string name="surt_forkani">"Ve onlar ki, Rablerine secdeler ve kiyamlar ederek yatarlar. "</string>
+    <string name="surt_forkanii">"Onlar ki, söyle derler: Cehennem azabini üzerimizden sav! Dogrusu onun azabi geçici bir sey degildir. "</string>
+    <string name="surt_forkaniii">"Orasi cidden ne kötü bir ugrak, ne kötü bir konaktir. "</string>
+    <string name="surt_fourcan">"Ve onlar ki: \"Ey Rabbimiz! Bize gözümüzü aydinlatacak esler ve zürriyetler bagisla ve bizi takva sahiplerine önder kil\" derler. "</string>
+    <string name="surt_threm">"Ey iman edenler! Samimi bir tevbe ile Allah'a dönün. Umulur ki Rabbiniz sizin kötülüklerinizi örter, Peygamber'i ve onunla birlikte iman edenleri utandirmayacagi günde Allah sizi, içlerinden irmaklar akan cennetlere sokar. Çünkü onlarin nurlari, önlerinde ve yanlarinda kosar da, \"Ey Rabbimiz! Nurumuzu tamamla, bizi bagisla, çünkü sen her seye kâdirsin.\" derler. "</string>
+    <string name="surt_m2moenon">"Çünkü kullarimdan bir zümre \"Rabbimiz! Biz iman ettik; öyle ise bizi bagisla, bize merhamet et, sen, merhametlilerin en iyisisin.\" diyorlardi. "</string>
+    <string name="surt_liemran">"De ki: \"Ey mülkün sahibi Allah'im! Sen mülkü diledigine verirsin, dilediginden de onu çeker alirsin, diledigini aziz edersin, diledigini zelil edersin. Hayir Senin elindedir. Muhakkak ki, Sen her seye kâdirsin. "</string>
+    <string name="surt_liemran1">"Geceyi gündüzün içine sokarsin, gündüzü gecenin içine sokarsin; ölüden diri çikarirsin, diriden ölü çikarirsin. Diledigine de hesapsiz rizik verirsin. "</string>
+    <string name="sourat_alyemran">"Insanlar onlara: \"Düsmanlariniz size karsi ordu topladi, onlardan korkun.\" dediklerinde, bu, onlarin imanini artirdi ve söyle dediler: \"Allah bize yeter. O ne güzel vekildir\". "</string>
+    <string name="sourat_alyemran1">"Bunun üzerine kendilerine hiç bir kötülük dokunmadan Allah'in nimeti ve lütfuyla geri döndüler ve Allah'in rizasina uydular. Allah büyük lütuf sahibidir. "</string>
+    <string name="surt_m2menoun">"(Resulüm!) De ki: Rabbim! Eger onlara yöneltilen tehdidi (dünyevî sikintiyi ve uhrevî azabi) mutlaka göstereceksen, "</string>
+    <string name="surt_m2menoun1">"Bu durumda beni, o zalimler toplulugunda bulundurma, Rabbim! "</string>
+    <string name="sort_nonon">"Ve de ki: Rabbim! Seytanlarin kiskirtmalarindan sana siginirim! "</string>
+    <string name="sort_nonon1">"Onlarin yanimda bulunmalarindan da sana siginirim. "</string>
+    <string name="surt_mo2mnen">"Resulüm! De ki: \"Rabbim, bagisla ve merhamet et! Sen merhametlilerin en iyisisin.\" "</string>
+    <string name="surt_alesraa">"(Ey Muhammed!) De ki: \"Rabbim! Beni, takdir ettigin yere gönül rahatligi ve huzur içinde koy ve çikacagim yerden de dürüstlükle ve selametle çikmami sagla. Bana katindan yardim edici bir kuvvet ver.\" "</string>
+    <string name="surt_alesraa1">"(Ey Muhammed!) De ki: \"Hak geldi, batil yok oldu. Elbette batil yok olmaya mahkumdur.\" "</string>
+    <string name="surt_alesraa2">"Biz Kur'ân'dan, iman edenler için bir sifa ve rahmet kaynagi olan âyetler indiriyoruz. Zalimlerin de ancak zararini artirir. "</string>
+    <string name="surt_esraa">"(Sen onlara) de ki: Ister \"Allah\" deyin, ister \"Rahmân\" deyin, nasil çagirirsaniz çagirin. En güzel isimler O'nundur. Namazinda sesini pek yükseltme, çok da gizli okuma, orta yolu seç. "</string>
+    <string name="surt_esraa1">"Ve söyle de: Hamd o Allah'a ki, hiçbir çocuk edinmedi, mülkte ortagi yoktur, aciz olmayip bir yardimciya da ihtiyaci yoktur. Tekbir getirerek O'nu noksanliklardan yücelt de yücelt. "</string>
+    <string name="surt_altoubh">"Andolsun size içinizden öyle bir peygamber geldi ki, gayet izzetli ve sereflidir. Sikintiya düsmeniz ona çok agir gelir üstünüze titrer, müminlere gayet merhametli ve sefkatlidir. "</string>
+    <string name="surt_altoubh1">"Eger aldirmazlarsa onlara de ki: Bana Allah yeter. O'ndan baska ilâh yoktur. Ben O'na dayanmaktayim ve O, o büyük Ars'in Rabbidir. "</string>
+    <string name="surt_taha">"Hükmü her yerde geçerli gerçek hükümdar olan Allah yücedir. (Ey Muhammed!) Kur'ân sana vahyedilirken, vahiy bitmeden önce (unutma korkusu ile) Kur'ân'i okumada acele etme; \"Rabbim! benim ilmimi artir\" de. "</string>
+    <string name="album_title">Bu Rabbimin lütfuyla</string>
+    <string name="artist_name">Tanrıyı her zaman hatırla</string>
+    <string name="song_title">katılımcı</string>
+    <string name="e_prog1">Tanrıyı hatırla</string>
+    <string name="aya_alkorsi">Aya Kursiy</string>
+    <string name="aya_alkorcey">"Allah'tan baska hiçbir ilâh yoktur. O daima diridir (hayydir), bütün varligin idaresini yürüten (kayyum)dir. O'nu ne gaflet basar, ne de uyku. Göklerde ve yerde ne varsa hepsi O'nundur. Izni olmadan huzurunda sefaat edecek olan kimdir? O, kullarinin önlerinde ve arkalarinda ne varsa hepsini bilir. Onlar ise, O'nun diledigi kadarindan baska ilminden hiç bir sey kavrayamazlar. O'nun kürsisi, bütün gökleri ve yeri kucaklamistir. Onlarin her ikisini de görüp gözetmek O'na bir agirlik vermez. O çok yücedir, çok büyüktür. "</string>
+    <string name="b_1">"Rahmân ve Rahîm olan Allah'in ismiyle. "</string>
+    <string name="kol_hewo_allah">"De ki; O Allah bir tektir. "</string>
+    <string name="kol_hewo_allah1">"Allah eksiksiz, sameddir (Bütün varliklar O'na muhtaç, fakat O, hiç bir seye muhtaç degildir "</string>
+    <string name="kol_hewo_allah2">"Dogurmadi ve dogurulmadi "</string>
+    <string name="kol_hewo_allah3">"O 'na bir denk de olmadi. "</string>
+    <string name="alflak">"De ki: \"Ben, agaran sabahin Rabbine siginirim, "</string>
+    <string name="alflak1">"Yarattigi seylerin serrinden, "</string>
+    <string name="alflak2">"Karanligi çöktügü zaman gecenin serrinden, "</string>
+    <string name="alflak3">"Ve dügümlere üfleyen büyücülerin serrinden, "</string>
+    <string name="alflak4">"Ve hased ettigi zaman hasetçinin serrinden. "</string>
+    <string name="alnas">"De ki: Siginirim ben insanlarin Rabbine, "</string>
+    <string name="alnas1">"Insanlarin hükümdârina, "</string>
+    <string name="alnas2">"Insanlarin ilâhina, "</string>
+    <string name="alnas3">"O sinsi vesvesecinin serrinden. "</string>
+    <string name="alnas4">"O ki, insanlarin gögüslerine vesveseler fisildar. "</string>
+    <string name="alnas5">"Gerek cinlerden, gerek insanlardan. "</string>
+    <string name="profile">Allah\'ın isimleri</string>
+    <string name="feed">Kur\'an-ı Kerim\'den</string>
+    <string name="activity">tespih</string>
+    <string name="settings">Program</string>
+    <string name="menu">övgü</string>
+    <string name="close">çıkış</string>
+    <string name="autooooo">(Allah onlardan memnun olsun)</string>
+    <string name="autoooo">Zirveye ulaşırsa</string>
+    <string name="autooo">(Allah ondan hoşnut Onun hakkında)</string>
+    <string name="autoo">(Barış onların üzerine olsun)</string>
+    <string name="auto">(Sallallahu aleyhi ve sellam)</string>
+    <string name="eklass">Ihlas Suresi</string>
+    <string name="flk">Felak Suresi</string>
+    <string name="nas">Nas Suresi</string>
+    <string name="salam">(Barış onların üzerine olsun)</string>
+    <string name="salamm">Talut ile</string>
+    <string name="salammm">İnandıkları zaman</string>
+    <string name="atba">Savaşta</string>
+    <string name="atbaa">Mağara sahipleri</string>
+    <string name="atbaaa">Ateşi gördülerse</string>
+    <string name="ard">topraklarda</string>
+    <string name="ardd">O Allah\'ın yardım istedi</string>
+    <string name="alfateha">Suresi Fatiha</string>
+    <string name="quran">Kur\'an-ı Kerim\'den</string>
+    <string name="mainActivityh">(Allah ondan hoşnut olsun)</string>
+    <string name="mainActivityhh">Ebu Hurayrah\'dan</string>
+    <string name="mainActivityhhh">Dedi ki:Resulullah(Sallallahu aleyhi ve sellam)</string>
+    <string name="mainActivitya">Dedi</string>
+    <string name="mainActivityaa">Tanrı\'nın doksan dokuz ismi var,Onları bilen kişi cennete girer</string>
+    <string name="mainActivitys">Onların anlayışı Cennete girdi</string>
+    <string name="mainActivityd">Bir romanda</string>
+    <string name="m1">Kitap Peygamberlerin Hadisi</string>
+    <string name="mm1">Adem ve torunlarının yaratılışının kapısı</string>
+    <string name="hadethAdm">Tanrı Adem ve altmış arşın uzunluğunda yarattı.</string>
+    <string name="hadethAdm1">Sonra şöyle dedi: Git ve bu melekler selamlıyorum,</string>
+    <string name="hadethAdm2">Dedi:Selamun Aleykum</string>
+    <string name="hadethAdm3">Dediler:Barış size ve Tanrı\'nın merhametine olsun,Artan: ve Allah\'ın rahmet</string>
+    <string name="hadethAdm4">Adem\'in görüntü üzerinde cennete girecektir herkes,Ama yaratılış şu ana kadar uzunluğunu azaltıyor</string>
+    <string name="rwa">Sahih Buhari</string>
+    <string name="h2">Sordular Peygamber(barış onun üzerine olsun)En iyi insanlar kim?</string>
+    <string name="h22">O Tanrı\'yı, korkan kim onları en iyi</string>
+    <string name="h222">Dediler:Ey Tanrı’nın Peygamber’i, bu size sorduğumuz şey değil.</string>
+    <string name="h2222">Dedi: En iyi insanlar Allah\'ın peygamberi Yusuf,oğul Tanrı\'nın Peygamberi,oğul Tanrı\'nın Peygamberi,oğul Tanrı\'nın Peygamberi İbrahim.</string>
+    <string name="h22222">Dediler ki: Bu size sorduğumuz şey değil.</string>
+    <string name="h222222">" dedi: \"Bana Arapların minerallerini soruyorsunuz.\""</string>
+    <string name="h2222222">Dediler ki: Evet.</string>
+    <string name="hf">"Yüce Tanrı şöyle dedi:{Yoksa siz de olaya sahit mi oldunuz; Yakub\'a ölüm hali gelip çattigi zaman, ogullarina; "Benden sonra neye ibadet edeceksiniz?" dedigi zaman, ogullari; "Senin Allah\'ina ve atalarin Ibrahim, Ismail ve Ishak\'in Allah\'ina, tek olan o Allah\'a ibadet edecegiz. Biz ancak O\'na boyun egen müslümanlariz." dediler.}[Bakara:133]</string>
+    <string name="h22222222">Dedi: Daha iyi İslam\'ı öğrenmek</string>
+    <string name="h3">Peygamber’den (Allah’ın huzur ve nimetleri onun üzerine olsun).</string>
+    <string name="hh3">Yüce Tanrı şöyle dedi:{Eyyûb da: \"Basima bir bela geldi, (sana sigindim), sen merhametlilerin en merhametlisisin\" diye Rabbine nida etti.}[Enbiya:83]</string>
+    <string name="h33">Dedi ki:iken Ayoub çıplak yıkanmak ederken, söz konusu,Altın sepetine bir adam attı.,Ve onları giysilerinde topladı.</string>
+    <string name="h333">Ve Rab dedi ki, Ayoub Ben gördüğünüz ilgili zengin seçmiş</string>
+    <string name="h3333">" Evet Dedi,Ey Rab, ama ben sizin nimetinize vazgeçilmezim."</string>
+    <string name="h4">Ibn Omar hakkında</string>
+    <string name="h44">(Allah onlardan memnun olsun)</string>
+    <string name="h444">Allaah Resulü (Allah\'ın huzur ve nimetleri onun üzerine olsun) halkına geldi ve Allaah\'ı övdü ve sonra Erkek Deccal</string>
+    <string name="h4444">Dedi ki: seni uyarıyorum,Her peygamber halkını uyardı</string>
+    <string name="h44444">Nuh halkını uyardı, ama size bir peygamberin insanlarına söylemediğini söylüyorum:</string>
+    <string name="h444444">Onun kör olduğunu ve Tanrı\'nın kör olmadığını biliyorsun.</string>
+    <string name="hh4">"Yüce Tanrı şöyle dedi:{Gerçekten biz Nûh'u kavmine gönderdik, \"kavmine aci bir azap gelmezden önce onlari uyar\" diye.}[Nuh:1] "</string>
+    <string name="h5">(Anlamın yorumlanması): Madin halkına \"Ve kardeşleri Shuaiba\'nın borçlusuna\", çünkü Madin Balad ve onun gibi {köyü sor) İhtiyacım yükseldi ve beni dorsal yaptı. Dedi ki: Al-Dhahri seninle birlikte bir hayvanı ya da bir gemiyi ezberlemek, onların yerini ve yerini ve bir tane yaşayacaklarını söyledi. (Asi): Ben üzüldüm ve Hassan dedi ki: (Sen, sen, Halim) alay et ve Mücahid dedi ki: (Göl) kalın, {gölge günü}: Bulutlar üzerlerine işkence yaptı</string>
+    <string name="hh5">"Yüce Tanrı şöyle dedi:{Medyen'e de kardesleri Suayb'i (gönderdik): \"Ey kavmim, dedi, Allah'a kulluk edin, sizin O'ndan baska bir ilâhiniz yoktur. Size Rabbinizden açik bir delil geldi: Ölçüyü ve tartiyi tam yapin, insanlarin esyalarini eksik vermeyin, düzeltildikten sonra yeryüzünde bozgunculuk yapmayin; eger inanan (insan)lar iseniz, böylesi sizin için daha iyidir!\"}[Araf:85] "</string>
+    <string name="h6">İbn Abbas\'dan</string>
+    <string name="h66">Dedi: Ben yalınayak toplanan olacak, çıplak</string>
+    <string name="h6i">Sonra okuyun:Yüce Tanrı şöyle dedi:{Gögü, kitab dürer gibi dürdügümüz zaman, yaratmaya ilk basladigimiz gibi, katimizdan verilmis bir söz olarak onu tekrar var edecegiz. Dogrusu biz bunlari yapariz.}[Enbiya:104]</string>
+    <string name="h6ii">İbrahim’in Diriliş Günü’nde kapsayan ilk</string>
+    <string name="h6iii">Ve arkadaşlarımın bir kısmı kuzeyde onlarla birlikte alınacak ve yoldaşlarıma derler, Arkadaşlarım</string>
+    <string name="h6iiii">Diyor ki: Kalkışlarından beri mürted oldular.</string>
+    <string name="h6iiiii">o Köle Al-Saleh söylediği gibi, ben de ki:Yüce Tanrı şöyle dedi:{\"Ben onlara sadece, senin bana emrettiklerini söyledim. Benim ve sizin Rabbiniz olan Allah\'a kulluk edin, dedim. Aralarinda oldugum müddetçe onlara sahit idim, fakat sen beni vefat ettirince onlari gözetleyen yalniz sen oldun. Sen herseyi görensin.}[Maide:117]</string>
+    <string name="h666">Yüce Tanrı şöyle dedi:{Iyilik yaparak kendisini Allah\'a teslim eden ve Ibrahim\'in dinine dosdogru olarak tâbi olan kimseden, din bakimindan daha iyi kim olabilir? Allah, Ibrahim\'i dost edinmisti.}[Nisa:125]</string>
+    <string name="h7">Salamah ibn el-Akwa \'dan</string>
+    <string name="h77">Peygamber (onun üzerine barış) bazı Müslümanlara geldi.yanılsama eğitim.</string>
+    <string name="h77i">Allaah Resulü (Allah\'ın huzur ve nimetleri onun üzerine olsun) dedi ki:Bani İsmail\'i başlat.Baban Ramiah\'dı,ve Ben bu takımdayım.</string>
+    <string name="h77ii">Dedi ki: Ekiplerden biri ellerinde durdu</string>
+    <string name="h77iii">Allaah Resulü (Allah\'ın huzur ve nimetleri onun üzerine olsun) dedi ki:Neden başlamadın?</string>
+    <string name="h77iiii">Ve dediler: Ey Allah’ın elçisi, onları seninle atacağız</string>
+    <string name="h77iiiii">Dedi ki: asla ve Ben seninleyim hepiniz</string>
+    <string name="h777">Yüce Tanrı şöyle dedi:{Kur\'ân\'da Ismail\'i de an; çünkü o, vaadine sadik bir kuldu ve gönderilmis bir peygamberdi.}[Meryem:54]</string>
+    <string name="h8">Musa yaşayan bir adamdı, cildinden hiçbir şey görmeyen bir adamdı.</string>
+    <string name="h8i">Ve onu İsrail’in çocuklarından incitti ve dediler ki: Bu gizlenmenin cildinde bir leke dışında ne var ki: ya cüzzam ya da havaneli: ya da bir bela.</string>
+    <string name="h8ii">Allah onlar Musa\'ya söylediklerini Abrih istiyorsa,Bir gün,Kıyafetlerini taşa koydu.Sonra bir duş almak,O bittiğinde onu almaya elbiselerini gitti,Ama taş Giysi ile hareket ettirin.</string>
+    <string name="h8iii">Musa çubuğunu aldı ve taşın arkasına geçti.O devam etti Diyor ki:Kıyafetlerim taş,Kıyafetlerim taş,O, İsrail\'in çocuklarının doluluğunu bitirinceye kadar, Tanrı\'nın yarattığı en iyisi, onu çıplak gördü ve söylediklerinden daha iyiydi.</string>
+    <string name="h8iiii">ve Taş durdu,Elbisesini aldı ve giydirdi.Ve bir sopa ile taş attı,Vurmanın etkisine ait veba, üç ya da dört ya da beş</string>
+    <string name="h8iiiii">Yüce Tanrı şöyle dedi:{Ey iman edenler: Sizler Musa\'ya eziyet edenler gibi olmayin. Eziyet ettiler de Allah onu, onlarin söylediklerinden temize çikardi. O, Allah yaninda mevki sahibi idi.}[Ahzab:69]</string>
+    <string name="h88">Musa\'nın hadisleri(Barış onun üzerine olsun)</string>
+    <string name="h9">Ben ve insanlar, ateş yakan bir adam gibi, kelebekler yaptı ve bu hayvanlar ateşe düştü</string>
+    <string name="h9i">Dedi: oğulları ile iki kadın vardı,Kurt geldi ve onlardan birinin oğluna gitti</string>
+    <string name="h9ii">Büyük bayan dedi ki: Oğlun gitti</string>
+    <string name="h9iii">Küçük bayan:O senin oğlunu aldı</string>
+    <string name="h9iiii">David\'den aralarında kural koymasını istediler,Dedi: İbn büyük Bayan,Böylece David\'in oğlu Süleyman\'a gittiler ve ona söylediler.</string>
+    <string name="h9iiiii">Ve dedi ki, bana bıçağı getir ve aralarında bağla</string>
+    <string name="h9iiiiii">Küçük bayan:Yapmayın Tanrı sana merhamet etsin,Bu onun oğlu,O oğlu olduğunu söyledi Küçük bayan</string>
+    <string name="h9iiiiiii">Ebu Hureyre\'den söyledi: Sadece o gün bıçağı duydu.</string>
+    <string name="h99">Yüce Tanrı şöyle dedi:{Bir de Davud\'a Süleyman\'i bahsettik. Süleyman ne güzel kuldu. Çünkü o seslice tesbih edip Allah\'a yönelirdi.}[Sâd:30]</string>
+    <string name="list28">yalvarış en iyisi Suresi Fatiha</string>
+    <string name="h10">Bir Yahudi eşyalarını teklif ediyordu ve ona küçük bir fiyat aldı.</string>
+    <string name="h10i">Dedi: Hayır Musa\'yı insanlar üzerinde seçen Tanrı,Ansar’dan bir adam onu duydu.Ve, yüzünü tokatladı.ve Dedi:O diyor ki:Musa\'yı insanlar üzerinde seçen Tanrı,Ve Peygamber(Sallallahu aleyhi ve sellam)Aramızda göründü?</string>
+    <string name="h10ii">O ona gitti ve dedi ki:Ebu El-Kâsım, benim bir fermanım ve bir antlaşmam var.Beni neden bu yüze vurdu?</string>
+    <string name="h10iii">Dedi ki:Neden yüzüne vurdun?Peygamber (Allah\'ın huzur ve nimetleri onun üzerine olsun)Kızgındı Yüzünde bile görüldü.</string>
+    <string name="h10iiii">"Sonra dedi ki: Tanrı'nın peygamberleri arasında ayrım yapmayın,Sûr'a üfürüldügü gün Allah'in diledikleri müstesna göklerde ve yerde bulunanlar hep dehsete kapilir. "</string>
+    <string name="h10iiiii">Sonra tekrar darbe,İlk gönderen ben olacağım,Musa tahtın yanındaysa,Şimşek gününde hesaplanıp hesaplanmadığını bilmiyorum.Veya benden önce gönderdi.</string>
+    <string name="h10iiiiii">Ve diyorum ki: hiç kimse Younis bin Matta\'dan daha iyi değil.</string>
+    <string name="h1010">Yüce Tanrı şöyle dedi:{Süphesiz Yunus da gönderilen peygamberlerdendir.}[Saffet:139]</string>
+    <string name="h11">Ve ben, Allah\'a yemin,Sonra Meryem oğlu, adil bir yargıyla size gelir.Haçı kırar, domuzu öldürür ve haraç koyar,Ve para taşan, böylece kimse kabul etmeyecek,Yani Allah\'a minimumdan daha iyisini secdeye olmak.</string>
+    <string name="h11i">Sonra Ebu Hurayrah diyor ki:Ve eğer istersen oku:Yüce Tanrı şöyle dedi:{Kitap ehlinden hiçbir kimse yoktur ki, ölmeden önce ona (Isa\'ya) iman etmis olmasin. Kiyamet gününde o, onlara sahitlik edecektir.}[Nisa:159]</string>
+    <string name="h1111">Meryem oğlu İsa, barış üzerlerine olsun</string>
+    <string name="h12">Tanrı, Lût için affet,Eğer barınak çok uzaksa</string>
+    <string name="h1212">Yüce Tanrı şöyle dedi:{Lût\'u da (peygamber olarak kavmine gönderdik). O, kavmine söyle demisti: \"Göz göre ,göre hala o hayasizligi yapacak misiniz?\",\"Siz ille de kadinlari birakip sehvetle erkeklere yaklasacak misiniz? Dogrusu siz beyinsizlikte devam edegelen bir kavimsiniz!\",Buna kavminin cevabi sadece: \"Lût ailesini memleketinizden çikarin; baksaniza onlar (bizim yaptiklarimizdan) temiz kalmak isteyen insanlarmis!\" demelerinden ibaret oldu.Bunun üzerine onu ve ailesini kurtardik. Yalniz karisi müstesna; onun geride (azaba ugrayanlarin içinde) kalmasini takdir ettik.Onlarin üzerlerine öyle bir yagmur indirdik ki, ne kötü idi uyarilanlarin yagmuru!}[Neml:55]</string>
+    <string name="h13">Malik bin Saas\'a\'dan</string>
+    <string name="h1313">O Tanrı\'nın Peygamberi(Sallallahu aleyhi ve sellam)Onlara ikinci cennet gelene kadar giden bir geceden bahsetti.</string>
+    <string name="h1313i">Dedi ki: Bu kim? Dedi ki: jibril</string>
+    <string name="h1313ii">Dedi ki: Kim seninle? Dedi ki: Muhammed</string>
+    <string name="h1313iii">Söylendi: Ona gönderildi mi? Dedi ki:evet</string>
+    <string name="h1313iiii">Bitirdiğimde Yahya ve İsa ile tanıştım.İki anne kuzen</string>
+    <string name="h1313iiiii">Dedi: Bu Yahya ve Issa, onları karşıladı</string>
+    <string name="h1313iiiiii">Sonra dediler: Merhaba, iyi kardeş ve iyi peygamber.</string>
+    <string name="h131313">Yüce Tanrı şöyle dedi:{Bu, Rabbinin, kulu Zekeriyya\'ya olan rahmetini anmadir.}[Meryem:2]</string>
+    <string name="h14">Ben Allah\'ın Messenger duydum(Sallallahu aleyhi ve sellam),Diyor ki:Adem\'in bütün oğulları doğar, şeytan doğduğunda ona dokunur,Ve bağırmaya başlar, şeytana dokunur,Sadece Mary ve oğlu.</string>
+    <string name="h14i">"Sonra Ebu Hurayrah diyor ki:Yüce Tanrı şöyle dedi:{Onu dogurunca -Allah onun ne dogurdugunu bilip dururken- söyle dedi: \"Rabbim, onu kiz dogurdum; erkek, kiz gibi degildir. Ona Meryem adini verdim. Onu ve soyunu kogulmus seytanin serrinden sana ismarliyorum\".}[Âl-i Imran:36] "</string>
+    <string name="h1414">Yüce Tanrı şöyle dedi:{(Ey Muhammed!) Kur\'ân\'daki Meryem kissasini da an (insanlara anlat). Hani o, ailesinden ayrilarak (evinin veya mescidin) dogu tarafinda bir yere çekilmisti.}[Meryem:16]</string>
+    <string name="h15">Tawheed Kitabı</string>
+    <string name="h1515">İbn Mas\'ud\'dan</string>
+    <string name="h151515">Bir adam Peygamber istendi(Sallallahu aleyhi ve sellam)Herhangi daha iyi iş?Dedi ki:Namaz, zaman olduğunda,Ve velilerin servis,Sonra Allah uğruna cihad.</string>
+    <string name="h15151515">Peygamber (Allah\'ın huzur ve nimetleri onun üzerine olsun) dedi ki:namaz iş,ve Dedi ki:«Kitap Açılışı okumadım olanlar için hiçbir namaz yoktur»</string>
+    <string name="h16">Asir bin Jabir hakkında</string>
+    <string name="h1616">Yemen halkının onlara arzını sorması yaş buydu, dedi ki: Oyes ibn Amer var mı? Allaah Resulü\'nün (Allah\'ın huzur ve nimetleri üzerine olsun) dediğini duydum: Oyes ibn Amer, Yemen halkının Murad\'dan ve daha sonra bir asır öncesinden tedarik edilmesiyle geldi. Vafal\'ı affet ve Abdulid bin Ebu Ziad\'dan Abdül Rahman bin Abi Laila\'dan bir partnerin rivayetini verdi, dedi ki: İki gün boyunca Levant halkının bir adamı: Afik M Owais, Allah Resulü\'nün huzurunda olduğunu duydum: hayırseverlerin takipçilerinin en iyilerinden Aweys bin Amer el-Qarni</string>
+    <string name="h161616">Sahabelerin Bilgi Abu Naim Asbahani\'ye</string>
+    <string name="h16161616">İsimler</string>
+    <string name="h1616161616">Aws ibn Anas bin Amer Peygamber (Allah\'ın huzur ve nimetleri onun üzerine olsun) onu görmediğini fark etti.</string>
+    <string name="h17">Tanrı bir köleyi sevseydi, Gabriel\'e dedi ki:Tanrı, bu sever,Cibril onu sever,Gabriel cennet halkına, der ki:Tanrı, bu sever,Ve cennetteki insanlar onu sevecekler, ve sonra yeryüzündeki insanlara kabul edilecek.</string>
+    <string name="h1717">Edebiyat kitabı</string>
+    <string name="h171717">Yüce Tanrı\'dan aşkın kapısı</string>
+    <string name="h17171717">aşk</string>
+    <string name="h18">Allaah Resulü (Allah\'ın huzur ve nimetleri onun üzerine olsun) Medine\'ye geldiğinde,Yahudiler Aşure gününde hızlı ve onlara sordu</string>
+    <string name="h18i">Ve dediler ki, Bu, Musa\'nın Firavun\'u yendiği gün.</string>
+    <string name="h18ii">Peygamber (Allah\'ın huzur ve nimetleri onun üzerine olsun) dedi ki:Musa\'yı onlardan daha çok takip ediyoruz, o yüzden bu gün oruç tutalım</string>
+    <string name="h1818">Yüce Tanrı şöyle dedi:{Gerçekten Musa\'ya söyle vahyettik: \"Kullarimla geceleyin yürü (Misir\'dan çik) de (asâni vurarak) onlara denizde kuru bir yol aç; (artik firavun tarafindan) yetisilmekten korkmazsin ve (bogulmaktan) endise de etmezsin.\",Firavun ordulariyla hemen onlari takip etti, denizden kendilerini sariveren (korkunç bogulma) sariverdi,Böylece Firavun kavmini yanlis yola sürükledi ve dogru yola götürmedi.}[Taha:78]</string>
+    <string name="h181818">Kur\'an Kitabı yorumlama</string>
+    <string name="h19">Bara hakkında</string>
+    <string name="h1919">Muhammed’in yoldaşlarıydık(Sallallahu aleyhi ve sellam)Konuşuyoruz:Badr\'daki savaşçıların sayısı, Talut\'lu savaşçıların sayısına benziyor Kim nehri onunla geçti,Ve onunla sadece üç yüz on kişiyi aşmadı.</string>
+    <string name="h191919">Maghazi Kitabı</string>
+    <string name="h19191919">Badr savaşçılarının sayısı</string>
+    <string name="h20">Ebu Musa al-Aş\'ari\'den</string>
+    <string name="h2020">Tanrı geceleyin elini uzatıp Gün içerisinde bir hatadan dolayı tövbe etmek,ve gündüz Gece boyunca bir hatadan tövbe etmek,Güneş batıdan doğuncaya dek.</string>
+    <string name="h202020">Bandar\'dan Saheeh\'de Müslüman tarafından anlatılan</string>
+    <string name="h20202020">Abu Dawood\'dan</string>
+    <string name="h2020202020">"Ve Firavun'un büyücülerinin, Tanrı'nın Kitabındaki tövbeyi kabul etmedeki hikayesi "</string>
+    <string name="h202020202020">Alsunn alkabir Llbyhqi</string>
+    <string name="h20202020202020">Kitap Alksamh</string>
+    <string name="h2020202020202020">büyüleyici içinde hakem</string>
+    <string name="h21">Yüce Tanrı şöyle dedi:{Buna karsi seninle münakayasa kalkisirlarsa de ki: \"Ben, bana uyanlarla birlikte kendi özümü Allah\'a teslim etmisimdir\". Kendilerine kitap verilenlere ve (kitap verilmeyen) ümmîlere de ki: \"Siz de Islâm\'i kabul ettiniz mi?\" Eger Islâm\'a girerlerse hidayete ermis olurlar. Eger yüz çevirirlerse, sana düsen sey ancak teblig etmektir. Allah kullari görendir. Allah\'in âyetlerini inkâr edenler ve haksiz yere peygamberleri öldürenler, insanlar içinde adaleti emredenlerin canina kiyanlar yok mu? Bunlari acikli bir azapla müjdele!}[Âl-i Imran:21]</string>
+    <string name="h21i">Dedi ki:Meryem oğlu İsa, havarilerden on iki adam gönderdi.İnsanlara öğretiyorlar,İnsanları evlenmekten yasaklıyorlardı (bir erkek kardeşin kızı),Bir kralın aşkı(kardeşin kızı),Ve her gün onu bir ihtiyaç haline getirecek.</string>
+    <string name="h21ii">Annesi ona dedi ki:İhtiyacın olanı sorarsa, ona söyle:Yahya ibn Zakaria\'yı öldürmek</string>
+    <string name="h21iii">Kral ona dedi ki: Senin ihtiyacın?</string>
+    <string name="h21iiii">O dedi ki: Yahya bin Zakaria\'yı öldürmek için ihtiyacım</string>
+    <string name="h21iiiii">Dedi ki: Başka bir şey sor</string>
+    <string name="h21iiiiii">Dedi ki: Bundan başka bir şey sormuyorum</string>
+    <string name="h21iiiiiii">Geldiğinde, onu öldürmeye emretti.Bir damla kan düştü,Allah, Bakhtonsar\'ı gönderene kadar kan banyosu kaynıyordu.Kendi içinde bulundu, cinayet hala, bu kan dibe kadar,Öyleyse bu kanı sakinleştirin.Ve bir gün içinde yetmiş bin öldürdü.</string>
+    <string name="h21iiiiiiii">Bu hadis iki şeyhlerin koşuluyla doğrudur</string>
+    <string name="h2121">Almustadrak Ealaa Alsahihayn</string>
+    <string name="h212121">Kitap yorumlama</string>
+    <string name="h21212121">Bu Surat Al-Imran</string>
+    <string name="h2_2">Allah, onun bir şekilde emek edenlere sağlanan,Onun yolunda cihad ve sözünün onaylanması dışında onu evden çıkarmayın.Cennete girmek için. Ya da ödülle evine geri dönün.</string>
+    <string name="h2_22_2">Yüce Tanrı şöyle dedi:{Deki: \"Eger Rabbimin sözlerini yazmak için deniz mürekkep olsa, Rabbimin sözleri tükenmeden önce, deniz muhakkak tükenecekti, bir mislini daha yardimci getirsek bile.\"}[Kehf:109]</string>
+    <string name="h23">Bara bin Azab hakkında</string>
+    <string name="h2323">Dedi ki: Bir adam Surat el-Kahf\'ı okuyordu,Onun yanında, bir at bağladı ve sonra onun bulut ve onun gölgesi geldi</string>
+    <string name="h2323i">Ertesi gün Peygamber’e geldi (Allah’ın huzur ve nimetleri onun üzerine olsun) ve ona bundan bahsetti.Dedi: O (sakin) Tnazelt Kur\'an</string>
+    <string name="h232323">Kur\'an\'ın Faziletleri Kitabı</string>
+    <string name="h23232323">Surat Al Kahf\'ın erdemin kapısı</string>
+    <string name="h24">Ebu Musa al-Aş\'ari\'den</string>
+    <string name="h2424">Birçok erkeğin Komple etiği,Ve kadınlar Mariam Bint Omran,Ve Firavun Asya\'nın eşi,Aisha, kadınları diğer tüm yiyecekler için en iyi yiyecek olarak tercih etti</string>
+    <string name="h242424">Gıdalar Kitabı</string>
+    <string name="h24242424">Kapı Thred</string>
+    <string name="h25">Abu Sa\'eed al-Khudri\'den</string>
+    <string name="h2525">O Peygamber sordu barış duvar sahiplerinden onun üzerine olsun</string>
+    <string name="h2525i">Dedi ki: Onlar Allah yolunda öldürülen insanlardır, ebeveynleri için itaatsizler ve ateşe girmelerini engellemişler ve günahın Cennete girmesini engellemişlerdir.</string>
+    <string name="h2525ii">Onlar cennet ve cehennem arasında bir duvara konum,Etleri ve etleri solyana kadar,Tanrı yaratılışın hesaplamasını bitirene kadar</string>
+    <string name="h2525iii">Eğer Tanrı yaratılışının hesaplamasını tamamlarsa, Tanrı tarafından O\'nun merhametiyle bırakılan başka kimse yoktur, bu yüzden onları merhametiyle Cennete getirecektir.</string>
+    <string name="h252525">Almejm Al\'awsat Liltubaranaa</string>
+    <string name="h25252525">Bab Al Ain</string>
+    <string name="h2525252525">Adından: Obeid Allah</string>
+    <string name="h26">Peygamber (Allah\'ın huzur ve nimetleri), namazda şöyle derdi:Aman Tanrım, Ayyash ibn Abi Rabia\'yı kurtar.ve Salama bin Hisham,ve Walid Bin Al Waleed,Tanrım, ezilen inananların kurtardı,Allah, arızanın nedenini intikamını,Ve Yusuf yıl gibi onları yıllar göndermek.</string>
+    <string name="h2626">Kitab Al\'iikrah</string>
+    <string name="h262626">Bab Ma Ja\' Fi Almuta\'awilin</string>
+    <string name="h27">Ebu Khair</string>
+    <string name="h2727">işitme Abdullah bin Amr</string>
+    <string name="h272727">O Ebu Bekir Alsadiq</string>
+    <string name="h27272727">Peygamber istendi(Sallallahu aleyhi ve sellam)</string>
+    <string name="h2727272727">Ey Allah\'ın Elçisi,Bana namazda diyorum bir dua öğret</string>
+    <string name="h2727272727i">Dedi ki:De ki: Ey Tanrım, kendimi haksız yere haksızlığa uğrattım Sık sık,O, sadece günahları affeder sen,Affet beni Sen, bağışlayandır, esirgeyendir vardır.</string>
+    <string name="h272727272727">Yüce Tanrı şöyle dedi:{Kim dünya nimetini isterse, bilsin ki dünya ve ahiret nimeti Allah katindadir. Allah her seyi çok iyi isiten ve çok iyi görendir.}[Nisa:134]</string>
+    <string name="h28">Abu Sa\'eed ibn al-Mu\'ali\'den</string>
+    <string name="h2828">Camide dua ediyordum,Allaah Resulü (Allah\'ın huzur ve nimetleri onun üzerine olsun) beni aradı ve ben ona cevap vermedim</string>
+    <string name="h2828i">Dedim ki: Allah\'ın Messenger Ey, dua ediyordum</string>
+    <string name="h2828ii">Dedi ki:Yüce Tanrı şöyle dedi:{Ey iman edenler! Peygamber sizi, size hayat verecek seylere davet ettigi zaman, Allah\'a ve Resul\'e icabet edin. Ve bilin ki Allah, kisi ile kalbi arasina girer. Ve siz kesinkes O\'nun huzurunda toplanacaksiniz.}[Enfal:24]</string>
+    <string name="h2828iii">Sonra bana dedi ki: Ben size Surat\'ın Kuran\'daki en iyi sura olduğunu söyleyeyim,Camiyi terk etmeden önce. Sonra elimi tuttu ve dışarı çıkmak istediğinde</string>
+    <string name="h2828iiii">Ona şöyle dedim: Ama sen bana, Kur\'an\'daki en iyi sura söylemedin.</string>
+    <string name="h2828iiiii">Dedi: {Hamd o âlemlerin Rabbi},Ve verdiğim Büyük Kuran</string>
+    <string name="h282828">Kitabın başında ne geldi</string>
+    <string name="h29">Abu Masoud\'dan</string>
+    <string name="h2929">Peygamber (Allah\'ın huzur ve nimetleri onun üzerine olsun) şöyle dedi: Kuftah gecesi Baqarah\'ın son suresinden iki ayeti okuyan kimse,yeterli olur.</string>
+    <string name="h292929">Resulullah verdi(Sallallahu aleyhi ve sellam)Zakah Ramazan Kurtarın,Birisi beni geçti,Yiyecekleri kapmaya başladı,Ben de ondan aldım.</string>
+    <string name="h292929i">Dedim ki: Allah\'ın Resulüne söyleyeceğim(Sallallahu aleyhi ve sellam)Senin hakkında</string>
+    <string name="h292929ii">Hadeeth anlattı, dedi ki:Yatağına gelirsen, Ayat el-Kursi\'yi oku.Tanrı seni tutanlardan seni gönderecek,Ve sabah kadar senden uzak şeytan.</string>
+    <string name="h292929iii">Peygamber (Allah\'ın huzur ve nimetleri onun üzerine olsun) dedi ki:Dedin dürüstlük,Ama yalancı olduğu biliniyor,Bu bir şeytan.</string>
+    <string name="h29292929">Bab Fadal Bakara Suresi</string>
+    <string name="h30">Tanrı dedi ki: Adem\'in oğlu bana yalan söyledi ve bunu yapmaya hakkı yok,Ve bana hakaret etti ve bunu yapmaya hakkı yok,.</string>
+    <string name="h30i">Onun inkarına gelince, dedi ki:Onu yarattığım gibi yeniden oluşturmayacağım.</string>
+    <string name="h30ii">Bana hakaret diyerek gelince Söylemek için:Tanrı bir oğul aldı.Ve ben eksiksiz(Dogurmadi ve dogurulmadi,O \'na bir denk de olmadi)</string>
+    <string name="h3030">Yüce Tanrı şöyle dedi:{Allah eksiksiz, sameddir (Bütün varliklar O\'na muhtaç, fakat O, hiç bir seye muhtaç degildir)}[Ihlas:2]</string>
+    <string name="h31">Aisha hakkında</string>
+    <string name="h3131">Peygamber Efendimiz (Allah\'ın huzur ve nimetleri), her gece ellerini toplamak için yatağına gelirdi.</string>
+    <string name="h3131i">"Sonra onlara nefes verdi ve okudu:De ki; O Allah bir tektir.ve De ki: Ben, agaran sabahin Rabbine siginirim,ve De ki: Siginirim ben insanlarin Rabbine"</string>
+    <string name="h3131ii">Ve sonra, vücudunda neler yapabileceğiyle, başıyla ve yüzünde başlayarak ve vücudundan kabul ettiğim şeyle üç kez silin.</string>
+    <string name="h313131">Aab Fadal Almueuadhat</string>
+    <string name="h32">Dedi ki: Kalbi dışında hiç bir çocuk yoktur, Şeytan fısıldar,Şeytandan sonra Tanrı\'nın hatırası,Eğer unutursa, kalbinden fısıldar.</string>
+    <string name="h32i">Bu hadis iki şeyhlerin koşuluyla doğrudur</string>
+    <string name="h32ii">Son yorumlama kitabı ve Hamd o âlemlerin Rabbi,Allah Peygamberimiz Muhammed\'e, ailesine, arkadaşlarına ve yoldaşları kutsasın</string>
+    <string name="h3232">Surat Al Nas\'ın yorumu</string>
+    <string name="h3_3">Rahman tarafından sevilen iki kelime,ağırlığı hafif dilin üzerinde,dengede Ağır:Glory Allah ve şükürler olsun,Glory Allah harika.</string>
+    <string name="h33_33">Yüce Tanrı şöyle dedi:{Biz kiyamet günü için dogru teraziler kurariz; hiçbir kimse hiçbir haksizliga ugratilmaz. Yapilan amel, bir hardal tanesi agirliginca da olsa, onu getirir (tartiya koyariz.). Hesap görenler olarak da biz kâfiyiz.}[Enbiya:47]</string>
+    <string name="h34">Ali hakkında</string>
+    <string name="h3434">Fatıma (barış üzerlerine olsun)O, unu işlerinde elinde olanlardan şikayet ediyor.ve Geldim Peygamber için(Sallallahu aleyhi ve sellam)Ona bir hizmetçi sorar ama onu bulamadık,Bunu Aisha\'ya söyledim.Ve Peygamber geldi anlattım.</string>
+    <string name="h3434i">Dedi ki: O bize geldi ve bizi yatağa götürdük.</string>
+    <string name="h3434ii">Dedi ki: Göğsümdeki soğuk ayakları bulana kadar yeriniz aramızda oturdu.</string>
+    <string name="h3434iii">Dedi: Ben sunucudan sizin için neyin iyi olduğunu anlatacağım?</string>
+    <string name="h3434iiii">Yatağına gidersen ya,Sadece Rabbini yücelt Otuz üç,ve Glory Allah Otuz üç,ve Allah\'a şükür Otuz üç,Bu bir hizmetçi karşılaştırıldığında daha iyi olduğunu.</string>
+    <string name="h3434iiiii">İbn-i Sirin, şunları söyledi: Otuz dört övgü</string>
+    <string name="h343434">Kitap davetiyeler</string>
+    <string name="h34343434">Bir rüyada yakınlaştırma ve övgü</string>
+    <string name="copy_right">Ahmed Saad %1$d</string>
+    <string name="finalback">Ana menüye dönmek için tekrar basın</string>
+    <string name="back">Çıkmak için tekrar basın</string>
+    <string name="eshab">Yukarı veya aşağı çekin</string>
+    <string name="bhs">arama</string>
+
+    <string name="il">" Evet, iyi bilin ki, kalbler Allah\'in zikri ile yatisir."</string>
+    <string name="ill">Hamd o âlemlerin Rabbi.</string>
+    <string name="play">Sadece Arapça olarak çalıştır</string>
+    <string name="stop">Dur</string>
+    <string name="bybyback">Dön</string>
+    <string name="esm0">Allah</string>
+    <string name="esm00">\"O\'nun zat ve özel ismidir. Diğer bütün esma ve sıfatlar, bu ismin içinde toplanmıştır. Diğer bütün isimleri bu isminin fiilleri, sıfatları ve tecellileri ile ilgilidir.\"</string>
+    <string name="esm000">{Oysa en güzel isimler Allah\'indir.}.Araf Suresi 180</string>
+    <string name="esm0000">(Allah\'ın) Ad Arapların dilinde anlamı en güzel ismin isimlerinin bütündür, idol</string>
+    <string name="esm00000">Tanrı\'nın Adı: O, yaratılışın tanrısıdır ve sevgi, saygı ve boyun eğmeye sahiptir.</string>
+    <string name="esm1">Rahmân</string>
+    <string name="esm1_1">The ِBeneficient/ All-Compassionate/ Most Gracious</string>
+    <string name="esm111">\"Dünyada bütün mahlûkata merhamet eden, şefkat gösteren, ihsan eden.\"</string>
+    <string name="esm11_11">1:3; 2:163; 6:133, 147; 13:30; 17:110; 18:58; 19:18, 19, 26, 44, 45, 58, 61, 69, 75, 78, 85, 87, 88, 91, 92, 93, 96; 20:5, 90, 108, 109; 21:26, 36, 42, 112; 25:26, 59, 60; 26:5; 59:22;</string>
+    <string name="esm2">Rahîm</string>
+    <string name="esm2_2">The Most Merciful/ Ever-Merciful/ Merciful/ Most Clement</string>
+    <string name="esm222">\"Ahirette, sadece müminlere acıyan, merhamet eden.\"</string>
+    <string name="esm22_22">"1:1, 3; 2:37, 54, 128, 160, 163; 3:31; 4:100; 5:3; 5:98; 9:104, 118; 10:107; 11:41; 12:53, 64, 98; 15:49; 19:61; 20:108; 21:83, 112; 26:9, 104, 122, 140, 159, 17, 191, 217; 27:30; 78:38; "</string>
+    <string name="esm3_3">The King/ Lord/ Sovereign/ Dominion/ Master [also means \"the God/ Lord, the One and Only\", \"Possessor of Supreme Power or Authority\"]</string>
+    <string name="esm4_4">The Holy/ All-Holy/ All-Pure/ Sacred/ All-Sacred</string>
+    <string name="esm5_5">The Giver of Peace/ Peace/ All-Calm/ Ever-Tranquil</string>
+    <string name="esm6_6">The Granter of Security/ the Giver/ Faith/ Supreme Believer (of Belief)/ Giver of Belief/ All-Assurer</string>
+    <string name="esm7_7">The Controller/ Absolute Authority Over All/ Guardian Over All/ Absolute Master/ Eternal Dominating</string>
+    <string name="esm8_8">The Exalted in Might and Power/ Exalted/ Powerful/ Almighty/ Mighty</string>
+    <string name="esm9_9">The Omnipotent/ Supreme Power/ Possessor of Having All Power/ Strong</string>
+    <string name="esm1010">The Possessor of Greatness/ Supreme/ Justly Proud</string>
+    <string name="esm1111">The Creator/ Creator of the Universe/ Maker/ True Originator/ Absolute Author</string>
+    <string name="esm1212">The Initiator/ Evolver/ Eternal Spirit Worshipped By All, Have Absolute Power Over All Matters, Nature and Events</string>
+    <string name="esm1313">The Fashioner/ Shaper/ Designer/ Artist</string>
+    <string name="esm1414">The Repeatedly Forgiving/ Absolute Forgiver/ Pardoner/ Condoner [He Who is Ready to Pardon and Forgive]</string>
+    <string name="esm1515">The Subduer/ Overcomer/ Conqueror/ Absolute Vanquisher [Possessor of Who Subdues Evil and Oppression]</string>
+    <string name="esm1616">The ِِAbsolute Bestower/ Giver/ Grantor/ Great Donor</string>
+    <string name="esm1717">The Provider/ Sustainer/ Bestower of Sustenance/ All-Provider</string>
+    <string name="esm1818">The Opener/ Opener of the Gates of Profits/ Reliever/ The Victory Giver</string>
+    <string name="esm1919">The Knowing/ All-Knower/ Omniscient/ All-Knowledgeable/ Possessor of Knowing Much of Ever Thing/ All-Knowing</string>
+    <string name="esm2020">The Restrainer/ / Withholder/ Straightener/ Absolute Seizer</string>
+    <string name="esm2121">The Extender / Expander/ Generous Provider</string>
+    <string name="esm2222">The Abaser/ Humiliator/ Downgrader [Possessor of Giving Comfort, Free from Pain Anxiety or Troubles]</string>
+    <string name="esm2323">The Exalter/ Upgrader [of Ranks]</string>
+    <string name="esm2424">The Giver of Honor/ Bestower of Honor/ Empowerer</string>
+    <string name="esm2525">The Giver of Dishonor/ the Giver of Disgrace</string>
+    <string name="esm2626">The Hearing/ All-Hearing/ Hearer of Invocation</string>
+    <string name="esm2727">The All-Seeing/ All-Seer/ Ever-Clairvoyant/ Clear-Sighted/ Clear-Seeing</string>
+    <string name="esm2828">The Judge/ Arbitrator/ Arbiter/ All-Decree/ Possessor of Authority of Decisions and Judgment</string>
+    <string name="esm2929">The Just/ Authorized and Straightforward Judge of Dealing Justly</string>
+    <string name="esm3030">The Gentle/ Benignant/ Subtly Kind/ All-Subtle</string>
+    <string name="esm3131">The All-Aware/ Well-Acquainted/ Ever-Adept</string>
+    <string name="esm3232">The Forbearing/ Indulgent/ Oft Forbearing/ All-Enduring (of Suffering Pain with Patience)</string>
+    <string name="esm3333">The Most Great/ Ever-Magnificent/ Most Supreme/ Exalted/ Absolute Dignified</string>
+    <string name="esm3434">The Ever-Forgiving/ Oft-Forgiving</string>
+    <string name="esm3535">The Grateful/ Appreciative/ Multiplier of Rewards</string>
+    <string name="esm3636">The Sublime/ Ever-Exalted/ Supreme/ Most High/ Most Lofty</string>
+    <string name="esm3737">The Great/ Ever-Great/ Grand/ Most Great/ Greatly Abundant of Extent, Capacity and Importance</string>
+    <string name="esm3838">The Preserver/ Ever-Preserving/ All-Watching/ Protector/ Guardian/ Oft-Conservator</string>
+    <string name="esm3939">The Nourisher/ Feeder</string>
+    <string name="esm4040">The Bringer of Judgment/ Ever-Reckoner [the One Who Takes Account of All Matters]</string>
+    <string name="esm4141">The Majestic/ Exalted/ Oft-Important/ Splendid</string>
+    <string name="esm4242">The Noble/ Bountiful/ Generous/ Precious/ Honored/ Benefactor</string>
+    <string name="esm4343">The Watchful/ Observer/ Ever-Watchful/ Watcher</string>
+    <string name="esm4444">The Responsive/ Answerer/ Supreme Answerer/ Accepter of Invocation</string>
+    <string name="esm4545">The Vast/ All-Embracing/ Omnipresent/ Boundless/ All-Encompassing</string>
+    <string name="esm4646">The Wise/ Ever-Wise/ Endowed with Sound Judgment</string>
+    <string name="esm4747">The Affectionate/ Ever-Affectionate/ Loving One/ Loving/ the One Who Tenders and Warm Hearts</string>
+    <string name="esm4848">The All-Glorious/ Majestic/ Ever-Illustrious [Oft-Brilliant in Dignity, Achievements or Actions]</string>
+    <string name="esm4949">The Resurrector/ Awakener/ Arouser/ Dispatcher</string>
+    <string name="esm5050">The Witness/ Testifier/ Ever-Witnessing</string>
+    <string name="esm5151">The Truth/ Reality/ the Only One Certainly Sound and Genuine in Truth</string>
+    <string name="esm5252">The Trustee, The Dependable, The Advocate</string>
+    <string name="esm5353">The Strong</string>
+    <string name="esm5454">The Firm, The Steadfast</string>
+    <string name="esm5555">The Friend, Helper</string>
+    <string name="esm5656">The All Praiseworthy</string>
+    <string name="esm5757">The Accounter, The Numberer of All</string>
+    <string name="esm5858">The Originator, The Producer, The Initiator</string>
+    <string name="esm5959">The Restorer, The Reinstater Who Brings Back All</string>
+    <string name="esm6060">The Giver of Life</string>
+    <string name="esm6161">The Bringer of Death</string>
+    <string name="esm6262">The Living</string>
+    <string name="esm6363">The Subsisting, The Independent</string>
+    <string name="esm6464">The Perceiver, The Finder, The Unfailing</string>
+    <string name="esm6565">The Illustrious, The Magnificent</string>
+    <string name="esm6666">The Unique, The Single</string>
+    <string name="esm6868">The Eternal, The Absolute, The Self-Sufficient</string>
+    <string name="esm6969">The All-Powerful, He Who is able to do Everything</string>
+    <string name="esm7070">The Determiner, The Dominant</string>
+    <string name="esm7171">The Expediter, He Who Brings Forward</string>
+    <string name="esm7272">The Delayer, He Who Puts Far Away</string>
+    <string name="esm7373">The First, The Beginning-less</string>
+    <string name="esm7474">The Last, The Endless</string>
+    <string name="esm7575">The Manifest, The Evident, The Outer</string>
+    <string name="esm7676">The Hidden, The Unmanifest, The Inner</string>
+    <string name="esm7777">The Patron, The Protecting Friend, The Friendly Lord</string>
+    <string name="esm7878">The Supremely Exalted, The Most High</string>
+    <string name="esm7979">The Good, The Beneficent</string>
+    <string name="esm8080">The Ever-Returning, Ever-Relenting</string>
+    <string name="esm8181">The Avenger</string>
+    <string name="esm8282">The Pardoner, The Effacer, The Forgiver</string>
+    <string name="esm8383">The Kind, The Pitying</string>
+    <string name="esm8484">The Owner of all Sovereignty</string>
+    <string name="esm8585">The Owner, Lord of Majesty and Honour</string>
+    <string name="esm8686">The Equitable, The Requiter</string>
+    <string name="esm8787">The Gatherer, The Unifier</string>
+    <string name="esm8888">The Rich, The Independent</string>
+    <string name="esm8989">The Enricher, The Emancipator</string>
+    <string name="esm9090">The Preventer, The Withholder, The Shielder, The Defender</string>
+    <string name="esm9191">The Distressor, The Harmer, The Afflictor</string>
+    <string name="esm9292">The Propitious, The Benefactor, The Source of Good</string>
+    <string name="esm9393">The Light</string>
+    <string name="esm9494">The Guide, The Way</string>
+    <string name="esm9595">The Originator, The Incomparable, The Unattainable, The Beautiful</string>
+    <string name="esm9696">The Immutable, The Infinite, The Everlasting</string>
+    <string name="esm9797">The Heir, The Inheritor of All</string>
+    <string name="esm9898">The Guide to the Right Path</string>
+    <string name="esm9999">The Timeless, The Patient</string>
+    <string name="esm3">Melik</string>
+    <string name="esm333">\"Hükümdar. Melik mülkün sâhibi, mülk ve saltanatı devamlı olan demektir. Kur\'an\'ın ilk ve son sûresinde (Fâtiha ve Nâs sûresi) Allah\'tan Melik olarak söz edilir; yâni bir Müslüman için mülk sâhibi, bütün eşyânın ve yaratılanların tek mâlikidir. Bütün varlıkların üzerinde emretme, istediği gibi tasarruf etme, hiçbir şarta bağlı olmaksızın sâhip olma O\'na mahsustur. Yarattıklarına emretme, sakındırma, cezâlandırma, istediğini zelîl, dilediğini de azîz etme kudretine sâhip olan yalnız Allah\'tır. O, yarattığı mülkünde ve orada olanların hepsinde yegâne hükümdardır ve sonsuz kudretiyle onları idâresi altında tutan tek Allahtır.\"</string>
+    <string name="esm33_33">1:4; 20:114; 23:116; 59:23; 62:1; 114:2;</string>
+    <string name="esm4">Kuddüs</string>
+    <string name="esm444">\"Tertemiz. Kuddûs, (Haşr Sûresi, son âyetler). Yeni Ahit\'in Arapça çevirilerinde de yer alır. Her türlü hatâ, gaflet ve âcizlikten uzak, eksiklikten berî, mutlak kemâl sâhibi anlamına gelir. Kur\'an\'da Allah\'ın, sonradan olma ve hiçbir tasvir kayıtlarına sığmayan, hakkında hiçbir eksiklik düşünülemeyen en mukaddes olan en yüce varlık olması, bu ismiyle de anlatılmıştır. Her türlü eksiklik ve ayıplardan münezzeh, arı olan demektir.\"</string>
+    <string name="esm44_44">2:255; 35:41; 59:23; 62:1;</string>
+    <string name="esm5">Selām</string>
+    <string name="esm555">\"Esenlik kaynağı. Selām, İslam sözcüğüyle aynı semantik kökten türer. Her çeşit âfet ve kaderlerden emin olan demektir. Selām ismiyle Allah, her türlü eminliğin, sâlimliğin aslı olup, ayıptan, kusurdan ve her çeşit eksikliklerden uzak olan yüce yaratıcı olduğunu kullarına belli etmiştir. Selam kelimesi aslında barış demektir. İbranicede karşılığı Şalom\'dur. Selim, Süleyman (Solomon) isimleri bu kökten türemiştir.\"</string>
+    <string name="esm55_55">16:96,97; 25:75; 50:31–35; 59:23;</string>
+    <string name="esm6">Mü\'min</string>
+    <string name="esm666">\"Güvenen. İsim Allah\'a izafe edildiğinde anlam değişikliği yapılarak (ismi mef\'ul) güvenilen şeklinde anlamlandırılır.\"</string>
+    <string name="esm66_66">9:25–27; 9:40; 15:45–48; 46:26; 59:23;</string>
+    <string name="esm7">Müheymin</string>
+    <string name="esm777">\"Belirleyici.\"</string>
+    <string name="esm77_77">59:23;</string>
+    <string name="esm8">Azîz</string>
+    <string name="esm888">Aziz, izzetli. Aziz; kelimeye izzetli, onurlu, mağlup edilemeyen, her şeye galip olan anlamları verilmiştir. Aziz kelimesinden ayrıca Arapça dil kalıpları kullanılarak Azze, Azize, Muiz, muazzez gibi kelimeler türetilmiştir.</string>
+    <string name="esm88_88">2:209, 220, 228, 240; 3:4, 6, 18, 62, 126; 4:56, 158, 165; 5:38, 118; 6:96; 9:40, 71; 11:66; 14:47; 16:60; 22:40, 74; 26:9, 104, 122, 140, 159, 175, 191; 27:78; 29:26, 42; 38:9, 66; 39:5; 48:7; 54:42; 57:1; 58:21; 59:1, 23–24;</string>
+    <string name="esm9">Cebbâr</string>
+    <string name="esm999">\"Güç kullanan. Dilediğini cebir yoluyla yapan, kayıtsız şartsız herkese cebredecek güçte olan, hiç kimse tarafından kendisine cebir olunamayan demektir.\"</string>
+    <string name="esm99_99">59:23; 68:19,20; 26:33;</string>
+    <string name="esm10">Mütekebbir</string>
+    <string name="esm101010">\"Bütün ihtişamın sahibi, Büyük ve büyüklenen.\"[7] Mütekebbir, “zatının ve sıfatlarının mahiyeti bilinemeyecek kadar ulu” anlamına gelir.[8] Arapça K.B.R kökünden mütefa\'il vezninde türetilen bir kelimedir. Mütekebbir, kibirlenen, büyüklenen anlamına gelir. Yaklaşık olarak aynı anlama gelen Müstekbir kelimesi de aynı kökten türemiş kelimelerdendir. Aynı kökten türetilen diğer kelimeler kibir, kibriya, ekber vb. dir. Bu manalar yergi ifade etmekte olup Allah’tan başka varlıklar için söz konusudur.[8] Tanrı için kullanıldığında ululuk sahibi, her şeyde ve her hadisede büyüklüğünü gösteren anlamları verilir. İsim ayrıca antropomorfik çağrışımlar açısından dikkat çekicidir.\"</string>
+    <string name="esm10101010">2:260; 7:143; 59:23;</string>
+    <string name="esm11">Hâlik</string>
+    <string name="esm111111">\"Yaratıcı. Hâlik, Allah\'ın yoktan vâr eder yaratıcılığına işâret eden sıfatıdır ve hiç benzeri olmayan bir şeyi meydana getirmek demektir. Bu anlamda Allah\'tan başka hiçbir yaratıcı yoktur. Her şeyi yaratan O\'dur. İnsanların ortaya koydukları şeyler yaratma değil, vâr olanlardan yeni bir şey elde etmektir. Allah yaratandır. O\'nun dışındaki tüm varlıklar ise yaratılmıştır. Her şeyin varlığını ve geçireceği halleri takdîr eden, yaratan, yoktan var eden, büyüklükte eşi olmayandır. \"</string>
+    <string name="esm11111111">6:101–102; 13:16; 24:45; 39:62; 40:62; 41:21; 59:24;</string>
+    <string name="esm12">Bâri</string>
+    <string name="esm121212">\"Umum kainatla münasip, tertipli, bir kalıptan döker gibi güzel yaratan, yarattıklarını temiz ve sağlam bir nizâm üzere yaratan, olgunlaştırarak birbirinden farklı niteliklerde meydana getiren, her şeyin âzâ ve cihazını birbirine uygun yaratan demektir.\"</string>
+    <string name="esm12121212">59:24</string>
+    <string name="esm13">Musavvir</string>
+    <string name="esm131313">\"Tasarımlayan, şekillendiren. Yaratmış olduğu varlıkları şekillendiren ve durumlarını tâkdir eden demektir.\"</string>
+    <string name="esm13131313">20:50; 25:2; 59:24; 64:3;</string>
+    <string name="esm14">Gaffâr</string>
+    <string name="esm141414">\t\"Günahları çokça bağışlayan, çokça örten. Gaffâr, kullarının günâhlarını affeden ve çok bağışlayan yüce varlık anlamına gelir. Günâh işlemek insanların özelliği olduğu gibi, onların günâhlarını örtmek ve bağışlamak da yüce Allah\'ın ayrılmaz sıfatlarındandır. \"</string>
+    <string name="esm14141414">20:82; 38:66; 39:5; 40:42; 71:10;</string>
+    <string name="esm15">Kahhâr</string>
+    <string name="esm151515">\"Kahreden. Kahhâr, Allah\'ın ziyâdesiyle kahredici, yok edici yüce bir varlık olduğu anlamına gelir. Sonsuz kudretinin karşısında hiçbir kimsenin gücü ve kudreti olamaz. Ama serbest irâdeleriyle O\'nun karşısına çıkma cüretini gösterenlere de lâyık oldukları cezâları tam olarak verecektir. Allah\'ın kayıtsız üstünlüğüne sınır koyacak hiçbir varlık yoktur. Her şeye, her istediğini yapacak sûrette, gâlip ve hâkim demektir. \"</string>
+    <string name="esm15151515">6:18; 12:39; 13:16; 14:48; 38:65; 39:4; 40:16;</string>
+    <string name="esm16">Vehhâb</string>
+    <string name="esm161616">\"Karşılıksız bolca veren. Vehhâb, Allah\'ın karşılıksız olarak çok hîbe eden, çok fazla bağışlayan olduğu anlamına gelir. Hak sâhibi olmadıkları halde yarattıklarına çok, çok verendir. Çok fazla ihsan eden, çeşit, çeşit nimetleri daima bağışlayan demektir.\"</string>
+    <string name="esm16161616">3:8; 38:9, 35;</string>
+    <string name="esm17">Rezzâk</string>
+    <string name="esm171717">\"Rızıklandıran.\"</string>
+    <string name="esm17171717">10:31; 24:38; 32:17; 35:3; 51:58; 67:21;</string>
+    <string name="esm18">Fettâh</string>
+    <string name="esm181818">\"Açan, genişlik verici. Fettâh, kulların her türlü güçlük ve sıkıntılarını açan ve kolaylaştıran anlamına gelir. Faydalı ilimlere karşı insanların kalbini açarak işlerini kolaylaştıran, bütün zorluklarını ortadan kaldıran yüce Allah\'tır. Her işinde üstün gelen O\'dur. Her türlü müşkülleri açan ve kolaylaştıran, darlıktan kurtarandır.\"</string>
+    <string name="esm18181818">7:96; 23:77; 34:26; 35:2; 48:1; 96:1–6;</string>
+    <string name="esm19">Alîm</string>
+    <string name="esm191919">\"Her şeyi çok iyi bilen. Çok bilen, bilgisi sonsuz, farkında olan, her şeyi en ince noktasına kadar bilen, ilmi ebedî ve ezelî olan demektir. Aynı zamanda bilgiç anlamınada gelir.\"</string>
+    <string name="esm19191919">2:29, 95, 115, 158; 3:73, 92; 4: 12, 17, 24, 26, 35, 147; 6:59; 8:17; 11:5; 12:83; 15:86; 22:59; 24:58, 59; 24:41; 33:40; 35:38; 57:6; 64:18;</string>
+    <string name="esm20">Kābid</string>
+    <string name="esm202020">\"Sıkan, daraltan. Kābid, Allah\'ın, her şeyi sonsuz kudreti altına alan, bu kudretiyle kuşatıp kavrayan, her şeyi emri altına alıp tutan en yüce varlık olduğu anlamına gelir. Dilediğine darlık veren, sıkan, daraltan demektir.\"</string>
+    <string name="esm20202020">2:245; 64:16–17;</string>
+    <string name="esm21">Bâsit</string>
+    <string name="esm212121">\"Ferahlatan, genişleten. Bâsit, her hayrı veren, lütuf ve rahmetini kullarına yayan. Dilediğine bolluk veren, açan, genişleten demektir.\"</string>
+    <string name="esm21212121">2:245; 4:100; 17:30;</string>
+    <string name="esm22">Hâfıd</string>
+    <string name="esm222222">\"Perişan eden. \"Allah\'ın, emirlerini dinlemeyen, başkalarını beğenmeyen, büyüklenip hak ve hukuk tanımaz zorbaları rezil, perişan eden\" anlamına gelen bir isimdir. Yukarıdan aşağıya indiren, alçaltan, dereceleri düşüren demektir.\"</string>
+    <string name="esm22222222">2:171; 3:191–192; 56:1–3; 95:5;</string>
+    <string name="esm23">Râfi</string>
+    <string name="esm232323">\"Yücelten. Râfi, kaldıran, yükselten, dereceleri yükselten ve yüksek olan anlamlarına gelir. Gönülleri îmân ve irfan ışığıyla parlatan, yüksek gerçeklerden haberdâr eden yüce Allah\'tır. Her yönüyle yüce ve yüksek olan O\'dur.\"</string>
+    <string name="esm23232323">6:83–86; 19:56–57; 56:1–3;</string>
+    <string name="esm24">Muiz</string>
+    <string name="esm242424">\"İzzet veren. Aziz kelimesinden türetilen Muiz, izzet ve azizlik veren anlamlarına gelir. (Ayrıntılı bilgi için bkn.Aziz)\"</string>
+    <string name="esm24242424">3:26; 8:26; 28:5;</string>
+    <string name="esm25">Müzil</string>
+    <string name="esm252525">\"Zillet veren. Müzil, yüce Allah\'ın lâyık olanları zillete düşüren, zelîl kılan, onları hor ve hakîr eden anlamına gelen bir sıfat isimdir. Zillete düşüren, hor ve hakir eden demektir.\"</string>
+    <string name="esm25252525">3:26; 9:2, 14–15; 8:18; 10:27; 27:37; 39:25–26; 46:20;</string>
+    <string name="esm26">Semî</string>
+    <string name="esm262626">\"İşiten, işitme kuvvetine sâhip olan ve işitme gücünü verendir. O, hiçbir şartla ve kayda bağlı olmaksızın işitir. Herşeyi işiten, kullarının niyazını kabul eden demektir.\"</string>
+    <string name="esm26262626">2:127, 137, 186, 224, 227, 256; 3:34–35, 38; 4:58, 134, 148; 5:76; 6:13, 115; 8:17; 10:65; 12:34; 14:39; 21:4; 26:220; 40:20, 56; 41:36; 49:1;</string>
+    <string name="esm27">Basîr</string>
+    <string name="esm272727">\"Gören, her şeyi her yönüyle eksiksiz gören, yarattıklarına da görme duyusunu veren demektir. İnsan ve hayvanlara çevreleriyle temasta olabilmeleri için dil, kulak, akıl, temas, görme ve diğer duyularını vermiş ve sorumlu olan yarattıklarından da kendisini eserlerinden tanıması için bu duyularla donatmıştır.\"</string>
+    <string name="esm27272727">2:110; 3:15, 163; 4:58, 134; 10:61; 17:1, 17, 30, 96; 22:61, 75; 31:28; 40:20; 41:40; 42:11, 27; 57:4; 58:1; 67:19;</string>
+    <string name="esm28">Hakem</string>
+    <string name="esm282828">\"Hakem, hikmet sâhibi olan, yaptığı her işte hikmeti gözeten, hükmeden. Hikmet sâhibi olan, yaptığı her işte hikmeti gözeten, hükmeden demektir.\"</string>
+    <string name="esm28282828">6:62, 114; 10:109; 11:45; 22:69; 95:8;</string>
+    <string name="esm29">Adil</string>
+    <string name="esm292929">\"Adil, insaflı, her şeyi yerli yerinde yapan, her şeyi hak ve doğru olan. İslâm\'da adâlete verilen önem büyüktür. İslâm kültüründeki adâlet anlayışı, kânundaki hakkın verilmesinden ibârettir. Kur\'an-ı Kerim\'de Cenâb-ı Allah Hayrü\'l-Hâkimîn yani adâletle hükmedenlerin en hayırlısı (el-A\'râf, 7/87) olarak ifade edilirken, en büyük adâlet sıfatına sahip olan varlık anlamında kullanılmıştır.\"</string>
+    <string name="esm29292929">5:8, 42; 6:92, 115; 17:71; 34:26; 60:8;</string>
+    <string name="esm30">Latîf</string>
+    <string name="esm303030">\"İnce, letâfetli. Allah\'ın güzel adlarından (Esmâu\'l Hüsna) birisi, kelime olarak latif, ince hoş, nüfuz edici, saydam, güzel, yumuşak, gizli, derin, lütufkâr gibi anlamları dile getirir.\"</string>
+    <string name="esm30303030">3:164; 6:103; 12:100; 22:63; 28:4–5; 31:16; 33:34; 42:19; 52:26–28; 64:14; 67:14;</string>
+    <string name="esm31">Habîr</string>
+    <string name="esm313131">\"Her şeyden haberdâr olan. Habîr, her şeyden haberdâr olan, her şeyin iç yüzünden ve gizli tarafından her yönüyle haber sâhibi olan, onlara yumuşak davranarak cezâlarını geriye bırakandır. Her şeyi iç yüzünden, gizli tarafından haberdâr olan demektir.\"</string>
+    <string name="esm31313131">3:180; 6:18, 103; 17:30; 22:63; 25:58–59; 31:34; 34:1; 35:14; 49:13; 59:18; 63:11; 100:11;</string>
+    <string name="esm32">Halîm</string>
+    <string name="esm323232">\"Yumuşak muâmele eden. Halîm, acele etmeyen, günahkârların cezâsını vermeye güç yetirdiği halde bunu acele yapmayıp, onlara yumuşak davranarak cezâlarını geriye bırakandır. Yumuşak davranan, hilmi çok olan demektir.\"</string>
+    <string name="esm32323232">\t2:225, 235, 263; 3:155; 4:12; 5:101; 17:44; 22:59; 33:51; 35:41; 64:17;</string>
+    <string name="esm33">Azîm</string>
+    <string name="esm333333">\"Büyüklük sahibi, çok yüce ve çok büyük olan; sınırsız ve kayıtsız büyüklük, üstünlüğün tek sâhibi, pek azametli, yüce olandır.\"</string>
+    <string name="esm33333333">2:105, 255; 42:4; 56:96;</string>
+    <string name="esm34">Gafûr</string>
+    <string name="esm343434">\"Affeden. Gafûr, mağfiret eden, suçları çok bağışlayan, affeden, insanların beğenilmeyen taraflarını gizleyen, mağfireti çok demektir.\"</string>
+    <string name="esm34343434">22:173, 182, 192, 218, 225—226, 235; 3:31, 89, 129, 155; 4:25; 6:145; 8:69; 16:110, 119; 35:28; 40:3; 41:32; 42:23; 57:28; 60:7;</string>
+    <string name="esm35">Şekûr</string>
+    <string name="esm353535">\"Az şükredene dahi çok nimet veren.\"</string>
+    <string name="esm35353535">4:40; 14:7; 35:30, 34; 42:23; 64:17;</string>
+    <string name="esm36">Aliyy</string>
+    <string name="esm363636">\"Ulu, yüce, üstün olan. Alî, yüksek, büyük ve yüce olan; güçte, bilgide, hükümde, irâdede ve diğer bütün yetkin sıfatlarında üstün olan anlamına gelmektedir.\"</string>
+    <string name="esm36363636">2:255; 4:34; 22:62; 31:30; 34:23; 40:12; 41:12; 42:4, 51; 48:7; 57:25; 58:21; 87:1;</string>
+    <string name="esm37">Kebîr</string>
+    <string name="esm373737">\"Büyük, yüce anlamında olup Allah\'ın kâinatı hüküm ve kudretiyle idâre eden, her şeyi hükmü altına alan olduğunu belirtir ve pek büyük demektir.\"</string>
+    <string name="esm37373737">4:34; 13:9; 22:62; 31:30; 34:23; 40:12;</string>
+    <string name="esm38">Hafîz</string>
+    <string name="esm383838">\"Koruyucu. Koruyucu ve muhafaza edici olan demektir. Bu ad, Allah\'ın isimleriyle ilgili meşhur rivâyetlerde aktarılmaktadır. Dolayısıyla bu rivayetlere göre Allah\'ın adları\'ndan biri olduğuna karar verilmiştir.\"</string>
+    <string name="esm38383838">11:57; 12:55; 34:21; 42:6;</string>
+    <string name="esm39">Mukît</string>
+    <string name="esm393939">\"Besleyen, rızıkları yaratan, bilen, tâyin eden, her yaratılmışın rızkını veren demektir.\"</string>
+    <string name="esm39393939">4:85;</string>
+    <string name="esm40">Hasîb</string>
+    <string name="esm404040">“Onlar (peygamberler) Allah’ın gönderdiklerini tebliğ edenler, O’ndan korkanlar ve Allah’tan başka hiç kimseden korkmayanlardır. Hasîb olarak Allah yeter.” (Ahzâb33/, 39) Hasîb, herkesin yaptıklarını tâkdir edip bütün ayrıntılarıyla bilen ve her insana yaptıklarının karşılığını veren anlamına gelir.\"</string>
+    <string name="esm40404040">4:6, 86; 6:62; 33:39;</string>
+    <string name="esm41">Celîl</string>
+    <string name="esm414141">\"Celalet ve celadet sahibi, azim, mertebesi yüksek, büyüklük ve ululuğu pek yüce olandır. Azamet sâhibi olan, ululuk sâhibi olan demektir.\"</string>
+    <string name="esm41414141">7:143; 39:14; 55:27;</string>
+    <string name="esm42">Kerîm</string>
+    <string name="esm424242">\"Cömert, kerem sâhibi; muktedirken affeden, cömertlik duygusunu veren, va\'dini yerine getirendir. Çok ikrâm edici, kerîmi olan demektir.\"</string>
+    <string name="esm42424242">23:116; 27:40; 76:3; 82:6–8; 96:1–8;</string>
+    <string name="esm43">Rakîb</string>
+    <string name="esm434343">\"Kontrol ve gözetim altında bulunduran. Rakîb, görüp gözeten, murâkebe eden, bütün varlıklar üzerine gözcü olup bütün işlerini kontrol altına alandır. Bütün varlıklar ve bütün işler murakabesi altında bulunan demektir.\"</string>
+    <string name="esm43434343">4:1; 5:117; 33:52;</string>
+    <string name="esm44">Mucîb</string>
+    <string name="esm444444">\"İcâbet eden. O\'na yalvaranların isteklerine karşılık veren, teklifleri bilendir (el-Bakara, 2/186). Kendine yalvaranların isteklerini veren, duâları kabul eden, icâbet eden demektir.\"</string>
+    <string name="esm44444444">2:186; 7:194; 11:61;</string>
+    <string name="esm45">Vâsi</string>
+    <string name="esm454545">\"Bağışlaması bol ve rahmeti çok olan. Yarattıklarına maddî ve manevî genişlik verendir. Lütfu bol olan demektir. \"</string>
+    <string name="esm45454545">2:115, 247, 261, 268; 3:73; 4:130; 5:54; 24:32; 63:7;</string>
+    <string name="esm46">Hakîm</string>
+    <string name="esm464646">\"Her işi hikmetli olan, her şeyi inceliğiyle bilen, bu bilgisine göre emir ve yasakları vâzeden, buyrukları ve bütün işleri yerli yerinde olandır. Emirleri, kelâmı ve bütün işleri hikmetli, hikmet sâhibi olan demektir. \"</string>
+    <string name="esm46464646">2:32, 129, 209, 220, 228, 240, 260; 3:62, 126; 4:17, 24, 26, 130, 165, 170; 5:38, 118; 9:71; 15:25; 31:27; 46:2; 51:30; 57:1; 59:22–24; 61:1; 62:1, 3; 66:2;</string>
+    <string name="esm47">Vedûd</string>
+    <string name="esm474747">\"Sevilen, çok şefkatli, muhabbetli, sâlih kullarını çok seven ve onlarca çok sevilen, onları rahmet ve rızâsına erdiren; sevilmeye ve dostluğu kazanılmaya yegâne lâyık olandır. Sevgi ve dostluk hissini yaratandır. Kur\'an\'da iki sûrede (Hûd:90 ve Buruc:14) geçmektedir.\"</string>
+    <string name="esm47474747">11:90; 85:14;</string>
+    <string name="esm48">Mecîd</string>
+    <string name="esm484848">\"Şerefli. Mecîd şan, şeref, büyüklük ve kudretinden dolayı yüce olan ve güzel işlerinden dolayı sevilip övülendir. Şeref, ancak kendi emir ve yasaklarına uymakla elde edilebilir. Şânı şerefi çok üstün olan demektir.\"</string>
+    <string name="esm48484848">11:73; 72:3;</string>
+    <string name="esm49">Bâis</string>
+    <string name="esm494949">\"Ölüleri yeniden yaratan, ölüleri dirilten, her canlıyı ölümünün ardından yeniden dirilten demektir. Meselâ kışın ölmüş gibi âdetâ cansız gibi görünen bitkileri ve bâzı hayvanları baharda yeniden canlandırması ve onlarda yeni şeyler yaratması.\"</string>
+    <string name="esm49494949">2:28; 22:7; 30:50; 79:10–11;</string>
+    <string name="esm50">Şehîd</string>
+    <string name="esm505050">\"Şâhit, her şeye şâhit olan, her şeyi hakkıyla gören, bilen ve muâmelesini de buna göre yapan demektir. Her zaman ve her yerde hâzır ve nâzır olan demektir. \"</string>
+    <string name="esm50505050">4:33, 79, 166; 5:117; 6:19; 10:46, 61; 13:43; 17:96; 22:17; 29:52; 33:55; 34:47; 41:53; 46:8; 48:28; 58:6–7; 85:9;</string>
+    <string name="esm51">Hakk</string>
+    <string name="esm515151">\"Varlığı (zâtı) hiç değişmeden duran. Hakk, varlığı hiç değişmeyen, hiç yok olmayan ve gerçek olan anlamındadır (el-Hacc, 22/6). Vacib\'ul vücut olan, varlığı hiç değişmeden duran demektir.\"</string>
+    <string name="esm51515151">6:62; 18:44; 20:114; 22:6, 62; 23:116; 24:25; 31:30;</string>
+    <string name="esm52">Vekîl</string>
+    <string name="esm525252">\"Vekil kılınan, hayatını Allah\'a tevekkül ederek düzenleyen ve böylece O\'na sığınanların işlerinde kendilerine yardım edendir; idâresinde hiçbir kayda ve şarta bağlı olmayandır. Tevekkül sâhiplerinin işini düzeltip onlardan daha iyi temin eden demektir.\"</string>
+    <string name="esm52525252">3:173; 4:81; 4:171; 6:102; 9:51; 17:65; 28:28; 31:22; 33:3, 48; 39:62; 73:9;</string>
+    <string name="esm53">Kaviyy</string>
+    <string name="esm535353">\"Kuvvetli. Kavî, kudretli, güçlü ve sınırsız kuvvet sâhibi olan anlamına gelir. Müslümanlar, her şeyin Allah\'ın kudret ve kuvveti karşısında güçsüz olduğu; Allah\'a boyun eğmek zorunda olunduğuna inanırlar. Pek kuvvetli demektir. İslam inancına göre bedenen ve ruhen güçlü olmak için günde 116 kez zikrin devamı gereklidir.\"</string>
+    <string name="esm53535353">2:165; 8:52; 11:66; 22:40, 74; 33:25; 40:22; 42:19; 57:25; 58:21;</string>
+    <string name="esm54">Metîn</string>
+    <string name="esm545454">\"Sağlam, metânetli, kuvveti çok şiddetli olup hiçbir iş zor gelmeyen, pek güçlü demektir.\"</string>
+    <string name="esm54545454">22:74; 39:67; 51:58; 69:13–16;</string>
+    <string name="esm55">Velî</string>
+    <string name="esm555555">\"Veli, dost, emir sâhibi ve iyi insanların, yâni müminlerin dostu (velîsi) olup onlara yardım ederek işlerini yönetendir.\"</string>
+    <string name="esm55555555">2:107, 257; 3:68, 122; 4:45; 7:155, 196; 12:101; 42:9, 28; 45:19;</string>
+    <string name="esm56">Hamîd</string>
+    <string name="esm565656">\"Övülen. Hamîd, çok övülen, övgüyle değer sıfatlarıyla hamd edilendir. Bütün varlığın diliyle övülmeye lâyık ve her an ancak O\'na hamd edilen tek yüce varlık anlamlarına gelir.\"</string>
+    <string name="esm56565656">4:131; 14:1, 8; 17:44; 11:73; 22:64; 31:12, 26; 34:6; 35:15; 41:42 42:28; 57:24; 60:6; 64:6; 85:8;</string>
+    <string name="esm57">Muhsî</string>
+    <string name="esm575757">\"Sayan, iyilik eden, ihsan eden, hayırsever\"</string>
+    <string name="esm57575757">19:94; 58:6; 67:14;</string>
+    <string name="esm58">Mübdî\'</string>
+    <string name="esm585858">\"Varlık veren. Mübdî, hiç yoktan ortaya koyan, vâreden, yaratandır. Allah\'tan başka yaratıcı yoktur. Yaratıkları maddesiz ve örneksiz olarak baştan yaratan olan Allah\'ın adıdır. \"</string>
+    <string name="esm58585858">10:4, 34; 27:64; 29:19; 85:13;</string>
+    <string name="esm59">Muîd</string>
+    <string name="esm595959">\"Döndüren. Muîd, yaratılmışları yok ettikten sonra tekrar yaratandır. O\'ndan başka yaratıcı olamaz. Yaratılmışları yok ettikten sonra tekrar yaratan demektir.\"</string>
+    <string name="esm59595959">10:4, 34; 27:64; 29:19; 85:13;</string>
+    <string name="esm60">Muhyî</string>
+    <string name="esm606060">\"Canlandıran, dirilten. Muhyî dirilten, canlandıran, hayat veren, vâr ve ihyâ eden, dirilten, can bağışlayan, sağlık veren demektir.\"</string>
+    <string name="esm60606060">2:28; 3:156; 7:158; 10:56; 15:23; 23:80; 30:50; 36:78–79; 41:39; 57:2;</string>
+    <string name="esm61">Mümît</string>
+    <string name="esm616161">\"Öldüren, can alan. Mümît, öldüren, ölümü her canlıya tâkdir edip bunu uygulayan, yaratıkların ölümünü yaratan, öldüren demektir.\"</string>
+    <string name="esm61616161">3:156; 7:158; 15:23; 57:2;</string>
+    <string name="esm62">Hayy</string>
+    <string name="esm626262">\"Her zaman diri olan. Hayy, ezelî ve ebedî diri olan, uyuklama, yorulma gibi noksanlıklardan uzak olan. Var. Diri, tam ve mükemmel mânâsıyla hayat sâhibi demektir.\"</string>
+    <string name="esm62626262">2:255; 3:2; 20:58, 111; 25:58; 40:65;</string>
+    <string name="esm63">Kayyûm</string>
+    <string name="esm636363">\"Ayakta tutan, yarattıklarının işini çeviren, her işleneni bilen, evveli olmayan demektir.\"</string>
+    <string name="esm63636363">2:255; 3:2; 20:111; 35:41;</string>
+    <string name="esm64">Vâcid</string>
+    <string name="esm646464">\"İcâd eyleyen, varlığı kendinden olan. Vâcid, vâr olan ve her şeyi vâreden, icâd eyleyen; varlığı kendinden olan; dilediğini istediği anda var edip yaratandır. O\'na karşı hiçbir şey kendini gizleyemez. İstediğini, istediği vakit bulan demektir.\"</string>
+    <string name="esm64464646">38:44;</string>
+    <string name="esm65">Mâcid</string>
+    <string name="esm656565">\"Şânlı. Mâcid, ulu ve cömert, şânı yüce anlamlarını taşımaktadır. Kadri ve şânı büyük, kerem ve müsâmahası bol demektir.\"</string>
+    <string name="esm65656565">11:73; 85:15;</string>
+    <string name="esm66">Vâhid</string>
+    <string name="esm666666">\"Eşi ve benzeri olmayan, zâtında tek olan. Vâhid; kendisinden başka olmamak, zâtında, sıfatlarında, işlerinde ve hükümlerinde, fiillerinde aslâ ortağı, dengi ve benzeri bulunmayan demektir. Sayılabilirlik, yâni iki değil, bir olmak demek değildir. Çünkü Allah sonsuzdur, ucu bucağı yoktur. Dolayısıyla bir sayıyla eşlemek imkânsızdır.\"</string>
+    <string name="esm66666666">2:133, 163, 258; 4:171; 5:73; 6:19; 9:31; 12:39; 13:16; 14:48; 18:110; 22:73; 37:4; 38:65; 39:4; 40:16; 41:6;</string>
+    <string name="esm68">Samed</string>
+    <string name="esm686868">\"Her şey kendisine muhtaç olan, kendisi ise hiçbir şeye muhtaç olmayan. Geleneksel meâl çalışmalarında Samed kelimesine birebir tercüme şeklinde anlam verilmez ve \"kendisi hiçbir şeye muhtaç olmayan, ama her şey ona muhtaç olan; tüm canlıların ihtiyaçlarını gideren ve her türlü istekte doğrudan kendisine başvurulan\" şeklinde açıklamalarda bulunulur.\"</string>
+    <string name="esm68686868">6:64; 27:62; 112:1–2;</string>
+    <string name="esm69">Kādir</string>
+    <string name="esm696969">\"Kudretli, kudret sâhibi, tükenmez kudreti olan, istediğini dilediği gibi yapmaya muktedir olandır. Her türlü güç ve kuvvet de O\'ndandır (el-Bakara, 2/20). İstediğini, istediği gibi yaratmaya muktedir olan, gücü yeten demektir.\"</string>
+    <string name="esm69696969">6:65; 17:99; 35:44; 36:81; 41:39; 46:33; 70:40–41; 75:40; 86:8;</string>
+    <string name="esm70">Muktedir</string>
+    <string name="esm707070">\"İktidar sahibi. Muktedir, gücü her şeye yeten, her şeyi dilediği duruma getiren, kuvvet sahibi demektir. Kehf suresinin 45. ayetinde, Kamer suresinin 42. ve 55. ayetlerinde geçer.\"</string>
+    <string name="esm70707070">18:45–46; 28:38–40; 29:39–40; 43:42, 51; 54:42, 55;</string>
+    <string name="esm71">Mukaddim</string>
+    <string name="esm717171">\"Öne geçiren. Mukaddim, her şeyden önce olan, dilediğini öne alan; dilediğine maddî ve manevî nimetler verip yükselten, öne geçiren demektir. \"Takdim eden\" manasına da gelir.\"</string>
+    <string name="esm71717171">16:61; 17:34; 50:28;</string>
+    <string name="esm72">Mu\'ahhir</string>
+    <string name="esm727272">\"Geride bırakan, erteleyen, her şeyden sonra yine var olan; O\'na uymayanları zelîl edip arkada bırakan, istediğini geri koyandır. Sonunda yine sadece O var (olarak) kalacaktır.\"</string>
+    <string name="esm72727272">7:34; 11:8; 14:42; 16:61; 71:4;</string>
+    <string name="esm73">Evvel</string>
+    <string name="esm737373">\"Varlığı öncesiz olan, varlığının zamansal başı olmayan. Evvel; her şeyden önce olan, öncelerin öncesi, başlangıçların yaratıcısı ve varlığının öncesi olmayandır. Her şeyden önce var olan demektir. \"</string>
+    <string name="esm73737373">57:3</string>
+    <string name="esm74">Âhir</string>
+    <string name="esm747474">\"Varlığı sonrasız olan, varlığının zamansal sonu olmayan.\"</string>
+    <string name="esm74747474">39:68; 55:26–27; 57:3;</string>
+    <string name="esm75">Zâhir</string>
+    <string name="esm757575">\"Yarattıklarıyla varlığı aşikâr olan, görünen, varlığında hiç şüphe olmayan, varlığı her şeyden âşikâr olandır. Her yaratık, yaratanının görülen bir şâhididir.\"</string>
+    <string name="esm75757575">3:191; 6:95–97; 50:6–11; 57:3; 67:19;</string>
+    <string name="esm76">Bâtın</string>
+    <string name="esm767676">\"Varlığı (zâtı) gizli olan, cisim olarak görünmeyen. Bâtın; gizli, cisim olarak görülmeyen, duyularla algılanamayan, varlığı gizli olan, ancak varlığı da kesin olarak bilinendir. Hayâl, duygu, akıl ve düşüncenin de görülmeyip eserleriyle varlıklarının kesin olarak bilinmesi gibi. Akılların idrâk edemeyeceği kadar yüce ve azâbı gizli olan demektir.\"</string>
+    <string name="esm76767676">6:103; 57:3;</string>
+    <string name="esm77">Vâlî</string>
+    <string name="esm777777">\"Evreni ve evrende olan her şeyi yöneten. Vâlî yardım eden, destek veren, işleri düzenleyen, yöneten anlamlarını taşır. Bu muazzam kâinâtı ve bütün hâdisâtı tek başına idâre eden demektir.\"</string>
+    <string name="esm77777777">13:11; 42:9;</string>
+    <string name="esm78">Müteâli</string>
+    <string name="esm787878">\"Her şeyden yüce. Müteâli, yüksek ve yüce, bilinenlerin en üstünü demektir. Akıllı yaratılmışlarda mümkün gördüğü her şeyden çok yücedir.\"</string>
+    <string name="esm78787878">7:190; 13:9; 20:114; 22:73–74; 27:63; 30:40; 54:49–53;</string>
+    <string name="esm79">Berr</string>
+    <string name="esm797979">\"İyilik yapan, iyilik ve güzellik, bağışta bulunma, kullarına yardımcı olma anlamlarında Yüce Allah\'ın bir sıfat ismidir. Kullarına iyilik ve ihsanı, nimetleri bol olan demektir.\"</string>
+    <string name="esm79797979">16:4–18; 52:28;</string>
+    <string name="esm80">Tevvâb</string>
+    <string name="esm808080">\"Tövbelere kucak açan. Tevvâb, tövbeleri çok kabul eden, tövbe kapısını açık tutarak tövbe etme imkânı veren, bağışlayan demektir. Buna göre Allah, samîmî olarak günahlardan dönüp tövbe edenleri bağışlayandır.\"</string>
+    <string name="esm80808080">2:37, 54, 128, 160; 4: 17–18, 64; 9:104, 118; 10:90–91; 24:10; 39:53; 40:3; 49:12; 110:3;</string>
+    <string name="esm81">Müntakim</string>
+    <string name="esm818181">\"İntikam alan. Ancak din bilginlerince intikam alma Allah\'a yakıştırılamadığı için \"günahkârlara adaletiyle müstahak oldukları cezayı veren\" şeklinde açıklamalarla ismin antropomorfik çağrışımı yok edilir.\"</string>
+    <string name="esm81818181">32:22; 43:41, 55; 40:10; 44:16; 75:34–36;</string>
+    <string name="esm82">Afüv</string>
+    <string name="esm828282">\"Affedici, günahları silip sâhibini cezâlandırmaktan vazgeçen anlamına gelmektedir\"</string>
+    <string name="esm82828282">4:17, 43, 99, 149; 16:61; 22:60; 58:2;</string>
+    <string name="esm83">Ra\'ûf\t</string>
+    <string name="esm838383">\"Esirgeyen. Rauf, çok şefkat ve merhamet gösteren, çok esirgeyen, kolaylık sağlayan anlamındadır. Rauf\'un anlamı ilk anda Rahîm\'le benzer görünse de Kur\'an\'da Rauf ismi berâber geçtiği yerlerde Rahîm\'den önce anılmıştır. Rauf\'un kolaylık sağlaması anlamına örnek yaşlılık, hastalık ve zayıflık gibi hallerde bâzı ibâdetlerden muaf olma sayılabilir. \"</string>
+    <string name="esm83838383">2:143, 207; 3:30; 9:117; 16:7, 47; 22:65; 24:20; 57:9; 59:10;</string>
+    <string name="esm84">Mâlik-ül Mülk</string>
+    <string name="esm848484">\"Mülkün gerçek ezeli ve ebedi sâhibi.\"</string>
+    <string name="esm84848484">14:8; 3:26;</string>
+    <string name="esm85">Zülcelâl-i vel-İkrâm</string>
+    <string name="esm858585">\"Şanlı ve İkrâmlı. Zülcelâl-i vel-İkrâm hem azamet, hem de fazl-u kerem sâhibi demektir.\"</string>
+    <string name="esm85858585">33:34–35; 55:27, 78; 76:13–22;</string>
+    <string name="esm86">Muksit</string>
+    <string name="esm868686">\"Dürüst veya tasarruflu. Muksit, \"Bütün işlerini dengeli yapan\" anlamına gelir. Hükmünde ve fiillerinde adâletli olan demektir.\"</string>
+    <string name="esm86868686">3:18; 7:29;</string>
+    <string name="esm87">Câmi</string>
+    <string name="esm878787">\"Toparlayan, istediğini istediği şekilde, istediği zaman, istediği yerde toplayan demektir.\"</string>
+    <string name="esm87878787">2:148; 3:9; 4:140;</string>
+    <string name="esm88">Ganî</string>
+    <string name="esm888888">\"Zengin. Ganî, çok zengin, hiçbirşeye muhtaç olmayan demektir.\"</string>
+    <string name="esm88888888">2:263; 3:97; 4:131; 6:133; 10:68; 14:8; 22:64; 27:40; 29:6; 31:12, 26; 35:15, 44; 39:7; 47:38; 57:24; 60:6; 64:6;</string>
+    <string name="esm89">Muğnî</string>
+    <string name="esm898989">\"Zenginleştiren, dilediğine zenginlik veren, ihtiyaçlarını gideren, müstağni kılan demektir.\"</string>
+    <string name="esm89898989">9:28; 23:55–56; 53:48; 76:11–22;</string>
+    <string name="esm90">Mâni</string>
+    <string name="esm909090">"\"Engel olan. Mâni, bâzı şeylerin meydana gelmesine müsâde etmeyen, engelleyen demektir.\" "</string>
+    <string name="esm90909090">67:21; 28:35; 33:9;</string>
+    <string name="esm91">Dâr</string>
+    <string name="esm919191">\t\"Zarar veren. Dâr, zarar verici şeyler yaratan mânâsındadır. Elem ve zarar verecek şeyleri yaratan, hüsrana uğratan demektir.\"</string>
+    <string name="esm91919191">6:17; 36:23; 39:38;</string>
+    <string name="esm92">Nâfi</string>
+    <string name="esm929292">\"Faydalandıran. Nâfi, hayr ve menfaat verecek şeyleri yaratan, faydalandıran anlamına gelir.\"</string>
+    <string name="esm92929292">30:37;</string>
+    <string name="esm93">Nûr</string>
+    <string name="esm939393">\"Evreni nurlandıran. Nûr, rûhânî ışık, âlemleri nûrlandıran, dilediğini nûr eden, nûr olan demektir. \"</string>
+    <string name="esm93939393">2:257; 5:15–16; 6:122; 24:35–36, 40; 33:43, 45–46; 39:22, 69; 57:9, 12–13, 19, 28;</string>
+    <string name="esm94">Hâdî</string>
+    <string name="esm949494">\"Hidâyet verici, hidâyete kavuşturan, kulunu hayırla muvaffak kılan demektir.\"</string>
+    <string name="esm94949494">2:4–7; 20:50; 25:31, 52; 28:56; 87;3;</string>
+    <string name="esm95">Bedî</string>
+    <string name="esm959595">\"Örneksiz yaratan, emsalsiz, acâyip ve hayret verici âlemler yaratan demektir.\"</string>
+    <string name="esm95959595">2:117; 6:101; 7:29</string>
+    <string name="esm96">Bâkî</string>
+    <string name="esm969696">\"Varlığının sonu olmayan, gelmeyen, süreklilik sâhibi, sonsuza kadar kalan, sonsuz. Varlığının zamansal sonu bulunmayan (gelmeyen), ebedî olan demektir.\"</string>
+    <string name="esm96969696">6:101; 55:26–28; 28:60, 88;</string>
+    <string name="esm97">Vâris</string>
+    <string name="esm979797">\"Bütün servetlerin gerçek sâhibi. Vâris, bütün servetlerin gerçek sâhibi anlamına gelir. Varlığı devam eden, servetlerin hakiki sâhibi demektir. \"</string>
+    <string name="esm97979797">15:23; 21:89; 28:58;</string>
+    <string name="esm98">Reşîd</string>
+    <string name="esm989898">\"Doğru yola eriştiren. Reşîd, bütün âlemleri dosdoğru bir nizam ve hikmetle âkıbetine ulaştıran demektir.\"</string>
+    <string name="esm98989898">2:256; 11:87;</string>
+    <string name="esm99">Sabûr</string>
+    <string name="esm999999">\"Sabırlı olan, isyankârlardan acele intikam almayan demektir.\"</string>
+    <string name="esm99999999">2:153, 3:200, 103:3; 8:46;</string>
+    <string name="send">Uygulamayı paylaş</string>
+    <string name="z8384">Ayetler 83 ve 84.</string>
+    <string name="z2829">Ayetler 28 ve 29.</string>
+    <string name="z117118">Ayetler 117 ve 118.</string>
+    <string name="z1617">Ayetler 16 ve 17.</string>
+    <string name="z8889">Ayetler 88 ve 89.</string>
+    <string name="z8788">Ayetler 87 ve 88.</string>
+    <string name="z8990">Ayetler 89 ve 90.</string>
+    <string name="z1516">Ayetler 15 ve 16.</string>
+    <string name="z8586">Ayetler 85 ve 86.</string>
+    <string name="z285286">Ayetler 285 ve 286.</string>
+    <string name="z2627">Ayetler 26 ve 27.</string>
+    <string name="z173174">Ayetler 173 ve 174.</string>
+    <string name="z9394">Ayetler 93 ve 94.</string>
+    <string name="z9798">Ayetler 97 ve 98.</string>
+    <string name="z110111">Ayetler 110 ve 111.</string>
+    <string name="z128129">Ayetler 128 ve 129.</string>
+    <string name="z2628">Ayet 26 den 28 a kadar</string>
+    <string name="z3541">Ayet 35 den 41 a kadar</string>
+    <string name="z8389">Ayet 83 den 89 a kadar</string>
+    <string name="z4_6">Ayet 4 den 6 a kadar</string>
+    <string name="z127129">Ayet 127 den 129 a kadar</string>
+    <string name="z155157">Ayet 155 den 157 a kadar</string>
+    <string name="z2536">Ayet 25 den 36 a kadar</string>
+    <string name="z4_7">Ayet 4 den 7 a kadar</string>
+    <string name="z3537">Ayet 35 den 37 a kadar</string>
+    <string name="z7_9">Ayet 7 den 9 a kadar</string>
+    <string name="z200202">Ayet 200 den 202 a kadar</string>
+    <string name="z191194">Ayet 191 den 194 a kadar</string>
+    <string name="z6366">Ayet 63 den 66 a kadar</string>
+    <string name="z1_7">Ayet 1 den 7 a kadar</string>
+    <string name="z1_4">Ayet 1 den 4 a kadar</string>
+    <string name="z1_5">Ayet 1 den 5 a kadar</string>
+    <string name="z1_6">Ayet 1 den 6 a kadar</string>
+    <string name="z8082">Ayet 80 den 82 a kadar</string>
+    <string name="surah7">Araf Suresi</string>
+    <string name="surah12">Yusuf Suresi</string>
+    <string name="surah21">Enbiya Suresi</string>
+    <string name="sourah38">Sad Suresi</string>
+    <string name="sourah11">Hud Suresi</string>
+    <string name="sourah23">Müminun Suresi</string>
+    <string name="sourah26">Şuara Suresi</string>
+    <string name="sourah71">Nuh Suresi</string>
+    <string name="sourah2">Bakara Suresi</string>
+    <string name="sourah37">Saffet Suresi</string>
+    <string name="sourah14">Ibrahim Suresi</string>
+    <string name="sourah60">Mümtehine Suresi</string>
+    <string name="sourah28">Kasas Suresi</string>
+    <string name="sourah20">Taha Suresi</string>
+    <string name="sourah10">Yunus Suresi</string>
+    <string name="sourah27">Neml Suresi</string>
+    <string name="sourah5">Maide Suresi</string>
+    <string name="sourah29">Ankebut Suresi</string>
+    <string name="sourah19">Meryem Suresi</string>
+    <string name="sourah3">Âl-i Imran Suresi</string>
+    <string name="sourah46">Ahkaf Suresi</string>
+    <string name="sourah59">Hasr Suresi</string>
+    <string name="sourah40">Mümin Suresi</string>
+    <string name="sourah18">Kehf Suresi</string>
+    <string name="sourah66">Tahrim Suresi</string>
+    <string name="sourah4">Nisa Suresi</string>
+    <string name="sourah25">Furkan Suresi</string>
+    <string name="sourah1">Fatiha Suresi</string>
+    <string name="sourah112">Ihlas Suresi</string>
+    <string name="sourah113">Felak Suresi</string>
+    <string name="sourah114">Nas Suresi</string>
+    <string name="sourah17">Isra Suresi</string>
+    <string name="sourah9">Tevbe Suresi</string>
+    <string name="turnlang">Dili değiştirin</string>
+    <string name="sharetwitter">Uygulama bağlantısını paylaş(Twitter)</string>
+    <string name="sharefacebook">Uygulama bağlantısını paylaş(Facebook)</string>
+    <string name="sharegmail">Uygulama bağlantısını paylaş(Gmail)</string>
+    <string name="sharewhatapp">Uygulama bağlantısını paylaş(What\'s App)</string>
+    <string name="shareinstagram">Uygulama bağlantısını paylaş(Instagram)</string>
+    <string name="sharetumblr">Uygulama bağlantısını paylaş(Tumblr)</string>
+    <string name="shareviber">Uygulama bağlantısını paylaş(Viber)</string>
+    <string name="sharelinkedin">Uygulama bağlantısını paylaş(Linkedin)</string>
+    <string name="sharesnapchat">Uygulama bağlantısını paylaş(Snapchat)</string>
+    <string name="shareskype">Uygulama bağlantısını paylaş(Skype)</string>
+    <string name="sharetelegram">Uygulama bağlantısını paylaş(Telegram)</string>
+    <string name="sharereddit">Uygulama bağlantısını paylaş(Reddit)</string>
+    <string name="dialog_title">Yeni sürüm mevcut</string>
+    <string name="dialog_message">Uygulamanın yeni bir sürümü mevcut, en son sürümü güncellemek için lütfen aşağıya
+        tıklayın.
+    </string>
+    <string name="dialog_positive_button_title">Güncelleştirme</string>
+    <string name="all_records_deleted">Tüm kayıtlar başarıyla silindi</string>
+    <string name="app_settings">Ses ayarları:</string>
+    <string name="available_space">Kullanılabilir alan: %s</string>
+    <string name="bookmarks">Sık Kullanılanlar</string>
+    <string name="btn_cancel">İptal Et</string>
+    <string name="btn_no">hayır</string>
+    <string name="btn_play">Koşu</string>
+    <string name="btn_save">Kaydet</string>
+    <string name="btn_yes">evet</string>
+    <string name="delete_all">Tüm kayıtları sil</string>
+    <string name="delete_all_records">Tekrar alamayacağınız tüm kayıtları silmek istediğinize emin misiniz?</string>
+    <string name="delete_record">Bu silin Giriş kayıt %s?</string>
+    <string name="error_cant_create_file">Dosya oluşturulamıyor</string>
+    <string name="error_failed_to_init_player">Başlangıç edilemedi İşletim</string>
+    <string name="error_failed_to_init_recorder">Kaydı başlatılamadı</string>
+    <string name="error_failed_to_rename">Kayıt defteri yeniden adlandırılamadı!</string>
+    <string name="error_file_exists">Bu dosya adı zaten var!</string>
+    <string name="error_invalid_output_file">Çıktı dosyası geçersiz</string>
+    <string name="error_permission_denied">İzin isteği reddedildi</string>
+    <string name="error_player_data_source">operatör dosyasını okuyamaz</string>
+    <string name="error_unable_to_read_sound_file">ses dosyası okunamıyor</string>
+    <string name="error_unknown">Bilinmeyen hata</string>
+    <string name="failed_to_delete_all_records">Tüm kayıtlar silinemedi</string>
+    <string name="fetchs">İnternet bağlantısı</string>
+    <string name="hold_button_to_record">Kayda başla</string>
+    <string name="hold_button_to_record2">Kayıt yaparken lütfen dokunmaya devam edin</string>
+    <string name="import_progress">Ses dosyasını içe …</string>
+    <string name="keep_screen_on">Kayıt sırasında ekranı kapatmayın</string>
+    <string name="no_bookmarks">Yer imleri boş.</string>
+    <string name="no_records">Kayıtlar boş.</string>
+    <string name="other_settings">Diğer:</string>
+    <string name="playback">Çalıştır: %s</string>
+    <string name="please_select_record_to_share">Lütfen paylaşmak için bir ses dosyası seçin veya kaydedin</string>
+    <string name="record_in_stereo">Stereo ses</string>
+    <string name="record_name">Yeni isim</string>
+    <string name="record_processing">Dosya işleniyor …</string>
+    <string name="recording">Kayıt: %s</string>
+    <string name="recording_is_on">Kayıt açık</string>
+    <string name="recording_progress">Kayıt&#8230;</string>
+    <string name="recording_paused">Duraklat</string>
+    <string name="recording_settings">Kayıt defteri ayarları:</string>
+    <string name="records">Kayıt Listesi</string>
+    <string name="recordtoast">Kayıtlı zaman:</string>
+    <string name="settingss">Ayarlar</string>
+    <string name="share_record">Paylaş Giriş kayıt:%s</string>
+    <string name="slide_to_cancel">iptal etmek sürükleyin</string>
+    <string name="store_records_public">Kayıtları ortak klasörde saklayın</string>
+    <string name="today">bugün</string>
+    <string name="total_duration">Toplam kayıt süresi: %s</string>
+    <string name="total_record_count">Toplam kayıt sayısı: %d</string>
+    <string name="warning">Uyarı!</string>
+    <string name="yesterday">dün</string>
+    <string name="private_dir_warning">Kayıtlar, uygulamanın diğer uygulamalarda görünmeyen özel dizininde saklanır</string>
+    <string name="public_dir_warning">Kayıtlar, cihazınızdaki ortak dizinde, diğer uygulamalar için görünür durumda saklanacaktır.</string>
+    <string name="error_on_recording">Kayıt hatası!</string>
+
+    <string-array name="theme_colors">
+        <item>Tema Seçilmedi</item>
+        <item>Tema Siyahı</item>
+        <item>Tema çamurcun</item>
+        <item>Tema Mavi</item>
+        <item>Tema Koyu Mor</item>
+        <item>Tema Pembe</item>
+        <item>Tema Derin Turuncu</item>
+        <item>Tema Kırmızı</item>
+        <item>Tema Kahverengi</item>
+        <item>Tema Mavi Gri</item>
+    </string-array>
+
+    <string-array name="formats">
+        <item>Biçim: MP3</item>
+        <item>Biçim: Wav</item>
+    </string-array>
+
+    <string-array name="sample_rates">
+        <item>Aynı oran: 8000</item>
+        <item>Aynı oran: 16000</item>
+        <item>Aynı oran: 32000</item>
+        <item>Aynı oran: 44100</item>
+        <item>Aynı oran: 48000</item>
+    </string-array>
+
+    <string-array name="bit_rates">
+        <item>Bit Hızı: 24kbps</item>
+        <item>Bit Hızı: 48kbps</item>
+        <item>Bit Hızı: 96kbps</item>
+        <item>Bit Hızı: 128kbps</item>
+        <item>Bit Hızı: 192kbps</item>
+    </string-array>
+    <string name="wifion">Kablosuz</string>
+
+    <string name="aya33_1" >O öyle bir Allah\'dir ki, Resulünü hidayetle ve hak dinle bütün dinlere üstün kilmak için göndermistir. Müsrikler hoslanmasalar da.{33}</string>
+    <string name="aya114_2" >Allah, size Kitab\'i (Kur\'ân\'i) açiklanmis olarak indirdigi halde, ondan baska bir hakem mi arayayim? Kendilerine kitap verdiklerimiz, o Kur\'ân\'in, gerçekten Rabbin katindan hak olarak indirilmis oldugunu bilirler. O halde sakin süphe edenlerden olma.{114}</string>
+    <string name="aya41_3" >Görmez misin ki, göklerde ve yerde bulunanlarla dizi dizi kanat çirpip uçan kuslarin
+        Allah\'i tesbih ettiklerini? Her biri kendi tesbihini ve duâsini bilmistir. Allah, onlarin yapmakta olduklarini
+        hakkiyla bilir.{41}Göklerin ve yerin mülkü Allah\'indir; dönüs de ancak O\'nadir.{42}Görmez misin ki Allah
+        bulutlari (diledigi yere) sürüklüyor; sonra onlari biraraya getirip üstüste yigiyor. Iste görüyorsun ki bunlar
+        arasinda yagmur çikiyor. O, gökten, sanki oradaki daglardan da dolu indirir. Artik onu diledigine isabet
+        ettirir; dilediginden de onu uzak tutar; bu bulutlardan çikan simsegin pariltisi nerdeyse gözleri alir!{43}Allah
+        gece ile gündüzü evirip çeviriyor. Süphesiz bunda (hakikati gören) gözlere sahip olanlar için mutlak bir ibret
+        vardir.{44}Allah, her hayvani sudan yaratti. Iste bunlardan kimi karni üstünde sürünür, kimi iki yagi üstünde
+        yürür, kimi dört ayagi üstünde yürür… Allah diledigini yapar; çünkü Allah her seye kâdirdir.{45}Andolsun biz
+        (her seyi) apaçik bildiren âyetler indirdik. Allah diledigini dogru yola iletir.{46}</string>
+    <string name="aya28_4" >Allah\'i nasil inkâr edersiniz ki, ölü idiniz sizleri diriltti. Sonra sizleri yine öldürecek, sonra yine diriltecek, sonra da döndürülüp ona götürüleceksiniz.{28}O ki, yeryüzünde ne varsa hepsini sizin için yaratti . Sonra göge yöneldi, onlari yedi gök olarak düzenledi. O, her seyi bilir.{29}</string>
+    <string name="aya163_5" >Her halde hepinizin ilâhi, bir tek ilâhtir. Ondan baska bir ilâh yoktur. O Rahmân ve Rahîm\'dir.{163}Süphesiz göklerin ve yerin yaratilisinda, gece ile gündüzün birbiri ardinca gelisinde, insanlara yarar seylerle denizde akip giden gemide, Allah\'in yukaridan bir su indirip de onunla yeri ölümünden sonra diriltmesinde, diriltip de üzerinde deprenen hayvanlari yaymasinda, rüzgarlari degistirmesinde, gök ile yer arasinda emre hazir olan bulutta süphesiz akilli olan bir topluluk için elbette Allah\'in birligine deliller vardir.{164}</string>
+    <string name="aya71_6" >De ki: "Biz Allah\'i birakip da bize fayda veya zarar vermeyen seylere mi yalvaralim? Allah bizi dogru yola kavusturduktan sonra ardimiza mi dönelim? Arkadaslari, bize gel, diye dogru yola çagirdiklari halde yeryüzünde saskin saskin dolasip, seytanlarin ayartarak uçuruma çektikleri ahmak gibi mi olalim?". De ki: "Allah\'in gösterdigi yol, yegane dogru yoldur. Bize, bütün âlemlerin Rabb\'ine teslim olmamiz emrolundu".{71}Bize: "Namazi dosdogru kilin, Allah\'a karsi gelmekten sakinin" (diye emredildi), toplanacaginiz yer O\'nun huzurudur.{72}Gökleri ve yeri, yerli yerince yaratan O\'dur. Bir seye "ol" dedigi gün hemen oluverir. O\'nun sözü haktir. "Sûr"a üfürüldügü gün de mülk ancak O\'nundur. O, gizliyi ve açigi bilendir. O, hikmet sahibi, her seyden haberdardir.{73}</string>
+    <string name="aya95_7" >Süphesiz ki taneleri ve çekirdekleri yaran Allah\'tir. O, ölüden diriyi çikarir, diriden de ölüyü çikaran O\'dur. Iste Allah budur. O halde nasil yüz çevirirsiniz?{95}Karanligi yarip tanyerini agartan O\'dur. Geceyi, dinlenmek için; Günes\'i, Ay\'i (vakitlerinizi) hesaplamak için yaratmistir. Iste bu, her seye galip gelen ve her seyi bilen Allah\'in takdiridir.{96}Kara ve denizin karanliklarinda yolunuzu bulasiniz diye yildizlari sizin için yaratan O\'dur. Süphesiz biz, bilen bir toplum için âyetleri genis bir sekilde açikladik.{97}Sizi bir tek candan yaratan O\'dur. Sonra sizin için bir karar yeri, bir de emanet yeri vardir. Biz âyetlerimizi, anlayan bir toplum için apaçik beyan ettik.{98}Gökten suyu indiren O\'dur. Onunla her çesit bitkiyi çikardik, o bitkiden bir yesillik çikardik, ondan da birbiri üzerine binmis taneler; hurmanin tomurcugundan sarkan salkimlar, üzüm baglari, zeytin ve nar (bahçeleri) çikariyoruz. (Bunlarin) kimi birbirine benzer, kimi benzemez. Bunlar meyvelendikleri zaman meyvelerinin olgunlasmasina bakin! Bunlarda inanan bir toplum için ibretler vardir.{99}Onlar, Allah\'a cinlerden de ortak kostular. Halbuki onlari yaratan O\'dur. Bilgileri olmadan O\'na ogullar, kizlar uydurdular. O\'nun sâni onlarin uydurduklari sifatlardan münezzeh ve yücedir.{100}Gökleri ve yeri yoktan var eden O\'dur. Esi de olmadigi halde, nasil olur da çocugu olur? Her seyi yaratan O\'dur. Ve O, herseyi bilendir.{101}</string>
+    <string name="aya1_8" >Elif, Lâm, Râ. Iste bunlar o hikmetli kitabin âyetleridir.{1}Insanlari (egri yolun sonundan) korkut, inananlara Rableri nezdindeki yüksek makamlari müjdele, diye içlerinden bir adama vahyimizi göndermemiz onlara tuhaf mi geldi? Kâfirler: "Hiç süphesiz bu besbelli bir sihirbaz." dediler.{2}Rabbiniz o Allah\'dir ki, gökleri ve yeri alti günde yaratti, sonra ars üzerine istiva etti (onu hükmü altina aldi), isi tedbir eyliyor. O\'nun izni olmaksizin hiç kimse sefaatçi olamaz. Iste Rabbiniz olan Allah budur. O\'na ibadet ediniz! Hâlâ düsünüp ibret almayacak misiniz?{3}Dönüsünüz hep O\'nadir. Allah\'in vaadi haktir. Herseyi ilk bastan yaratan O\'dur. Sonra iman edip salih amel isleyenleri hak ettikleri ölçüde mükâfatlandirmak için geri döndürecek olan yine O\'dur. Kâfirlere de inkâr ettikleri için kaynar sudan bir içki ve acikli bir azap vardir.{4}O Allah\'dir ki, senelerin sayisini ve hesabini bilesiniz diye günesi bir isik, ayi da bir nur yapti. Ve aya menziller tayin etti. Allah bunu hak olarak yaratti. O, bilecek olan bir kavim için âyetlerini ayrintili olarak açiklar.{5}Elbette gece ile gündüzün birbiri ardinca degisip durmasinda ve Allah\'in göklerde ve yerde yarattiklarinda sakinan bir kavim için bir çok delil vardir.{6}</string>
+    <string name="aya6_9" >Yeryüzünde rizki Allah\'a ait olmayan hiçbir canli yoktur. O, onlarin karar kildiklari yerleri de, emaneten durduklari yerleri de bilir. Onlarin hepsi apaçik bir kitaptadir.{6}O, öyle bir Allah\'dir ki, hanginizin daha güzel amel isleyecegini imtihan etmek için gökleri ve yeri alti günde yaratti. Arsi da su üstündeydi. Onlara "öldükten sonra tekrar dirileceksiniz" dersen, o kâfirler de kesinlikle sana: " Bu apaçik bir sihirden baska birsey degildir." diyecekler.{7}</string>
+    <string name="aya12_10" >Size korku ve ümit içinde simsegi gösteren ve o yagmur yüklü bulutlari meydana getiren O\'dur.{12}Gök gürültüsü O\'na hamd ile, melekler de O\'nun korkusundan dolayi O\'nu tesbih ederler. O yildirimlar gönderir, onunla diledigini çarpar. Onlar Allah hakkinda mücadele edip duruyorlar. Oysa Allah\'in çarpmasi pek çetindir.{13}</string>
+    <string name="aya10_11" >Sizin için gökten su indiren O\'dur. Içecek su ondandir; hayvanlarinizi otlattiginiz bitkiler de o su ile yetisir.{10}Allah, sizin için, o su ile ekin, zeytin, hurmaliklar, üzümler ve her çesit meyveleri bitirir. Süphesiz ki bunda düsünecek bir topluluk için büyük bir ibret vardir.{11}Geceyi, gündüzü, günesi ve ayi sizin hizmetinize O verdi. Bütün yildizlar da O\'nun emrine boyun egmislerdir. Süphesiz ki bunda aklini kullanan bir toplum için ibretler vardir.{12}Yeryüzünde sizin için yarattigi degisik renklerdeki seyleri de sizin hizmetinize sunmustur. Elbette bunda ögüt alan kimseler için bir ibret vardir.{13}Yine denizden taze et (balik) yiyesiniz ve ondan takindiginiz süs esyasini çikarasiniz diye, denizi emrinize veren Allah\'tir. Gemilerin denizde suyu yararak gittiklerini görüyorsun. Lütfundan rizik aramaniz ve sükretmeniz için Allah böyle yapmistir.{14}Allah, yeryüzü sizi sarsmasin diye oraya sabit daglar yerlestirdi. Yolunuzu bulmaniz için de nehirler ve yollar yaratti.{15}Daha birçok âlametler yaratti. Insanlar geceleyin de Allah\'in yarattigi yildizlarla yönlerini bulurlar.{16}Hiç yaratan (Allah), yaratmayan (putlar) gibi olur mu? Artik siz düsünmez misiniz?{17}Halbuki Allah\'in nimetlerini teker teker saymaya kalkissaniz, onlari sayamazsiniz. Muhakkak ki Allah çok bagislayicidir, çok merhametlidir.{18}</string>
+    <string name="aya1_12" >Göklerde ve yerde bulunan her sey Allah\'i tesbih etmektedir. O, çok güçlüdür, hüküm ve hikmet sahibidir.{1}Göklerin ve yerin mülkü O\'nundur. O, diriltir, öldürür, O, her seye kadirdir.{2}O ilktir, sondur, zahirdir, bâtindir. O herseyi bilendir.{3}O\'dur ki gökleri ve yeri alti günde yaratti. Sonra ars üzerine istivâ etti (hükümran oldu). Yere gireni, ondan çikani, gökten ineni, ona çikani bilir. Nerede olsaniz O sizinle beraberdir. Allah yaptiklarinizi görmektedir.{4}O\'dur ki gökleri ve yeri alti günde yaratti. Sonra ars üzerine istivâ etti (hükümran oldu). Yere gireni, ondan çikani, gökten ineni, ona çikani bilir. Nerede olsaniz O sizinle beraberdir. Allah yaptiklarinizi görmektedir.{5}Geceyi gündüzün içine sokar, gündüzü gecenin içine sokar. O, gögüslerin özünü bilir.{6}</string>
+    <string name="aya52_13" >Gerçekten onlara, bilgiye göre açikladigimiz, inanan bir toplum için yol gösterici ve rahmet olan bir Kitap getirdik.{52}Ille onun te\'vilini mi gözetiyorlar? Onun te\'vili geldigi (verdigi haberler ortaya çiktigi) gün, önceden onu unutmus olanlar derler ki: "Dogrusu Rabbimizin elçileri gerçegi getirmis. Simdi bizim sefaatçilerimiz var mi ki bize sefaat etsinler, yahut tekrar geri döndürülmemiz mümkün mü ki eski yaptiklarimizdan baskasini yapalim?" Onlar, kendilerini zarara soktular ve uydurduklari seyler kendilerinden sapti, kaybolup gitti.{53}Süphesiz Rabbiniz Allah, gökleri ve yeri alti günde yaratti, sonra Ars üzerine hükümran oldu. O, geceyi durmadan onu kovalayan gündüze bürüyüp örter; günes, ay ve yildizlar emrine âmâdedir. Iyi biliniz ki yaratma ve emir O\'nundur. Âlemlerin Rabbi olan Allah ne yücedir.﴾54﴿Rabbinize yalvara yalvara ve gizlice dua edin. Çünkü O, haddi asanlari sevmez.{55}Düzeltildikten sonra yeryüzünde bozgunculuk yapmayin. O\'na, korkarak ve rahmetini umarak dua edin. Muhakkak ki Allah\'in rahmeti, iyilik edenlere yakindir.{56}Rahmetinin önünde müjdeci olarak rüzgarlari gönderen O\'dur. O rüzgarlar, yagmur yüklü bulutlari yüklenince, onu kurak bir memlekete gönderir, sonra onunla yagmur yagdirir ve onunla her çesit ürünü yetistiririz. Iste Biz, ölüleri de böyle diriltiriz. Gerekir ki düsünür, ibret alirsiniz.{57}Güzel memleketin bitkisi, Rabbinin izniyle çikar; kötü olandan ise yararsiz bitkiden baska bir sey çikmaz. Iste biz, sükreden bir toplum için âyetleri böyle açiklariz.{58}</string>
+    <string name="aya1_14" >Elif, Lâm, Mîm, Ra. Iste bunlar sana o kitabin âyetleridir ve sana Rabbinden indirilen haktir. Lâkin insanlarin çogu iman etmezler.{1}Allah O\'dur ki, gökleri direksiz yükseltti, onu görüyorsunuz, sonra ars üzerine istiva etti, günesi ve ayi emrine boyun egdirdi. Her biri belli bir vakte kadar akar gider. Bütün isleri O yönetiyor. Âyetleri O açikliyor ki, Rabbinizin huzuruna çikacaginizi iyi bilesiniz.{2}Yeryüzünü enine boyuna yayip döseyen, onda oturakli daglar ve irmaklar meydana getiren ve yeryüzünde meyvelerin hepsinden iki çift yapan O\'dur. Sürekli olarak gece ile gündüzü birbirine dolamaktadir. Düsünecek olan bir kavim için bunda muhakkak ki, ibretler vardir.{3}Yeryüzünde birbirine komsu kitalar vardir. Üzüm baglari, ekinler, çatalli ve çatalsiz hurmaliklar vardir ki, hepsi bir tek su ile sulanir. Halbuki meyvelerinde birini öbürüne üstün kiliyoruz. Akli eren bir kavim için bunda muhakkak ibretler vardir.{4}</string>
+    <string name="aya32_15" >Allah öyle bir Allah\'tir ki; gökleri ve yeri yaratti, gökten su indirdi, onunla size rizik olarak çesitli meyveler çikardi; emri geregince denizde yüzüp gitmeleri için gemileri emrinize verdi, irmaklari da emrinize verdi.{32}Sürekli olarak yörüngelerinde hareket eden ay ve günesi, geceyi ve gündüzü sizin emrinize verdi.{33}O, Kendisinden isteyebileceginiz her seyi size verdi. Allah\'in nimetini saymak isterseniz sayamazsiniz! Dogrusu insan çok zalim, çok nankördür.{34}</string>
+    <string name="aya9_16" >Rüzgârlari gönderip bir bulut kaldiran da Allah\'tir. Derken biz o (bulutu) ölmüs bir beldeye sevketmisizdir. Böylece yeryüzüne ölmünden sonra onunla hayat veririz. Iste o dirilme de böyledir.{9}Her kim izzet istiyorsa bilsin ki izzet tamamiyla Allah\'indir. O\'na hos kelimeler yükselir, onu da salih amel yükseltir. Kötülükler kuranlara gelince, onlara siddetli bir azab vardir. Onlarin tuzaklari hep darmadagin olur.{10}Hem Allah sizi bir topraktan, sonra bir damla sudan yaratti. Sonra sizi çiftler kildi. O\'nun bilgisi olmadan ne bir disi hamile olur, ne dogurur. Kendisine ömür verilenin de ömrünün uzatilmasi da, ömründen kisaltilmasi da mutlaka bir kitapta yazilidir. Süphe yok ki bu, Allah\'a göre kolaydir.{11}Hem iki deniz esit olmuyor. Su tatli, hararet keser, içerken (bogazdan) kayar; su da tuzlu, yakar kavurur. Bununla beraber her birinden taze bir et yersiniz ve bir ziynet çikarir, giyinirsiniz. Allah\'in lütfundan nasib arayasiniz diye suyu yara yara giden gemileri de görürsün. Gerek ki sükredeceksiniz.{12}O, geceyi gündüze sokuyor, gündüzü de geceye sokuyor. Günesi ve ayi emrine âmâde kilmistir. Her biri mukadder bir gayeye akip gidiyor. Iste bu gördüklerinizi yapan Allah sizin Rabbinizdir. Mülk (hükümranlik) O\'nundur. O\'ndan baska taptiklariniz ise, bir çekirdek zarini bile idare edemezler.{13}Kendilerine dua ederseniz duanizi isitmezler. Isitseler bile size cevabini veremezler. Kiyamet günü de kendilerini Allah\'a ortak kostugunuzu inkâr ederler. Sana her seyden haberdar olan (Allah) gibi bir haber veren olmaz.{14}</string>
+    <string name="aya1_17" >Bu kitabin indirilisi, Azîz ve Hakîm olan Allah tarafindandir.{1}Emin ol, biz sana kitabi hakkiyla indirdik. Onun için dini yalniz kendisine halis kilarak Allah\'a ibadet ve kulluk et.{2}Iyi bil ki, halis din ancak Allah\'indir. O\'ndan baska birtakim dostlar tutanlar da söyle demektedirler: "Biz onlara sadece bizi Allah\'a daha çok yaklastirsinlar diye ibadet ediyoruz." Süphe yok ki Allah, onlarin aralarinda ihtilaf edip durduklari seyde hükmünü verecektir. Herhalde yalanci ve nankör olan kimseyi Allah dogru yola çikarmaz.{3}Eger Allah bir çocuk edinmek isteseydi, elbette yaratacagindan, dileyecegini seçecekti. Ama o bundan münezzehtir. O, tek ve kahredici olan Allah\'tir.{4}O, gökleri ve yeri hak ile yaratti, geceyi gündüzün üstüne sariyor, gündüzü de gecenin üstüne sariyor. Günesi ve ay\'i emrine âmade kilmis, her biri belli bir süreye kadar akip gitmektedir. Iyi bil ki, çok güçlü ve çok bagislayici olan ancak O\'dur.{5}O, sizi bir nefisten yaratti. Hem sonra onun esini de ondan var etti. Sizin için yumusak basli hayvanlardan sekiz çift indirdi. Sizi analarinizin karinlarinda üç karanlik içinde yaratilistan yaratilisa yaratip duruyor. Iste Rabbiniz Allah O\'dur. Mülk O\'nundur, O\'ndan baska tanri yoktur. O halde nasil haktan çevrilirsiniz?{6}Eger inkâr ederseniz, süphe yok ki Allah\'in size ihtiyaci yoktur. Bununla beraber kullari hesabina küfre razi olmaz. Eger sükrederseniz sizin hesabiniza ona razi olur. Hiçbir günahkar da digerinin günahini çekecek degildir. Sonra dönüsünüz, Rabbinizedir. O vakit, O size bütün yaptiklarinizi haber verecektir. Çünkü O, bütün kalplerin özünü bilir.{7}</string>
+    <string name="aya1_18" >Hâ, mîm{1}Bu kitap, Azîz ve Hakîm olan Allah tarafindan indirilmistir.{2}Süphesiz göklerde ve yerde müminler için birçok âyetler vardir.{3}Sizin yaratilisinizda ve çesitli canlilari yeryüzüne yaymasinda kesin olarak inanan kimseler için ibretler vardir.{4}Gece ile gündüzün degismesinde ve Allah\'in gökten bir rizik sebebi olan yagmuru indirip de onunla yeryüzünü ölümünden sonra diriltmesinde ve rüzgârlari yönlendirmesinde aklini kullanan bir topluluk için nice deliller vardir.{5}Iste bunlar, Allah\'in âyetleridir. Sana onlari hakkiyla okuyoruz. Artik Allah\'a ve âyetlerine inanmadiktan sonra hangi söze inanacaklar?{6}Her günahkâr kisinin vay haline!{7}O kimse Allah\'in kendisine okunan âyetlerini isitir de, sonra sanki kibrinden hiç isitmemis gibi israr eder. Iste sen onu, can yakici bir azabla müjdele!{8}Âyetlerimizden birsey ögrendigi zaman, onu alaya aliyor. Iste onlar için rezil ve rüsvay edici bir azap vardir.{9}Ötelerinde cehennem var. Ne kazandiklari seyler, ne de Allah\'tan baska edindikleri dostlar, kendilerinden hiçbir seyi (azabi) kaldiramaz. Onlar için büyük bir azab vardir.{10}Bu Kur\'an bir hidâyettir. Rablerinin âyetlerini inkâr edenlere ise, en siddetlisinden acikli bir azab vardir.{11}Allah O (yüce) zâttir ki, emriyle içinde gemilerin seyretmesi, sizin de O\'nun lütfundan rizik aramaniz ve sükretmeniz için denizi emrinize vermistir.{12}O, göklerde ve yerde bulunan herseyi kendinden bir lütuf olarak sizin hizmetinize vermistir. Süphesiz bunda düsünen topluluklar için ibret ve deliller vardir.{13}</string>
+    <string name="aya53_19" >Birinin suyu tatli ve susuzlugu giderici, digerininki tuzlu ve aci iki denizi saliveren ve aralarina bir engel, asilmaz bir serhat koyan O\'dur.{53}O (hakir) sudan, bir insan yaratip ona bir neseb bahseden ve sihriyet bagi ile akraba yapan O\'dur. Rabbinin her seye gücü yeter.{54}(Böyle iken inkârcilar) Allah\'i birakip kendilerine ne fayda, ne zarar veremeyen seylere kulluk ediyorlar. Inkârci olan kimse Rabbine karsi ugrasip durmaktadir.{55}</string>
+    <string name="aya39_20" >Sizi yeryüzünde halifeler yapan O\'dur. Artik kim küfrederse, küfrü kendi aleyhinedir. Kâfirlerin küfürleri, Rablerinin katinda kendilerine bugzdan baska bir sey artirmaz, kâfirlerin küfürleri kendilerine zarardan baska bir sey artirmaz.{39}De ki: "Gördünüz ya, Allah'i birakip da tapmakta oldugunuz ortaklarinizi! Gösterin bana, yer yüzünden neyi yaratmislardir?" Yoksa onlarin gök yüzünde bir ortakligi mi var? Yoksa biz kendilerine bir kitap vermisiz de ondan bir delil üzerinde mi bulunuyorlar? Hayir o zalimler, birbirlerine aldatmadan baska bir vaadde bulunmuyorlar.{40}Dogrusu gökleri ve yeri yok oluvermekten, Allah tutuyor. Andolsun ki eger yok oluverirlerse, onlari O\'ndan baska kimse tutamaz. Gerçekten O, çok yumusak davranir, çok bagislayicidir.{41}</string>
+    <string name="aya60_21" >Bu böyledir, kim kendisine yapilan cezaya ayni ile karsilik verir de, sonra yine kendisine zulüm yapilirsa, muhakkak ki, Allah ona yardim eder. Allah süphesiz çok af edicidir, çok bagislayicidir.{60}Çünkü Allah, geceyi gündüzün içine sokar, gündüzü de gecenin içine sokar. Süphesiz Allah, Semîdir (herseyi isitir) Basîrdir (herseyi gö-rür).{61}(Bu sonsuz güç sundandir) Çünkü Allah, varligi kendinden olan Hak\'tir. Müsriklerin O\'nu birakip da tapindiklari putlar ise hep bâtildir. Süphesiz Allah, yücedir, büyüktür.{62}Görmedin mi Allah\'in gökten indirdigi su ile yeryüzü (nasil) yem-yesil oluyor? Gerçekten Allah çok lütufkârdir, her seyden haberdardir.{63}Göklerde ve yerde ne varsa hep O\'nundur. Dogrusu Allah müstagnîdir, övülmege layiktir.{64}Görmedin mi ki, Allah bütün yerdekileri ve emriyle denizlerde akip giden gemileri hep sizin buyrugunuz altina verdi. Gögü de izni olmaksizin yere düsmekten o (koruyup havada) tutuyor. Süphesiz Allah insanlara çok sefkatlidir, çok merhametlidir.{65}Size (ilk defa) hayat veren, sonra öldürecek olan, sonra da yeniden diriltecek olan O\'dur. Insan gerçekten pek nankördür.{66}Biz her ümmet için bir seriat tayin ettik ki, onlar onunla amel ederler. Bunun için (ey Muhammed!) bu konuda seninle hiçbir zaman çekismesinler. (Insanlari) Rabbine (ibadet etmeye) çagir. Süphesiz sen gerçekten hidayete götüren dogru bir yol üzerindesin.{67}</string>
+    <string name="aya1_22" >Hamd, gökleri ve yeri yaratan, karanliklari ve aydinligi var eden Allah\'a mahsustur. Böyleyken kâfirler hâlâ Rablerine baskalarini esit sayiyorlar.{1}Sizi çamurdan yaratan, sonra size bir ecel takdir eden O\'dur. Tayin edilen bir ecel de (kiyamet zamani) O\'nun katindadir. Sonra bir de süphe ediyorsunuz.{2}</string>
+    <string name="aya59_23" >Gaybin anahtarlari O\'nun katindadir, onlari O\'ndan baskasi bilmez, karada ve denizde olanlari O bilir ve bir yaprak düsmez ki, onu O bilmesin; ne topragin karanliklarinda bir tane, ne de kuru ve yas hiçbir sey yoktur ki, o herseyi açiklayan Kitap\'ta bulunmasin.{59}Sizi geceleyin ölü gibi uyutan, gündüzün ne yaptiklarinizi bilen, sonra ölüm âni gelinceye kadar gündüzleri sizi uyandirip kaldiran O\'dur. Sonunda da dönüsünüz ancak O\'nadir. Sonra bütün yaptiklarinizi size O haber verecektir.{60}O, kullari üzerinde hükümranligi sürdürür ve size koruyucular gönderir, sonunda sizden birinize ölüm geldigi vakit elçilerimiz, hiç eksiklik yapmadan, onun canini alirlar.{61}Sonra da gerçek Mevlâlarina döndürülürler. Dikkatli olun, hüküm ancak O\'nundur ve O, hesap görenlerin en süratlisidir.{62}</string>
+    <string name="aya164_24" >De ki: Allah herseyin Rabbi iken, ben O\'ndan baska Rab mi arayayim? Herkesin kazandigi yalniz kendisine aittir. Kendi (günah) yükünü tasiyan hiç kimse, bir baskasinin (günah) yükünü tasimaz. Sonra dönüsünüz Rabbinizedir. O, ayriliga düstügünüz gerçegi size haber verecektir.{164}Sizi yeryüzünün halifeleri yapan, size verdigi seylerde, sizi denemek için, kiminizi kiminizden derecelerle üstün kilan O\'dur. Süphesiz Rabbin, cezasi çabuk olandir ve O, bagislayan, esirgeyendir.{165}</string>
+    <string name="aya187_25" >Sana, ne zaman kopacak diye kiyamet vaktini soruyorlar. De ki; onun bilgisi yalnizca Rabbimin katindadir. Onu tam vaktinde koparacak olan O\'ndan baskasi degildir. Onun agirligina göklerde ve yerde dayanacak bir kimse yoktur. O size ansizin gelecektir. Sanki sen onu çok iyi biliyormussun gibi sana soruyorlar. De ki, onun bilgisi Allah katindadir. Fakat insanlarin çogu bunu bilmezler.{187}De ki, ben kendi kendime Allah\'in dilediginden baska ne bir menfaat elde etmeye, ne de bir zarari önlemeye malik degilim. Ben eger gaybi bilseydim daha çok hayir yapardim ve kötülük denilen sey yanima ugramazdi. Ben iman edecek bir kavme müjde veren ve uyaran bir peygamberden baska biri degilim.{188}Sizi bir tek nefisten yaratan, onunla sükûnet bulsun diye esini de ondan yaratan Allah\'tir. O, esini kucaklayip sarilinca (ona yaklasinca), esi hafif bir yük yüklendi (hâmile kaldi). Bir müddet böyle geçti, derken yükü agirlasti. O vakit ikisi birden Rableri olan Allah\'a söyle dua ettiler: "Eger bize salih bir evlat verirsen, biz muhakkak sükredenlerden olacagiz."{189}Fakat Allah, kendilerine salih bir evlat verince, her ikisi de tuttular verdigi evlatlar üzerine ona ortak kosmaya basladilar. Allah, onlarin kostuklari sirkten münezzehtir.{190}Hiçbir sey yaratmayan ve kendileri yaratilmis olan putlari mi Allah\'a ortak ediyorlar, ona es kosuyorlar?{191}Bu putlar, ne o tapinanlara, ne de kendi kendilerine yardim edebilirler.{192}Eger siz onlari dogru yola çagirsaniz, size uymazlar. Onlari ha çagirmissiniz, ha çagirmayip susmussunuz, hiç fark etmez.{193}Allah\'i birakip taptiklariniz da tipki sizin gibi kullardir. Eger iddianizda dogru iseniz haydi onlari çagirin da size cevap versinler.{194}</string>
+    <string name="aya66_26" >Açin gözünüzü! Göklerde kim var, yerde kim varsa hep Allah\'indir. Allah\'dan baskasina tapanlar dahi, Allah\'a ortak kostuklarina uymus olmuyorlar, ancak zanna uymus oluyorlar. Ve yalandan baska bir sey söylemiyorlar.{66}O, öyle bir Allah\'dir ki, içinde dinlenesiniz diye sizin için geceyi, göresiniz diye de gündüzü yapti. Elbette bunda söz dinleyecek olan bir kavim için âyetler (ibretler) vardir.{67}Dediler ki: "Allah, kendine çocuk edindi". O, böyle seylerden münezzehtir. O, müstagnidir. Göklerde ve yerde ne varsa hepsi O\'nundur. Bu hususta elinizde hiç bir delil yoktur. Allah\'a karsi bilmediginiz bir seyi neden söylüyorsunuz?{68}De ki: Allah\'a iftira edenler elbette felah bulmazlar.{69}Dünyadaki zevkler çabuk biter. Sonra dönüsleri bize olacaktir. Daha sonra da inkâr ettiklerinden dolayi o çetin azabi biz onlara tattiracagiz.{70}</string>
+    <string name="aya78_27" >Halbuki sizin için o kulagi, o gözleri ve o gönülleri yaratan O\'dur. Ne de az sükrediyorsunuz!{78}Ve sizi yeryüzünde yaratip türeden O\'dur. Sirf O\'nun huzuruna toplanacaksiniz.{79}Ve O, yasatan ve öldürendir; gecenin ve gündüzün degismesi O\'nun eseridir. Hâlâ aklinizi kullanmaz misiniz?{80}</string>
+    <string name="aya43_28" >Kötü duygularini kendisine tanri edinen kimseyi gördün mü? Simdi ona sen mi vekil olacaksin?{43}Yoksa sen, onlarin çogunun gerçekten söz dinleyecegini yahut akillanacagini mi saniyorsun? Gerçekte onlar hayvanlar gibidir, hatta gidisçe daha sapiktirlar.{44}Rabbinin gölgeyi nasil uzatmakta oldugunu görmedin mi? Dileseydi onu elbet hareketsiz de kilardi. Sonra biz günesi, ona (gölgeye) delil kilmisizdir.{45}Sonra da onu yavas yavas kendimize (baska yöne) çekmekteyiz.{46}Sizin için geceyi örtü, uykuyu istirahat kilan, gündüzü yayilip çalisma (zamani) yapan O\'dur.{47}Rüzgarlari rahmetinin önünde müjdeci olarak gönderen ve gökten tertemiz bir su indiren O\'dur.{48}Ki biz (o suyla) ölü topraga can verelim, yarattigimiz nice hayvanlara ve insanlara su saglayalim, diye.{49}Andolsun bunu, insanlarin ögüt almalari için, aralarinda çesit çesit sekillerde anlatmisizdir; ama insanlarin çogu ille nankörlük edip diretmistir.{50}</string>
+    <string name="aya58_29" >Sen, ölümsüz ve daima diri olan Allah\'a güvenip dayan. O\'nu hamd ile tesbih et. Kullarinin günahlarindan haberdar olarak O yeter.{58}Gökleri yeri ve ikisinin arasindakileri alti günde yaratan, sonra Ars\'a hükmeden Rahmân\'dir. Haydi ne dileyeceksen o her seyden haberdar olan (Rahmân)dan dile.{59}Onlara "Rahmân'a secde edin" dendigi zaman, "Rahmân da neymis? Senin bize emrettigine secde eder miyiz hiç?" derler ve bu emir onlarin nefretini artirir.{60}Gökte burçlari var eden, onlarin içinde bir kandil (günes) ve nurlu bir ay barindiran Allah, yüceler yücesidir.{61}Ibret almak veya sükretmek dileyen kimseler için gece ile gündüzü birbiri ardinca getiren O\'dur.{62}</string>
+    <string name="aya64_30" >Allah, O\'dur ki sizin için yeri bir karargâh, gögü de bir bina yapmistir. Size sekil vermis, sonra sekillerinizi güzellestirmistir. Hos nimetlerden size rizik vermistir. Iste Rabbiniz o Allah\'tir. Âlemlerin Rabbi olan Allah ne yücedir!{64}Daimî bir hayat sahibi ancak O\'dur. O\'ndan baska ilâh yoktur. Onun için dini halis kilarak O\'na, hep O\'na yalvarin. Hamd, âlemlerin Rabbi olan Allah\'a mahsustur.{65}De ki: "Bana Rabbimden apaçik deliller geldigi zaman, ben o sizin Allah\'i birakip taptiklariniza ibadet etmekten kesinlikle men edildim ve bana âlemlerin Rabbine teslim olmam emredildi."{66}"Sizi (önce) bir topraktan, sonra bir damla sudan, sonra bir aleka (embriyo)dan yaratan, sonra sizi bir bebek olarak çikaran, sonra güçlü kuvvetli bir çaga erismeniz, sonra da ihtiyarlar olmaniz için yasatip büyüten O\'dur. Içinizden kimi de daha önce vefat ettiriliyor. (Bunlari Allah) belirli bir süreye ulasasiniz ve aklinizi kullanasiniz diye (böyle yapiyor)."{67}O, hem yasatir, hem öldürür. O, bir sey yapmak isteyince ona sadece "ol!" der, o sey de hemen oluverir.{68}</string>
+    <string name="aya64_31" >(Ey Resulüm!) Biz, sana bu kitabi (Kur\'âni) sirf hakkinda ihtilafa düstükleri seyi insanlara açiklaman için ve iman edecek topluma bir hidayet, bir rahmet olsun diye indirdik.{64}Allah gökten bir su indirdi ve onunla yeryüzüne ölümünden sonra hayat verdi. Süphesiz ki bunda dinleyen bir millet için büyük bir ibret vardir.{65}Gerçekten süt veren hayvanlarda da size bir ibret vardir. Size iskembelerindeki yem artiklariyla kandan meydana gelen, içenlere içimi kolay halis bir süt içirmekteyiz.{66}Hurma ve üzüm agaçlarinin meyvalarindan da hem içki, hem de güzel gidalar edinirsiniz. Süphesiz ki bunda aklini kullanan kimseler için büyük bir ibret vardir.{67}Senin Rabbin bal arisina söyle vahyetti: Daglardan, agaçlardan ve insanlarin kuracaklari kovanlardan kendine evler edin.{68}Sonra meyvalarin hepsinden ye de, Rabbinin (sana) kolay kildigi yollara gir, diye ilham etti. Onlarin karinlarindan renkleri çesitli bir bal çikar ki, onda insanlar için sifâ vardir. Süphesiz ki bunda düsünen bir millet için, büyük bir ibret vardir.{69}Allah, sizi yaratti, sonra da sizi öldürecektir. Içinizden kimi de, biraz bilgiden sonra esyayi önceki bildigi gibi bilmesin diye, ömrün en kötü çagina kadar yasatilir. Süphesiz ki Allah çok bilgili ve büyük kudret sahibidir.{70}Allah, rizik yönünden bir kisminizi digerlerinden üstün kildi. Kendilerine bol rizik verilenler, riziklarini ellerinin altindakilere vermiyorlar ki, onda esit olsunlar. Durum böyle iken Allah\'in nimetini inkâr mi ediyorlar?{71}Allah, size kendi cinsinizden esler, o eslerinizden de ogullar ve torunlar yaratti. Sizi helal ve güzel gidalarla riziklandirdi. Onlar, hâlâ batila mi inaniyorlar? ve Allah\'in nimetini inkâr mi ediyorlar?{72}</string>
+    <string name="aya1_32" >Mutlak hükümranlik elinde bulunan Allah, yüceler yücesidir ve O\'nun her seye gücü yeter.{1}O, hanginizin daha güzel is yapacaginizi denemek için ölümü ve hayati yaratti. O, üstündür, bagislayandir.{2}O, yedi gögü, birbiri üzerine yaratti. Rahmân\'in yaratmasinda bir aykirilik, uygunsuzluk görmezsin. Gözünü döndür de bak, bir bozukluk görüyor musun?{3}Sonra gözünü tekrar tekrar döndür (bak). Göz (aradigi bozuklugu bulmaktan) âciz ve bitkin halde sana dönecektir.{4}Andolsun biz, en yakin gögü kandillerle donattik ve onlari, seytanlar için taslamalar yaptik. Ve onlar için alevli ates azabini hazirladik.{5}Rablerini inkâr edenler için cehennem azabi vardir. Ne kötü gidilecek yerdir o!{6}</string>
+    <string name="aya5_33" >Nûh dedi ki: "Ey Rabbim! Ben kavmimi gece gündüz davet ettim."{5}"Fakat benim çagirmam, onlarin sadece kaçmalarini artirdi."{6}"Ben onlari senin bagislaman için her davet ettigimde, onlar parmaklarini kulaklarina tikadilar, elbiselerine büründüler, israr ettiler, kibirlendikçe kibirlendiler."{7}"Sonra ben onlari açik açik çagirdim."{8}"Sonra hem ilan ederek söyledim onlara, hem gizli gizli. "{9}"Gelin, dedim, Rabbinizin sizi bagislamasini isteyin. Çünkü o çok bagislayicidir."{10}"Üzerinize gökten bol yagmur yagdirsin."{11}"Mallar ve ogullar vererek sizin imdadiniza kossun. Sizin için bahçeler yapsin, irmaklar yapsin."{12}"Niçin siz Allah'a bir vakar yakistiramiyorsunuz?"{13}"Oysa o sizi asama asama yaratmistir."{15}"Görmediniz mi Allah yedi gögü uygun tabakalar halinde nasil yaratmis?"{15}Ve Ay\'i bunlarin içinde bir nur yapmis, günesi de bir lamba kilmis.{16}Allah sizi yerden bir bitki bitirir gibi bitirdi.{17}Sonra sizi tekrar oraya geri çevirecek ve tekrar çikaracaktir.{18}Allah sizin için yeri bir yaygi yapmistir.{19}Ki, ondan açilan genis genis yollarda gidesiniz.{20}</string>
+    <string name="aya17_34" >Bakmiyorlar mi o develere, nasil yaratilmis?{17}Göge bakmiyorlar mi, nasil yükseltilmis?{18}Bakmiyorlar mi daglara, nasil dikilmis?{19}Yere bakmiyorlar mi, nasil yayilmis?{20}</string>
+    <string name="arom_k1" >Elif, Lâm, Mim.{1}Rumlar yenildi.{2}(Araplarin bulundugu bölgeye) en yakin bir yerde onlar,
+        bu yenilgilerinin ardindan mutlaka galib geleceklerdir.{3}(Bu da) birkaç yil içinde (olacaktir). Onlarin bu
+        yenilgilerinden önce de sonra da emir Allah\'indir ve o gün müminler, sevineceklerdir.{4}(Bu da) Allah\'in
+        yardimiyla (olacaktir). Allah diledigine yardim eder, galip kilar. O çok güçlüdür, çok merhamet
+        edicidir.{5}Allah\'in vaadi budur. Allah, vaadinden caymaz. Fakat insanlarin çogu bilmezler.{6}Onlar, sadece bu
+        dünya hayatinin dis yüzünü bilirler. Ahiretten ise onlar hep gafildirler.{7}Kendi içlerinde hiç düsünmediler mi
+        ki, Allah göklerde, yerde ve bu ikisi arasinda bulunan her seyi ancak hak ile ve belirlenmis bir süre için
+        yaratmistir? Gerçekten insanlarin çogu, Rablerine kavusmayi inkâr etmektedirler.{8}Onlar, yeryüzünde gezmediler
+        mi ki, kendilerinden öncekilerin sonu nasil olmus baksinlar? Onlar, kendilerinden daha güçlüydüler. Topragi
+        sürmüsler ve onu, bunlarin imar ettiklerinden daha çok imar etmislerdi. Onlara da peygamberleri delillerle
+        gelmislerdi. Demek Allah onlara zulmetmiyordu. Fakat onlar, kendilerine zulmediyorlardi.{9}Sonra o kötülük
+        edenlerin sonu çok kötü oldu. Çünkü onlar, Allah\'in âyetlerini yalan saydilar ve onlarla alay
+        ediyorlardi.{10}Allah yaratmayi ilkin yapar, sonra da çevirir, onu yeniden yapar. Sonra hep döndürülüp O\'na
+        götürüleceksiniz.{11}Kiyamet saatinin gelip çattigi gün suçlular, her ümidi keserler.{12}Allah\'a ortak
+        kostuklarindan, kendilerine sefaat edecekler de bulunmaz. Onlar, o zaman Allah\'a kostuklari ortaklari inkâr
+        ederler.{13}Kiyamet saatinin gelip çattigi gün varya, o gün (inananlarla inanmayanlar) ayrilirlar.{14}Simdi iman
+        edip salih ameller yapmis olanlara gelince, onlar bir bahçe içinde neselenirler.{15}Âyetlerimizi ve âhiret
+        bulusmasini yalan sayip da küfredenlere gelince, iste onlar o zaman azab içinde hazir bulundurulurlar.{16}O
+        halde aksama girdiginiz zaman da, sabaha girdiginiz zaman da tesbih Allah\'indir. (daima O, tesbih
+        edilir).{17}Göklerde ve yerde, ikindileyin de, ögleye erdiginiz zaman da hamd O\'na mahsustur.{18}O, ölüden diri
+        çikarir, diriden ölü çikarir ve topraga ölümünden sonra hayat verir. Sizler de iste öyle
+        çikarilacaksiniz.{19}O\'nun âyetlerinden (kudretinin delillerinden)dir ki, sizi bir topraktan yaratti. Sonra da
+        siz simdi yeryüzünde dagilip yayilan insanlar oluverdiniz.{20}Yine O\'nun âyetlerindendir ki, sizin için
+        nefislerinizden kendilerine isinirsiniz diye esler yaratmis, araniza bir sevgi ve merhamet koymustur. Süphesiz
+        ki bunda düsünecek bir kavim için nice ibretler vardir.{21}Yine göklerin ve yerin yaratilisi ile dillerinizin ve
+        renklerinizin farkli olusu da O\'nun âyetlerindendir. Süphesiz ki bunda bilenler için nice ibretler
+        vardir.{22}Yine gecede ve gündüzde uyumaniz ve lütfundan nasib aramaniz da O\'nun âyetlerindendir. Süphesiz ki
+        bunda dinleyecek bir kavim için nice ibretler vardir.{23}Yine O\'nun âyetlerindendir ki, size hem korku ve hem
+        de umut vermek için simsegi gösteriyor. Ve gökten bir su indiriyor da onunla yeryüzüne ölümünden sonra hayat
+        veriyor. Süphesiz ki bunda aklini kullanacak bir kavim için nice ibretler vardir.{24}Yine gögün ve yerin,
+        emriyle durmasi da O\'nun âyetlerindendir. Sonra sizi bir tek çagirisla çagirdigi zaman bir de bakarsiniz ki
+        (yerden diriltilip çikariliyorsunuz).{25}Göklerde ve yerde kim varsa hepsi O\'nundur. Hepsi de O\'na itaat
+        etmektedirler.{26}Hem yaratmayi ilkin yapan O\'dur. Sonra onu çevirip yeniden yapacak olan da O\'dur ki, bu
+        O\'na çok kolaydir. Göklerde ve yerde en yüksek san ve seref O\'nundur. O çokgüçlüdür, hüküm ve hikmet
+        sahibidir.{27}Allah, size kendinizden bir misâl verdi: Hiç size rizik olarak verdigimiz seylerde elleriniz
+        altindaki kölelerinizden ortaklariniz bulunur da onlarla siz esit olur, aranizda birbirinizi saydiginiz gibi,
+        onlari da sayar misiniz? Iste biz, düsünecek bir kavim için âyetleri böyle açikliyoruz.{28}Fakat zulmedenler,
+        bilgisizce hevalarina uydular. Artik Allah\'in sasirttigini kim yola getirebilir? Onlarin yardimcilari da
+        yoktur.{29}O halde yüzünü, Allah\'i bir taniyarak dine, Allah\'in insanlari üzerine yaratmis oldugu fitratina
+        dogrult. Allah\'in yaratisinda degisiklik bulunmaz. Dosdogru din budur. Fakat insanlarin çogu
+        bilmezler.{30}Baskasindan geçerek hep O\'na gönül verin ve O\'ndan sakinin. Namaza devam edin ve müsrilerden
+        olmayin.{31}O müsriklerden (olmayin ki) onlar, dinlerini ayirip öbek öbek olmuslardir. Her grup kendilerindekine
+        güvenmektedir.{32}Bununla beraber insanlara bir keder dokundugu zaman her seyden geçerek Rablerine yalvarir, dua
+        ederler; sonra tarafindan bir rahmet tattiriverdigi zaman da bakarsin onlardan bir kismi tutar, O Rablerine
+        ortak kosarlar.{33}Bunu da kendilerine verdigimiz nimetlere nankörlük etmek için yaparlar. Haydi geçinedurun
+        bakalim, yakinda bileceksiniz.{34}Yoksa onlara bir kesin delil indirdik de, o delil, müşrik olmalarını mı
+        söylüyor?{35}Bir de biz insanlara bir rahmet tattirdigimiz zaman ona güveniyorlar da; ellerinin önceden yaptigi
+        seyler sebebiyle baslarina bir fenalik gelirse, hemen her ümidi kesiveriyorlar.{36}Onlar görmediler mi ki, Allah
+        diledigi kimseye rizki serer ve daraltir. Süphesiz ki bunda iman edecek bir kavim için ibretler vardir.{37}O
+        halde akrabaya da hakkini ver, yoksula da, yolcuya da… Bu, Allah\'in rizasini dileyenler için daha hayirlidir.
+        Kurtulusa erecek olanlar da iste onlardir.{38}Insanlarin mallari içinde artsin diye verdiginiz faiz, Allah
+        yaninda artmaz. Allah\'in rizasini dileyerek verdiginiz zekata gelince, iste onlar, mallari kat kat artmis
+        olanlardir.{39}Allah, O\'dur ki, sizi yaratti, sonra da size rizik verdi, sonra sizi öldürür, sonra sizi
+        diriltir. Hiç sizin ortak kostuklarinizdan, bunlardan birini yapacak olan var mi? Allah, onlarin ortak
+        kostuklarindan münezzeh ve yücedir.{40}Yaptiklarinin bir kismini tatsinlar diye insanlarin kendi ellerinin
+        kazandigi seyler yüzünden karada ve denizde fesat ortaya çikti. Umulur ki onlar hakka dönerler.{41}De ki,
+        yeryüzünde bir gezin de bakin, bundan öncekilerin sonu nasil olmus! Onlarin pek çogu müsrik
+        idiler.{42}Allah\'tan geri çevrilmesine hiçbir çare olmayan bir gün gelmeden önce yüzünü dosdogru, sabit dine
+        çevir. O gün (gelince) insanlar birbirlerinden ayrilirlar.{43}Her kim inkâr ederse, inkâri kendi aleyhinedir.
+        Kim de salih amel islerse, onlar kendileri için rahat bir yer hazirlamis olurlar.{44}Çünkü O, iman edip salih
+        amel isleyenlere lütfundan mükafat verecektir. Çünkü O, kâfirleri sevmez.{45}Rüzgarlari müjdeciler olarak
+        göndermesi, size rahmetinden tattirmasi, emriyle gemilerin akip gitmesi ve lütfundan rizik isteyip kazanmaniz
+        O\'nun âyetlerindendir. Hem gerek ki sükredesiniz.{46}Andolsun ki biz, senden önce birçok peygamberleri
+        kavimlerine gönderdik de, onlara apaçik delillerle vardilar. Onun üzerine günah isleyenlerden intikam aldik.
+        Müminlere yardim ise, bizim nezdimizde bir hak oldu.{47}Allah O\'dur ki, rüzgarlari gönderir de bir bulut
+        savururlar. Derken onu gökyüzünde nasil dilerse öyle serer, parça parça da eder. Derken yagmuru görürsün,
+        aralarindan çikar. Derken onu kullarindan kimlere diliyorsa döküverdi mi derhal yüzleri güler.{48}Halbuki onlar,
+        daha önce üzerlerine yagmur indirilmeden evvel ümidi kesmislerdi.{49}Simdi bak Allah\'in rahmetinin eserlerine!
+        yeryüzünü ölümünden sonra nasil diriltiyor? Süphe yok ki O, mutlaka ölüleri diriltir. O her seye
+        kâdirdir.{50}Andolsun ki biz, bir rüzgâr göndersek de onu (rahmetin eseri olan ekini) sararmis görseler, mutlaka
+        onun arkasindan nankörlüge baslarlar.{51}Çünkü sen ölülere isittiremezsin. O daveti, arkalarini dönmüs
+        giderlerken sagirlara da duyuramazsin.{52}Körleri de sapikliklarindan hidayete getiremezsin. Sen ancak
+        âyetlerimizi iman edeceklere duyurursun da onlar müslüman olur, selâmeti bulurlar.{53}Allah O\'dur ki, sizi
+        güçsüz olarak yaratir, sonra güçsüzlügün arkasindan kuvvet verir. Sonra kuvvetin arkasindan yine güçsüzlüge ve
+        ihtiyarliga getirir. O diledigini yaratir. Ve O, her seyi bilir, her seye gücü yeter.{54}Kiyamet kopacagi gün
+        günahkarlar dünyada bir saatten fazla durmadiklarina yemin ederler. Onlar önceden de böyle haktan
+        çevriliyorlardi.{55}Kendilerine ilim ve iman verilenler de söyle diyecekler: "Andolsun ki, Allah\'in kitabinda
+        takdir edilmis olan tekrar dirilme gününe kadar kaldiniz. Iste bu, dirilme günüdür. Fakat siz bunu
+        bilmiyordunuz.{56}Artik o gün zulmedenlere mazeretleri fayda vermeyecektir. Onlarin dertlerinin çaresine de
+        bakilmayacaktir.{57}Andolsun ki, biz insanlar için bu Kur\'ân\'da her türlü meselden örnekler getirdik. Yemin
+        ederim ki, sen onlara baska bir âyet de getirsen o kâfirler yine: "Siz yalancilardan (uydurdugunuz sözü Allah\'a
+        nispet edenlerden) baskasi degilsiniz." diyeceklerdir.{58}Iste bilmeyenlerin kalblerini Allah böyle
+        mühürler.{59}Simdi sen sabret. Çünkü Allah\'in vaadi mutlaka haktir. Sakin imani saglam olmayanlar seni hafiflige
+        sevketmesinler.{60}</string>
+
+
+    <string name="sourah13">Rad Suresi</string>
+    <string name="sourah16">Nahl Suresi</string>
+    <string name="sourah22">Hac Suresi</string>
+    <string name="sourah24">Nur Suresi</string>
+    <string name="sourah35">Fatır Suresi</string>
+    <string name="sourah39">Zümer Suresi</string>
+    <string name="sourah45">Casiye Suresi</string>
+    <string name="sourah57">Hadid Suresi</string>
+    <string name="sourah6">Enam Suresi</string>
+
+    <string name="an1biaa1_6" >Insanlarin hesab (görme) zamani yaklasti. Onlar ise hâlâ gaflet içinde, yan çizip aldirmiyorlar.{1}Rablerinden kendilerine gelen her yeni hatirlatmayi hep eglenerek dinliyorlar.{2}Kalbleri hep eglencede (gaflette), hem o zalimler aralarinda su gizli fisiltiyi yaptilar: "Bu, ancak sizin gibi bir insan. Artik göz göre göre sihre mi gidip uyarsiniz?"{3}Peygamber: "Benim Rabbim gökte ve yerde (söylenen) her sözü bilir. O, her seyi isitir, her seyi bilir" dedi.{4}Onlar: "Hayir, bunlar karisik rüyalardir; yok, onu kendisi uydurdu, yok o bir sairdir. Böyle degilse önceki peygamberler gibi, o da bize bir mucize getirsin" dediler.{5}Onlardan önce yok ettigimiz hiçbir memleket halki iman etmedi. Simdi bunlar mi iman edecekler?{6}</string>
+    <string name="an2biaa7_10" >(Ey Muhammed!) Biz, senden önce de ancak kendilerine vahyettigimiz birtakim erkek(peygamber)ler gönderdik. Bilmiyorsaniz kitap ehli olanlara sorun.{7}Biz onlari yemek yemez birer cesed kilmadik ve onlar ölümsüz de degillerdi.{8}Sonra biz onlara verdigimiz sözü yerine getirdik; hem onlari, hem de diledigimiz kimseleri kurtardik, asiri gidenleri yok ettik.{9}(Ey Kureys toplulugu!) And olsun, size öyle bir kitab indirdik ki, bütün san ve serefiniz ondadir. Hâlâ akillanmayacak misiniz?{10}</string>
+    <string name="an3biaa11_15" >Biz halki zalim olan nice memleketleri kirip geçirdik ve onlardan sonra baska milletler var ettik.{11}Onlar azabimizin siddetini hissettikleri zaman oradan kaçmaya koyuluyorlardi.{12}"Kosup kaçmayin; size nimet verilen yere, yurtlariniza dönün ki, sorguya çekileceksiniz" dedik.{13}Onlar da: "Vay bizlere! Biz gerçekten zalimler idik" dediler.{14}Biz, onlari biçilmis bir ekin ve bir yigin kül haline getirinceye kadar hep sözleri bu feryad olmustur.{15}</string>
+    <string name="an4biaa16_18" >Biz gök ile yeri ve aralarindaki seyleri, bos bir eglence için yaratmadik.{16}Eger bir eglence edinmek isteseydik, elbette onu katimizdan edinirdik. Yapacak olsaydik öyle yapardik.{17}Hayir, biz hakki batilin basina çarpariz da onun beynini parçalar. Bir de bakarsin (batil) o anda yok olup gitmistir. Allah\'a yakistirdiginiz vasiflardan ötürü size yaziklar olsun.{18}</string>
+    <string name="an5biaa19_20" >Göklerde ve yerde olan bütün varliklar O\'nundur. Katinda olanlar O\'na kulluk etmekten ne çekinirler, ne de yorulurlar.{19}Gece gündüz (hep Allah\'i) tesbih ederler, usanmazlar.{20}</string>
+    <string name="an6biaa21_23" >Yoksa (Mekke müsrikleri) birtakim ilâhlar edindiler de yerden ölüleri onlar mi diriltecekler?{21}Eger yer ile gökte Allah\'tan baska ilâhlar olsaydi, bunlarin ikisi de muhakkak fesada ugrar yok olurdu. O halde Ars\'in Rabbi olan Allah, onlarin vasfetmekte olduklari seylerden (bütün noksanliklardan) beridir, münezzehtir.{22}O, yaptigindan sorumlu olmaz, onlar ise sorumlu tutulacaklardir.{23}</string>
+    <string name="an7biaa24_29" >Yoksa O\'ndan baska ilâhlar mi edindiler? De ki: "Kesin delilinizi getirin. Iste benimle beraber olanlarin kitabi ve benden öncekilerin kitabi." Hayir, onlarin çogu gerçegi bilmezler de onun için yüz çevirirler.{24}Senden önce hiçbir peygamber göndermedik ki, ona söyle vahyetmis olmayalim: "Gerçek su ki benden baska ilâh yoktur. Onun için bana ibadet edin."{25}Böyle iken dediler ki: "Rahmân çocuk edindi." Allah bundan münezzehtir. Dogrusu melekler (Allah\'in çocuklari degil.) ikram olunmus kullardir.{26}Onlar Allah\'in sözünün önüne geçmezler, hep O\'nun emriyle hareket ederler.{27}Allah, onlarin önlerindekini de, arkalarindakini de (yaptiklarini ve yapacaklarini) bilir. Onlar, Allah\'in hosnud oldugu kimseden baskasina sefaat etmezler. Hepsi de O\'nun korkusundan titrerler.{28}Içlerinden kim: "Ben, O'ndan baska bir ilâhim" derse, biz ona cehennemi ceza olarak veririz. Zalimleri biz böyle cezalandiririz.{29}</string>
+    <string name="an8biaa30_33" >O kâfir olanlar, görmediler mi ki, göklerle yer bitisik bir halde iken biz onlari ayirdik. Hayati olan her seyi sudan yarattik. Hâlâ inanmiyorlar mi?{30}Yeryüzünde, insanlar sarsilmasin diye sabit daglar yarattik, rahat gidebilsinler diye daglarin aralarinda genis yollar var ettik.{31}Gökyüzünü de korunmus bir tavan yaptik. Kâfirler ise, gökyüzünün alâmetlerinden (Allah\'in kudret ve azametine delalet eden delillerinden) yüz çeviriyorlar.{32}Geceyi, gündüzü, günesi ve ayi yaratan O\'dur. Bunlarin her biri kendi dairesinde dolasmaktadir.{33}</string>
+    <string name="an9biaa34_35" >Ey Muhammed! Senden önce de hiçbir insani ölümsüz kilmadik, sen ölürsün de onlar baki kalir mi? Senin ölmenle rahata kavusacaklarini mi saniyorlar?{34}Her nefis ölümü tadacaktir. Sizi bir imtihan olarak kötülük ve iyilikle deneyecegiz. Hepiniz de sonunda bize döndürüleceksiniz.{35}</string>
+    <string name="an10biaa36_41" >O inkârcilar seni gördükleri zaman, seni alaya aliyorlar ve "Ilâhlarinizi diline dolayan bu mudur?" diyorlar. Halbuki onlar Rahmân\'in kitabini inkâr ediyorlar.{36}Insan aceleci olarak yaratilmistir. Size yakinda (azaba dair) alametlerimi gösterecegim. Simdi siz acele etmeyin.{37}"Dogru sözlü iseniz (bildirin) bu vaad ne zamandir?" derler.{38}Bu kâfirler atesi yüzlerinden ve sirtlarindan men edemeyecekleri ve yardim da göremeyecekleri zamani, bir bilseler!{39}Dogrusu bu azap onlara ansizin gelecek de kendilerini sasirtacaktir. Artik ne geri çevrilmesine güçleri yetecek, ne de kendilerine mühlet verilecektir.{40}Yemin olsun ki, senden önce birçok peygamberle alay edildi de içlerinden alay edenleri, o alay ettikleri sey (azap) kusativerdi.{41}</string>
+    <string name="an11biaa42_47" >De ki: "Geceleyin ve gündüzün sizi Rahmân'dan kim koruyabilir?" Ama onlar Rablerinin kitabindan yüz çevirmektedirler.{42}Yoksa kendilerini bize karsi savunacak tanrilari mi var? O tanrilar kendilerine bile yardim edemezler, katimizdan da dostluk görmezler.{43}Dogrusu biz o kâfirleri ve atalarini yasattik, hatta o ömür onlara uzun geldi. Fakat simdi memleketlerini her yandan eksilttigimizi görmüyorlar mi? O halde üstün gelen onlar midir?{44}De ki: "Ben sizi ancak vahiyle korkutup uyariyorum," uyarildiklari zaman sagirlar çagriyi duymazlar.{45}Yemin olsun ki, Rabbinin azabindan az bir sey onlara dokunursa, muhakkak "Vay bizlere, biz gerçekten zalimlerdik" diyeceklerdir.{46}Biz kiyamet günü için dogru teraziler kurariz; hiçbir kimse hiçbir haksizliga ugratilmaz. Yapilan amel, bir hardal tanesi agirliginca da olsa, onu getirir (tartiya koyariz.). Hesap görenler olarak da biz kâfiyiz.{47}</string>
+    <string name="an12biaa48_50" >Yemin olsun ki, Musa ve Harun\'a egriyi dogrudan ayiran kitabi, takva sahibleri için bir isik ve ögüt olarak verdik.{48}Onlar görmedikleri halde Rablerinden korkarlar, kiyamet saatinden de titrerler.{49}Iste bu (Kur\'ân) da indirdigimiz kutsal bir kitaptir. Simdi siz bunu mu inkâr ediyorsunuz?{50}</string>
+    <string name="an13biaa51_73" >And olsun ki biz daha önce Ibrahim\'e de rüsdünü vermistik (akla uygun olani göstermistik). Biz onu biliyorduk.{51}O zaman o, babasina ve kavmine: "Bu tapinip durdugunuz heykeller nedir?" demisti.{52}Onlar: "Biz atalarimizi bunlara tapar bulduk" dediler.{53}Ibrahim: "And olsun ki sizler de, atalariniz da apaçik bir sapiklik içindesiniz" dedi.{54}Onlar : "Sen bize gerçegi mi getirdin (Sen ciddi mi söylüyorsun), yoksa saka mi ediyorsun?" dediler.{55}O söyle dedi: "Hayir Rabbiniz göklerin ve yerin Rabbidir ki onlari O yaratmistir. Ben de buna sahidlik edenlerdenim."{56}"Allah\'a yemin ederim ki, siz arkanizi dönüp gittikten sonra, ben putlariniza elbette bir tuzak kuracagim."{57}Derken o, bunlari parça parça etti. Yalniz kendisine basvursunlar diye onlarin büyügünü saglam birakti.{58}(Kavmi) "Tanrilarimiza bunu kim yapti? Dogrusu o zalimlerden biridir." dediler.{59}(Bazilari) "Ibrahim denen bir gencin, onlari diline doladigini duymustuk" dediler.{60}"O halde onu insanlarin gözleri önüne getirin, olur ki (aleyhinde) sahidlik ederler" dediler.{61}(Ibrahim gelince ona) "Ey Ibrahim! bunu tanrilarimiza sen mi yaptin?" dediler{62}Ibrahim: "Belki onu su büyükleri yapmistir, konusabiliyorlarsa onlara sorun" dedi.{63}Bunun üzerine vicdanlarina dönüp (kendi kendilerine) dediler ki: "Dogrusu siz haksizsiniz."{64}Sonra yine (eski) kafalarina döndüler: "And olsun ki (ey Ibrahim!) bunlarin konusmayacagini (sen de) bilirsin." dediler.{65}(Ibrahim) dedi: "O halde, Allah\'i birakip da size hiçbir fayda ve zarar veremeyecek olan putlara mi tapiyorsunuz?"{66}"Size de, Allah\'i birakip taptiklariniza da yaziklar olsun, siz hâlâ akillanmayacak misiniz?"{67}Onlar: "Bir sey yapacaksaniz, sunu yakin da tanrilariniza yardim edin" dediler.{68}Biz: "Ey ates! Ibrahim\'e karsi serin ve zararsiz ol" dedik.{69}Ona düzen kurmak istediler, fakat biz kendilerini daha fazla hüsrana ugrattik.{70}Onu da, Lût\'u da, âlemler için bereketli ve kutsal kildigimiz yere ulastirip kurtardik.{71}Ona (Ibrahim\'e) Ishak\'i, üstelik bir de Yakub\'u ihsan ettik ve herbirini salih kimseler kildik.{72}Onlari buyrugumuz altinda (insanlara) dogru yolu gösterecek önderler kildik. Kendilerine hayirli isler yapmayi, namaz kilmayi, zekat vermeyi vahyettik. Onlar bize kulluk eden kimselerdir.{73}</string>
+    <string name="an14biaa74_75" >Biz Lût\'a da bir hüküm, bir ilim verdik. Onu çirkin isler isleyen kasabadan kurtardik. Dogrusu onlar kötü, fasik bir kavimdi.{74}Onu ise rahmetimizin içine aldik. Çünkü o salihlerdendi.{75}</string>
+    <string name="an15biaa76_77" >Nuh da daha önceleri bize yalvarmisti; biz de onun duasini kabul ettik, kendisini ve ailesini büyük sikintidan kurtardik.{76}Âyetlerimizi yalanlayan kavminden onun öcünü aldik. Süphesiz onlar kötü bir kavimdiler. Biz de hepsini (suda) bogduk.{77}</string>
+    <string name="an16biaa78_82" >Davud ve Süleyman\'i da (hatirla). Hani onlar ekin hakkinda hüküm veriyorlardi. Hani milletin koyunlari (geceleyin) içinde yayilmisti, biz onlarin hükmüne sahittik.{78}Biz onu(n hükmünü) hemen Süleyman\'a bildirmistik; (zaten) herbirine hüküm ve ilim vermistik. Davud\'la beraber tesbih etsinler diye, daglari ve kuslari buyruk altina aldik. (Bütün bunlari) yapan bizdik.{79}Ona, sizi savasta korumak için zirh yapma sanatini ögrettik, artik sükreder misiniz?{80}Bereketli kildigimiz yere dogru, Süleyman\'in emriyle yürüyen siddetli rüzgari, onun buyruguna verdik. Biz her seyi biliyorduk.{81}Onun için dalgiçlik yapan ve bundan baska isler de gören seytanlardan da onun buyrugu altina verdik. Onlarin hepsini biz gözetiyorduk.{82}</string>
+    <string name="an17biaa83_84" >Eyyûb da: "Basima bir bela geldi, (sana sigindim), sen merhametlilerin en merhametlisisin" diye Rabbine nida etti.{83}Biz de onun duasini kabul ettik de basina gelenleri kaldirdik. Katimizdan bir rahmet ve kulluk edenlere bir hatira olmak üzere, ona tekrar ailesini ve kaybettikleriyle bir mislini daha verdik .{84}</string>
+    <string name="an18biaa85_86" >Ismail, Idris ve Zülkifl\'i de (hatirla). Onlarin hepsi de sabredenlerdendi.{85}Onlari da rahmetimizin içine aldik. Onlar gerçekten salih olanlardandi.{86}</string>
+    <string name="an19biaa87_88" >Zünnun\'u (balik sahibi Yunus\'u) da hatirla. Hani o, öfkelenerek gitmisti de, bizim kendisini hiçbir zaman sikistirmayacagimizi sanmisti. Fakat sonunda karanliklar içinde: "Senden baska ilâh yoktur, sen münezzehsin, Süphesiz ben haksizlik edenlerden oldum" diye seslenmisti.{87}Biz de duasini kabul ile icabet ettik, kendisini üzüntüden kurtardik. Iste biz iman edenleri böyle kurtaririz.{88}</string>
+    <string name="an20biaa89_90" >Zekeriya da hani Rabbine: "Rabbim! Beni tek basima birakma, sen varislerin en hayirlisisin" diye nida etmisti.{89}Biz de duasini kabul ile icabet ettik de kendisine Yahya\'yi ihsan ettik. Ve esini (dogum yapmaya) elverisli hale getirdik. Dogrusu onlar iyiliklerde yarisiyorlar, umarak ve korkarak bize yalvariyorlardi. Bize karsi derin saygi duyuyorlardi.{90}</string>
+    <string name="an21biaa_91" >Irzini koruyan Meryem\'e ruhumuzdan üflemis, onu ve oglunu, âlemler için bir mucize kilmistik.{91}</string>
+    <string name="an22biaa92_94" >Dogrusu bu sizin ümmetiniz (tevhid dini olan müslümanlik), bir tek ümmettir (bir tek din olarak sizin dininizdir). Ben de sizin Rabbinizim. O halde bana kulluk edin.{92}Ama insanlar din konusunda aralarinda bölüklere ayrildilar ama, hepsi bize döneceklerdir.{93}Inanmis olarak yararli is isleyenin emegi inkâr edilmeyecektir. Biz süphesiz onu yazmaktayiz.{94}</string>
+    <string name="an23biaa95_100" >Yok ettigimiz bir memleket (ahalisinin ahiretteki cezasini da çekmek üzere) bize dönmemesi gerçekten imkansizdir.{95}Nihayet Ye\'cûc ve Me\'cûc(un seddi) açildigi zaman, ki onlar her dere ve tepeden akin edip çikarlar.{96}Ve gerçek vaad yaklastiginda, iste o zaman kâfir olanlarin gözleri beleriverir. "Eyvah bizlere! Dogrusu biz bundan gaflet içindeydik, hayir biz zalim kimselerdik." derler.{97}Siz ve Allah\'dan baska taptiklariniz, cehennemin yakitisiniz; oraya gireceksiniz.{98}Eger onlar ilâh olsalardi, oraya girmeyeceklerdi. Hepsi orada temelli kalacaktir.{99}Orada onlarin bir inlemeleri vardir. Bunlar orada (sagir olup) bir sey de isitemezler.{100}</string>
+    <string name="an24biaa101_103" >Süphesiz katimizdan kendileri için güzel seyler takdir edilmis olanlar, iste oradan (cehennemden) uzak tutulanlardir.{101}Bunlar onun (cehennemin) ugultusunu bile duymazlar. Canlarinin istedigi seyler içinde temelli kalirlar.{102}O en büyük korku bunlari üzmez; kendilerini melekler: "Size söz verilen gün iste bugündür" diye karsilarlar.{103}</string>
+    <string name="an25biaa104_106" >Gögü, kitab dürer gibi dürdügümüz zaman, yaratmaya ilk basladigimiz gibi, katimizdan verilmis bir söz olarak onu tekrar var edecegiz. Dogrusu biz bunlari yapariz.{104}And olsun ki, Tevrat\'tan sonra Zebûr\'da da yeryüzüne ancak iyi kullarimin mirasçi oldugunu yazmistik.{105}Süphesiz bu Kur\'ân\'da kulluk eden kimseler için kâfi bir ögüt vardir.{106}</string>
+    <string name="an26biaa107_112" >(Ey Muhammed!) biz seni ancak âlemlere rahmet olarak gönderdik.{107}De ki, bana ancak söyle vahyolunuyor: "Ilâhiniz ancak tek bir ilâhtir. Simdi siz artik müslüman oluyor musunuz?"{108}Eger (yine de) yüz çevirirlerse, de ki: "Size düpedüz açikladim; tehdit olundugunuz seyin yakin mi, uzak mi oldugunu bilmem."{109}Süphesiz Allah açiga vurulan sözü de bilir, gizlediklerinizi de bilir.{110}Bilmem belki bu gecikme sizi denemek ve bir süreye kadar geçindirmek içindir.{111}(Hz. Peygamber söyle) dedi: "Ey Rabbim! Aramizda gerçekle hükmet ve Rabbimiz O Rahmân\'dir ki, isnad ettiginiz (yalan) vasiflariniza karsi yardimina siginilacak olan ancak O\'dur. "{112}</string>
+
+    <string name="sourah30">Rum Suresi</string>
+    <string name="sourah67">Mülk Suresi</string>
+
+    <string name="sourah88" >Gaşiye Suresi</string>
+    <string name="h3535iiii">Ne Cennet tarifi ve o yarattı</string>
+    <string name="h3535iii">Kitap (yaratılışın başlangıcı)</string>
+    <string name="h3535">Dedi ki: Cennet insanları, üstlerindeki odaların insanlarını görüyor, Ufukta uzak aydınlatarak gezegen olarak böyle, Doğu ya da Batı itibaren aralarında ayrım yapmak</string>
+    <string name="h3535i">Dediler ki: Ey Allah elçisi, peygamberlerin bu evleri başkalarını bilgilendirmez</string>
+    <string name="h3535ii">Dedi: ballah yemin ederim, Ve Allah\'a iman eden ve elçilere iman eden erkekler</string>
+    <string name="btn_c">dosyayı silmek vermedi</string>
+    <string name="btn_cancell">İsim değiştirilmedi</string>
+    <string name="btn_cancelll">biten</string>
+    <string name="btn_cc">silmek</string>
+    <string name="btn_ccc">Dosya başarıyla silindi</string>
+    <string name="btn_cccc">Dosyaları sil İptal</string>
+    <string name="btn_ccccc">Tüm kayıtlar başarıyla silindi</string>
+    <string name="btn_savee">İsim başarıyla değiştirildi</string>
+    <string name="card_aya1">ayet {33}</string>
+    <string name="card_aya10">Ayetler {12} den {13} a kadar</string>
+    <string name="card_aya11">Ayetler {10} den {18} a kadar</string>
+    <string name="card_aya12">Ayetler {1} den {6} a kadar</string>
+    <string name="card_aya13">Ayetler {52} den {58} a kadar</string>
+    <string name="card_aya14">Ayetler {1} den {4} a kadar</string>
+    <string name="card_aya15">Ayetler {32} den {34} a kadar</string>
+    <string name="card_aya16">Ayetler {9} den {14} a kadar</string>
+    <string name="card_aya17">Ayetler {1} den {7} a kadar</string>
+    <string name="card_aya18">Ayetler {1} den {13} a kadar</string>
+    <string name="card_aya19">Ayetler {53} den {55} a kadar</string>
+    <string name="card_aya2">ayet {114}</string>
+    <string name="card_aya20">Ayetler {39} den {41} a kadar</string>
+    <string name="card_aya21">Ayetler {60} den {68} a kadar</string>
+    <string name="card_aya22">Ayetler {1} den {2} a kadar</string>
+    <string name="card_aya23">Ayetler {59} den {62} a kadar</string>
+    <string name="card_aya24">Ayetler {164} den {165} a kadar</string>
+    <string name="card_aya25">Ayetler {187} den {194} a kadar</string>
+    <string name="card_aya26">Ayetler {66} den {70} a kadar</string>
+    <string name="card_aya27">Ayetler {78} den {80} a kadar</string>
+    <string name="card_aya28">Ayetler {43} den {50} a kadar</string>
+    <string name="card_aya29">Ayetler {58} den {62} a kadar</string>
+    <string name="card_aya3">Ayetler {41} den {46} a kadar</string>
+    <string name="card_aya30">Ayetler {64} den {68} a kadar</string>
+    <string name="card_aya31">Ayetler {64} den {72} a kadar</string>
+    <string name="card_aya33">Ayetler {5} den {20} a kadar</string>
+    <string name="card_aya34">Ayetler {17} den {20} a kadar</string>
+    <string name="card_aya35">Ayetler {60}</string>
+    <string name="card_aya4">Ayetler {28} den {29} a kadar</string>
+    <string name="card_aya5">Ayetler {163} den {164} a kadar</string>
+    <string name="card_aya6">Ayetler {717} den {73} a kadar</string>
+    <string name="card_aya7">Ayetler {95} den {101} a kadar</string>
+    <string name="card_aya8">Ayetler {1} den {6} a kadar</string>
+    <string name="card_aya9">Ayetler {6} den {7} a kadar</string>
+    <string name="fantitl">Kuran Ayetleri</string>
+    <string name="fantitl2">Göklerde ve yerde Yüce Allah\'ın yaratılış ayetlerden bazıları</string>
+    <string name="ask_to_rename">Kaydı durdurduktan sonra yeniden adlandırma iletişim kutusunu göster</string>
+    <string name="btn_allow">olanak sağlamak</string>
+    <string name="btn_deny">reddetmek</string>
+    <string name="btn_ok">tamam</string>
+    <string name="delete">sil</string>
+    <string name="download">indir</string>
+    <string name="email_clients_not_found">E-posta istemcisi bulunamadı</string>
+    <string name="error_process_waveform">dalga biçimini çekemez</string>
+    <string name="info">bilgi</string>
+    <string name="naming">Adlandırma:</string>
+    <string name="need_write_permission">Uygulamaya, genel depolamaya erişim izni verilmesi gerekiyor. İzin verilmezse, kayıtlar uygulamanın özel dizininde saklanır</string>
+    <string name="open_record_with">Bununla %s aç</string>
+    <string name="open_with">Bununla aç</string>
+    <string name="rec_duration">Süre:</string>
+    <string name="rec_format">Biçim:</string>
+    <string name="rec_location">Dosya konumu:</string>
+    <string name="rec_name">isim:</string>
+    <string name="rec_size">Boyut:</string>
+    <string name="record_deleted_successfully">kayıt başarıyla silindi</string>
+    <string name="rename">yeni ad vermek</string>
+    <string name="request">İstek veya geri bildirim</string>
+    <string name="send_email">E-posta ile göndermek…</string>
+    <string name="share">Paylaş</string>
+    <string name="delete_all2">hepsini sil</string>
+    <string name="dont_ask_again_rename">Yine yeniden adlandırma sorma</string>
+    <string name="error_lost_records">Kayıtlarınızın bazıları silindi veya taşındı</string>
+    <string name="lost_records">Kayıp kayıtlar</string>
+    <string name="records_was_removed">Bazı kayıtlar dosyaları kayıt dizinde bulunamadı.Muhtemelen kaldırıldı ya da taşındı.</string>
+    <string name="btn_details">ayrıntılar</string>
+    <string name="cancel_rec">Kayıt iptal edildi</string>
+    <string name="delete_record_forever">Sonsuza bu kaydı sil %s?</string>
+    <string name="empty">Boş</string>
+    <string name="rec_frequency">Sıklık:</string>
+    <string name="error_no_available_space">Kullanılabilir alan yok!</string>
+    <string name="record_moved_into_trash">Kayıt çöp kutusuna taşındı</string>
+    <string name="record_restored_successfully">Kayıt başarıyla restore</string>
+    <string name="restore_record">Bu kayıt geri yüklensin mi?</string>
+    <string name="trash_info">Çöp kutusuna taşınan kayıtlar 60 gün içinde sonsuza kadar kaldırılacak.</string>
+    <string name="trash">Çöp</string>
+    <string name="rec_created">oluşturuldu:</string>
+    <string name="error_failed_access_to_storage" >Dosya depolama alanına erişilemedi</string>
+    <string name="downloading_cancel" >İndirme iptal edildi</string>
+    <string name="downloading_success" >%s İndirme dizinine indirildi</string>
+    <string name="downloading_failed" >İndirme başarısız oldu: %s</string>
+    <string name="downloading" >indirilmesi: %s</string>
+    <string name="by_date" >Tarihe göre (en yeni)</string>
+    <string name="by_date_desc" >Tarihe göre (en eski)</string>
+    <string name="by_name" >İsme göre (A-Z)</string>
+    <string name="by_name_desc" >İsme göre (Z-A)</string>
+    <string name="by_duration" >Süreye göre (en uzun)</string>
+    <string name="by_duration_desc" >Süreye göre (en kısa)</string>
+    <string name="delete_this_record" >Bu kayıt silinsin mi?</string>
+    <string name="all_records_deleted_successfully" >Tüm kayıtlar başarıyla silindi</string>
+    <string name="about_play_store2">Diğer uygulamalarımız</string>
+    <string name="internet_satalite">İnternet bağlantısı listesi</string>
+    <string name="quran_karem">Kutsal Kuran</string>
+    <string name="refresh">Yenile</string>
+    <string name="find">Bul</string>
+    <string name="share_via">ile paylaş</string>
+    <string name="copy_link">Bağlantıyı kopyala</string>
+    <string name="copied_to_clipboard">Panoya kopyalandı</string>
+    <string name="site_quran">Kuran-ı Kerim web sitesi</string>
+    <string name="qna_maka">Mekke canlı</string>
+    <string name="qna_suna">Peygamberin Sünneti canlı</string>
+    <string name="vidio_maka">Kur\'an-ı Kerim kanalı, Mekke\'den Ulu Camii içinde Arapça olarak canlı yayın yapıyor.</string>
+    <string name="vidio_souna">Sünnet kanalı Medine\'den Arapça olarak Peygamber Camii içinde canlı olarak yayınlanmaktadır.</string>
+</resources>
