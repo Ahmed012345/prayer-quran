@@ -27,7 +27,7 @@ android {
         config {
             keyAlias 'tsbihauploadkey'
             keyPassword 'android'
-            storeFile file('C:/Users/AhmedSaad/keystores/tsbihakeystore.jks')
+            storeFile file('C:/Users/....../keystores/tsbihakeystore.jks')
             storePassword 'android'
         }
     }
